@@ -1,0 +1,156 @@
+﻿# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+# 版本號：24.3.18
+
+schema:
+  schema_id: zioephieng
+  name: 標準吳語
+  version: "2024.3.18"
+  author:
+    - 吳韻
+    - 重光
+    - CCT
+    - Te
+  dependencies:
+    - luna_pinyin #反查
+    - stroke
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [漢字, 洋文]
+  - name: full_shape
+    states: [半角, 全角]
+  - name: ascii_punct
+    states: [句讀, 符號]
+  - name: simplification
+    states: [正體, 简体]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+    reset: 0
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@luna_pinyin
+    - affix_segmentor@stroke
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - script_translator@luna_pinyin
+    - table_translator@stroke
+    - table_translator
+    - reverse_lookup_translator
+    
+  filters:
+    - simplifier
+    - uniquifier
+    - reverse_lookup_filter@zioephieng_reverse_lookup
+
+speller:
+  alphabet: "zyxwvutsrqponmlkjihgfedcba"
+  delimiter: "-';"
+  algebra:
+    # xform/  - 改寫（替換，弗共存）
+    # derive  - 衍生（共存，單向模糊音）
+    # abbrev  - 簡拼（出字優先級傍前兩組低）
+    # fuzz    - 略拼（衹用在組詞，弗出單字）
+    # xlit    - 變換（適合大量个一對一變換）
+    # erase   - 刪除
+    - erase/^xx$/
+    - erase/^0$/
+    - "xform/'//"
+    - "derive/1/q/"
+    - "derive/2/x/"
+    - "derive/3/r/"
+    - "derive/^([A-Za-z]+)([nghk]{0,2})([1-3qxr]{0,2})(\\{.*\\})?$/$1$2/"  
+    #- "abbrev/^([YMNymn])([1-3qxr]{0,2})(\\{.*\\})?$/$1/"
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([ptkgszc]h).+$/$1/
+    - abbrev/\b(tsh)\w*.+$/$1/
+    - abbrev/\b(ts)[^\Wh]*$/$1/
+    - abbrev/^(dz|ng).+$/$1/
+
+translator:
+  dictionary: zioephieng
+  spelling_hints: 8
+  preedit_format: &tone
+    - xform/([aeiou])(ng|n|l)([123])/$1$3$2/
+    - xform/([aeo])([eiu])([123])/$1$3$2/
+    - xform/a1/ā/
+    - xform/a2/ǎ/
+    - xform/a3/á/
+    - xform/e1/ē/
+    - xform/e2/ě/
+    - xform/e3/é/
+    - xform/o1/ō/
+    - xform/o2/ǒ/
+    - xform/o3/ó/
+    - xform/i1/ī/
+    - xform/i2/ǐ/
+    - xform/i3/í/
+    - xform/u1/ū/
+    - xform/u2/ǔ/
+    - xform/u3/ú/
+    - xform/y1/ȳ/
+    - xform/y2/y̌/
+    - xform/y3/ý/
+    - xform/ng1/n̄g/
+    - xform/ng2/ňg/
+    - xform/ng3/ńg/
+    - xform/m1/m̄/
+    - xform/m2/m̌/
+    - xform/m3/ḿ/
+    - "xform/[;']/-/"
+  comment_format: *tone
+
+luna_pinyin:
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  prefix: "q"
+  tips: 〔普通話〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+stroke:
+  tag: stroke
+  dictionary: stroke
+  prefix: "x"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+
+
+zioephieng_reverse_lookup:
+  tags: [ luna_pinyin, stroke ]
+  overwrite_comment: false
+  dictionary: zioephieng
+
+punctuator:
+  import_preset: symbols_ngu
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[A-Za-z]+)$"
+    luna_pinyin: "^q[a-z']*$"
+    stroke: "^x[hspnz]*$"

@@ -1,0 +1,52 @@
+# Rime Developers <rime-devel@googlegroups.com>
+#
+# Author:  吳韻
+#          重光
+#          CCT
+#          Te
+#          
+# Thanks to the following works:
+#
+#	* CC-CEDICT
+#		 http://cc-cedict.org/
+#
+#	* Android open source project
+#		 http://android.git.kernel.org/?p=platform/packages/inputmethods/PingyinIME.git
+#
+#	* Chewing - 新酷音
+#		 http://chewing.csie.net/
+#
+#	* 三拼簡繁詞庫 0.9
+#		 http://www.pkucn.com/viewthread.php?tid=245448
+#
+#	* opencc - 開放中文轉換
+#		 http://code.google.com/p/opencc/
+#
+# 版本號：24.1.29
+
+---
+name: zioephieng.chycieu
+version:	"2024.1.29"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+#《吴语处州方言的地理比较》词表
+
+街狗
+荒雞
+雞荒
+雄雞
+公雞
+雞娘
+雞嫲
+鴨兒
+家鷺
+苦猻
+猢猻
+大毛
+貓兒
+貓貓
+田雞
+蛙蟆
+青呱
