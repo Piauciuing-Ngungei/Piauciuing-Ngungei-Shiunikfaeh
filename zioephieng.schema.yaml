@@ -6,7 +6,7 @@
 schema:
   schema_id: zioephieng
   name: 標準吳語
-  version: "2024.3.18"
+  version: "2024.3.19"
   author:
     - 吳韻
     - 重光
@@ -95,6 +95,77 @@ speller:
     - abbrev/\b(tsh)\w*.+$/$1/
     - abbrev/\b(ts)[^\Wh]*$/$1/
     - abbrev/^(dz|ng).+$/$1/
+    
+    - derive/^w/ghu/ #dict.yaml #字開頭個ghu/w弗分 
+    - derive/wu$/ghu/ #dict.yaml #ghu/wu弗分 
+    - derive/wuk$/ghuk/ #dict.yaml #ghu/wu弗分 
+    - derive/^y/ghi/ #字開頭個ghi/y弗分
+    - derive/yi$/ghi/ #容錯 ghi/yi弗分
+    - derive/yik$/ghik/ #容錯 ghiu/yu弗分
+    - derive/yu$/ghiu/ #容錯 ghiu/yu弗分
+    
+    #- derive/wak$/ghuk/ #dict.yaml #容錯 劃、鵠弗分
+    #- derive/wek$/ghuk/ #dict.yaml #容錯 或、鵠弗分
+    #- derive/wang$/ghung/ #dict.yaml #容錯 宏、紅弗分
+    #- derive/weng$/ghung/ #dict.yaml #容錯 混、紅弗分
+    
+    
+    #- derive/iae$/ie/ #容錯 iae/ie弗分 練、連弗分
+    #- derive/iae$/ie/ #容錯 iae/ie弗分 練、連弗分
+    #- derive/yae$/ye/ #容錯 yae/ye弗分 賢、鹽弗分
+    #- derive/yae$/ye/ #容錯 yae/ye弗分 賢、鹽弗分
+    
+    #- derive/uang$/ung/ #容錯 uang/ung弗分 泓、翁弗分
+    #- derive/ueng$/ung/ #容錯 ueng/ung弗分 溫、翁弗分
+    #- derive/uak$/uk/ #容錯 uak/uk弗分 劃、鵠弗分
+    #- derive/uek$/uk/ #容錯 uek/uk弗分 國、谷弗分
+
+    #- derive/ieng$/ing/ #容錯 ieng/ing弗分 弗分前後鼻音 情、秦弗分
+    #- derive/iek$/ik/ #容錯 iek/ik弗分 擊、吉弗分
+    #- derive/yeng$/ying/ #容錯 yeng/ying弗分 贏、引弗分
+    #- derive/yek$/yik/ #容錯 yek/yik弗分 液、逸弗分
+    
+    #- derive/ng$/n/ #容錯 ng/n弗分 疑、泥弗分
+    #- derive/k$/h/ #容錯 入聲尾-k/-h弗分 揭、擊弗分
+    
+    #- derive/ao$/au/ #容錯 ao/au弗分 學習甌江片用
+    #- derive/uong$/ung/ #容錯 uong/ung弗分 學習甌江片用
+    #- derive/uok$/ok/ #容錯 uok/ok弗分 學習甌江片用
+    
+    #- derive/kei$/kiu/ #容錯 ei魚/iu虞弗分
+    #- derive/khei$/khiu/ #容錯 ei魚/iu虞弗分
+    #- derive/gei$/giu/ #容錯 ei魚/iu虞弗分
+    #- derive/ngei$/ngiu/ #容錯 ei魚/iu虞弗分
+    #- derive/^ei/iu/ #容錯 ei魚/iu虞弗分
+    #- derive/ghei$/ghiu/ #容錯 ei魚/iu虞弗分
+    #- derive/^gh/g/ #容錯 gh/g弗分 匣母替羣母相混
+    #- derive/au$/ao/ #容錯 ao/au弗分 學習甌江片用
+    #- derive/ai$/ei/ #容錯 ai/ei弗分 來、雷弗分
+    #- derive/ei$/ai/ #容錯 ai/ei弗分 雷、來弗分
+    #- derive/ai$/ae/ #容錯 ai/ae弗分 來、藍弗分
+    #- derive/^kh/h/ #容錯 kh/h弗分 起、希弗分
+    #- derive/^kh/k/ #容錯 kh/k弗分 開、概弗分
+
+    #- derive/^tsi/ci/ #容錯 濟、制弗分，弗分尖團音
+    #- derive/^tshi/chi/ #容錯 妻、掣弗分，弗分尖團音
+    #- derive/^si/shi/ #容錯 西、世弗分，弗分尖團音
+    #- derive/^zi/zhi/ #容錯 齊、逝弗分，弗分尖團音
+
+    #- derive/^te/toe/ #容錯 e/oe弗分 耽、端弗分
+    #- derive/^the/thoe/ #容錯 e/oe弗分 探、蛻弗分
+    #- derive/^de/doe/ #容錯 e/oe弗分 潭、段弗分
+    #- derive/^ne/noe/ #容錯 e/oe弗分 南、暖弗分
+    #- derive/^le/loe/ #容錯 e/oe弗分 纜、亂弗分
+    #- derive/^tse/tsoe/ #容錯 e/oe弗分 簪、鑽弗分
+    #- derive/^tshe/tshoe/ #容錯 e/oe弗分 慘、竄弗分
+    #- derive/^se/soe/ #容錯 e/oe弗分 糝、酸弗分
+    #- derive/^ze/zoe/ #容錯 e/oe弗分 蠶、撰弗分
+    #- derive/^ke/koe/ #容錯 e/oe弗分 甘、干弗分
+    #- derive/^khe/khoe/ #容錯 e/oe弗分 坎、看弗分
+    #- derive/^ge/goe/ #容錯 e/oe弗分 暫時嘸讀goe個字
+    #- derive/^ghe/ghoe/ #容錯 e/oe弗分 含、汗弗分
+    #- derive/^he/hoe/ #容錯 e/oe弗分 喊、漢弗分
+    #- derive/^e/oe/ #容錯 e/oe弗分 暗、安弗分
 
 translator:
   dictionary: zioephieng
@@ -133,7 +204,7 @@ luna_pinyin:
   tag: luna_pinyin
   dictionary: luna_pinyin
   prefix: "q"
-  tips: 〔普通話〕
+  tips: 〔漢語普通話拼音〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
