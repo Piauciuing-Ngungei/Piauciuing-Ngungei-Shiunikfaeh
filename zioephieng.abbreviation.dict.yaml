@@ -22,18 +22,26 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：2.3.7
+# 版本號：24.3.19
 
 ---
 name: zioephieng.abbreviation
-version:	"202.3.7"
+version:	"2024.3.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
 #縮寫
 
+ﷺ	ngioe3 ciu2 fuk oe1 tsy1	0.1%
+﷽	tha3 sy1 mi2	0.1%
+ﷲ	cing1 ciu2
+
 地鐵	 
+國際	 
+部門	 
+記者	 
+編輯	 
 提問	 
 開會	 
 假使	 
@@ -70,7 +78,10 @@ use_preset_vocabulary: true
 衛報	 
 衝突	 
 俄烏衝突	   
-危機	   
+危機	 
+澎湃新聞	   
+澎湃新聞記者	     
+南博一	  
 公民	 
 綁架	 
 挾持	 
@@ -207,7 +218,7 @@ use_preset_vocabulary: true
 財政大臣	   	80%
 白宮	 	60%
 比較	 	50%
-包括	 	50%
+包括	pau1 kuaeh 	50%
 北京	 	60%
 核平	 	60%
 華盛頓	  	90%
@@ -229,12 +240,14 @@ use_preset_vocabulary: true
 阿拉伯國家聯盟	      
 聯盟	lie1 mieng1
 聯盟	 
-盟友	 	 
+盟友	 
+吳越	 
 日本	 
 韓國	 
 朝鮮	 
 越南	 
-老撾	 	 
+老撾	 
+滿洲	 
 蒙古	 
 柬埔寨	  
 南海	 
@@ -502,8 +515,11 @@ use_preset_vocabulary: true
 城市	 	20%
 已發稿	  
 搞啥	 
-啥計劃	  	 
-原創	    
+啥計劃	  
+換圖	 
+原創	 
+請配圖	  
+放一起	  
 綜述	 
 綜合	 
 弄啥	 
@@ -529,7 +545,9 @@ use_preset_vocabulary: true
 詞彙	zy1 yu3
 音系	
 翻譯	fae1 yek
-編譯	piae1 yek 
+編譯	piae1 yek
+翻譯	 
+編譯	 
 朋友	beng1 yeu2
 朋友家	beng1 yeu2 ko1
 宕落	dong3 lok
@@ -883,12 +901,16 @@ ChatGPT	chatgpt
 阿盟	 
 阿拉伯國家聯盟	      
 聯盟	 
-盟友	  
+盟友	 
+吳越	 
 日本	 
 韓國	 
-朝鮮	 	   
+朝鮮	 	 
+印度支那	   
+密支那	  
 越南	 
-老撾	 	 
+老撾	 
+滿洲	 
 蒙古	 
 柬埔寨	  
 南海	 
