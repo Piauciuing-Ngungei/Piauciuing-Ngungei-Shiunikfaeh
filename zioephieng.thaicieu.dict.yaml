@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：2.2.27
+# 版本號：24.3.19
 
 ---
 name: zioephieng.thaicieu
-version:	"202.2.27"
+version:	"2024.3.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3399,6 +3399,7 @@ use_preset_vocabulary: true
 裡壁
 裡手
 鳢蔔槁
+鳢	li2
 鱧槁
 鱧槁段
 利市
@@ -4148,7 +4149,7 @@ use_preset_vocabulary: true
 軟孱
 肉皮
 肉皮膏
-肉皮胶
+肉皮膠
 肉鯧
 肉肉
 肉散
@@ -4350,13 +4351,13 @@ use_preset_vocabulary: true
 扁蟣㾎
 扁擔橛
 扁食
-瘪㾎㾎
-瘪蟣䫲
-瘪蟣㾎
-瘪蝨䫲
-瘪蝨㾎
-瘪死死
-瘪蹚蹚
+癟㾎㾎
+癟蟣䫲
+癟蟣㾎
+癟蝨䫲
+癟蝨㾎
+癟死死
+癟蹚蹚
 表大
 表兄
 表伯
@@ -4784,10 +4785,10 @@ use_preset_vocabulary: true
 心過願過
 心過
 心願
-心窝膛頭
-心窝膛
-心窝頭膛
-心窝窟
+心窩膛頭
+心窩膛
+心窩頭膛
+心窩窟
 心板頭
 心思
 心痛
@@ -5027,7 +5028,7 @@ use_preset_vocabulary: true
 對子
 等于講
 墩珠
-驐牛瘪
+驐牛癟
 丼鳥
 丼槽
 凳頭
@@ -5105,7 +5106,7 @@ use_preset_vocabulary: true
 偷眼張望
 偷相
 偷飯魚
-敨氣
+㪗氣
 體格
 體裡
 體裡布衫
@@ -5189,7 +5190,7 @@ use_preset_vocabulary: true
 刁嘴
 鳥窠
 鳥涴
-吊高炮
+弔高炮
 窎角
 的角
 的角四方
@@ -5201,6 +5202,7 @@ use_preset_vocabulary: true
 丁丁
 丁丁大
 叮呤咑唥
+咑	tang1
 叮呤噹啷
 釘錘
 釘卵繃硬
@@ -5354,7 +5356,7 @@ use_preset_vocabulary: true
 菜籃擐
 菜籃
 菜腦
-菜瘪
+菜癟
 菜蔬
 菜蔬腳
 菜蔬碗腳
@@ -5604,7 +5606,7 @@ use_preset_vocabulary: true
 酒雕
 酒盞
 櫼實
-进口
+進口
 進向
 進住
 進壙
