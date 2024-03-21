@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.19
+# 版本號：24.3.21
 
 ---
 name: zioephieng
-version:	"2024.3.19"
+version:	"2024.3.21"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -182,6 +182,7 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+蔭	ing1{樹蔭}
 咱	tseh
 𬠻	lou1
 吋	tshoeng3
@@ -11628,7 +11629,7 @@ M̌	mu2{實爲m2}
 豈	khi2
 䔇	khi2
 蟣	ki2
-幾	ki2{幾個，幾回，幾何}	90
+幾	ki2{幾個，幾回，幾何}
 穖	ki2
 𩴆	ki2
 斐	fi2
@@ -20724,7 +20725,7 @@ M̌	mu2{實爲m2}
 僸	king3
 㯲	king3
 賃	ning3
-蔭	ing3
+蔭	ing3{蔭庇}
 䅧	ing3
 窨	ing3
 喑	ing3
@@ -24195,7 +24196,7 @@ M̌	mu2{實爲m2}
 熇	hok
 嗃	hok
 矐	hok
-索	sok
+索	sok{繩索，線索}
 𢱢	sok
 溹	sok
 𩌈	sok
@@ -24643,7 +24644,7 @@ M̌	mu2{實爲m2}
 擌	sak
 拺	sak
 𡩡	sak
-索	sak
+索	sak{索取，索求}
 溹	sak
 𩊯	sak
 虩	sak
@@ -27040,7 +27041,7 @@ M̌	mu2{實爲m2}
 #啥	shio3
 咗	tsou1
 昰	dik
-箇	ko3
+#箇	ko3
 #系	ghei3
 爸	pa1
 媽	ma1
@@ -113628,6 +113629,7 @@ M̌	mu2{實爲m2}
 協音
 叶音
 
+幾錢	ki2 zie1
 沒有	mek yeu2
 參差	tsheng1 tshy1
 累贅	liu1 ciu3

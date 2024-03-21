@@ -36,10 +36,6 @@ switches:
   - name: ascii_punct
     states: [ 。，, ．， ]
     reset: 0
-  - name: emoji_suggestion
-    # 取消下行註釋，預設啓動 emoji
-    reset: 1
-    states: [ 無 Emoji, 有 Emoji ]
 
 engine:
   processors:
@@ -96,13 +92,13 @@ speller:
     - abbrev/\b(ts)[^\Wh]*$/$1/
     - abbrev/^(dz|ng).+$/$1/
     
-    - derive/^w/ghu/ #dict.yaml #字開頭個ghu/w弗分 
-    - derive/wu$/ghu/ #dict.yaml #ghu/wu弗分 
-    - derive/wuk$/ghuk/ #dict.yaml #ghu/wu弗分 
-    - derive/^y/ghi/ #字開頭個ghi/y弗分
-    - derive/yi$/ghi/ #容錯 ghi/yi弗分
-    - derive/yik$/ghik/ #容錯 ghiu/yu弗分
-    - derive/yu$/ghiu/ #容錯 ghiu/yu弗分
+    #- derive/^w/ghu/ #dict.yaml #字開頭個ghu/w弗分 
+    #- derive/wu$/ghu/ #dict.yaml #字開頭個ghu/w弗分
+    #- derive/wuk$/ghuk/ #dict.yaml #字開頭個ghu/w弗分
+    #- derive/^y/ghi/ #字開頭個ghi/y弗分
+    #- derive/yi$/ghi/ #容錯 ghi/yi弗分
+    #- derive/yik$/ghik/ #字開頭個ghi/y弗分
+    #- derive/yu$/ghiu/ #字開頭個ghi/y弗分
     
     #- derive/wak$/ghuk/ #dict.yaml #容錯 劃、鵠弗分
     #- derive/wek$/ghuk/ #dict.yaml #容錯 或、鵠弗分
