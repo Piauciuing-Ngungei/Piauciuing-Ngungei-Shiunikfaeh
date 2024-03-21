@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.18
+# 版本號：24.3.21
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.3.18"
+version:	"2024.3.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -699,7 +699,7 @@ use_preset_vocabulary: true
 雞冠
 雞腳爬
 生卵
-伏雞ㄦ	bu3 ki1 ng1
+伏雞ㄦ	bu3 ki1 ngi1
 賴伏雞	la3 bu3 ki1
 雄鴨
 草鴨
