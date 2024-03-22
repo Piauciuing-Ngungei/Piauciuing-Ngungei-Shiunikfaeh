@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.20
+# 版本號：24.3.22
 
 ---
 name: zioephieng.yoehne
-version:	"202.3.20"
+version:	"202.3.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -117,6 +117,7 @@ use_preset_vocabulary: true
 𫃚	puk{vóc}
 𢚸	lung3{lòng}
 𡨹	tsy2{giữ}
+𣅅	nai1{nẫy}
 
 𨷈𢆥		mae1 ne1
 𡨸喃	zy3 ne1

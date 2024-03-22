@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.21
+# 版本號：24.3.22
 
 ---
 name: zioephieng
-version:	"2024.3.21"
+version:	"2024.3.22"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -182,6 +182,27 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+
+薺	zia2{薺菜}
+峽	gaeh
+滑	guaeh
+糊	gu1
+含	ge1
+䭑	gae2{餡糕，餡頭；又作䭑}
+䭑	ghae2{餡糕，餡頭；又作䭑}
+餡	gae2{餡糕，餡頭；又作䭑}
+藠	giau2{藠槌；藠頭}
+幌	huong2{幌幌動，滉滉動；晃動貌}
+榥	huong2
+滉	huong2{幌幌動，滉滉動；晃動貌}
+晃	huong3{晃晝；雲朵時而遮擋日光，明晃晃的中午}
+哄	hung3{哄豁騙；欺騙}
+鮭	ho1{吳人呼魚菜總稱；鮭油鹵}
+䞀	heu1{貪，急不可耐；䞀𧷡，貪財之貌}
+䞀	heu3{等候；䞀𧷡，貪財之貌}
+黃	uong1{蛋黃，蟹黃} 100
+莧	hae3
+𣟵	hi1{舀，兜；捕魚用的小網兜}
 懷	gua1
 㢊	a2
 躷	a2
@@ -523,7 +544,7 @@ M̌	mu2{實爲m2}
 抲	kho3
 㧎	kho3
 #戍	chiu3
-厚	geu2
+厚	geu2{厚薄}
 衖	lung3
 樨	si1
 擰	nieng1
@@ -579,7 +600,7 @@ M̌	mu2{實爲m2}
 𥭢	phieng1
 𥵪	phieng1
 糞	peng3
-肒	gueng3
+肒	gueng3{肒膿；潰膿}
 痯	kueng2
 澸	te2
 澸	teng2
@@ -653,11 +674,11 @@ M̌	mu2{實爲m2}
 吶	no3
 哪	no2
 〇	lieng1
-銜	gae1
+銜	gae1{叼銜；銜楊梅瓤}
 狹	gaeh
-合	geh
-陷	gae3
-頜	ge2
+合	geh{凝結；合霜冰，合鑊沓}
+陷	gae3{擠入，擁擠}
+頜	ge2{上頜；下頜；頜腮；嘴頜}
 蹾	toeng1
 瞅	tshieu1
 趵	pau3
@@ -840,8 +861,8 @@ M̌	mu2{實爲m2}
 蝮	phuk
 破	pha3
 跛	pa2
-#可	khak	1%
-可	kha3	0.0001%
+#可	khak	1
+可	kha3	10
 解	ga2
 膯	teng1
 撥	boeh
@@ -877,7 +898,7 @@ M̌	mu2{實爲m2}
 鐗	kae2
 扦	tshiae1
 釺	tshiae1
-罩	tau3
+罩	tau3{用罩捕魚；《廣韻》都教切，俗作箌}
 㞞	ziung3
 甩	huaeh
 射	zhiak{跑，突然冒出，滑，突兀，脫口或脫手}
@@ -1081,7 +1102,7 @@ M̌	mu2{實爲m2}
 𧟰	fiau3 
 𧟰	viau3
 覅	fiau3
-肥	bi1
+#肥	bi1
 #防	bong1
 她	thou1
 #齣	chiuik
@@ -4333,7 +4354,7 @@ M̌	mu2{實爲m2}
 佳	ko1
 #街	ko1
 㥟	gho1
-鮭	gho1
+#鮭	gho1
 膎	gho1
 鞵	gho1
 #鞋	gho1
@@ -8481,7 +8502,7 @@ M̌	mu2{實爲m2}
 㡆	huong1
 巟	huong1
 𣺬	huong1
-黃	wong1
+黃	wong1	1000
 皇	wong1
 璜	wong1
 惶	wong1
@@ -14060,7 +14081,7 @@ M̌	mu2{實爲m2}
 㪃	hou2
 㪋	hou2
 𩑸	hou2
-可	khou2	90%
+可	khou2	1000
 岢	khou2
 軻	khou2
 坷	khou2
@@ -14543,10 +14564,10 @@ M̌	mu2{實爲m2}
 㳹	uong2
 瀇	uong2
 晃	wong2
-幌	wong2
+#幌	wong2
 櫎	wong2
-榥	wong2
-滉	wong2
+#榥	wong2
+#滉	wong2
 攩	wong2
 皝	wong2
 髈	phong2
@@ -15747,11 +15768,11 @@ M̌	mu2{實爲m2}
 𠏭	zung3
 中	ciung3{中毒，中獎}
 #衷	ciung3
-哄	wung3
+#哄	wung3
 #烘	wung3
 #港	wung3
 鬨	wung3
-蕻	wung3
+#蕻	wung3
 齈	nung3
 癑	nung3
 眾	ciung3
@@ -18901,7 +18922,7 @@ M̌	mu2{實爲m2}
 覸	kae3
 𨣉	kae3
 𧙧	kae3
-莧	ghae3
+#莧	ghae3
 藖	ghae3
 粯	ghae3
 瓣	bae3
@@ -26431,7 +26452,7 @@ M̌	mu2{實爲m2}
 歪	hua1
 夾	gaeh
 軋	gaeh
-可	ak	10%
+可	ak	10
 阿	ak
 嶴	au3
 扷	au3
@@ -27107,7 +27128,7 @@ M̌	mu2{實爲m2}
 椅	iu2	0.1%
 擲	dzak
 #個	kek
-#可	kha2	0.001%
+可	kha2	100
 檻	khae3
 窘	khiuing2
 #菌	khiuing2
@@ -112222,7 +112243,7 @@ M̌	mu2{實爲m2}
 藏籃
 舊年頭
 舊貨商店
-薺菜
+薺菜	zi2 tshai3
 #
 檐漏水
 檐頭
@@ -113622,7 +113643,6 @@ M̌	mu2{實爲m2}
 酒鍾	tsieu2 ciung1
 大盈若沖	da3 yeng1 niak jiung1
 一飛沖天	ik fi1 jiung1 thiae1
-好像
 
 茗艼
 舶來品
@@ -113632,11 +113652,19 @@ M̌	mu2{實爲m2}
 協音
 叶音
 
+可汗	kha3 ghoe3
+薺菜	zia2 tshai3
 幾錢	ki2 zie1
 沒有	mek yeu2
 參差	tsheng1 tshy1
 累贅	liu1 ciu3
 嬉䏘	hi1 phik
+䞀𧷡
+肒膿
+
+熱水瓶櫼
+櫼老鼠洞
+
 勩脫
 勩爻
 勩脫著
