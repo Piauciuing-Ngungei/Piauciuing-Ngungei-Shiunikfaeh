@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.22
+# 版本號：24.3.23
 
 ---
 name: zioephieng
-version:	"2024.3.22"
+version:	"2024.3.23"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -182,7 +182,9 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
-
+墊	diae3{慣用音；實爲㼭}
+踏	deh{慣用音；實爲蹹}
+檻	khae2
 㔶	ge2{虛掩；門㔶都}
 薺	zia2{薺菜}
 峽	gaeh
@@ -15644,7 +15646,7 @@ M̌	mu2{實爲m2}
 淰	nae2
 𠐩	tshae2
 旵	tshae2
-檻	ghae2
+#檻	ghae2
 艦	khae2
 壏	ghae2
 𥽏	ghae2
@@ -27130,7 +27132,7 @@ M̌	mu2{實爲m2}
 擲	dzak
 #個	kek
 可	kha2	100
-檻	khae3
+#檻	khae3
 窘	khiuing2
 #菌	khiuing2
 箍	khu1
