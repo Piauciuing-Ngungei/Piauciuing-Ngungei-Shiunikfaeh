@@ -182,6 +182,8 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+捾	uaeh
+洴	phang1
 墊	diae3{慣用音；實爲㼭}
 踏	deh{慣用音；實爲蹹}
 檻	khae2
@@ -864,8 +866,8 @@ M̌	mu2{實爲m2}
 蝮	phuk
 破	pha3
 跛	pa2
-#可	khak	1
-可	kha3	10
+可	khak{一般疑問句虛詞}	10
+可	kha3{可汗}	10
 解	ga2
 膯	teng1
 撥	boeh
@@ -9331,7 +9333,7 @@ M̌	mu2{實爲m2}
 竮	bieng1
 郱	bieng1
 𤳊	bieng1
-洴	bieng1
+#洴	bieng1
 箳	bieng1
 熒	yung1
 褮	yung1
@@ -14084,7 +14086,7 @@ M̌	mu2{實爲m2}
 㪃	hou2
 㪋	hou2
 𩑸	hou2
-可	khou2	1000
+可	khou2{可以}	1000
 岢	khou2
 軻	khou2
 坷	khou2
@@ -23059,7 +23061,7 @@ M̌	mu2{實爲m2}
 奪	doeh
 𡙜	doeh
 敓	doeh
-脫	doeh	1%
+脫	doeh
 挩	doeh
 莌	doeh
 痥	doeh
@@ -26455,7 +26457,7 @@ M̌	mu2{實爲m2}
 歪	hua1
 夾	gaeh
 軋	gaeh
-可	ak	10
+可	ak{一般疑問句虛詞}	10
 阿	ak
 嶴	au3
 扷	au3
@@ -27128,10 +27130,10 @@ M̌	mu2{實爲m2}
 噱	yok
 噱	hiok
 甩	huaeh
-椅	iu2	0.1%
+椅	iu2	1%
 擲	dzak
 #個	kek
-可	kha2	100
+可	kha2{{一般疑問句虛詞}	100
 #檻	khae3
 窘	khiuing2
 #菌	khiuing2
@@ -113655,6 +113657,19 @@ M̌	mu2{實爲m2}
 協音
 叶音
 
+潲進來
+雨潲進來
+洴進來
+雨洴進來
+做人爬爬捾捾
+捾格梯
+捾弗上
+爬牆捾壁
+爬牆捾墈
+搲死空
+搲起
+捾起
+
 可汗	kha3 ghoe3
 薺菜	zia2 tshai3
 幾錢	ki2 zie1
@@ -113664,7 +113679,7 @@ M̌	mu2{實爲m2}
 嬉䏘	hi1 phik
 䞀𧷡
 肒膿
-饭甑
+飯甑
 山墈
 老跛車
 蹩腳車
