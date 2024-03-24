@@ -182,6 +182,8 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+播	pou1
+鰗	wu1
 穇	tsheng1
 鎬	kau2
 䣼	liang3
@@ -3661,7 +3663,7 @@ M̌	mu2{實爲m2}
 泭	fu1
 郙	fu1
 㕊	fu1
-桴	fu1
+#桴	fu1
 䒀	fu1
 㩤	fu1
 姇	fu1
@@ -6234,7 +6236,7 @@ M̌	mu2{實爲m2}
 烟	iae1
 𡨾	iae1
 𤎟	iae1
-燕	iae1{燕京}	0.1%
+燕	iae1{燕京}	1%
 咽	iae1
 橪	iae1
 驠	iae1
@@ -13262,7 +13264,7 @@ M̌	mu2{實爲m2}
 哯	yae2
 晛	yae2
 垷	yae2
-蜆	yae2
+#蜆	yae2
 俔	yae2
 顈	yae2
 䵤	yae2
@@ -19049,7 +19051,7 @@ M̌	mu2{實爲m2}
 俔	khiae3
 #牽	khiae3
 菣	khiae3
-蜆	khiae3
+#蜆	khiae3
 㯠	khiae3
 涀	khiae3
 汧	khiae3
@@ -52471,10 +52473,10 @@ M̌	mu2{實爲m2}
 燒死
 燒瓶架
 燒茄子
-燕京大學
-燕人
+燕京大學	iae1 kieng1 da3 ghok
+燕人	iae1 ning1
 燕兒
-燕國人
+燕國人	iae1 kuek ning1
 燕尾
 燕尾旗
 燕尾服
@@ -113673,6 +113675,7 @@ M̌	mu2{實爲m2}
 搲起
 捾起
 
+燕京	iae1 kieng1
 可汗	kha3 ghoe3
 薺菜	zia2 tshai3
 幾錢	ki2 zie1
@@ -113713,6 +113716,14 @@ M̌	mu2{實爲m2}
 廣柑
 米泔水
 篩酒
+舶鴿
+鯸𩷕
+鰗𩷕	wu1 long1
+䗂蟻
+䳕鳩
+二桴桁
+虛奤奤
+米簸
 
 熱水瓶櫼
 櫼老鼠洞
