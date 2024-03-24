@@ -22,609 +22,629 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.21
+# 版本號：24.3.23
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.3.21"
+version:	"2024.3.23"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
 #鄭張尚芳《溫州方言志》詞表
 
-#A 天文地理
+###A 天文地理
 
-#1 天文氣象
+###1 天文氣象
 
-太陽佛
-熱頭
-太陽光
-太陽佛下
-月光佛
-橫河
-星過渡
-掃帚星
-天光曉
-地藏王轉肩
-太陽佛畀天狗喫爻
-太陽佛乞天狗喫爻
-月光佛畀天狗喫爻
-月光佛乞天狗喫爻
-烏雲
-打風
-頂頭風
-倒風
-順風
-風打瀊
-鬼頭風
-風颸
-暴頭
-風靜爻
-風靜落
-響雷
-響佛
-龍爍起
-爍龍
-爍電
-落雨
-潒河
-落潒河
-雨毛絲ㄦ
-雨毛颸
-雨毛坌
-汏浪
-汏浪天
-落落晴晴
-雨靜爻
-雨落歇罷
-乞雨淋爻
-畀雨淋爻
-雨水
-落雪
-雪落起
-雪煬爻
-降霜
-霜降起
-冰結起
-霜冰結起
-冰煬爻
-銀綰ㄦ
-掛銀綰ㄦ
-龍雹
-𩂨	saeh
-雪𩂨子
-露水
-霧露
-霧露發起
-發幔
-幔重
-掛鱟
-天氣
-天時
-天色
-天色晴
-陰時天
-落雨天
-鱟天
-濘風天
-乾旱
-大旱天
-滿大水
+太陽佛	tha3 yang1 vek
+熱頭	nieh deu1
+太陽光	tha3 yang1 kuong1
+太陽佛下	tha3 yang1 vek gho2
+月光佛	ngioeh kuong1 vek
+橫河	wang1 ghou1
+星過渡	sieng1 kou3 du3
+掃帚星	sau3 cieu2 sieng1
+天光曉	thiae1 kuong1 hiau2
+地藏王轉肩	di3 zong3 yong1 cioe2 kiae1
+太陽佛畀天狗喫爻	tha3 yang1 vek pek thiae1 keu2 khiek ghau1
+太陽佛乞天狗喫爻	tha3 yang1 vek khik thiae1 keu2 khiek ghau1
+月光佛畀天狗喫爻	ngioeh kuong1 vek pek thiae1 keu2 khiek ghau1
+月光佛乞天狗喫爻	ngioeh kuong1 vek pek thiae1 keu2 khiek ghau1
+烏雲	u1 yuing1
+打風	tang2 fung1
+頂頭風	tieng2 deu1 fung1
+倒風	tau2 fung1
+順風	zhiuing3 fung1
+風打瀊	fung1 tang2 boe1
+鬼頭風	kiu2 deu1 fung1
+風颸	fung1 tshy1
+暴	pau3{暴頭}
+暴頭	pau3 deu1
+風靜爻	fung1 zieng2 ghau1
+風靜落	fung1 zieng2 lok
+響雷	hiang2 lei1
+響佛	hiang2 vek
+龍爍起	lung1 shiak khi2
+爍龍	shiak lung
+爍電	shiak diae3
+落雨	lok yu2
+潒河	ziang2 ghou1
+落潒河	lok ziang2 ghou1
+雨毛絲ㄦ	yu2 mau1 sy1 ngi1
+雨毛颸	yu2 mau1 tshy1
+雨毛坌	yu2 mau1 beng3
+汏浪	da3 long3
+汏浪天	da3 long3 thiae1
+落落晴晴	lok lok zieng1 zieng1
+雨靜爻	yu2 zieng2 ghau1
+雨落歇罷	yu2 lok hieh ba2
+乞雨淋爻	khik yu2 ling1 ghau1
+畀雨淋爻	pek yu2 ling1 ghau
+雨水	yu2 shiu2
+落雪	lok sioeh
+雪落起	sioeh lok khi2
+雪煬爻	sioeh yang1 ghau1
+降霜	kong3 shiong1
+霜降起	shiong1 kong3 khi2
+冰結起	pieng1 kiaeh khi2
+霜冰結起	shiong1 pieng1 kiaeh khi2
+冰煬爻	pieng1 yang1 ghau1
+銀綰ㄦ	nging1 uae2 ngi1
+掛銀綰ㄦ	kuo3 nging1 uae2 ngi1
+龍雹	lung1 bok
+𩂨	saeh4
+雪𩂨子	sioeh saeh tsy2
+露水	lu3 shiu2
+霧露	mu3 lu3
+霧露發起	mu3 lu3 faeh khi2
+發幔	faeh moe3
+幔重	moe3 jiung2
+掛鱟	kuo3 heu3
+天氣	thiae1 khi3
+天時	thiae1 zy1
+天色	thiae1 sek
+天色晴	thiae1 sek zieng1
+陰時天	ing1 zy1 thiae1
+落雨天	lok yu2 thiae1
+鱟天	heu3 thiae1
+濘風天	nieng3 fung1 thiae1
+乾旱	koe1 ghoe2
+大旱天	da3 ghoe2 thiae1
+滿大水	moe2 dou3 shiu2
 
-#2 地理
 
-落垟
-種幾仂世界
-空地
-空坦
-荒地
-山園
-蕩園
-菜園地
-田岸
-草坦
-平地
-河夾ㄦ
-河臀
-河灘
-河股
-河墈
-塗坦
-沙灘
-嶴門
-溪坑
-塘股
-河塘
-陡門
-水溝瀆
-水潭
-水池
-池塘
-水井
-打水
-水丼
-水澸
-潮水
-漲潮
-潮漲起
-落潮
-潮平去
-潮落去
-山水
-水泡鈴
-石頭
-石頭子ㄦ
-石板卵
-石板卵卵
-磚坯
-磚頭橛
-瓦礫爿ㄦ
-瓦礫爿鋒
-水門汀
-水泥
-埲塵
-埲塕
-煙塵
-糞掃
-畚掃
-畚掃塘
-糞掃塘
-爛糊泥
-爛糊泥塊
-泥坺
-黃泥
-黃金
-土墩
-半山腰
-山腳
-山坳
-山彎
-山丼
-山澸
-山峽
-山陿
-洋油
-汽油
-戤士林
-石灰
-蠣灰
-白玉
-細蠣灰ㄦ
-小白玉
-生火
-火種星
-火燭
-火燭燒起
-馬鋼鐵
-生鏽
-吸鐵石
-外地
-城底
-鄉下
-會市
-墟場
-街路
-巷弄
-巷弄峽
-巷弄陿
-轉彎角
-角落ㄦ
-地方
-地宕
-陰溝
-地窖
+###2 地理
 
-#B 時令時間
+落垟	lok yang1
+世界	shi3 ka3
+種幾仂世界	ciung3 ki2 lek shi3 ka3
+空地	khung1 di3
+空坦	khung1 dae3
+荒地	huong1 di3
+山園	sae1 yoe1
+蕩園	dong3 yoe1
+菜園地	tshai3 yoe1 di3
+田岸	diae1 ngoe3
+草坦	tshau2 dae3
+平地	bieng1 di3
+河夾ㄦ	ghou1 kaeh ngi1
+河臀	ghou1 doeng2
+河灘	ghou1 thae1
+河股	ghou1 ku2
+河墈	ghou1 khe3
+塗坦	du1 dae3
+沙灘	so1 thae1
+嶴門	au3 meng1
+溪坑	khi1 khang1
+塘股	dong1 ku2
+河塘	ghou1 dong1
+陡門	teu2 meng1
+水溝瀆	shiu2 keu1 duk
+水潭	shiu2 de1
+水池	shiu2 dzy1
+池塘	dzy1 dong1
+水井	shiu2 tsieng2
+打水	tang2 shiu2
+水丼	shiu2 te2
+水澸	shiu2 te2
+潮水	jiau1 shiu2
+漲潮	ciang2 jiau1
+潮漲起	jiau1 ciang2 khi2
+落潮	lok jiau1
+潮平去	jiau1 bieng1 khei3
+潮落去	jiau1 lok khei3
+山水	sae1 shiu2
+水泡鈴	shiu2 phau3 lieng1
+石頭	zhiek deu1
+石頭子ㄦ	zhiek deu tsy2 ngi1
+石板卵	zhiek pae2 leng2
+石板卵卵	zhiek pae2 leng2 leng2
+石頭	zhiak deu1
+石頭子ㄦ	zhiak deu tsy2 ngi1
+石板卵	zhiak pae2 leng2
+石板卵卵	zhiak pae2 leng2 leng2
+磚坯	cioe1 phei1
+磚頭橛	cioe1 deu1 gioeh
+瓦礫爿ㄦ	nguo2 like bae1 ngi1
+瓦礫爿鋒	nguo2 like bae1 fung1
+水門汀	shiu2 meng1 thieng1
+水泥	shiu2 ni1
+埲塵	bung2 jing1
+埲塕	bung2 ung2
+煙塵	iae1 jing1
+糞掃	feng3 sau3
+畚掃	feng3 sau3
+畚掃塘	feng3 sau3 dong1
+糞掃塘	feng3 sau3 dong1
+爛糊泥	lae3 wu1 ni1
+爛糊泥塊	lae3 wu1 ni1 khuei3
+泥坺	ni1 vaeh
+黃泥	wong1 ni1
+黃金	wong1 king1
+土墩	thu2 toeng1
+半山腰	poe3 sae1 iau1
+山腳	sae1 kiak
+山坳	sae1 au1
+山彎	sae1 uae1
+山丼	sae1 te2
+山澸	sae1 te2
+山峽	sae1 ghaeh
+山峽	sae1 gaeh
+山陿	sae1 ghaeh
+山陿	sae1 gaeh
+洋油	yang1 yeu1
+汽油	khi3 yeu1
+戤士林	ga3 zy2 ling1
+石灰	zhiek huei1
+蠣灰	li3 huei1
+白玉	bak ngiuk
+細蠣灰ㄦ	si3 li3 huei1 ngi1
+小白玉	siau2 bak ngiuk
+生火	sang1 hou2
+火種星	hou2 ciung2 sieng1
+火燭	hou2 ciuk
+火燭燒起	hou2 ciuk shiau1 khi2
+馬鋼鐵	mo2 kong1 thiaeh
+生鏽	sang1 sieu3
+吸鐵石	hik thiaeh zhiek
+外地	nga3 di3
+城底	zhieng1 ti2
+鄉下	hiang1 gho2
+會市	wei3 zy2
+街路	ka1 lu3
+墟場	khei1 jiang1
+巷弄	ghong3 lung3
+巷弄峽	ghong3 lung3 ghaeh
+巷弄峽	ghong3 lung3 gaeh
+巷弄陿	ghong3 lung3 ghaeh
+巷弄陿	ghong3 lung3 gaeh
+轉彎角	cioe2 uae1 kok
+角落ㄦ	kok lok ngi1
+地方	di3 fong1
+地宕	di3 dong3
+陰溝	ing1 keu1
+地窖	di3 kau3
 
-該年
-居年
-明年
-舊年
-前年
-大前年
-後年
-大後年
-閑時年
-年初
-年頭
-年底
-每一年
-年加年
-成年
-十幾年
-多年
-好釐年
-幾許年
-一兩年
-一二年
-年成
-季節
-正月初一
-正月十五
-元宵節
-清明日
-重五日
-七月七
-七月半
-八月十五
-九月久
-冬節
-冬節日
-廿四夜
-三十日
-三十年夜
-三九年夜
-三伏
-上個月日
-前個月日
-下個月日
-本月
-正月初一
-星期兩
-禮拜兩
-星期日
-星期天
-禮拜日
-皇曆
-陽曆
-陰曆
-閏月
-月頭
-月半
-月底
-月加月
-幾月
-幾個月日
-好幾個月日
-個半月日
-該日
-居日
-明朝
-昨夜
-後日
-大後日
-前日
-大前日
-前幾日
-當日
-日日
-日加日
-十幾天
-大半日
-成日
-透長日
-半日
-一日
-三日五日
-日子
-過日
-時節
-日裏
-日地
-夜裏
-夜地
-天光早
-天光頭
-天光起
-天暗落
-天光
-上半日
-日晝
-日晝陣
-後半日
-下半日
-閑昏屆
-閑昏頭
-閑昏邊
-夜裏夜地
-閑昏
-三更半夜
-半夜三更
-成夜
-透長夜
-半夜
-上半夜
-下半夜
-鐘頭
-年把兩年
-當原初
-以早
-早日
-一下ㄦ
-一下
-單下
-擂頭轉
+###B 時令時間
+
+該年	kai1 niae1
+居年	kei1 niae1
+明年	mieng1 niae1
+舊年	gieu3 niae1
+前年	ziae1 niae1
+大前年	dou3 ziae1 niae1
+後年	gheu2 niae1
+大後年	dou3 gheu2 niae1
+閑時年	ghae1 zy1 niae1
+年初	niae1 tshu1
+年頭	niae1 deu1
+年底	niae1 ti2
+每一年	mei2 ik niae1
+年加年	niae1 ko1 niae1
+成年	zhieng1 niae1
+十幾年	zhik ki2 niae1
+多年	tou1 niae1
+好釐年	hau2 li1 niae1
+幾許年	ki2 hei2 niae1
+一兩年	ik liang2 niae1
+一二年	ik ni3 niae1
+年成	niae1 zhieng1
+季節	kiu3 tsiaeh
+正月初一	cieng1 ngioeh tshu1 ik
+正月十五	cieng1 ngioeh zhik ngu2
+元宵節	ngioe1 siau1 tsiaeh
+清明日	tshieng1 mieng1 nik
+重五日	jiung1 ngu2 nik
+七月七	tshik ngioeh tshik
+七月半	tshik ngioeh poe3
+八月十五	paeh ngioeh zhik ngu2
+九月九	kieu2 ngioeh kieu2
+冬節	tung1 tsiaeh
+冬節日	tung1 tsiaeh nik
+廿四夜	niae3 sy3 ya3
+三十日	sae1 zhik nik
+三十年夜	sae1 zhik niae1 ya3
+三九年夜	sae1 kieu2 niae1 ya3
+三伏	sae1 vuk
+上個月日	zhiang3 keh ngioeh nik
+前個月日	ziae1 keh ngioeh nik
+下個月日	gho2 keh ngioeh nik
+本月	peng2 ngioeh
+正月	cieng1 ngioeh
+星期兩	sieng1 gi1 liang2
+禮拜兩	li2 pa3 liang2
+星期日	sieng1 gi1 nik
+星期天	sieng1 gi1 thiae1
+禮拜日	li2 pa3 nik
+皇曆	wong1 liek
+陽曆	yang1 liek
+陰曆	ing1 liek
+閏月	niuing3 ngioeh
+月頭	ngioeh deu1
+月半	ngioeh poe3
+月底	ngioeh ti2
+月加月	ngioeh ko1 ngioeh
+幾月	ki2 ngioeh
+幾個月日	ki2 keh ngioeh nik
+好幾個月日	hau2 ki2 keh ngioeh nik
+個半月日	keh poe3 ngioeh nik
+該日	kai1 nik
+居日	kei1 nik
+明朝	mieng1 ciau1
+昨夜	zok ya3
+後日	gheu2 nik
+大後日	dou3 gheu2 nik
+前日	ziae1 nik
+大前日	dou3 ziae1 nik
+前幾日	ziae1 ki2 nik
+當日	tong1 nik
+日日	nik nik
+日加日	nik ko1 nik
+十幾天	zhik ki2 thiae1
+大半日	dou3 poe3 nik
+成日	zhieng1 nik
+透長日	theu3 jiang1 nik
+半日	poe3 nik
+一日	ik nik
+三日五日	sae1 nik ngu2 nik
+日子	nik tsy2
+過日	kou3 nik
+時節	zy1 tsiaeh
+日裏	nik li2
+日地	nik di3
+夜裏	ya3 li2
+夜地	ya3 di3
+天光早	thiae1 kuong1 tsau2
+天光頭	thiae1 kuong deu1
+天光起	thiae1 kuong1 khi2
+天暗落	thiae1 e3 lok
+天光	thiae1 kuong1
+上半日	zhiang3 poe3 nik
+日晝	nik cieu3
+日晝陣	nik cieu3 jing3
+後半日	gheu2 poe3 nik
+下半日	gho2 poe3 nik
+閑昏屆	ghae1 hueng1 ka3
+閑昏頭	ghae1 hueng1 deu1
+閑昏邊	ghae1 hueng1 piae1
+夜裏	ya3 li2
+夜地	ya3 di3
+閑昏	ghae1 hueng1
+三更半夜	sae1 kang1 poe3 ya3
+半夜三更	poe3 ya3 sae1 kang1
+成夜	zhieng1 ya3
+透長夜	theu3 jiang1 ya3
+半夜	poe3 ya3
+上半夜	zhiang3 poe3 ya3
+下半夜	gho2 poe3 ya3
+鐘頭	ciung1 deu1
+年把兩年	niae1 po2 liang2 niae1
+當原初	tong1 ngioeh tshu1
+以早	yi2 tsau2
+早日	tsau2 nik
+一下ㄦ	ik gho3 ngi1
+一下	ik gho3
+單下	tae1 gho3
+擂頭轉	lei3 deu1 cioe2
 礌	lei3
-礌頭轉
-隔ㄦ
-後半來
-久後
-後來瑲
-下來瑲
-早日
-#能屆
-然介
-該然介
-#該能屆
-#居能屆
-居然介
-#許能屆
-許然介
-一世
-盡世
-成世
-好乎長久
-永世
-永啊
-永也
-永後
-長遠
-弗近
-前竟
-居竟
-下日
-旁日
-轉日
-將來
-將來三
-日後
+礌頭轉	lei3 deu cioe2
+隔ㄦ	kak ngi1
+後半來	gheu2 poe3 lai1
+久後	kieu2 gheu2
+後來昶	gheu2 lai1 chiang3
+下來昶	gho2 lai1 chiang3
+早日	tsau2 nik
+#能屆	
+然介	neng1 ka3
+該然介	kai1 neng1 ka3
+#該能屆	
+#居能屆	
+居然介	kei1 neng1 ka3
+#許能屆	
+許然介	hei2 neng1 ka3
+一世	ik shi3
+盡世	zing2 shi3
+成世	zhieng1 shi3
+好乎長久	hau2 wu1 jiang1 kieu2
+永世	yoeng2 shi3
+永啊	yoeng2 a1
+永也	yoeng2 gha2
+永後	yoeng2 gheu2
+長遠	jiang1 yoe2
+弗近	fek ging2
+前竟	ziae1 kieng3
+居竟	kei1 kieng3
+下日	gho2 nik
+旁日	bong1 nik
+轉日	cioe2 nik
+將來	tsiang1 lai1
+將來三	tsiang1 lai1 sae1
+日後	nik gheu2
 
 # C農事農具
 
-種田
-落垟
-走田裏
-拖田
-犁田
-割稻
-早稻熟
-晚稻熟
-下種
-播田
-耘草
-摜稻
-打稻
-割麥
-斫柴
-昧火泥
-壅田
-壅壅
-茅坑
-壅桶
-壅勺
-沓壅
-撿豬沙
-耙豬沙
-䣼水
-踏水
-掏水
-水井
-水車
-車板
-牛軛
-牛穿鼻
-犁楤
+種田	ciung3 diae1
+落垟	lok yang1
+走田裏	tseu2 diae1 li2
+拖田	tha1 diae1
+犁田	li1 diae1
+割稻	koeh dau2
+早稻熟	tsau2 dau2 zhiuk
+晚稻熟	mae2 dau2 zhiuk
+下種	gho2 ciung2
+播田	tshaeh diae1
+耘草	yuing1 tshau2
+摜稻	guae3 dau2
+打稻	tang2 dau2
+割麥	koeh mak
+斫柴	ciak za1
+昧火泥	mei3 hou2 ni1
+壅田	iung3 diae1
+壅壅	iung3 iung3
+茅坑	mau1 khang1
+壅桶	iung3 dung2
+壅勺	iung3 zhiak
+沓壅	deh iung3
+撿豬沙	kie2 tsy1 so1
+耙豬沙	bo1 tsy1 so1
+䣼水	liang3 shiu2
+踏水	deh shiu2
+掏水	dau1 shiu2
+水井	shiu2 tsieng2
+水車	shiu2 chio1
+車板	chio1 pae2
+牛軛	ngieu1 ak
+牛穿鼻	ngieu1 chioe1 bik
+犁楤	li1 tshung1
 楤	tshung1
 棇	tshung1
-犁尾巴
-犁鐴
+犁尾巴	li1 mi2 po1
+犁鐴	li1 piek
 筢	bo1
-筢ㄦ
-稻鍥
-稻䥛
-彎刀
-稻桶
-風車
-石礌
-碾米
-軋米
-磨盤
-磨擔
-磨心
+筢ㄦ	bo1 ngi1
+稻鍥	dau2 kiaeh
+稻䥛	dau2 kiaeh
+彎刀	uae1 tau1
+稻桶	dau2 dung2
+風車	fung1 chio1
+石礌	zhiek lei3
+石礌	zhiak lei3
+碾米	nie2 mi2
+軋米	gaeh mi2
+磨盤	mou1 boe1
+磨擔	mou1 tae1
+磨心	mou1 sing1
 箉	da2
-米篩
-粉篩
-番薯䉭
-踏碓
-水碓
-搗杵
-耙拏
-鋤銖
-十字鎬
-板鋤
-鐵板
-鏟草
-斫草
-搗米
-柴刀
-簟籮
-打繓
-扁擔
-楤擔
+米篩	mi2 sy1
+粉篩	feng2 sy1
+米篩	mi2 sa1
+粉篩	feng2 sa1
+番薯䉭	fae1 zhy3 lieh
+踏碓	deh tei3
+水碓	shiu2 tei3
+搗杵	tau2 chy2
+耙拏	bo1 no1
+鋤銖	zu1 zhiu1
+十字鎬	zhik zy3 kau2
+板鋤	pae2 zu1
+鐵板	thiaeh pae2
+鏟草	tshae2 tshau2
+斫草	ciak tshau2
+搗米	tau2 mi2
+柴刀	za1 tau1
+簟籮	diae2 lou1
+打繓	tang2 tsoeh
+扁擔	piae2 tae3
+楤擔	tshung1 tae3
 
 #D 莊稼植物
 
-雜糧
-小麥
-大麥
-麥䅴
-䅴	sak
-麥芒
-唐稞
-花麥
-稻稈樁
-稻䅴
-稻稈
-早稻
-晚稻
-喫米
-白ㄦ
-早白
-金城
-占城
-礱糠
-麥麩皮
-稴穀
-穇子
-茼子
-茼	sae1
-棉花
-絡麻
-苧麻
-粟麥
-包羅粟
-攀粟
-粟米
-高粱粟
-落角生
-落花生
-生仁
-白豆
-烏豆
-麥麥酒
-豇豆
-紫帶豆
-麥麥
-麥豆
-淮豆
-蠶豆
-綠豆
-紅豆
-紅豆ㄦ
-扁豆
-龍牙豆
-四季豆
-豆芽
-芝麻
-脂麻
-太陽佛花
-太陽佛花子
-蕃薯藤
-番人芋
-楊梅芋
-薯蕷
-生毛芋
-蓮子
-荷花
-黃菱
-大蒜
-蒜苗
-大蒜子
-韭菜
-香蔥
-針金
-莧菜
-菠薐菜
+雜糧	zeh liang1
+小麥	siau2 mak
+大麥	dou3 mak
+麥䅴	mak sak
+䅴	sak4
+麥芒	mak mong1
+唐稞	dong1 khou1
+花麥	huo1 mak
+稻稈樁	dau2 koe2 ciong1
+稻䅴	dau2 sak
+稻稈	dau2 koe2
+早稻	tsau2 dau2
+晚稻	mae2 dau2
+喫米	khiek mi2
+白兒	bak ngi1
+早白	tsau2 bak
+金城	king1 zhieng1
+占城	cie1 zhieng1
+礱糠	lung1 khong1
+麥麩皮	mak fu1 bi1
+稴穀	ghae1 kuk
+穇子	tsheng1 tsy2
+茼子	tsheng1 tsy2
+茼	tsheng1
+棉花	mie1 huo1
+絡麻	lok mo1
+苧麻	dzy2 mo1
+粟麥	siuk mak
+包羅粟	pau1 lou1 siuk
+攀粟	phae1 siuk
+粟米	siuk mi2
+高粱粟	kau1 liang1 siuk
+落角生	lok kok sang1
+落花生	lok huo1 sang1
+生仁	sang1 ning1
+白豆	bak deu3
+烏豆	u1 deu3
+麥麥酒	mak mak tsieu2
+豇豆	kong1 deu3
+紫帶豆	tsy2 ta3 deu3
+麥麥	mak mak
+麥豆	mak deu3
+淮豆	wa1 deu3
+蠶豆	ze1 deu3
+綠豆	luk deu3
+紅豆	wung1 deu3
+紅豆ㄦ	wung1 deu3 ngi1
+扁豆	piae2 deu3
+龍牙豆	lung1 ngo1 deu3
+四季豆	sy3 kiu3 deu3
+豆芽	deu3 ngo1
+芝麻	tsy1 mo1
+脂麻	tsy1 mo1
+太陽佛花	tha3 yang1 vek huo1
+太陽佛花子	tha3 yang1 vek huo1 tsy2
+蕃薯藤	fae1 zhy3 deng1
+番人芋	fae1 ning1 yu1
+楊梅芋	yang1 mei1 yu1
+薯蕷	zhy3 yi3
+生毛芋	sang1 mau1 yu1
+蓮子	liae1 tsy2
+荷花	ghou1 huo1
+黃菱	wong1 lieng1
+大蒜	da3 soe3
+蒜苗	soe3 miau1
+大蒜子	da3 soe3 tsy2
+韭菜	kieu2 tshai3
+香蔥	hiang1 tshung1
+針金	cing1 king1
+莧菜	hae3 tshai3
+菠薐菜	pou1 leng1 tshai3
 薐	leng1
-芥菜
-小白菜
-白菜
-球菜
-花菜
-大頭菜
-生菜
-芹菜
-油菜
-油菜心
-蒿菜
-筍菜
-香菜
-盆菜
-菜頭
-菜頭纓
-菜頭條ㄦ
-紅菜
-茭筍
-狼萁
+芥菜	ka3 tshai3
+小白菜	siau2 bak tshai3
+白菜	bak tshai3
+球菜	gieu1 tshai3
+花菜	huo1 tshai3
+大頭菜	da3 deu1 tshai3
+生菜	sang1 tshai3
+芹菜	ging3 tshai3
+油菜	yeu1 tshai3
+油菜心	yeu1 tshai3 sing1
+蒿菜	hau1 tshai3
+筍菜	siuing2 tshai3
+香菜	hiang1 tshai3
+盆菜	beng1 tshai3
+菜頭	tshai3 deu1
+菜頭纓	tshai3 deu1 ieng1
+菜頭條ㄦ	tshai3 deu1 diau1 ngi1
+紅菜	wung1 tshai3
+茭筍	kau1 siuing2
+狼萁	long1 ki1
 #狼
-香菇
-茄ㄦ
-番茄
-青椒
-辣椒
-薄荷
-木耳
-甘蔗
-葫蘆
-蒲瓜
-匏瓜
-紅瓤
-天羅瓜
-金瓜
-黃瓜
-冬瓜
-甜瓜
-西瓜
-瓜子
-西瓜子
-木瓜
-瓜蒂
-瓜心
-天羅瓜絮
-金彈
-葡萄
-枇杷
-櫻桃
-橄欖
-蒲薺
-鳧茈
-消梨
-李ㄦ
-杏梅
-楊梅
-懦柿
-柿娘ㄦ
-金罌
-圓眼
-荔枝
-冬筍
-筍殼
-竹葉
-蔑黃
-蔑青
-竹衣
-花心
-麥稈
-月月紅
-山茶花
-指甲花
-雞冠花
-茉莉花
-芙蓉
-芙蓉花
-菜園籬
-摘花
-栽花
-樹林
-樹栽
-樹葉
-樹杈
-樹根
-樹段
-樹頂
-#芽㑚玍出
-栽樹
-斫樹
-松樹
-松樹毛
-柴枝卵卵
-松香
-杉樹
-杉樹刺
-楊柳
-桐子
-桐油
-橩子
+香菇	hiang1 ku1
+茄ㄦ	gia1 ngi1
+番茄	fae1 gia1
+青椒	tshieng1 tsiau1
+辣椒	laeh tsiau1
+薄荷	bok ghou1
+木耳	muk ni2
+甘蔗	ke1 cio3
+葫蘆	wu1 lu1
+蒲瓜	bu1 kuo1
+匏瓜	bau1 kuo1
+紅瓤	wung1 niang1
+天羅瓜	thiae1 lou1 kuo1
+金瓜	king1 kuo1
+黃瓜	wong1 kuo1
+冬瓜	tung1 kuo1
+甜瓜	diae1 kuo1
+西瓜	si1 kuo1
+瓜子	kuo1 tsy2
+西瓜子	si1 kuo1 tsy2
+木瓜	muk kuo1
+瓜蒂	kuo1 ti3
+瓜心	kuo1 sing1
+天羅瓜絮	thiae1 lou1 kuo1 si3
+金彈	king1 dae3
+葡萄	bu1 dau1
+枇杷	bi1 bo1
+櫻桃	ang1 dau1
+橄欖	ke2 lae2
+蒲薺	bu2 zi2
+鳧茈	bu2 zi1
+消梨	siau1 li1
+李ㄦ	li2 ngi1
+杏梅	ghang2 mei1
+楊梅	yang1 mei1
+懦柿	niu1 zy2
+柿娘ㄦ	zy2 niang1 ngi1
+金罌	king1 ang1
+圓眼	yoe1 ngae2
+荔枝	li3 tsy1
+冬筍	tung1 siuing2
+筍殼	siuing2 khok
+竹葉	ciuk yeh
+篾	miaeh
+蔑黃	miaeh wong
+蔑青	miaeh tshieng1
+竹衣	ciuk i1
+花心	huo1 sing1
+麥稈	mak koe2
+月月紅	ngioeh ngioeh wung1
+山茶花	sae1 dzo1 huo1
+指甲花	tsy2 kaeh huo1
+雞冠花	ki1 kuoe1 huo1
+茉莉花	moeh li3 huo1
+芙蓉	vu1 yung1
+芙蓉花	vu1 yung1 huo1
+菜園籬	tshai3 yoe1 li1
+摘花	tsak huo1
+摘花	tiek huo1
+栽花	tsai1 huo1
+樹林	zhiu3 ling1
+樹栽	zhiu3 tsai1
+樹葉	zhiu3 yeh
+樹杈	zhiu3 tsho1
+樹根	zhiu3 keng1
+樹段	zhiu3 doe3
+樹頂	zhiu3 tieng2
+芽㑚玍出	ngo1 na3 nang1 chiuik
+栽樹	tsai1 zhiu3
+斫樹	ciak zhiu3
+松樹	ziung1 zhiu3
+松樹	ziung1 zhiu3
+松樹毛	ziung1 zhiu3 mau1
+柴枝卵卵	za1 tsy1 leng2 leng2
+松香	ziung1 hiang1
+杉樹	sae1 zhiu3
+杉樹刺	sae1 zhiu3 tshy3
+楊柳	yang1 lieu2
+桐子	dung1 tsy2
+桐油	dung1 yeu1
+橩子	gioeng1 tsy2
+橩子	gioeng2 tsy2
 橩	gioeng1
-苦楝樹
-桑樹
-桑葉
-桑樹棗ㄦ
-梧桐樹
-白腳蟆衣
-黃狗孿孿
-草子
+橩	gioeng2
+苦楝樹	khu2 liae3 zhiu3
+桑樹	song1 zhiu3
+桑葉	song1 yeh
+桑樹棗ㄦ	song1 zhiu3 tsau2 ngi1
+梧桐樹	ngu1 dung1 zhiu3
+白腳蟆衣	bak kiak mo1 i1
+黃狗孿孿	wong1 keu2 lioe1 lioe1
+草子	tshau2 tsy2
 
 #E 牲畜動物
 

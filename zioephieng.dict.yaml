@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.23
+# 版本號：24.3.24
 
 ---
 name: zioephieng
-version:	"2024.3.23"
+version:	"2024.3.24"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -182,6 +182,9 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+穇	tsheng1
+鎬	kau2
+䣼	liang3
 捾	uaeh
 洴	phang1
 墊	diae3{慣用音；實爲㼭}
@@ -689,7 +692,7 @@ M̌	mu2{實爲m2}
 趵	pau3
 #箍	khu3
 炆	meng1
-池	ji1
+#池	ji1
 燴	wei3
 熗	tshiang3
 訤	gau1
@@ -7802,7 +7805,7 @@ M̌	mu2{實爲m2}
 𩨷	khio1
 𩨭	khio1
 伽	gia1
-茄	gia1
+茄	gia1{茄子、番茄}
 枷	gia1
 佉	khia1
 呿	khia1
@@ -7916,7 +7919,7 @@ M̌	mu2{實爲m2}
 𨔣	ko1
 𤠙	ko1
 𧉪	ko1
-茄	ko1
+茄	ko1{茄房，五茄}
 迦	ko1
 珈	ko1
 瘕	ko1
@@ -8128,7 +8131,7 @@ M̌	mu2{實爲m2}
 綡	liang1
 𣄴	liang1
 㹁	liang1
-䣼	liang1
+#䣼	liang1
 輬	liang1
 香	hiang1
 皀	hiang1
