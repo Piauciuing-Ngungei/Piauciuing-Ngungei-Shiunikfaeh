@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.19
+# 版本號：24.3.24
 
 ---
 name: zioephieng.abbreviation
-version:	"2024.3.19"
+version:	"2024.3.24"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -78,10 +78,7 @@ use_preset_vocabulary: true
 衛報	 
 衝突	 
 俄烏衝突	   
-危機	 
-澎湃新聞	   
-澎湃新聞記者	     
-南博一	  
+危機	   
 公民	 
 綁架	 
 挾持	 
@@ -1639,3 +1636,4 @@ ChatGPT	chatgpt
 免簽	mie2 tshie1
 落地簽	lok di3 tshie1
 電子簽證	diae3 tsy2 tshie1 cieng3
+創意工坊	tshong3 i3 kung1 fong1
