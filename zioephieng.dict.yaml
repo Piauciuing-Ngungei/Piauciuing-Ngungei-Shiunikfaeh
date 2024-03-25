@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.24
+# 版本號：24.3.25
 
 ---
 name: zioephieng
-version:	"2024.3.24"
+version:	"2024.3.25"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -182,6 +182,7 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+膀	pong2{翅膀}
 喉	wu1
 桴	bu1
 䳕	bu1
@@ -824,7 +825,7 @@ M̌	mu2{實爲m2}
 沒	uek
 蟑	ciang1
 螂	long1
-絎	ghong2
+絎	ghong1
 䐥	ung3
 盦	eng3
 齾	ngaeh
@@ -1698,7 +1699,7 @@ M̌	mu2{實爲m2}
 𨤩	chiung1
 𪒒	chiung1
 逢	vung1
-縫	vung1
+縫	vung1{縫紉，縫合；動詞}
 漨	vung1
 䩼	vung1
 𥎌	vung1
@@ -8640,7 +8641,7 @@ M̌	mu2{實爲m2}
 蠰	nong1
 #傍	bong1
 彷	bong1{彷徨}
-膀	bong1
+膀	bong1{膀胱}
 #髈	bong1
 䠙	bong1
 趽	bong1
@@ -15812,7 +15813,7 @@ M̌	mu2{實爲m2}
 吅	ziung3
 俸	vung3
 㡝	vung3
-縫	vung3
+縫	vung3{縫隙；名詞}
 捀	vung3
 共	giung3
 葑	fung3

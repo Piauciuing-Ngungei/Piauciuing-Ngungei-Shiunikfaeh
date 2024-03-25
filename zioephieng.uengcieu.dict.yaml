@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.23
+# 版本號：24.3.25
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.3.23"
+version:	"2024.3.25"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -93,7 +93,7 @@ use_preset_vocabulary: true
 銀綰ㄦ	nging1 uae2 ngi1
 掛銀綰ㄦ	kuo3 nging1 uae2 ngi1
 龍雹	lung1 bok
-𩂨	saeh4
+𩂨	saeh
 雪𩂨子	sioeh saeh tsy2
 露水	lu3 shiu2
 霧露	mu3 lu3
@@ -464,7 +464,7 @@ use_preset_vocabulary: true
 小麥	siau2 mak
 大麥	dou3 mak
 麥䅴	mak sak
-䅴	sak4
+䅴	sak
 麥芒	mak mong1
 唐稞	dong1 khou1
 花麥	huo1 mak
@@ -815,8 +815,8 @@ use_preset_vocabulary: true
 蟑蜢	ciang1 mang2
 頭毛公公	deu1 mau1 kung1 kung1
 剪絹娘	tsie2 kioe3 niang1
-紡車蹹	fong2 chio1 deh4
-紡車踏	fong2 chio1 deh4
+紡車蹹	fong2 chio1 deh
+紡車踏	fong2 chio1 deh
 臭桶甏	chieu3 dung2 bang1
 蝴蝶	wu1 diaeh
 八腳蟹	paeh kiak ha2
@@ -857,286 +857,289 @@ use_preset_vocabulary: true
 ###F 飲食
 
 伙食	hou2 zhiek
-喫天光
-喫日晝
-煮日晝
-喫閑昏
-喫黃昏
-夜廚
-點心
-零食
-路食
-糖ㄦ
-飯飲
-粥飲
-水晶糕
-糖糕
-鬆糕
-卵糕
-飯焦
-陳飯
-卵飯
-炒卵飯
-生硬粒
-飛麵
-糊ㄦ
-麥雞ㄦ
-鮮麵
-麵乾
-索麵
-索麵湯
-卵湯
-窖配
-葷個
-素個
-暖鍋
-餡心
-實心包
-獃大包
-饅頭
-麵包
-餛飩
-餃ㄦ
-湯圓
-麻糍
-麻餈
-油炸餜
-餅ㄦ
-扁ㄦ
-燒餅
-缸餅
-馬蹄鬆
-花捲
-豆腐
-豆腐被
-豆腐軟
-豆腐渣
-豆腐乾
-千張
-豆腐乳
-洋粉
-粉乾
-山粉
-炮稃
+喫天光	khiek thiae1 kuong1
+喫日晝	khiek nik cieu3
+煮日晝	cy2 nik cieu3
+喫閑昏	khiek ghae1 hueng1
+喫黃昏	khiek wong1 hueng1
+夜廚	ya3 jiu1
+點心	tiae2 sing1
+零食	lieng1 zhiek
+路食	lu3 zhiek
+糖ㄦ	dong1 ngi1
+飲	ing2
+飯飲	vae3 ing2
+粥飲	ciuk ing2
+水晶糕	shiu2 tsieng1 kau1
+糖糕	dong1 kau1
+鬆糕	siung1 kau1
+卵糕	leng2 kau1
+飯焦	vae3 tsiau1
+陳飯	jing1 vae3
+卵飯	leng2 vae3
+炒卵飯	tshau2 leng2 vae3
+生硬粒	vae3 sang1
+飛麵	fi1 miae3
+糊ㄦ	wu1 ngi1
+麥雞ㄦ	mak ki1 ngi1
+鮮麵	sie1 miae3
+麵乾	miae3 koe1
+索麵	sok miae3
+索麵湯	sok miae3 thong1
+卵湯	leng2 thong1
+窖配	kau3 phei3
+葷個	hiuing1 keh
+素個	su3 keh
+暖鍋	noe2 kou1
+餡心	ghae2 sing1
+餡心	gae2 sing1
+實心包	zhik sing1 pau1
+獃大包	ngai1 dou3 pau1
+饅頭	moe1 deu1
+麵包	miae3 pau1
+餛飩	weng1 doeng1
+餃ㄦ	kau2 ngi1
+湯圓	thong1 yoe1
+麻糍	mo1 zy1
+麻餈	mo1 zy1
+油炸粿	yeu1 tso3 kou2
+油炸餜	yeu1 tso3 kuei2
+餅ㄦ	pieng2 ngi1
+扁ㄦ	piae2 ngi1
+燒餅	shiau1 pieng2
+缸餅	kong1 pieng2
+馬蹄鬆	mo2 di1 siung1
+花卷	huo1 kioe2
+豆腐	deu3 vu2
+豆腐被	deu3 vu2 bi2
+豆腐軟	deu3 vu2 nioe2
+豆腐渣	deu3 vu2 tso1
+豆腐乾	deu3 vu2 koe1
+千張	tshiae1 ciang1
+豆腐乳	deu3 vu2 niu2
+洋粉	yang1 feng2
+粉乾	feng2 koe1
+山粉	sae1 feng2
+炮稃	phau3 veu1
 稃	veu1
-肥肉
-精肉
-腳蹄
-膀蹄
-豬肝
-豬口近
-腰子
-肚內
-豬臟
-豬血
-肉鬆
-臘腸
-卵黃
-卵白
-卵清
-雞卵
-雞肫
-鹹卵
-皮蛋
-魚鯗
-魚薧
+肥肉	bi1 niuk
+精肉	tsieng1 niuk
+腳蹄	kiak di1
+髈蹄	phong2 di1
+豬肝	tsy1 koe1
+豬口近	tsy1 kheu2 ging2
+腰子	iau1 tsy2
+肚內	du2 nei3
+豬臟	tsy1 zong3
+豬血	tsy1 hioeh
+肉鬆	niuk siung1
+臘腸	laeh jiang1
+卵黃	leng2 wong1
+卵白	leng2 bak
+卵清	leng2 tshieng1
+雞卵	ki1 leng2
+雞肫	ki1 ciuing1
+鹹卵	ghae1 leng2
+皮蛋	bi1 dae3
+魚鯗	ngei1 siang2
+魚薧	ngei1 khau2
 鮳	khau3
-魚鮳
-龍頭鮳
-菜鹹
-鹹菜
-菜乾
-芝麻醬
-脂麻醬
-蕌蒜
+魚鮳	ngei1 khau3
+菜鹹	tshai3 ghae1
+鹹菜	ghae1 tshai3
+菜乾	tshai3 koe1
+芝麻醬	tsy1 mo1 tsiang3
+脂麻醬	tsy1 mo1 tsiang3
+藠蒜	giau2 soe3
 蕌	liu3
-香料
-澆頭
-豬油
-麻油
-落角生油
-落花生油
-菜油
-醬油
-糖霜
-餳糖
+香料	hiang1 liau3
+澆頭	kiau1 deu1
+豬油	tsy1 yeu1
+麻油	mo1 yeu1
+落角生油	lok kok sang1 yeu1
+落花生油	lok huo1 sang1 yeu1
+菜油	tshai3 yeu1
+醬油	tsiang3 yeu1
+糖霜	dong1 shiong1
+餳糖	zieng1 dong1
 餳	zieng1
-冰糖
-味精
-陰豆豉
-老酒
-燒酒
-蜜林檎
-茶葉
-茶葉渣
-發劑
-冷水
-暖個水
-溫暾湯
-涌湯
-白滾湯
-開水
-冰條
-煺雞
-煺魚
-熯番茄
-熯鬆糕
-燣田螺
-煠雞蛋
-搨餅
-燘肉
-茶濃
-燒火
-洗米
-煮飯
+冰糖	pieng1 dong1
+味精	mi3 tsieng1
+陰豆豉	ing1 deu3 zy3
+老酒	lau2 tsieu2
+燒酒	shiau1 tsieu2
+蜜林檎	mik ling1 ging1
+茶葉	dzo1 yeh
+茶葉渣	dzo1 yeh tso1
+發劑	faeh zi3
+冷水	lang2 shiu2
+暖個水	noe2 keh shiu2
+溫暾湯	ueng1 thoeng1 thong1
+涌湯	yung2 thong1
+白滾湯	bak kueng2 thong1
+開水	khai1 shiu2
+冰條	pieng1 diau1
+煺雞	thei1 ki1
+煺魚	thei1 ngei1
+熯番茄	hoe3 fae1 gia1
+熯鬆糕	hoe3 siung1 kau1
+燣田螺	le1 diae1 lou1
+煠雞蛋	zaeh ki1 dae3
+搨餅	thaeh pieng2
+燘肉	huei2 niuk
+茶濃	dzo1 niung1
+燒火	shiau1 hou2
+洗米	si2 mi2
+煮飯	cy2 vae3
 挼	nei1
 挼	nou1
-挼麵
-挻麵
-硟麵
+挼麵	nei1 miae3
+挻麵	chie1 miae3
+硟麵	chie3 miae3
 
-# G 服飾
+###G 服飾
 
-衣著
-縫衣裳
-絎衣裳
-汗衫ㄦ
-長衫
-襯衫
-可克衫
-夾襖
-棉襖
-皮襖
-大衣
-外套
-外皮衣
-外衫
-內衣
-布衫頭
-絨衫
-刺絨衫
-雨衣
-蓑衣
-領甲ㄦ
-領掛ㄦ
-背心
-馬褂
-緄身ㄦ
-皮袍
-棉袍
-短打
-本裝
-衣裳襟
-門前襟
-大襟
-小襟
-對襟
-閯擺
-下皮頭
-貼邊
-領頭
-頭頸領
-衫袖
-衫袖捋起
-衫袖紮起
-佮裏
-兜兜
-紐珠
-紐珠襻
-紐珠窟
-帽幡ㄦ
-帽牐
-草帽
-學士帽
-帽頭ㄦ
-箬笠
-瀾䙔兜
-瀾䙔ㄦ
-頭巾
-圍巾
-盤巾
-手套ㄦ
-瞞襠褲
-鞔襠褲
-開襠褲
-兩椏褲
-褲襠
-褲腰
-褲腳
-褲帶
-褲頭
-褲頭ㄦ
-單皮褲
-單褲
-單爿褲
-肚褡
-飯單
-飯褡
-圍身布
-布襴
+衣著	i1 ciak
+縫衣裳	vung1 i1 zhiang1
+絎衣裳	ghong1 i1 zhiang1
+衣裳	i1 zhiang1
+汗衫ㄦ	ghoe3 sae1 ngi1
+長衫	jiang1 sae1
+襯衫	tsheng3 sae1
+可克衫	khou2 khek sae1
+夾襖	kaeh au2
+棉襖	mie1 au2
+皮襖	bi1 au2
+大衣	da3 i1
+外套	nga3 thau3
+外皮衣	nga3 bi1 i1
+外衫	nga3 sae1
+內衣	nei3 i1
+布衫頭	pu3 sae1 deu1
+絨衫	niung1 sae1
+刺絨衫	tshiek niung1 sae1
+雨衣	yu2 i1
+蓑衣	sou1 i1
+領甲ㄦ	lieng2 kaeh ngi1
+領褂ㄦ	lieng2 kuo3 ngi1
+背心	pei1 sing1
+馬褂	mo2 kuo3
+緄身ㄦ	kueng2 shing1 ngi1
+皮袍	bi1 bau1
+棉袍	mie1 bau1
+短打	toe2 tang2
+本裝	peng2 tsong1
+衣裳襟	i1 zhiang1 king1
+門前襟	meng1 ziae1 king1
+大襟	dou3 king1
+小襟	siau2 king1
+對襟	tei3 king1
+閯擺	so3 pa2
+下皮頭	gho2 bi1 deu1
+貼邊	thiaeh piae1
+領頭	lieng2 deu1
+頭頸領	deu1 kieng2 lieng2
+衫袖	sae1 zieu3
+衫袖捋起	sae1 zieu3 loeh khi2
+衫袖紮起	sae1 zieu3 tsaeh khi2
+佮裏	keh li2
+兜兜	teu1 teu1
+紐珠	nieu2 ciu1
+紐珠襻	nieu2 ciu1 phae3
+紐珠窟	nieu2 ciu1 khuek
+帽幡ㄦ	mau3 fae1 ngi1
+帽牐	mau3 zaeh
+草帽	tshau2 mau3
+學士帽	ghok zy2 mau3
+帽頭ㄦ	mau3 deu1 ngi1
+箬笠	niak lik
+灠䙔兜	lae2 eu1 teu1
+灠䙔ㄦ	lae2 eu1 ngi1
+頭巾	deu1 king1
+圍巾	yu1 king1
+盤巾	boe1 king1
+手套ㄦ	shieu2 thau3 ngi1
+瞞襠褲	moe1 tong1 khu3
+鞔襠褲	moe1 tong1 khu3
+開襠褲	khai1 tong1 khu3
+兩椏褲	liang2 o1 khu3
+褲襠	khu3 tong1
+褲腰	khu3 iau1
+褲腳	khu3 kiak
+褲帶	khu3 ta3
+褲頭	khu3 deu1
+褲頭ㄦ	khu3 deu1 ngi1
+單皮褲	tae1 bi1 khu3
+單褲	tae1 khu3
+單爿褲	tae1 bae1 khu3
+肚褡	du2 taeh
+飯單	vae3 tae1
+飯褡	vae3 taeh
+圍身布	yu1 shing1 pu3
+布襴	pu3 lae1
 襴	lae1
-圍裙
-捎馬袋
-尿布
-月經帶
-草鞋
-鞋拖
-履鞋拖
-涼鞋
-班鞋拖
-木屐板ㄦ
-套鞋
-橡皮鞋套
-鞋㼭
-鞋墊
-鞋楦
-鞋拔
-刺鞋底
-鞋絔
+圍裙	yu1 giuing1
+捎馬袋	sau1 mo2 dai3
+尿布	shiu1 pu3
+月經帶	ngioeh kieng1 ta3
+草鞋	tshau2 gha1
+鞋拖	gha1 tha1
+履鞋拖	li2 gha1 tha1
+涼鞋	liang1 gha1
+班鞋拖	pae1 gha1 tha1
+木屐板ㄦ	muk giek pae2 ngi1
+套鞋	thau3 gha1
+橡皮鞋套	ziang2 bi1 gha1 thau3
+鞋墊	gha1 diae3
+鞋㼭	gha1 diae3
+鞋楦	gha1 hioe3
+鞋拔	gha1 baeh
+刺鞋底	tshiek gha1 ti2
+鞋絔	gha1 pak
 絔	pak
-躺底
-鞋幫
-踏鞋幫
-蹹鞋幫
-鞋面
-紗襪
-長筩襪
-長筒襪
-短筩襪
-短筒襪
-綁腿
-腳紗
-毛巾
-面巾
-絨巾
-手巾
-燕支
-手鐐ㄦ
-手鉸
-綰ㄦ
-簪ㄦ
-戒指
-別針
+躺底	thong2 ti2
+鞋幫	gha1 pong1
+踏鞋幫	deh gha1 pong1
+蹹鞋幫	deh1 gha1 pong1
+鞋面	gha1 mie3
+紗襪	so1 maeh
+長筩襪	jiang1 dung1 maeh
+長筒襪	jiang1 dung1 maeh
+短筩襪	toe2 dung1 maeh
+短筒襪	toe2 dung1 maeh
+綁腿	pong2 thei2
+腳紗	kiak so1
+毛巾	mau1 king1
+面巾	mie3 king1
+絨巾	niung1 king1
+手巾	shieu2 king1
+燕支	iae1 tsy1
+手鐐ㄦ	shieu2 liau1 ngi1
+手鉸	shieu2 kau3
+綰ㄦ	uae2 ngi1
+簪ㄦ	tse1 ngi1
+戒指	ka3 tsy2
+別針	bieh cing1
 㧙	bieh
-㧙針
-心頭㧙
-丁香
-棒柱
-司的克
-文明棒
-煙筒
-煙筒杯ㄦ
-火煤頭
-手錶
-掛錶
+㧙針	bieh cing1
+心頭㧙	sing1 deu1 bieh
+丁香	tieng1 hiang1
+棒柱	bong2 jiu2
+司的克	sy1 tiek khek
+文明棒	meng1 mieng1 bong2
+煙筒	iae1 dung1
+煙筒杯ㄦ	iae1 dung1 pei1 ngi1
+火煤頭	hou2 mei1 deu1
+手錶	shieu2 piau2
+掛錶	kuo3 piau3
 
-#H 房屋建築
+###H 房屋建築
 
-起屋
-道壇
-灰壇
-水泥壇
-天井
+起屋	khi2 uk
+道壇	dau2 dae1
+天井	thiae1 tsieng2
+灰壇	huei1 dae1
+水泥壇	shiu2 ni1 dae1
 簟坦
 曬穀坦
 屋裏
