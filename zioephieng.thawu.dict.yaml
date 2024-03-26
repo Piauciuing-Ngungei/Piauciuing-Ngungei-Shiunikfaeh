@@ -22,16 +22,16 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.1.30
+# 版本號：24.3.26
 
 ---
 name: zioephieng.thawu
-version:	"2024.1.30"
+version:	"2024.3.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
-#太湖片吳語詞彙
+###太湖片吳語詞彙
 
 〇兩
 一九九兩
@@ -1991,7 +1991,7 @@ use_preset_vocabulary: true
 賣弗出去
 賣個
 賣隻
-質量	cik4 liang1
+質量	cik liang1
 質量推板
 賴在
 賺弗了
@@ -2244,7 +2244,6 @@ use_preset_vocabulary: true
 愛克斯光片
 
 #  
-
 〇二
 一丁點兒
 一下兒
@@ -2520,7 +2519,7 @@ use_preset_vocabulary: true
 七行詩
 七覺支
 七魄
-万俟	mek4 gi1
+万俟	mek gi1
 丈二和尚
 丈二和尚摸不著頭腦
 丈二金剛
@@ -4521,7 +4520,7 @@ use_preset_vocabulary: true
 人之初
 人也
 人事	ning1zy3
-積壓	tsiek4aeh4
+積壓	tsiekaeh
 人事不省
 人事全非
 人事室
@@ -4887,7 +4886,7 @@ use_preset_vocabulary: true
 人販子
 人貴有自知之明
 人質	ning1 tsy3
-質押	tsy3 aeh4
+質押	tsy3 aeh
 人跡
 人跡杳然
 人跡罕至
@@ -5272,8 +5271,8 @@ use_preset_vocabulary: true
 休會期間
 休耕
 休耕地
-休閒娛樂
-休閒度假
+休閑娛樂
+休閑度假
 休養生息
 伯仲之間
 伯利茲
@@ -5950,7 +5949,7 @@ use_preset_vocabulary: true
 偷加
 偷嘴的貓兒性不改
 偷天換日
-偷得浮生半日閒
+偷得浮生半日閑
 偷拿
 偷教
 偷架
@@ -6181,7 +6180,7 @@ use_preset_vocabulary: true
 傳語
 傳誦
 傳誦一時
-傳說	jioe1 shioeh4
+傳說	jioe1 shioeh
 傳說中
 傳說人物
 傳諭
@@ -9639,7 +9638,7 @@ use_preset_vocabulary: true
 叨名
 叨咕
 叨在知己
-叨擾
+叨擾	thau1 niau2
 叨攬
 叨教
 叨沓
@@ -10839,7 +10838,7 @@ use_preset_vocabulary: true
 喬治城大學
 喬治奧威爾
 喬治華盛頓
-單于
+單于	zhie1 yu1
 單人
 單人房
 單人牀
@@ -14536,8 +14535,8 @@ use_preset_vocabulary: true
 安貧樂道
 安道爾
 安道爾共和國
-安閒自在
-安閒自得
+安閑自在
+安閑自得
 宋人
 宋代人
 宋四大書
@@ -14873,7 +14872,7 @@ use_preset_vocabulary: true
 家齊
 宸斷
 容容易易
-容易
+容易	yung1 yi3
 容易引起
 容祖兒
 容積效率
@@ -17106,7 +17105,7 @@ use_preset_vocabulary: true
 悠然自得
 悠然自適
 悠長
-悠閒自在
+悠閑自在
 患了
 患兒
 患難之交
@@ -17479,11 +17478,11 @@ use_preset_vocabulary: true
 成親之日
 成都人
 成都體育大學
-成長
-成長性
-成長率
-成長股
-成長過程
+成長	zhieng1 ciang2
+成長性	zhieng1 ciang2 sieng3
+成長率	zhieng1 ciang2 liuik
+成長股	zhieng1 ciang2 ku2
+成長過程	zhieng1 ciang2 kou3 jieng1
 我也不
 我也來
 我也在
@@ -17714,7 +17713,7 @@ use_preset_vocabulary: true
 打張驚兒
 打得多少釘兒
 打把攔
-打拚
+打拼
 打挺兒
 打捱
 打掃衛生
@@ -17870,7 +17869,7 @@ use_preset_vocabulary: true
 扯拉
 扯篷拉縴
 扯閑盤兒
-扯閒盤兒
+扯閑盤兒
 扳不倒兒
 扳指兒
 扳本兒
@@ -22519,7 +22518,7 @@ use_preset_vocabulary: true
 樂天
 樂天派
 樂天知命
-樂	ngok4 gi2
+樂	ngok gi2
 樂子
 樂學者
 樂安
@@ -23880,7 +23879,7 @@ use_preset_vocabulary: true
 沒試
 沒話
 沒話說
-沒說	mek4 shioeh4
+沒說	mek shioeh
 沒說出
 沒說到
 沒說的
@@ -24437,7 +24436,7 @@ use_preset_vocabulary: true
 消解
 消費水平
 消長
-消閒兒
+消閑兒
 消除鋸齒
 消食兒
 涉世
@@ -24585,7 +24584,7 @@ use_preset_vocabulary: true
 清貧人家
 清還
 清鍋兒冷竈
-清閒自在
+清閑自在
 清點人數
 清黨行動
 減了
@@ -25315,10 +25314,10 @@ use_preset_vocabulary: true
 燒死
 燒瓶架
 燒茄子
-燕京大學
-燕人
+燕京大學	iae1 kieng1 da3 ghok
+燕人	iae1 ning1
 燕兒
-燕國人
+燕國人	iae1 kuek ning1
 燕尾
 燕尾旗
 燕尾服
@@ -25481,7 +25480,7 @@ use_preset_vocabulary: true
 爭長
 爭長競短
 爭長論短
-爭閒氣
+爭閑氣
 爭雄
 爭霸
 爭霸戰
@@ -27889,8 +27888,8 @@ use_preset_vocabulary: true
 確認爲
 確論
 確證
-確鑿	khok4 tsok4
-確鑿不移	khok4 tsok4 fek4 yi1
+確鑿	khok tsok
+確鑿不移	khok tsok fek yi1
 確非
 碼分多址
 碼率
@@ -28586,7 +28585,7 @@ use_preset_vocabulary: true
 等死
 等的
 等著你
-等閒人物
+等閑人物
 筋節兒
 筒狀
 答兒
@@ -29447,7 +29446,7 @@ use_preset_vocabulary: true
 罪行累累
 罪該萬死
 罪該處死
-罪證確鑿	zei2 cieng3 khok4 tsok4
+罪證確鑿	zei2 cieng3 khok tsok
 置之不問
 置之死地
 置之死地而後快
@@ -31568,7 +31567,7 @@ use_preset_vocabulary: true
 英語教學
 英雄交響曲
 英雄人物
-茁壯成長
+茁壯成長	ciuik tsong3 zhieng1 ciang2
 茁長
 茂盛
 范家謙
@@ -31696,7 +31695,7 @@ use_preset_vocabulary: true
 莫爾茲比港
 莫當
 莫管
-莫管閒事
+莫管閑事
 莫索里尼
 莫罕達斯
 莫羅尼
@@ -32228,7 +32227,7 @@ use_preset_vocabulary: true
 號碼牌
 虧了
 虼蚪兒
-蚍蜉
+蚍蜉	bi1 veu1
 蚍蜉撼大樹
 蚍蜉撼樹
 蛇無頭不行
@@ -33772,7 +33771,7 @@ use_preset_vocabulary: true
 說太平話兒
 說好了
 說定了
-說客	shiu3 khak4
+說客	shiu3 khak
 說岳全傳
 說教
 說教術
@@ -33788,7 +33787,7 @@ use_preset_vocabulary: true
 說話答禮兒
 說鐵騎兒
 說長道短
-說閒話兒
+說閑話兒
 說頭兒
 誰也
 誰也不
@@ -33953,7 +33952,7 @@ use_preset_vocabulary: true
 證券經紀人
 證卷交易所
 證婚人
-證據確鑿	cieng3 kei3 khok4 tsok4
+證據確鑿	cieng3 kei3 khok tsok
 識大體
 識字率
 識文斷字
@@ -34374,7 +34373,7 @@ use_preset_vocabulary: true
 貼補家用
 貽笑大方
 貽笑方家
-貿易
+貿易	meu3 yek
 貿易中心
 貿易伙伴
 貿易保護
@@ -34463,7 +34462,7 @@ use_preset_vocabulary: true
 賣的
 賣藥人
 賤人
-賦閒在家
+賦閑在家
 賦間
 質問
 質疑問難
@@ -35891,7 +35890,7 @@ use_preset_vocabulary: true
 還討
 還記得我
 還設
-還說	wae1 shioeh4
+還說	wae1 shioeh
 還說在
 還說是
 還說有
@@ -36832,7 +36831,7 @@ use_preset_vocabulary: true
 長眠不醒
 長著
 長矛
-長短
+長短	jiang1 toe2
 長短不一
 長短不齊
 長短句
@@ -37078,17 +37077,17 @@ use_preset_vocabulary: true
 開麥拉
 開齊合撮
 閏日
-閒人
-閒人免進
-閒兒
-閒打牙兒
-閒盤兒
-閒篇兒
-閒言長語
-閒話家常
-閒雜
-閒雜人員
-閒雜人等
+閑人
+閑人免進
+閑兒
+閑打牙兒
+閑盤兒
+閑篇兒
+閑言長語
+閑話家常
+閑雜
+閑雜人員
+閑雜人等
 間不容息
 間不容緩
 間不容髮
@@ -38785,7 +38784,7 @@ use_preset_vocabulary: true
 飛行記錄器
 飛行鐘
 飛行雲
-飛躍成長
+飛躍成長	fi1 yak zhieng1 ciang2
 飛鳥
 飛鳥時代
 飛鳥盡良弓藏
@@ -39898,7 +39897,7 @@ use_preset_vocabulary: true
 葡萄
 肥皂
 下巴
-瀑布	buk4 pu3
+瀑布	buk pu3
 龜裂
 契丹
 特爲
@@ -40559,7 +40558,7 @@ use_preset_vocabulary: true
 力大
 力巴
 力生
-力拚
+力拼
 力爭
 力強
 力場
@@ -43293,7 +43292,7 @@ use_preset_vocabulary: true
 心物
 心勁
 心思
-心思閒
+心思閑
 心要
 心通
 心高
@@ -43629,7 +43628,7 @@ use_preset_vocabulary: true
 比附
 比來
 比例
-比拚
+比拼
 比武
 比法
 比肩
@@ -43756,7 +43755,7 @@ use_preset_vocabulary: true
 火車
 火具
 火底
-火拚
+火拼
 火法
 火紅
 火兼
@@ -44746,7 +44745,7 @@ use_preset_vocabulary: true
 巨蟒
 巨壑
 巨翼
-巨瀑	gei2 buk4
+巨瀑	gei2 buk
 巨額
 巨騙
 巨鯨
@@ -45786,7 +45785,7 @@ use_preset_vocabulary: true
 休眠
 休戚
 休提
-休閒
+休閑
 休想
 休會
 休業
@@ -47717,7 +47716,7 @@ use_preset_vocabulary: true
 血血紅
 血防
 血赤精精
-血拚
+血拼
 血染
 血紅
 血素
@@ -48098,7 +48097,7 @@ use_preset_vocabulary: true
 佛塔
 佛然
 佛像
-佛殿	vek4 diae3
+佛殿	vek diae3
 佛經
 佛號
 佛說
@@ -49250,7 +49249,7 @@ use_preset_vocabulary: true
 沒不通風
 沒心想
 沒扔
-沒用場	mek4 yung3 jiang1
+沒用場	mek yung3 jiang1
 沒安
 沒老
 沒辰光
@@ -51088,17 +51087,17 @@ use_preset_vocabulary: true
 拘審
 拘謹
 拘攣
-拚了
-拚死
-拚血本
-拚刺
-拚命
-拚勁
-拚殺
-拚鬥
-拚得
-拚搏
-拚搶
+拼了
+拼死
+拼血本
+拼刺
+拼命
+拼勁
+拼殺
+拼鬥
+拼得
+拼搏
+拼搶
 招女婿
 招之
 招用
@@ -52894,7 +52893,7 @@ use_preset_vocabulary: true
 屏保	bieng1 pau2
 屏風	bieng1 fung1
 屏條	bieng1 diau1
-屏幕	bieng1 mok4
+屏幕	bieng1 mok
 屏障	bieng1 ciang1
 屏蔽	bieng1 pi3
 差人
@@ -54114,7 +54113,7 @@ use_preset_vocabulary: true
 約見
 約言
 約定
-約法	iak4 faeh4
+約法	iak faeh
 約長
 約是
 約計
@@ -57087,13 +57086,13 @@ use_preset_vocabulary: true
 造反到
 造句
 造好	zau2 hau2
-造物	zau2 mek4
-造個	zau2 keh4
+造物	zau2 mek
+造個	zau2 keh
 造假	zau2 ko2
 造訪	tshau3 fong3
 造詣	tshau3 ngi3
-登峰造極	teng1 fung1 tshau3 giek4
-登峰造極	teng1 fung1 tshau3 giek4
+登峰造極	teng1 fung1 tshau3 giek
+登峰造極	teng1 fung1 tshau3 giek
 造禍
 造愛
 造孽
@@ -58329,7 +58328,7 @@ use_preset_vocabulary: true
 從優
 從簡
 從嚴
-從屬
+從屬	ziung1 zhiuk
 悉尼
 悠哉
 悠閑
@@ -61857,7 +61856,7 @@ use_preset_vocabulary: true
 硬百裏拉
 硬作主張
 硬巖
-硬拚
+硬拼
 硬板床
 硬勁
 硬面
@@ -62271,7 +62270,7 @@ use_preset_vocabulary: true
 落頭
 落霞
 落鎖
-落蘇	lok4 su1	1000
+落蘇	lok su1	1000
 落露水
 葉子
 葉公好龍
@@ -62741,7 +62740,7 @@ use_preset_vocabulary: true
 閑談
 閑靜
 閑雜
-閒話
+閑話
 間中
 間天
 間他
@@ -66100,7 +66099,7 @@ use_preset_vocabulary: true
 說和
 說定
 說明
-說服	shiu3 vuk4
+說服	shiu3 vuk
 說法
 說的
 說是
@@ -72481,7 +72480,7 @@ use_preset_vocabulary: true
 愚頑
 愛弗
 愛嗎
-愛拚
+愛拼
 愛羣
 慘弗
 慚作
@@ -73542,7 +73541,7 @@ use_preset_vocabulary: true
 一隻流星
 一隻𡰪卵
 一躉當
-一句閒話
+一句閑話
 一碰
 一碰兩碰
 一對耷落蘇
@@ -75054,7 +75053,7 @@ use_preset_vocabulary: true
 弗上弗落
 弗見世面
 弗寸弗光
-弗講閒話
+弗講閑話
 弗做智著
 弗是生意經
 弗出休弗甘休
@@ -76085,7 +76084,7 @@ use_preset_vocabulary: true
 老筋巴渣
 老筋剝簇
 老喫老做
-老古閒話
+老古閑話
 老鳥蛻毛
 老卵結格
 老鼠
@@ -76750,7 +76749,7 @@ use_preset_vocabulary: true
 安安能
 安息香
 安逸
-安閒
+安閑
 安靜
 厾著
 厾竈
@@ -76853,7 +76852,7 @@ use_preset_vocabulary: true
 扯卵蛋
 扯順風旗
 扯過
-扯閒文
+扯閑文
 扯皮寬
 扯野心
 扯足順風篷
@@ -77050,7 +77049,7 @@ use_preset_vocabulary: true
 求天拜地
 孛萄
 孛雜
-孛相乾
+孛相幹	bek siang3 koe3
 孛相人
 孛相客
 孛相淘
@@ -77599,7 +77598,7 @@ use_preset_vocabulary: true
 妖形怪狀
 妖里妖氣
 妖聲怪氣
-妗夾夾	hiae1 kaeh4 kaeh4
+妗夾夾	hiae1 kaeh kaeh
 姊妹兩個
 姊妹道
 姊妹道裏
@@ -77688,7 +77687,7 @@ use_preset_vocabulary: true
 長碼碼
 長腳褲
 長腳蘆管
-長腳閒話
+長腳閑話
 長埭頭日腳
 長一碼大一碼
 長病無孝子
@@ -77832,7 +77831,7 @@ use_preset_vocabulary: true
 披風
 披肩
 披蓑衣
-抵拚
+抵拼
 招認
 招牌
 招紙
@@ -78895,7 +78894,7 @@ use_preset_vocabulary: true
 背抄手 
 省力飯
 省神思
-省力無得閒
+省力無得閑
 削地
 削泥
 削柴
@@ -80218,7 +80217,7 @@ use_preset_vocabulary: true
 酒水糊塗
 酒癡糊塗
 消客氣
-消閒果子
+消閑果子
 消夜
 消食
 消交
@@ -80251,7 +80250,7 @@ use_preset_vocabulary: true
 浮薸
 浮萍
 浮忒里兮
-浮屍
+浮屍	veu1 sy1
 浴桶
 浴盆
 浴壺
@@ -81968,7 +81967,7 @@ use_preset_vocabulary: true
 睏頭裏
 睏痛脰頸
 喇叭花
-喇叭閒話
+喇叭閑話
 喖嚨骨
 跌傷
 跌倒
@@ -82470,15 +82469,15 @@ use_preset_vocabulary: true
 閑講張
 閑插花
 閑蕩蕩
-閒書
-閒白灘
-閒搭訕頭
-閒無𧻴趤
-閒遊𧻴趤
-閒來弗得過
-閒來無啥做
-閒話裏夾骨頭
-閒人只說得閒話
+閑書
+閑白灘
+閑搭訕頭
+閑無𧻴趤
+閑遊𧻴趤
+閑來弗得過
+閑來無啥做
+閑話裏夾骨頭
+閑人只說得閑話
 疏頭
 疏子
 隔寒
@@ -84300,8 +84299,8 @@ use_preset_vocabulary: true
 無手撳
 無捏手
 無奈何
-無卵用	mu1 loe2 yung3
-無用場	mu1 yung3 jiang1
+無卵用
+無用場
 無用胚
 無用
 無用黑心人
@@ -85095,7 +85094,7 @@ use_preset_vocabulary: true
 藏籃
 舊年頭
 舊貨商店
-薺菜
+薺菜	zi2 tshai3
 #
 檐漏水
 檐頭
@@ -85197,7 +85196,7 @@ use_preset_vocabulary: true
 颶風
 講夢話
 講睏話
-講閒話
+講閑話
 講白話
 講白灘
 講山海經
@@ -86204,7 +86203,7 @@ use_preset_vocabulary: true
 鸞拍
 齾七齾八
 
-#增補詞匯（台州片；太湖片苕溪小片、蘇滬嘉小片）
+###增補詞匯（台州片；太湖片苕溪小片、蘇滬嘉小片）
 
 日頭
 月亮
@@ -86526,8 +86525,6 @@ use_preset_vocabulary: true
 朏臀眼
 卵子
 卵脬
-弄
-漿
 大姨來罷
 爾娘囉
 生毛病罷
@@ -86569,7 +86566,6 @@ use_preset_vocabulary: true
 滿月
 生日
 做壽
-死
 走爻
 自殺
 斷氣
@@ -90272,3 +90268,482 @@ use_preset_vocabulary: true
 豏谷
 竹蜻蜓	ciuk4 tshieng1 dieng1
 蝘蜓	iae2 diae2
+
+###附加詞彙
+
+做進	tsou3 tsing3	70%
+貤來	yi3 lai1
+貤做	yi3 tsou3
+貤去	yi3 khei2
+貤喫	yi3 khiek
+貤呷	yi3 haeh
+貤買	yi3 ma2
+貤賣	yi3 ma3
+上先	zhiang2 siae1
+頭卯	deu1 mau2
+休要
+望是
+望未
+煞甲
+癟三	pieh sae1
+喫涴	khiek ou3	99%
+射涴	zhio3 ou3	90%
+製錶符
+語法化
+虛詞化
+寫隻屁
+寫隻卵
+鹹煞	ghae1 saeh
+鹹殺	ghae1 saeh
+鹹人	ghae1 ning1
+撳按鈕	khing3 oe3 nieu2
+鍵盤	gie1 boe1
+鼠標	tshy2 piau1
+鼠標㼭	tshy2 piau1 diae3
+顯示器	hiae2 zy3 khi3
+手機	shieu2 ki1
+著膩	ciak1 ni3
+婺州	mu3 cieu1
+金衢	king1 giu1
+宣州	sioe1 cieu1
+徽嚴	hiu1 ngie1
+臨紹	ling1 zhiau2
+蘇滬嘉	su1 wu2 ko1
+毗陵	bi1 lieng1
+太高	tha3 kau1
+銅涇	dung1 kieng1
+上麗	zhiang3 li1
+箇咾	keh lau2
+如何	na1 hang1
+光火	kuang1 hou2
+汝個	ni2 keh
+在上	lai2 long3	60%
+上向	long3 hiang3	99%
+汝倈	ni2 la1	70%
+渠倈	gei1 la1	70%
+我倈	ngou2 la1	70%
+佢倈	gei1 la1
+卻情	khiak zieng1	50%
+因之	ing1 tsy1	50%
+爲之	yu3 tsy1	50%
+阿語	ak ngei2	90%
+雖則	siu1 tsek	90%
+然則	nie1 tsek	90%
+便算	bie3 soe2	90%
+寧之	nieng1 tsy1	90%
+實則	zhik tsek	90%
+實之	zhik tsy1	90%
+單卻要	tae1 khiak iau3
+好戲	hau2 hi3
+之故	tsy1 ku3
+且顧	tshia2 ku3
+弗得	fek tek
+弗然	fek nie1
+便算	bie3 soe2
+赫物	hak mek
+大家	da3 ko1
+啥地方	sa1 di3 fong1
+選題	sioe2 di1
+共和國	giung3 ghou1 kuek
+人民共和國	ning1 ming1 giung3 ghou1 kuek
+社會主義	zhio2 wei3 ciu2 ngi3
+法律	faeh liuik
+概率	kai3 liuik
+幾率	ki1 liuik
+資本主義	tsy1 peng2 ciu2 ngi3
+原教旨主義	ngioe1 kau3 tsy2 ciu2 ngi3
+什葉派	zhik yeh pha3
+約翰遜	iak ghoe1 soeng3
+遜尼派	soeng3 ni1 pha3
+若然	niak nie1
+個說話	keh shioeh wo3
+箇物	keh mek
+許物	hei2 mek
+比方講	pi2 fong1 kong2
+弗物	fek mek
+一頭	ik deu1
+寧之	nieng1 tsy1
+寧使	nieng1 sy2
+倒轉	tau3 cioe2
+反倒	fae2 tau2
+反轉	fae2 cioe2
+橫豎	wang1 zhiu2
+到煞	tau3 saeh
+橫直	wang1 jiek
+原舊	ngioe1 gieu3
+元	nie1
+三弄四弄	sae1 lung3 sy3 lung3
+譬如弗得	phi3 ni1 fek tek
+樂得	lok tek
+弗論	fek liuing1
+弗管	fek kuoe2
+但便	dae3 bie3
+唕瑲	zau3 tshiang1	90%
+何瑲	gha1 tshiang1	90%
+爲何物	yu3 ga1 mek	90%
+何辰光	gha1 zhing1 kuong1	90%
+如何	na1 ga1	90%
+何里	gha1 li2	90%
+何里都	gha1 li2 taeh
+加來罷	ko1 lai1 ba2
+快來也	khua3 lai1 gha2
+以正視聽	yi2 cieng3 zy3 thieng1
+何裡	gha1 li2	90%
+何裡都	gha1 li2 taeh	50%
+換個	woe3 keh	80%
+有條	yeu2 diau1	80%
+換圖	woe3 du1	50%
+快訊圖	khua3 sing3 du1
+改好了	kai2 hau2 liau2
+調隻	diau3 ciek	90%
+何物	gha1 mek1
+何人	gha1 ning1	90%
+啥人	sa1 ning1	50%
+駛來	sa2 lai1
+加在	ko1 zai2
+加在	ko1 lai2
+加來	ko1 lai1
+加來罷	ko1 lai1 ba2
+脫著	theh jiak
+爻罷	ghau1 ba2
+唕長	zau3 jiang1
+唕深	zau3 shing1
+深圳	shing1 ciuing3
+唕闊	zau3 khuoeh
+唕厚	zau3 gheu2
+唕薄	zau3 bok
+唕短	zau3 toe2
+唕好	zau3 hau2	30%
+造好罷	zau2 hau2 ba2	50%
+音系	ing1 ghi3
+小片	siau2 phiae3
+同音	dung1 ing1
+陽入對轉	yang1 nik tei3 cioe2
+一村	ik tshoeng1
+兩村	liang2 tshoeng1
+二村	ni3 tshoeng1
+三村	sae1 tshoeng1
+四村	sy3 tshoeng1
+五村	ngu2 tshoeng1
+殷行	ing1 ghong1
+五角場	ngu2 kok jiang1
+靜安寺	zieng2 oe1 zy3
+上鋼	zhiang3 kong1	30%
+上港	zhiang3 kong2	50%
+報題	pau3 di1	60%
+寶地	pau2 di3	30%
+溝通	keu1 thung1
+還在	wae1 lai1
+還來	wae1 lai1
+還在	wae1 zai2
+天架	thiae1 ko3
+人呢	ning1 ni1
+外加	nga3 ko1	50%
+充電線	chiung1 diae3 sie3
+充電寶	chiung1 diae3 pau2
+帶回來	ta3 wei1 lai1
+供認領	kiung3 ning3 lieng2
+勢力範圍	shi3 liek vae2 yu1
+影響力	ieng2 hiang2 liek
+影響	ieng2 hiang2
+靜坐	zieng2 zou22
+申請	shing1 tshieng2
+清真	tshieng1 cing1
+然介	neng1 ka3
+如然	na1 neng1
+箇然	keh neng1
+昰然	dik neng1
+許然	hei2 neng1
+蔢𦽅	bou3 hou3
+榷場	kok jiang1
+檸頭	nang2 deu1
+
+匯集	wei2 zik
+會稡	wei3 tsoek
+會粹	wei3 ziu3
+嘐啁	lau1 tau1
+擁進去	ung1 tsing3 khei3
+壅進去	ung1 tsing3 khei3
+蕹菜	ung1 tshai3
+兌弗開	dei3 fek khai1
+兌得開	dei3 tek khai1
+放縱	fong3 tsiung3
+百廢俱興	pak fi3 giu3 hieng1
+摜摔交	guae3 siuik kau1
+舽舡	bong1 hong1
+肱髀	kueng1 bi2
+兕觥	zy2 kuang1
+䂸裂	kwak lieh
+點劃	tiae2 wak
+書畫	shy1 wo3
+計劃	ki3 wak
+划船	wo1 zhioe1
+比況	pi2 hiong3
+比較	pi2 kau3
+車較	chio1 kok
+書卷	shy1 kioe3
+席捲	ziek kioe2
+頭髮鬈	deu1 faeh gioe1
+負擔	veu2 tae1
+重擔	jiung2 tae3
+負荷	veu2 ghou2
+巡邏	ziuing1 lou1
+覆蓋	feu3 ka3
+反覆	fae2 fuk
+傾覆	khioeng1 fuk
+顛覆	tiae1 fuk
+年復一年	niae1 veu3 ik niae1 
+旦復旦兮	tae3 veu3 tae3 ghi1 
+合伏睏	gheh phuk khueng3
+產母	so2 meu2
+誕生	tae3 sang1
+石箍門	zhiak khu1 meng1 
+乾坤	gie1 khueng1
+乾燥	koe1 sau3
+事幹	zy3 koe3
+相干	siang1 koe1
+干戈	koe1 kou1
+干涉	koe1 zhieh
+干擾	koe1 niau2
+隄垾	di1 ghoe3
+貙豻	chiu1 ngoe1
+顢頇	moe1 hoe1
+玉帛	ngiuk bak
+黃帛	wong1 bak
+一切	ik tshi3
+憔悴	ziau1 ziu3
+精粹	tsieng1 ziu3
+出類拔萃	chiuik liu3 baeh ziu3
+鞠躬盡瘁	kiuk kiung1 zing2 ziu3
+鬼鬼祟祟	kiu2 kiu2 siu3 siu3
+隔閡	kak ngai3
+打欬	tang2 gai1
+冷餩	lang2 ek
+喀痰	khak dae1
+漱口	seu3 kheu2
+吮吸	zhiuing2 hik
+屹立	ngik lik
+迄今	hik king1
+岌岌可危	ngik ngik khou2 ngiu1
+崢嶸	zang1 wang1 
+偵探	chieng1 the3 
+癱瘓	thae1 thoe2
+惆悵	chieu1 chiang3
+境界	kieng2 ka3
+作坊	tsok fong1
+相仿	siang1 fong2 
+倣效	fong2 ghau3
+訪問	fong3 meng3
+脂肪	tsy1 fong1
+香茗	hiang1 mieng2 
+酩酊	mieng2 tieng2
+耵聹	tieng2 nieng2
+叮嚀	tieng1 nieng1
+悠遠	yeu1 yoe2 
+幽遠	ieu1 yoe2
+蹂蹨	nieu1 nie2
+造紙	zau2 tsy2
+造次	tshau3 tshy3
+去婦	khei2 veu2 
+射雕	zhiek tiau1 
+射箭	zhio3 tsie3
+無射	mu1 yek
+僕射	buk ya3
+滄浪	tshong1 long1 
+波浪	pou1 long3
+歌詠	kou1 yoeng3
+憧憬	chiung1 kioeng2
+衝突	chiung1 doek
+衝水	chiung1 shiu2 
+衝出來	chiung3 chiuik lai1
+跌跌蹱蹱	tiaeh tiaeh chiung3 chiung3 
+酒鍾	tsieu2 ciung1
+大盈若沖	da3 yeng1 niak jiung1
+一飛沖天	ik fi1 jiung1 thiae1
+
+茗艼
+舶來品
+鮠魚
+奎元館
+唐楷
+協音
+叶音
+
+潲進來
+雨潲進來
+洴進來
+雨洴進來
+做人爬爬捾捾
+捾格梯
+捾弗上
+爬牆捾壁
+爬牆捾墈
+搲死空
+搲起
+捾起
+
+燕京	iae1 kieng1
+可汗	kha3 ghoe3
+薺菜	zia2 tshai3
+幾錢	ki2 zie1
+沒有	mek yeu2
+參差	tsheng1 tshy1
+累贅	liu1 ciu3
+嬉䏘	hi1 phik
+䞀𧷡
+肒膿
+飯甑
+山墈
+老跛車
+蹩腳車
+破柴爿
+破魚鯗
+蚼蟻
+猴猻
+駛車
+沱天
+沱浪雨
+哭天沱地
+看牛細
+看眼相法
+斷路頭
+毛管朣
+獾豬
+竹管
+米管
+後髖
+斷牢
+貓兒搬生
+蠶蚺
+大蠻男子
+貪喫懶做
+汗滲滲
+趕市
+燥乾
+廣柑
+米泔水
+篩酒
+舶鴿
+鯸𩷕
+鰗𩷕	wu1 long1
+蚼蟻	hu2 nga2
+䗂蟻
+䳕鳩
+二桴桁
+虛奤奤
+米簸
+
+熱水瓶櫼
+櫼老鼠洞
+
+勩脫
+勩爻
+勩脫著
+勩爻罷
+勩訤罷
+顏色勩脫著
+顏色勩脫
+
+太伯
+泰伯
+仲雍
+季簡
+叔達
+周章
+熊遂
+柯相
+疆鳩夷
+餘橋疑吾
+柯廬
+周繇
+屈羽
+夷吾
+禽處
+頗高
+句卑
+去齊
+壽夢
+姑發難壽夢
+諸樊
+姑發者反
+姑發反
+皮然
+余祭
+餘眛
+夷末
+蹶由
+掩余
+燭庸
+季扎
+慶忌
+闔閭
+夫概
+堂谿
+夫差
+終累
+子山
+姑曹
+無餘
+無壬
+無瞫
+夫譚
+允常
+勾踐
+鹿郢
+不壽
+朱勾
+諸咎
+錯枝
+孚錯枝
+無余
+初無余之
+莽安
+無顓
+菼蠋卯
+無疆
+姑蔑
+大末
+句無
+句余
+句章
+夫椒
+
+羅平	lou1 bieng1
+大越	da3 yoeh
+大越羅平	da3 yoeh lou1 bieng1
+吳越國	ngu1 yoeh kuek
+吳越太祖	ngu1 yoeh tha3 tsu2
+錢鏐	zie1 lieu1
+吳越世宗	ngu1 yoeh shi3 tsung1
+錢元瓘	zie1 ngioe1 kuoe3
+吳越成宗	ngu1 yoeh zhieng1 tsung1
+錢弘佐	zie1 weng1 tsou3
+錢弘倧	zie1 weng1 tsung1
+錢弘俶	zie1 weng1 chiuk
+杭州	ghong1 cieu1
+越州	yoeh cieu1
+湖州	wu1 cieu1
+秀州	sieu3 cieu1
+蘇州	su1 cieu1
+滬州	wu2 cieu1
+常州	zhiang1 cieu1
+潤州	niuing3 cieu1
+昇州	shieng1 cieu1
+通州	thung1 cieu1
+溫州	ueng1 cieu1
+台州	thai1 cieu1
+明州	mieng1 cieu1
+處州	chy3 cieu1
+衢州	giu1 cieu1
+婺州	mu3 cieu1
+睦州	muk cieu1
+嚴州	ngie1 cieu1
+信州	sing3 cieu1
+歙州	shieh cieu1
+徽州	hiu1 cieu1
+池州	dzy1 cieu1
+宣州	sioe1 cieu1
+
+煉油
+枝頭
+秦胥胥

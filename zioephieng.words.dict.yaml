@@ -30,8 +30,7 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 
-煉油	liae3 yeu1
-枝頭	ki1 deu1
+###
 暗海晶石
 安山巖
 白樺木
@@ -432,6 +431,8 @@ use_preset_vocabulary: true
 棕色羊毛
 鑽石塊
 鑽石礦石
+
+###
 矮腳雞
 白洛克雞
 白兔

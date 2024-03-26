@@ -27,12 +27,12 @@ switches:
   - name: ascii_mode
     reset: 0
     states: [漢字, 洋文]
+  - name: simplification
+    states: [正體, 简体]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct
     states: [句讀, 符號]
-  - name: simplification
-    states: [正體, 简体]
   - name: ascii_punct
     states: [ 。，, ．， ]
     reset: 0
@@ -56,11 +56,10 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - script_translator
     - punct_translator
     - script_translator
     - script_translator@luna_pinyin
-    - table_translator@stroke
-    - table_translator
     - reverse_lookup_translator
     
   filters:
