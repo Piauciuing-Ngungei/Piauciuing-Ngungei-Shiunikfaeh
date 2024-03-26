@@ -56,7 +56,6 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - script_translator
     - punct_translator
     - script_translator
     - script_translator@luna_pinyin
