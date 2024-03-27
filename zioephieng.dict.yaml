@@ -54,11 +54,11 @@ import_tables:
 
 #附加字表
 
-、	toeng3
-·	kak
-'	siau2	0.001%
-♀	ni3
-♂	ne1
+#、	toeng3
+#·	kak
+#'	siau2	0.001%
+#	ni2
+#♂	ne1
 
 哪	gha1{訓讀}
 的	kek{訓讀}
@@ -72,27 +72,27 @@ import_tables:
 它	gei1{訓讀}
 們	la1{訓讀}
 
-⓪	lieng1
-①	ik
-②	ni3
-③	sae1
-④	sy3
-⑤	ngu2
-⑥	luk
-⑦	tshik
-⑧	paeh
-⑨	kieu2
-⑩	zhik
-⑪	zhik ik
-⑫	zhik ni3
-⑬	zhik sae1
-⑭	zhik sy3
-⑮	zhik ngu2
-⑯	zhik luk
-⑰	zhik tshik
-⑱	zhik paeh
-⑲	zhik kieu2
-⑳	ni3 zhik
+#⓪	lieng1
+#①	ik
+#②	ni3
+#③	sae1
+#④	sy3
+#⑤	ngu2
+#⑥	luk
+#⑦	tshik
+#⑧	paeh
+#⑨	kieu2
+#⑩	zhik
+#⑪	zhik ik
+#⑫	zhik ni3
+#⑬	zhik sae1
+#⑭	zhik sy3
+#⑮	zhik ngu2
+#⑯	zhik luk
+#⑰	zhik tshik
+#⑱	zhik paeh
+#⑲	zhik kieu2
+#⑳	ni3 zhik
 
 #à	a5
 #À	a5
@@ -182,6 +182,7 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+𦿏	mung3
 膀	pong2{翅膀}
 喉	wu1
 桴	bu1
@@ -252,12 +253,11 @@ M̌	mu2{實爲m2}
 轍	chieh
 涸	kok
 誕	tae3
-產	so2{產母}
 伏	phuk{合伏睏}
 邏	lou1{巡邏}
 負	veu3
 帥	sa3
-俱	giu3{與具同，通假}	1%
+俱	giu3{與具同，通假}
 劊	khuei3
 聵	khuei3
 愧	giu3
@@ -589,7 +589,7 @@ M̌	mu2{實爲m2}
 趤	dong3
 煸	piae1
 揸	tso1
-查	tso1{姓氏}	1%
+查	tso1{姓氏}
 焋	tsong3
 䛀	phoe2
 恘	tshieu1
@@ -680,7 +680,6 @@ M̌	mu2{實爲m2}
 箇	geh
 個	keh
 个	keh
-何物	ga1 mek
 許頭	hei2 deu1
 許場	hei2 dak
 #垃圾
@@ -743,7 +742,6 @@ M̌	mu2{實爲m2}
 咔	kha2
 咧	lieh
 吱	tsy1
-吱	ki1
 嗪	zing1
 哌	pha3
 唣	zau3
@@ -837,7 +835,7 @@ M̌	mu2{實爲m2}
 朣	dziong1
 挾	geh
 挾	giaeh
-穿	chiuing1	0.0001%
+#穿	chiuing1	0.0001%
 繰	tshiau1
 遷	tshie1
 鏨	ze2
@@ -878,7 +876,7 @@ M̌	mu2{實爲m2}
 蝮	phuk
 破	pha3
 跛	pa2
-可	khak{一般疑問句虛詞}	10
+#可	khak{一般疑問句虛詞}	10
 可	kha3{可汗}	10
 解	ga2
 膯	teng1
@@ -1265,7 +1263,7 @@ M̌	mu2{實爲m2}
 窮	giung1
 藭	giung1
 𥨪	giung1
-馮	vung1{僅用作姓氏}
+馮	vung1{僅作姓氏}
 堸	vung1
 汎	vung1
 芃	vung1
@@ -1346,7 +1344,7 @@ M̌	mu2{實爲m2}
 𢄐	mung1
 髳	mung1
 蠓	mung1
-𦿏	mung1
+#𦿏	mung1
 雺	mung1
 霿	mung1
 霚	mung1
@@ -27136,7 +27134,7 @@ M̌	mu2{實爲m2}
 椅	iu2	1%
 擲	dzak
 #個	kek
-可	kha2{{一般疑問句虛詞}	100
+#可	kha2{{一般疑問句虛詞}	100
 #檻	khae3
 窘	khiuing2
 #菌	khiuing2
@@ -27180,8 +27178,6 @@ M̌	mu2{實爲m2}
 噪	tshau3
 鬚	su1
 盛	zang3
-#剩	zang3
-#查	zo1
 査	zo1
 塑	suk
 閘	zaeh
