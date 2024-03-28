@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.25
+# 版本號：24.3.28
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.3.25"
+version:	"2024.3.28"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1470,316 +1470,322 @@ use_preset_vocabulary: true
 
 ###J 人品親屬
 
-男個
-男子客
-女個
-老人客
-老安人客
-老老
-老老娘
-老老娘ㄦ
-後生ㄦ
-院主ㄦ
-縣主ㄦ
-縣主
-老院主
-獨自人
-單獨自人
-守寡老安人
-單邊人
-頭媌
-頭髦
-頭媌宕
-頭髦宕
-姘頭
-細ㄦ
-瑣細ㄦ
-瑣個ㄦ
-蟹飯
-娒娒
+男個	ne1 keh
+男子客	ne1 tsy2 khak
+女個	ni2 keh
+老人客	lau2 ning1 khak
+老安人客	lau2 oe1 ning1 khak
+老老	lau2 lau2
+老老娘	lau2 lau2 niang1
+老老娘ㄦ	lau2 lau2 niang1 ngi1
+後生ㄦ	gheu2 sang1 ngi1
+院主ㄦ	yoe3 ciu2 ngi1
+縣主ㄦ	yoe3 ciu2 ngi1
+縣主	yoe3 ciu2
+老院主	lau2 yoe3 ciu2
+獨自人	duk zy3 ning1
+單獨自人	tae1duk zy3 ning1
+守寡老安人	shieu2 kuo2 lau2 oe1 ning1
+單邊人	tae1 piae1 ning1
+頭媌	deu1 mau1
+頭髦	deu1 mau1
+頭媌宕	deu1 mau1 dong3
+頭髦宕	deu1 mau1 dong3
+姘頭	phieng1 deu1
+細ㄦ	si3 ngi1
+瑣細ㄦ	sou2 si3 ngi1
+瑣個ㄦ	sou2 keh ngi1
+蟹飯	ha2 vae3
+娒娒	mei1 mei1
 娒	mei1
-男ㄦ
-女ㄦ
-養偷生
-敗家子
-浪敗子
-共姓人
-自人
-自賴人
-外人
-外地人
-外路人
-同鄉人
-共地方人
-地方人
-打生人
-過路人
-行路過人
-人客
-城底人
-鄉下人
-田礌
-山頭人
-巖撞
-共家人
-本地人
-外國人
-番人
-華僑人
-內行
-內行人
-外行
-外行人
-三腳蝦蟆ㄦ
-做生活
-做息
-做夜息
-做工人
-種田人
-打魚人
-看牛細ㄦ
-打船客
-船老大
-長年
-相幫
-散工
-擔班
-生意人
-老闆
-老闆娘
-伙計
-牙郎
-送人媽
-送人嬤
-行販
-醫生
-醫師
-先生
-醫藥先生
-教書先生
-先生母
-先生姥
-同學
-學生
-師父
-徒弟
-學生意
-鄰舍
-朋友
-手藝人
-車師
-打銅老師
-老司
-打銅擔
-補鑊老師
-打小鐵ㄦ
-做木老師
-大木老師
-方木老師
-圓木老師
-木匠老師
-泥水老師
-做鞋老師
-裁縫老師
-做衣裳老師
-剃面毛
-改額
-繞額
-剃頭老師
-打鐵老師
-煺豬老師
-廚房老師
-供帳老師
-差人
-皂隸
-傭人
-奶嫂
-保姆
-阿嬤
-阿嫂
-丫環
-息奶ㄦ
-洗生婆
-出家人
-和尚
-師姑娘
-道人
-道士
-齋娘
-殿居ㄦ
-極人
-財主
-貓屄客
-走江湖個
-丐ㄦ
-討飯丐ㄦ
-討飯人
-取米個
-土匪
-搶劫賊
-倭ㄦ賊
-三隻手
-套手
-剪綹
-拐ㄦ
-癲人
-唐三
-唐頭三
-獃大
-兩百五
-十三點
-流氓
-爛粒
-闌淪
-闌淪客
-倒散賴
-空手飯人
-傢伙
-上輩
-下輩
-共輩
-老太
-老太手裏
-老太墳
-太上太
-阿太
-阿爺
-祖公爺
-娘娘
-祖婆娘
-外公爺
-姑婆爺
-娘婆
-阿伯
-阿大
-阿爸
-阿媽
-親爺
-親娘
-後嬸
-晚娘
-後叔
-伯伯
-大伯伯
-二伯伯
-阿嬤
-大阿嬤
-二阿嬤
-阿大
-二大
-三大
-瑣大
-阿叔
-二叔
-三叔
-瑣叔
-阿嬸
-二嬸
-三嬸
-瑣嬸
-夫爺
-阿孃
-阿姑
-舅舅
-大舅舅
-二舅舅
-三舅舅
-妗娘ㄦ
-丈人
-丈人老
-丈母娘
-地家爺
-地家娘
-老公
-男子
-老安
-老安人
-屋裏
-屋裏人ㄦ
-前婚
-姨娘ㄦ
-阿哥
-大哥
-二哥
-三哥
-阿弟
-兄弟
-兄弟ㄦ
-盟兄弟
-阿舅
-老婆舅
-阿妗
-阿嫂
-兄嫂
-弟新婦
-姊妹
-姊妹ㄦ
-姊妹隊
-阿姐
-阿奼
-姊夫
-阿妹
-妹夫
-叔伯兄弟
-叔伯姊妹
-房份
-親房
-表兄弟
-表姊妹
-表弟
-表兄
-表奼
-表妹
-大伯爺
-兄叔
-瑣叔ㄦ
-姑娘
-姑娘ㄦ
-叔伯母
-兩姨夫
-兩親家
-親家
-兩親家母
-親家母
-兩親家母娘
-當大ㄦ
-單個ㄦ
-瑣ㄦ
-新婦
-阿媛
-新婦媛
-新婦ㄦ
-養新婦ㄦ
-帶來個
-授ㄦ
-親ㄦ
-親女兒
-女ㄦ婿
-阿侄
-侄女
-外甥
-外甥女
-內侄
-內侄女
-孫ㄦ
-孫新婦
-孫女
-女ㄦ孫
-孫女婿
-外甥孫
-外甥孫女
-玄孫
-爺娘
-兩夫妻
-兩老
-兩爺ㄦ
-兩娘ㄦ
-子息
-子女
-ㄦ奶ㄦ
-親眷
+男ㄦ	ne1 ngi1
+女ㄦ	na2 ngi1
+養偷生	yang2 theu1 sang1
+敗家子	ba3 ko1 tsy2
+浪敗子	long3 ba3 tsy2
+共姓人	giung3 sieng3 ning1
+自人	zy3 ning1
+自賴人	zy3 la3 ning1
+外人	nga3 ning1
+外地人	nga3 di3 ning1
+外路人	nga3 lu3 ning1
+同鄉人	dung1 hiang1 ning1
+共地方人	giung3 di3 fong1 ning1
+地方人	di3 fong1 ning1
+打生人	tang2 sang1 ning1
+過路人	kou3 lu3 ning1
+行路過人	ghang1 lu3 kou3 ning1
+人客	ning1 khak
+城底人	zhieng1 ti2 ning1
+鄉下人	hiang1 gho2 ning1
+田礌	diae1 lei3
+山頭人	sae1 deu1 ning1
+巖撞	ngae1 dziong3
+共家人	giung3 ko1 ning1
+本地人	peng2 di3 ning1
+外國人	nga3 kuek ning1
+番人	fae1 ning1
+華僑人	wo1 giau1 ning1
+內行	nei3 ghong1
+內行人	nei3 ghong1 ning1
+外行	nga3 ghong1 ning1
+外行人	nga3 ghong1 ning1
+三腳蝦蟆ㄦ	sae1 kiak ho1 mo1 ngi1
+做生活	tsou3 sang1 woeh
+做息	tsou3 siek
+做夜息	tsou3 ya3 siek
+做工人	tsou3 kung1 ning1
+種田人	ciung3 diae1 ning1
+打魚人	tang2 ngei1 ning1
+看牛細ㄦ	khoe3 ngieu1 si3 ngi1
+打船客	tang2 zhioe1 khak
+船老大	zhioe1 lau2 da3
+長年	jiang1 niae1
+相幫	siang1 pong1
+散工	sae2 kung1
+擔班	tae1 pae1
+生意人	sang1 i3 ning1
+老闆	lau2 pae2
+老闆娘	lau2 pae2 niang1
+伙計	hou2 ki3
+牙郎	ngo1 long1
+送人媽	sung3 ning1 mu2
+送人嬤	sung3 ning1 mou2
+行販	ghong1 fae3
+醫生	i1 sang1
+醫師	i1 sy1
+先生	siae1 sang1
+醫藥先生	i1 yak siae1 sang1
+教書先生	kau1 shy1 siae1 sang1
+先生母	siae1 sang1
+先生姥	siae1 sang1 mu2
+同學	dung1 ghok
+學生	ghok sang1
+師父	sy1 vu2
+徒弟	du1 di2
+學生意	ghok sang1 i3
+鄰舍	ling1 shio3
+朋友	beng1 yeu2
+朋友	bang1 yeu2
+手藝人	shieu2 ngi3 ning1
+車師	chio1 sy1
+打銅老師	tang2 dung1 lau2 sy1
+老司	lau2 sy1
+打銅擔	tang2 dung1 tae3
+補鑊老師	pu2 wok lau2 sy1
+打小鐵ㄦ	tang2 siau2 thiaeh ngi1
+做木老師	tsou3 muk lau2 sy1
+大木老師	dou3 muk lau2 sy1
+方木老師	fong1 muk lau2 sy1
+圓木老師	yoe1 muk lau2 sy1
+木匠老師	muk ziang3 lau2 sy1
+泥水老師	ni1 shiu2 lau2 sy1
+做鞋老師	tsou3 gha1 lau2 sy1
+裁縫老師	zai1 vung1 lau2 sy1
+做衣裳老師	tsou3 i1 zhiang1 lau2 sy1
+剃面毛	thi3 mie3 mau1
+改額	kai2 ngak
+繞額	niau3 ngak
+剃頭老師	thi3 deu1 lau2 sy1
+打鐵老師	tang2 thiaeh lau2 sy1
+煺豬老師	thei1 tsy1 lau2 sy1
+廚房老師	jiu1 bong1 lau2 sy1
+供帳老師	kiung1 ciang3 lau2 sy1
+差人	tsha1 ning1
+皂隸	zau2 li3
+傭人	yung1 ning1
+奶嫂	na2 sau2
+保姆	pau2 meu3
+阿嬤	ak mou2
+阿嫂	ak sau2
+丫環	o1 guae1
+息奶ㄦ	siek na2 ngi1
+洗生婆	si2 sang1 bou1
+出家人	chiuik ko1 ning1
+和尚	ghou1 zhiang3
+師姑娘	sy1 ku1 niang1
+道人	dau2 ning1
+道士	dau2 zy2
+齋娘	tsa1 niang1
+殿居ㄦ	diae3 kei1 ngi1
+極人	giek ning1
+財主	zai1 ciu2
+貓屄客	mau1 pi1 khak
+走江湖個	tseu2 kong1 wu1
+丐ㄦ	ka3 ngi1
+討飯丐ㄦ	thau2 vae3 ka3 ngi1
+討飯人	thau2 vae3 ning1
+取米個	tshiu2 mi2
+土匪	thu2 fi2
+搶劫賊	tshiang2 kieh zek
+倭ㄦ賊	ou1 ngi1 zek
+三隻手	sae1 tsak shieu2
+套手	thau3 shieu2
+剪綹	tsie2 lieu2
+拐ㄦ	ga2 ngi1
+癲人	tiae1 ning1
+唐三	dong1 sae1
+唐頭三	dong1 deu1
+獃大	ngai1 dou3
+兩百五	liang2 pak ngu2
+十三點	zhik sae1 tiae2
+流氓	lieu1 mang1
+爛粒	lae3 lik
+闌淪	lae1 liuing1
+闌淪客	lae1 liuing1 khak
+倒散賴	tau2 sae2 la3
+空手飯人	khung1 shieu2 vae3 ning1
+傢伙	ko1 hou2
+上輩	zhiang3 pei3
+下輩	gho2 pei3
+共輩	giung3 pei3
+老太	lau2 tha3
+老太手裏	lau2 tha3 shieu2 li2
+老太墳	lau2 tha3 veng1
+太上太	tha3 zhiang3 tha3
+阿太	ak tha3
+阿爺	ak ya1
+祖公爺	tsu2 kung1 ya1
+娘娘	niang1 niang1
+祖婆娘	tsu2 bou1 niang1
+外公爺	nga3 kung1 ya1
+姑婆爺	ku1 bou1 ya1
+娘婆	niang1 bou1
+阿伯	ak pak
+阿大	ak da3
+阿爸	ak pa1
+阿媽	ak mu2
+親爺	tshing1 ya1
+親娘	tshing1 niang1
+後嬸	gheu2 shing2
+晚娘	mae2 niang1
+後叔	gheu2 shiuk
+伯伯	pak pak
+大伯伯	dou3 pak pak
+二伯伯	ni3 pak pak
+阿嬤	ak mou2
+大阿嬤	dou3 ak mou2
+二阿嬤	ni3 ak mou2
+阿大	ak da3
+二大	ni3 da3
+三大	sae1 da3
+瑣大	sou2 da3
+阿叔	ak shiuk
+二叔	ni3 shiuk
+三叔	sae1 shiuk
+瑣叔	sou2 shiuk
+阿嬸	ak shing2
+二嬸	ni3 shing2
+三嬸	sae1 shing2
+瑣嬸	sou2 shing2
+夫爺	fu1 ya1
+阿孃	ak niang1
+阿姑	ak ku1
+舅舅	gieu2 gieu2
+大舅舅	dou3 gieu2 gieu2
+二舅舅	ni3 gieu2 gieu2
+三舅舅	sae1 gieu2 gieu2
+妗娘ㄦ	ging1 niang1 ngi1
+丈人	jiang2 ning1
+丈人老	jiang2 ning1 lau2
+丈母娘	jiang2 meu2 niang1
+地家爺	di3 ko1 ya1
+地家娘	di3 ko1 niang1
+老公	lau2 kung1
+男子	ne1 tsy2
+老安	lau2 oe1
+老安人	lau2 oe1 ning1
+屋裏	uk li2
+屋裏人ㄦ	uk li2 ning1 ngi1
+前婚	ziae1 hueng1
+姨娘ㄦ	yi1 niang1 ngi1
+阿哥	ak kou1
+大哥	da3 kou1
+二哥	ni3 kou1
+三哥	sae1 kou1
+阿大	ak dou3
+阿弟	ak di2
+兄弟	hioeng1 di2
+兄弟ㄦ	hioeng1 di2 ngi1
+盟兄弟	mieng1 hioeng1 di2
+阿舅	ak gieu2
+老婆舅	lau2 bou1 gieu2
+阿妗	ak ging1
+阿嫂	ak sau2
+兄嫂	hioeng1 sau2
+弟新婦	di2 sing1 veu2
+姊妹	tsy2 mei3
+姊妹ㄦ	tsy2 mei3 ngi1
+姊妹隊	tsy2 mei3 dei3
+阿姐	ak tsia2
+阿奼	ak tso3
+姊夫	tsy2 fu1
+阿妹	ak mei3
+妹夫	mei3 fu1
+叔伯兄弟	shiuk pak hioeng1 di2
+叔伯姊妹	shiuk pak tsy2 mei3
+房份	bong1 veng3
+親房	tshing1 bong1
+表兄弟	piau2 hioeng1 di2
+表姊妹	piau2 tsy2 mei3
+表弟	piau2 di2
+表兄	piau2 hioeng1
+表奼	piau2 tso3
+表妹	piau2 mei3
+大伯爺	dou3 pak ya1
+兄叔	hioeng1 shiuk
+瑣叔ㄦ	sou2 shiuk ngi1
+姑娘	ku1 niang1
+姑娘ㄦ	ku1 niang1 ngi1
+叔伯母	shiuk pak meu2
+兩姨夫	liang2 yi1 fu1
+兩親家	liang2 tshing3 ko1
+親家	tshing3 ko1
+兩親家母	liang2 tshing3 ko1 meu2
+親家母	tshing3 ko1 meu2
+兩親家母娘	liang2 tshing3 ko1 meu2 niang1
+當大ㄦ	tong1 dou3 ngi1
+單個ㄦ	tae1 keh ngi1
+瑣ㄦ	sou2 ngi1
+新婦	sing1 veu2
+阿媛	ak yoe1
+新婦媛	sing1 veu2 yoe1
+新婦ㄦ	sing1 veu2 ngi1
+養新婦ㄦ	yang2 sing1 veu2 ngi1
+帶來個	ta3 lai1 keh
+授ㄦ	zhieu3 ngi1
+親ㄦ	tshing1 ngi1
+親女兒	tshing1 na2 ngi1
+女ㄦ婿	na2 ngi1 si3
+阿侄	ak zhik
+阿侄	ak jik
+侄女	zhik ni2
+侄女	jik ni2
+外甥	nga3 sang1
+外甥女	nga3 sang1 ni2
+內侄	nei3 zhik
+內侄	nei3 jik
+內侄女	nei3 zhik ni2
+內侄女	nei3 jik ni2
+孫ㄦ	soeng1 ngi1
+孫新婦	soeng1 sing1 veu2
+孫女	soeng1 ni2
+女ㄦ孫	na2 ngi1 soeng1
+孫女婿	soeng1 ni2 si3
+外甥孫	nga3 sang1 soeng1
+外甥孫女	nga3 sang1 soeng1
+玄孫	yoe1 soeng1
+爺娘	ya1 niang1
+兩夫妻	liang2 fu1 tshi1
+兩老	liang2 lau2
+兩爺ㄦ	liang2 ya1 ngi1
+兩娘ㄦ	liang2 niang1 ngi1
+子息	tsy2 siek
+子女	tsy2 ni2
+ㄦ奶ㄦ	ngi1 na2 ngi1
+親眷	tshing1 kioe3
 
-# K 身體
+###K 身體
 
 荒額
 禿頂
