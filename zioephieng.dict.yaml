@@ -182,6 +182,7 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+叄	sae1
 𦿏	mung3
 膀	pong2{翅膀}
 喉	wu1
@@ -3240,7 +3241,7 @@ M̌	mu2{實爲m2}
 筡	tshy1
 摴	tshy1
 疏	su1
-梳	su1	0.001%
+梳	su1
 綀	su1
 蔬	su1
 疎	su1
@@ -3445,7 +3446,7 @@ M̌	mu2{實爲m2}
 鼩	giu1
 蘧	giu1
 斪	giu1
-句	giu1	0.01%
+句	giu1{須句，地名}	0.01%
 蠷	giu1
 瞿	giu1
 欋	giu1
@@ -3564,7 +3565,7 @@ M̌	mu2{實爲m2}
 𢔢	yu1
 𥯮	yu1
 𥔢	yu1
-區	khiu1
+區	khiu1{區域}
 鰸	khiu1
 驅	khiu1
 敺	khiu1
@@ -4163,7 +4164,7 @@ M̌	mu2{實爲m2}
 䚜	pi1
 雞	ki1
 鷄	ki1
-稽	ki1
+稽	ki1{稽查；會稽}
 枅	ki1
 笄	ki1
 㮷	ki1
@@ -9981,7 +9982,7 @@ M̌	mu2{實爲m2}
 #嘔	eu1
 歐	eu1
 甌	eu1
-#區	eu1
+區	eu1{具區，即太湖}	1%
 漚	eu1
 鷗	eu1
 䁱	eu1
@@ -10083,7 +10084,7 @@ M̌	mu2{實爲m2}
 䑦	keu1
 冓	keu1
 枸	keu1
-句	keu1	10%
+句	keu1{句吳；句章；高句麗}	
 軥	keu1
 #夠	keu1
 鴝	keu1
@@ -10373,7 +10374,7 @@ M̌	mu2{實爲m2}
 蕁	de1
 䊤	de1
 㽑	de1
-參	tshe1
+參	tshe1{參加}
 驂	tshe1
 䟃	tshe1
 傪	tshe1
@@ -10501,7 +10502,7 @@ M̌	mu2{實爲m2}
 頕	tae1
 甔	tae1
 三	sae1{數詞}
-參	sae1
+參	sae1{同“叄”}
 弎	sae1
 𢁘	sae1
 鬖	sae1
@@ -11763,7 +11764,7 @@ M̌	mu2{實爲m2}
 𪏮	ni2
 𡫽	ni2
 暑	shy2
-鼠	chy2
+#鼠	chy2
 黍	shy2
 𧑓	shy2
 癙	shy2
@@ -12269,7 +12270,7 @@ M̌	mu2{實爲m2}
 綮	khi2
 卟	khi2
 䭬	khi2
-稽	khi2
+稽	khi2{稽首}
 晵	khi2
 闙	khi2
 启	khi2
@@ -16123,7 +16124,7 @@ M̌	mu2{實爲m2}
 𡛗	pi3
 匱	giu3
 蕢	giu3
-臾	giu3
+#臾	giu3
 饋	giu3
 餽	giu3
 𦆠	giu3
@@ -16786,7 +16787,7 @@ M̌	mu2{實爲m2}
 䪒	ciu3
 蛀	ciu3
 屨	kiu3
-句	kiu3	1000
+句	kiu3{句子}	1000
 蒟	kiu3
 絇	kiu3
 #瞿	kiu3	0.00001%
@@ -17616,7 +17617,7 @@ M̌	mu2{實爲m2}
 沛	phei3
 𥄔	phei3
 㤄	phei3
-會	wei3
+會	wei3{會議；機會}
 䢈	wei3
 𨘇	wei3
 禬	wei3
@@ -17640,7 +17641,7 @@ M̌	mu2{實爲m2}
 䯤	kuei3
 鬠	kuei3
 劊	kuei3
-會	kuei3
+會	kuei3{會計；財會}
 䐴	kuei3
 𢶒	kuei3
 獪	kuei3
@@ -20671,7 +20672,7 @@ M̌	mu2{實爲m2}
 雊	keu3
 彀	keu3
 𤚼	keu3
-句	keu3	1%
+#句	keu3	1%
 軥	keu3
 㝤	keu3
 搆	keu3

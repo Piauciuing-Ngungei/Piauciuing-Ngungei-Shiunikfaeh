@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.26
+# 版本號：24.3.29
 
 ---
 name: zioephieng.thawu
-version:	"2024.3.26"
+version:	"2024.3.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90660,7 +90660,7 @@ use_preset_vocabulary: true
 夷吾
 禽處
 頗高
-句卑
+句卑	keu1 pi1
 去齊
 壽夢
 姑發難壽夢
@@ -90703,10 +90703,14 @@ use_preset_vocabulary: true
 無疆
 姑蔑
 大末
-句無
-句余
-句章
+句無	keu1 mu1
+句余	keu1 yi1
+句章	keu1 ciang1
 夫椒
+須句	siu1 giu1
+句容	keu1 yung1
+具區	giu3 eu1
+姑蘇
 
 羅平	lou1 bieng1
 大越	da3 yoeh
@@ -90747,3 +90751,12 @@ use_preset_vocabulary: true
 煉油
 枝頭
 秦胥胥
+參與	sae1 yi3
+與會	yi3 wei3
+會議	wei3 ngi3
+機會	ki1 wei3
+財會	zai1 kuei3
+會稽	kuei3 ki1
+會計	kuei3 ki3
+稽查	ki1 zo1
+稽首	khi2 shieu2
