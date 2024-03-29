@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.28
+# 版本號：24.3.29
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.3.28"
+version:	"2024.3.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1787,400 +1787,417 @@ use_preset_vocabulary: true
 
 ###K 身體
 
-荒額
-禿頂
-禿頭
-頭頂心
-後枕㽘
-小氣丼
-小氣澸
-後枕椎
-腦蓋髓
-面頷
-面股
-額頭
+荒額	huong1 ngak
+禿頂	thuk tieng2
+禿頭	thuk deu1
+頭頂心	deu1 tieng2 sing1
+後枕㽘	gheu2 cing2 ghong2
+小氣丼	siau2 khi3 te2
+小氣澸	siau2 khi3 te2
+後枕椎	gheu2 cing2 jiu1
+腦蓋髓	nau2 ka3 siu2
+面頷	mie3 ge2
+面頷	mie3 ghe2
+面股	mie3 ku2
+額頭	ngak deu1
 䫦	kheh
 𩕭	kheh
-兩頜骨
-中楣
-酒丼
-酒澸
-笑靨ㄦ
-兩頜珠ㄦ
-鬢腳
-太陽筋
-頭髮
-雙個頂
-遁頭髮
-蒜髮
-頭毛纂
-髧ㄦ
-和尚頭
-西裝頭
-毛管
-風屑
-眼櫺珠
-眼櫺珠窟
-眼櫺珠圈ㄦ
-仙人頭
-瞳人
-眼汪
-眼黧毛
-眼睫毛
+兩頜骨	liang2 ge2 kuek
+兩頜骨	liang2 ghe2 kuek
+中楣	ciung1 mi1
+酒丼	tsieu2 te2
+酒澸	tsieu2 te2
+笑靨ㄦ	siau3 ieh ngi1
+兩頜珠ㄦ	liang2 ge2 ciu1 ngi1
+兩頜珠ㄦ	liang2 ghe2 ciu1 ngi1
+鬢腳	ping3 kiak
+太陽筋	tha3 yang1 king1
+頭髮	deu1 faeh
+雙個頂	siong1 keh tieng2
+遁頭髮	doeng3 deu1 faeh
+蒜髮	soe3 faeh
+頭毛纂	deu1 mau1 tsoe2
+髧ㄦ	de2 ngi1
+和尚頭	ghou1 zhiang3 deu1
+西裝頭	si1 tsong1 deu1
+毛管	mau1 kuoe2
+風屑	fung1 siaeh
+眼櫺珠	ngae2 lieng1 ciu1
+眼櫺珠窟	ngae2 lieng1 ciu1 khuek
+眼櫺珠圈ㄦ	ngae2 lieng1 ciu1 khioe1 ngi1
+仙人頭	sie1 ning1 deu1
+瞳人	dung1 ning1
+眼汪	ngae2 uong1
+眼黧毛	ngae2 li1 mau1
+眼睫毛	ngae2 tsieh mau1
+眼睫毛	ngae2 shieh mau1
 睫	shieh
-眼細毛
-眼烏珠
-眼烏
-眼涴
-眼白
-繳眼淚
-眼皮
-眼幬
-眼袋
-單臺眼
-雙臺眼
-鼻頭
-鼻頭孔
-𪖥鼻涕
-鼻頭涴
-鼻頭嘴ㄦ
-鼻頭錐ㄦ
-鼻頭梁
-紅鼻頭
-鼻頭孔毛
-耳朵
-耳朵涴
-耳朵孔
-叫嘴
-痰吐灠
-白瀑灠
-口灠水
+眼細毛	ngae2 si3 mau1
+眼烏珠	ngae2 u1 ciu1
+眼烏	ngae2 u1
+眼白	ngae2 bak
+繳眼淚	kiau2 ngae2 liu3
+眼皮	ngae2 bi1
+眼幬	ngae2 dau3
+眼袋	ngae2 dai3
+單臺眼	tae1 dai1 ngae2
+雙臺眼	siong1 dai1 ngae2
+鼻頭	bik deu1
+鼻頭	bek deu1
+鼻頭孔	bik deu1 khung2
+鼻頭孔	bek deu1 khung2
+𪖥鼻涕	hi2 bek thi3
+𪖥鼻涕	hi2 bik thi3
+鼻頭涴	bik deu1 ou3
+鼻頭涴	bek deu1 ou3
+鼻頭嘴ㄦ	bik deu1 tsy2 ngi1
+鼻頭嘴ㄦ	bek deu1 tsy2 ngi1
+鼻頭錐ㄦ	bik deu1 ciu1 ngi1
+鼻頭錐ㄦ	bek deu1 ciu1 ngi1
+鼻頭梁	bik deu1 liang1
+鼻頭樑	bek deu1 liang1
+紅鼻頭	wung1 bik deu1
+紅鼻頭	wung1 bek deu1
+鼻頭孔毛	bik deu1 khung2 mau1
+鼻頭孔毛	bek deu1 khung2 mau1
+耳朵	ni2 tou2
+耳朵涴	ni2 tou2 ou3
+耳朵孔	ni2 tou2 khung2
+嘴	tsy2
+叫嘴	kiau3 tsy2
+嘴脣	tsy2 zhiuing1
+痰唾灠	dae1 thou3 lae2
 灡	lae1
-流灠
-口舌頭
-小口舌ㄦ
-口舌頭ㄦ
-大舌
-門牙
-槽牙
-牙牀肉
-牙齒涴
-牙𥀃
-爛牙
-毀牙
-䶕牙
-#下爬
-鬍鬚
-生胡
-滿面生胡
-八字鬍ㄦ
-頭頸下
-櫺喉樁
-櫺喉
-肩胛頭
-肩胛骨
-塌肩
-手基骨
-手基肚
-肋扎下
-脟扎下
-肋肢胛下
-脟肢胛下
+白瀑灠	bak buk lae2
+口灠水	kheu2 lae2 shiu2
+流灠	lieu1 lae2
+口舌頭	kheu2 zhieh deu1
+小口舌ㄦ	siau2 kheu2 zhieh ngi1
+口舌頭ㄦ	kheu2 zhieh deu1 ngi1
+大舌	dou3 zhieh
+門牙	meng1 ngo1
+槽牙	zau1 ngo1
+牙牀肉	ngo1 zhiong1 niuk
+牙齒涴	ngo1 tshy2 ou3
+牙𥀃	ngo1 gheu3
+爛牙	lae3 ngo1
+毀牙	hiu2 ngo1
+䶕牙	bo1 ngo1
+鬍鬚	wu1 siu1
+生胡	sang1 wu1
+滿面生胡	moe2 mie3 sang1 wu1
+八字鬍ㄦ	paeh zy3 wu1 ngi1
+頭頸	deu1 kieng2
+頭頸下	deu1 kieng2 gho2
+櫺喉樁	lieng1 gheu1 ciong1
+櫺喉	lieng1 gheu1
+肩胛頭	kiae1 kaeh deu1
+肩胛骨	kiae1 kaeh kuek
+塌肩	thaeh kiae1
+手基骨	shieu2 ki1 kuek
+手基肚	shieu2 ki1 du2
+肋扎下	lek tsaeh gho2
+脟扎下	lioeh tsaeh gho2
+肋肢胛下	lek tsy1 kaeh gho2
+脟肢胛下	lioeh tsy1 kaeh gho2
 㧕	lieu1
-㧕癢
-籠心骨
-背脊骨
-背脊身
+㧕癢	lieu1 yang2
+籠心骨	lung1 sing1 kuek
+背脊身	pei3 tsiek shing1
+背脊骨	pei3 tsiek kuek
 脯	bu1
-胸脯
-奶脯下
-肚膀
-肚膀骨
-心頭
-心肝丼
-心肝澸
-奶奶
-奶頭ㄦ
-腰脯
-小肚
-肚臍窟
-手㬹頭
-手手
-濟手
-左手
-順手
-借手
-脈門
-拳頭
-手掌拍
-巴掌
-手掌心
-手甌ㄦ
-手背
-指頭ㄦ
-手指頭ㄦ
-大蠻指頭ㄦ
-瑣蠻指頭ㄦ
-指天指
-中央指
-當中指頭ㄦ
-無名指
-手指頭椏
-指甲
-指頭印
-冇腡
-虎口
-腳腳
-腳腿
-小腿
-腳肚
-腳肚珠錐ㄦ
-腳胐頭
-腳胐頭㔶
-腳眼㬹ㄦ
-腳正前
-腳正臁
-腳底板
-腳地板
-腳尖
-腳指頭ㄦ
-腳下跟頭
-腳下根臀
-腳背
-腳印
+胸脯	hiung1 bu1
+奶脯下	na2 bu1 gho2
+肚膀	du2 bong1
+肚膀骨	du2 bong1 kuek
+心頭	sing1 deu1
+心肝丼	sing1 koe1 te2
+心肝澸	sing1 koe1 te2
+奶奶	na2 na2
+奶頭ㄦ	na2 deu1 ngi1
+腰脯	iau1 bu1
+小肚	siau2 du2
+肚臍窟	du2 zi1 khuek
+手㬹頭	shieu2 tsang1 deu1
+手手	shieu2 shieu2
+濟手	tsi2 shieu2
+左手	tsou2 shieu2
+順手	zhiuing3 shieu2
+脈門	mak meng1
+拳頭	gioe1 deu1
+手掌拍	shieu2 ciang2 phak
+巴掌	po1 ciang2
+手掌心	shieu2 ciang2 sing1
+手甌ㄦ	shieu2 eu1 ngi1
+手背	shieu2 pei3
+指頭ㄦ	tsy2 deu1 ngi1
+手指頭ㄦ	shieu2 tsy2 deu1 ngi1
+大蠻指頭ㄦ	dou3 mae1 tsy2 deu1 ngi1
+瑣蠻指頭ㄦ	sou2 mae1 tsy2 deu1 ngi1
+指天指	tsy2 thiae1 tsy2
+中央指	ciung1 iang1 tsy2
+當中指頭ㄦ	tong1 ciung1 tsy2 deu1 ngi1
+無名指	mu1 mieng1 tsy2
+手指頭椏	shieu2 tsy2 deu1 o1
+指甲	tsy2 kaeh
+指頭印	tsy2 deu1 ing3
+冇腡	meu2 lou1
+虎口	hu2 kheu2
+腳腳	kiak kiak
+腳腿	kiak thei2
+小腿	siau2 thei2
+腳肚	kiak du2
+腳肚珠錐ㄦ	kiak du2 ciu1 ciu1 ngi1
+腳胐頭	kiak khuek deu1
+腳胐頭㔶	kiak khuek deu1 ke2
+腳眼㬹ㄦ	kiak ngae2 tsang1 ngi1
+腳正前	kiak cieng3 ziae1
+腳正臁	kiak cieng3 lie1
+腳底板	kiak ti2 pae2
+腳地板	kiak di3 pae2
+腳尖	kiak tsie1
+腳指頭ㄦ	kiak tsy2 deu1 ngi1
+腳下跟頭	kiak gho2 keng1 deu1
+腳下根臀	kiak gho2 keng1 doeng1
+腳背	kiak pei3
+腳印	kiak ing3
 出巴腳	chiu3 po1 kiak
 出	chiu3	15%
-赤裏巴腳
-腳底心
-皮膚
-血脈
-肚腸
-屁股臀
-臀髖
-臀爿
-臀爿腿
-臀椏
-臀卵孔
-臀卵屁頭ㄦ
-尾巴𩪘骨
-脬脬ㄦ
-奶哥鳥ㄦ
-八哥鳥ㄦ
-荔枝袋ㄦ
-臀卵脬
+赤裏巴腳	tshak li2 po1 kiak
+腳底心	kiak ti2 sing1
+皮膚	bi1 fu1
+血脈	hioeh mak
+肚腸	du2 jiang1
+屁股臀	phi3 ku2 doeng1
+臀髖	doeng1 khuoe1
+臀爿	doeng1 bae1
+臀爿腿	doeng1 bae1 thei2
+臀椏	doeng1 o1
+臀卵孔	doeng1 loe2 khung2
+臀卵屁頭ㄦ	doeng1 loe2 phi3 deu1 ngi1
+尾巴𩪘骨	mi2 po1 dziong1 kuek
+脬脬ㄦ	phau1 phau1 ngi1
+奶哥鳥ㄦ	na2 kou1 tiau2 ngi1
+八哥鳥ㄦ	paeh kou1 tiau2 ngi1
+荔枝袋ㄦ	li3 tsy1 dai3 ngi1
+臀卵脬	doeng1 loe2 phau1
 #
-臀卵峽
-卵袋
-陰袋
-卵袋子
-卵袋毛
-屄毛
-#妝屄
-裝屄
-頹漿
-月經
-身上有
-胎盤
+臀卵峽	doeng1 loe2 ghaeh
+臀卵峽	doeng1 loe2 gaeh
+卵袋	loe2 dai3
+陰袋	ing1 dai3
+卵袋子	loe2 dai3 tsy2
+卵袋毛	loe2 dai3 mau1
+屄毛	pi1 mau1
+裝屄	tsong1 pi1
+頹漿	dei1 tsiang1
+月經	ngioeh kieng1
+身上有	shing1 zhiang3 yeu2
+身上有	shing1 long3 yeu2
+胎盤	thai1 boe1
 出身裸體	chiu3 shing1 lou2 thi2
 出臀胐	chiu3 doeng1 khuek
 出膊裸	chiu3 pok lou2
-身體
-身胴
-身材
-高矮
-個子ㄦ
-塊頭
-梢架
-長人
-長甏
-大人
-大䏵
-矮人ㄦ
-矮頹哥
-相貌
-相道
-念頭
-記駁
-腔款
-勁道
-力道
-氣道
-味道
-樣致
-聲音
-胎記
-顏色
-鱗臟
+身體	shing1 thi2
+身胴	shing1 dung3
+身材	shing1 zai1
+高矮	kau1 a2
+個子ㄦ	kou3 tsy2 ngi1
+塊頭	khuei3 deu1
+梢架	sau1 ko3
+長人	jiang1 ning1
+長甏	jiang1 bang1
+大人	dou3 ning1
+大䏵	dou3 mung2
+矮人ㄦ	a2 ning1 ngi1
+矮頹哥	a2 dei1 kou1
+相貌	siang3 mau3
+相道	siang3 dau2
+念頭	niae3 deu1
+記駁	ki3 pok
+腔款	khong1 khuoe2
+勁道	kieng3 dau2
+力道	liek dau2
+氣道	khi3 dau2
+味道	mi3 dau2
+樣致	yang3 tsy3
+聲音	shieng1 ing1
+胎記	thai1 ki3
+顏色	ngae1 sek
+鱗臟	ling1 zong3
 
-#L 疾病醫療
+###L 疾病醫療
 
-生病
-病著
-病起
-人裝弗動
-#人妝弗動
-人弗好過
-人弗暢快
-人裝懀爻
-#人妝懀爻
-傷風
-破傷冷
-破傷冷熱
-傷冷痯
-凍著
-身體暖起
-頭暈
-打冷膯ㄦ
-放屁
-尿瀨出爻
-瀨尿伯
-鐾牙
-痯肚
-瀉肚
-坑鬆
-瀨積
-瀨涴ㄦ
-兩頭脫
-小腸氣
-打潮
-打三陰瘧
-驚冷
-抖起
-毛管隑起
-風癉
-打阿嚏
-種寶
-出寶
-做客
-做小客
-做大客
-野寶
-雞抽風
-疔生起
-瘑癆
-#瘑
-凍癗
-癗ㄦ
-生癗ㄦ
-坼起
-麻風病
-俰人
-烏星
-老老斑
-腳氣
-濕氣
-手釘
-腳釘
-快大疵ㄦ
-面疵ㄦ
-𥀬ㄦ結起
+生病	sang1 bieng3
+病著	bieng3 jiak
+病起	bieng3 khi2
+人裝弗動	ning1 tsong1 fek dung2
+人弗好過	ning1 fek hau2 kou3
+人弗暢快	ning1 fek chiang3 khua3
+人裝懀爻	ning1 tsong1 ua3 ghau1
+傷風	shiang1 fung1
+破傷冷	pha3 shiang1 lang2
+破傷冷熱	pha3 shiang1 lang2 nieh
+傷冷痯	shiang1 lang2 kuoe2
+凍著	tung3 jiak
+身體暖起	shing1 thi2 noe2 khi2
+頭暈	deu1 yuing3
+打冷膯ㄦ	tang2 lang2 teng1 ngi1
+放屁	fong3 phi3
+尿瀨出爻	shiu1 la3 chiuik ghau1
+瀨尿伯	la3 shiu1 pak
+鐾牙	bi3 ngo1
+痯肚	kuoe2 du2
+瀉肚	sia3 du2
+坑鬆	khang1 siung1
+瀨積	la3 tsiek
+瀨涴ㄦ	la3 ou3 ngi1
+兩頭脫	liang2 deu1 thoeh
+小腸氣	siau2 jiang1 khi3
+打潮	tang2 jiau1
+打三陰瘧	tang2 sae1 ing1 ngiak
+驚冷	kieng1 lang2
+抖起	teu2 khi2
+毛管隑起	mau1 kuoe2 gai3 khi2
+風癉	fung1 tae1
+打阿嚏	tang2 ak ti3
+種寶	ciung3 pau2
+出寶	chiuik pau2
+做客	tsou3 khak
+做小客	tsou3 siau2 khak
+做大客	tsou3 dou3 khak
+野寶	ya2 pau2
+雞抽風	ki1 chieu1 fung1
+疔生起	tieng1 sang1 khi2
+瘑癆	kou1 lau3
+凍癗	tung3 lei2
+癗ㄦ	lei2 ngi1
+生癗ㄦ	sang1 lei2 ngi1
+坼起	tshak khi2
+麻風病	mo1 fung1 bieng3
+俰人	ghou3 ning1
+烏星	u1 sieng1
+老老斑	lau2 lau2 pae1
+腳氣	kiak khi3
+濕氣	shik khi3
+手釘	shieu2 tieng1
+腳釘	kiak tieng1
+快大疵ㄦ	khua3 dou3 zy1 ngi1
+面疵ㄦ	mie3 zy1 ngi1
+𥀬ㄦ結起	ie2 ngi1 kiaeh khi2
 𥀬	ie2
-抽筋
-帶疾個
-躄腳
-躄腳人
-佝背
-佝背佬
-禿頭
-摸瞊
+抽筋	chieu1 king1
+帶疾個	ta3 zik keh
+躄腳	biek kiak
+躄腳	piek kiak
+躄腳人	biek kiak ning1
+躄腳人	piek kiak ning1
+佝背	heu1 pei3
+佝背佬	heu1 pei3 lau2
+佝	heu1
+禿頭	thuk deu1
+摸瞊	mok dong2
 瞊	dong2
-摸瞊人
-光眼人
-聾耳朵
-耳朵背
-聾𦗭
-啞佬
-爛頭ㄦ
-麻臉
-老花
-近視眼
-近視眙
-推眶眼
-雞盲眼
-睉光
-大舌
-破嘴
-大頭頸
-瓮鼻
-遁牙佬ㄦ
-六指頭ㄦ
-濟手撟
-左手撟
+摸瞊人	mok dong2 ning1
+光眼人	kuong1 ngae2 ning1
+聾耳朵	lung1 ni2 tou2
+耳朵背	ni2 tou2 bei3
+聾𦗭	lung1 bang1
+啞佬	o2 lau2
+爛頭ㄦ	lae3 deu1 ngi1
+麻臉	mo1 lae2
+老花	lau2 huo1
+近視眼	ging2 zy3 ngae2
+近視眙	ging2 zy3 tshy3
+推眶眼	thei1 khiong1 ngae2
+雞盲眼	ki1 mang1 ngae2
+睉光	zou1 kuong1
+大舌	dou3 zhieh
+破嘴	pha3 tsy2
+大頭頸	dou3 deu1 kieng2
+齆鼻	ung3 bik
+齆鼻	ung3 bek
+遁牙佬ㄦ	doeng3 ngo1 lau2 ngi1
+六指頭ㄦ	luk tsy2 deu1 ngi1
+濟手撟	tsi2 shieu2 giau1
+左手撟	tsou2 shieu2 giau1
 撟	giau1
-癱手
-白羊ㄦ
-癲起
-癲人
-熱頭氣逼底
-痧氣
-熱起
-喫傷爻
-食傷底
-打酸噆
-惡心
-噦起
-胃病
-塌臟
-兒窠塌落
-黃腫
-皮擦破爻
-搗破
-割破
-血流出
-烏紫血
-烏青
-紅起腫起
-肒膿
-大頷
-邪症
-癆病
-哮咕
-中風
-癱瘋
-獃痴
-熱黃臭
-鸕鶿臭
-老鼠痣
-痔瘡
-眙病
-#病好厘
-病好仂
-會起
-慧起
-搭脈
-開藥方
-藥房
-𢳀藥
+癱手	thae1 shieu2
+白羊ㄦ	bak yang1 ngi1
+癲起	tiae1 khi2
+癲人	tiae1 ning1
+熱頭氣逼底	nieh deu1 khi3 piek ti2
+痧氣	so1 khi3
+熱起	nieh khi2
+喫傷爻	khiek shiang1 ghau1
+食傷底	zhiek shiang1 ti2
+打酸噆	tang2 soe1 tseh
+惡心	ok sing1
+噦起	ioeh khi2
+胃病	yu3 bieng3
+塌臟	thaeh zong3
+兒窠塌落	ni1 khou1 thaeh lok
+黃腫	uong1 ciung2
+皮擦破爻	bi1 tshaeh pha3 ghau1
+搗破	tau2 pha3
+割破	koeh pha3
+血流出	hioeh lieu1 chiuik
+烏紫血	u1 tsy2 hioeh
+烏青	u1 tshieng1
+紅起腫起	wung1 khi2 ciung2 khi2
+肒膿	gueng3 nung1
+肒膿	woe3 nung1
+大頷	dou3 ghe2
+大頜	dou3 ge2
+邪症	zia1 cieng3
+癆病	lau3 bieng3
+哮咕	hau1 ku1
+中風	ciung3 fung1
+癱瘋	thae1 fung1
+獃痴	ngai1 tshy1
+熱黃臭	nieh uong1 chieu3
+鸕鶿臭	lu1 zy1 chieu3
+老鼠痣	lau2 tshy2 tsy3
+痔瘡	dzy2 tshong1
+眙病	tshy3 bieng3
+病好仂	bieng3 hau2 lek
+會起	wei3 khi2
+慧起	wi3 khi2
+搭脈	teh mak
+開藥方	khai1 yak fong1
+藥房	yak bong1
+𢳀藥	mo1 yak
 𢳀	mo1
-摹藥
-藥引
-藥粉
-搽藥
-膏藥
-打針
-打鹽水針
-掛起打
-手術
-開刀
-懵藥
-烏煙
-𤴰倒
-瘚去
+摹藥	mu1 yak
+藥引	yak ying2
+藥粉	yak feng2
+搽藥	thaeh yak
+膏藥	kau1 yak
+打針	tang2 cing1
+打鹽水針	tang2 ye1 shiu2 cing1
+掛起打	kuo3 khi2 tang2
+手術	shieu2 zhiuik
+開刀	khai1 tau1
+懵藥	mung2 yak
+烏煙	u1 iae1
+𤴰倒	nguek tau2
+瘚去	gioeh khei3
+瘚去	kioeh khei3
 瘚	gioeh
-針灸
-吸官升筒ㄦ
-煎藥
-藥茶
-藥渣
-藥鍋ㄦ
-表汗
-散風
-清火
-利濕
-解毒
-化食
+針灸	cing1 kieu2
+吸官升筒ㄦ	hik kuoe1 shieng1 dung1 ngi1
+煎藥	tsie1 yak
+藥茶	yak dzo1
+藥渣	yak tso1
+藥鍋ㄦ	yak kou1 ngi1
+表汗	piau2 ghoe3
+散風	sae3 fung1
+清火	tshieng1 hou2
+利濕	li3 shik
+解毒	ka2 duk
+化食	huo3 zhiek
 
-#M 婚喪社俗
+###M 婚喪社俗
 
 過年
 過節
