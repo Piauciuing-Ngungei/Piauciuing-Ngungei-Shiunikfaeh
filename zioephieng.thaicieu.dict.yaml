@@ -191,7 +191,6 @@ use_preset_vocabulary: true
 潺唾鹵
 口舌
 白汎
-汎	vaeh
 眼泡皮
 眼目
 腳肚
@@ -204,7 +203,6 @@ use_preset_vocabulary: true
 胸窟頭
 胸背頭
 腳㬹
-㬹	tsang1
 順隻手
 順隻腳
 順腳
@@ -607,7 +605,6 @@ use_preset_vocabulary: true
 弗來去
 有活
 會活
-𠡒	tei2
 阿嘴
 涴衲
 沙結金
@@ -630,7 +627,6 @@ use_preset_vocabulary: true
 做隊
 戳戳
 戳戳ㄦ
-㦜	hiok
 㦜起
 朝奉
 沃落落
@@ -651,13 +647,11 @@ use_preset_vocabulary: true
 兜出
 兜飯
 亂𠡒自念
-𣥼	tsy3
 𣥼飯
 無用
 素性
 性子格
 旋人
-拾	ngeh
 隆手腳
 隆袖子管
 擰起
@@ -670,8 +664,6 @@ use_preset_vocabulary: true
 白卵頭念
 卵頭
 清盯
-盯	tieng1
-烙	kok
 轉頭
 側耳朵
 澆壅
@@ -703,7 +695,6 @@ use_preset_vocabulary: true
 欺待
 無關繫
 躁動
-吔	ia1
 戲謾
 講戲謾
 捱捱
@@ -883,7 +874,6 @@ use_preset_vocabulary: true
 #三門吳語
 
 啊㖠
-㖠	na1
 挨挨手
 矮侏侏
 矮㑁㑁
@@ -937,7 +927,6 @@ use_preset_vocabulary: true
 拗口舌頭
 拗塢
 拗糍
-擙	au3
 擙擙板
 擙桶
 擙杆
@@ -977,7 +966,6 @@ use_preset_vocabulary: true
 白糖
 白鰷
 白𤶃
-𤶃	diau3
 白茶
 白幡
 白□□
@@ -1110,7 +1098,6 @@ use_preset_vocabulary: true
 伴姑
 伴姑姐
 塳壅
-塳	bung1
 蓬臭
 篷㔶ㄦ
 篷布
@@ -1298,7 +1285,6 @@ use_preset_vocabulary: true
 竹管ㄦ筒
 竹管ㄦ
 竹掃簛
-簛	si1
 竹槍
 竹雈頭
 竹雈頭摝
@@ -1335,7 +1321,6 @@ use_preset_vocabulary: true
 沱浪天
 沱浪天架
 簤籮
-簤	da2
 拕白
 拕藤
 拕煙
@@ -1434,7 +1419,6 @@ use_preset_vocabulary: true
 頭頸項
 頭關
 頭圞四圈
-圞	loe1
 頭路
 頭毛
 頭日
@@ -1620,7 +1604,6 @@ use_preset_vocabulary: true
 肚腸
 肚裡
 肚飽肚㾎
-㾎	aeh
 肚飽眼朆飽
 肚褡袋
 肚褡
@@ -1630,7 +1613,6 @@ use_preset_vocabulary: true
 肚才
 大後日
 大前日
-𠏾	dza3	
 𠏾肚
 𠏾血
 𠏾涴
@@ -1649,7 +1631,6 @@ use_preset_vocabulary: true
 澤定
 澤水
 鋥咣亮
-咣	kuang1
 鋥咣燈亮
 鋥亮
 橦株
@@ -2178,7 +2159,6 @@ use_preset_vocabulary: true
 豁拳
 豁枷
 𢞕朮朮
-𢞕	huok
 𢞕怯怯
 𢞕驚𢞕捉
 𢞕人相
@@ -2289,7 +2269,6 @@ use_preset_vocabulary: true
 一記生
 一記
 一腳牮
-牮	tsiae3
 一腳上一腳落
 一摑搭
 一老一實
@@ -2320,7 +2299,6 @@ use_preset_vocabulary: true
 一丁
 一刹時
 一𤦘
-𤦘	tshiak
 一碗水掇平
 一垡頓
 一市洋
@@ -2423,7 +2401,6 @@ use_preset_vocabulary: true
 解洋錢
 介麼
 吤吤屌
-吤	ka3
 吤吤
 庎棚
 庎櫥
@@ -2806,7 +2783,6 @@ use_preset_vocabulary: true
 見講
 見鬼念
 見鬼㨃
-㨃	tei2
 見日頭影
 見人拉涴朏臀癢
 結蒲
@@ -2874,7 +2850,6 @@ use_preset_vocabulary: true
 繳躸身
 繳身家
 藠頭槌
-藠	kiau2
 藠槌
 叫翻天
 叫反天
@@ -2916,10 +2891,8 @@ use_preset_vocabulary: true
 緊打緊
 卷翻江
 龜鮕
-鮕	ku1
 歸家
 䲅魚
-䲅	kiu1
 䲅魚鯗
 鮈鮕
 鬼辵樣
@@ -3016,7 +2989,6 @@ use_preset_vocabulary: true
 過過過
 過路客
 過𢚘
-𢚘	ngie3
 過年節到
 過人
 過心
@@ -3252,7 +3224,6 @@ use_preset_vocabulary: true
 朗繃繃
 浪頭
 浪蹚
-蹚	thong1
 撈漉
 牢頭
 牢監
@@ -3399,7 +3370,6 @@ use_preset_vocabulary: true
 裡壁
 裡手
 鳢蔔槁
-鳢	li2
 鱧槁
 鱧槁段
 利市
@@ -3633,7 +3603,6 @@ use_preset_vocabulary: true
 猛烹日頭
 孟浪
 䓝菜
-䓝	mang3
 摸着摸
 摸盲
 摸摸索索
@@ -4199,7 +4168,6 @@ use_preset_vocabulary: true
 屋檐
 屋上
 𨞑膿臭
-𨞑	ung3
 齆齆聲
 齆聲齆氣
 阿嘴
@@ -4219,7 +4187,6 @@ use_preset_vocabulary: true
 拜歲客
 斑蔗
 斑𤠠
-𤠠	sa1
 板頭跳
 板田
 板坑
@@ -4312,7 +4279,6 @@ use_preset_vocabulary: true
 撇腳折手
 偏得
 乒呤乓唥
-唥	lang1
 䏘夾女
 䏘夾兒
 䏘夾
@@ -4407,7 +4373,6 @@ use_preset_vocabulary: true
 駛車證
 駛車人
 三鯧四鰳
-鰳	lek
 三不識
 三角犁頭
 三卡
@@ -4438,7 +4403,6 @@ use_preset_vocabulary: true
 山角落頭
 山坑
 山坑埆塱
-塱	long2
 山雞頭
 山蟣䂻
 山金橘
@@ -4635,7 +4599,6 @@ use_preset_vocabulary: true
 水刺
 水浸糕
 水栀花
-栀	tsy1
 水泓亮
 水汪嫩
 水搵臭
@@ -4643,12 +4606,10 @@ use_preset_vocabulary: true
 水鑊布
 水洋
 水䱠
-䱠	zae2
 稅屋
 西頭
 西人臭
 西𣓒
-𣓒	tshae3
 洗頭膏
 洗頭水
 洗頭油
@@ -4901,7 +4862,6 @@ use_preset_vocabulary: true
 單徛人
 單件布衫
 單邊𨆢
-𨆢	lei3
 單邊拈
 單邊笡
 單衫
@@ -4928,7 +4888,6 @@ use_preset_vocabulary: true
 打珓杯
 打氣架
 打腳𢴬
-𢴬	pae3
 打亂仗樣
 打龍
 打盲
@@ -5010,7 +4969,6 @@ use_preset_vocabulary: true
 倒打轉
 倒櫼
 倒著
-箌	tau3
 箌塘
 咄人
 咄死罵娘
@@ -5202,7 +5160,6 @@ use_preset_vocabulary: true
 丁丁
 丁丁大
 叮呤咑唥
-咑	tang1
 叮呤噹啷
 釘錘
 釘卵繃硬
@@ -5741,7 +5698,6 @@ use_preset_vocabulary: true
 烏蔥
 烏滋滋
 烏𪐞
-𪐞	tu3
 烏娃兒
 烏娃
 烏飯麻糍
@@ -6044,7 +6000,6 @@ use_preset_vocabulary: true
 姨公
 姨娘
 蟳塘
-蟳	zing1
 蟳籠
 玄孫
 懸定蕩空
@@ -6250,9 +6205,7 @@ use_preset_vocabulary: true
 樹腦
 樹丫杈
 樹𤢎
-𤢎	tong1
 樹栽
-踭	tsang1
 樹踭
 樹踭頭
 樹漿
