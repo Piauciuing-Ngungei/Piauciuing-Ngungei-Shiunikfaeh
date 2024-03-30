@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.25
+# 版本號：24.3.30
 
 ---
 name: zioephieng
-version:	"2024.3.25"
+version:	"2024.3.30"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -635,7 +635,6 @@ M̌	mu2{實爲m2}
 沛	pha3
 貝	pa3
 害	gha3
-解	ka2
 卡	kha2
 嗍	siok
 嗦	sok
@@ -705,7 +704,7 @@ M̌	mu2{實爲m2}
 燴	wei3
 熗	tshiang3
 訤	gau1
-也	ya2
+#也	ya2
 何	ga1
 甾	zai1
 荰	du2
@@ -879,7 +878,7 @@ M̌	mu2{實爲m2}
 跛	pa2
 #可	khak{一般疑問句虛詞}	10
 可	kha3{可汗}	10
-解	ga2
+解	gha2{地名，姓氏}
 膯	teng1
 撥	boeh
 蕻	hung3
@@ -2766,7 +2765,7 @@ M̌	mu2{實爲m2}
 䱌	yi1
 #姬	yi1
 #台	yi1
-眙	yi1
+眙	yi1{盱眙}
 瓵	yi1
 時	zy1
 旹	zy1
@@ -5678,7 +5677,7 @@ M̌	mu2{實爲m2}
 賁	peng1
 䴅	peng1
 犇	peng1
-論	leng1
+論	leng1{論語}
 崘	leng1
 掄	leng1
 菕	leng1
@@ -8478,7 +8477,7 @@ M̌	mu2{實爲m2}
 桑	song1
 桒	song1
 𠸶	song1
-喪	song1
+喪	song1{喪事}
 𦅇	song1
 𩦌	song1
 康	khong1
@@ -8926,7 +8925,7 @@ M̌	mu2{實爲m2}
 䭢	nang1
 嬣	nang1
 怦	phang1
-姘	phang1
+#姘	phang1
 閛	phang1
 𤘾	phang1
 伻	phang1
@@ -10852,7 +10851,7 @@ M̌	mu2{實爲m2}
 芟	sae1
 穇	sae1
 𩌰	sae1
-監	kae1
+監	kae1{監督}
 礛	kae1
 𥌈	kae1
 鑑	kae1
@@ -12311,12 +12310,12 @@ M̌	mu2{實爲m2}
 㪏	pi2
 𤽊	pi2
 蟹	ha2
-䲒	gho2
-解	ga2
-獬	gho2
-澥	gho2
-嶰	gho2
-𨼬	gho2
+䲒	gha2
+解	ga2{切割}
+獬	gha2
+澥	gha2
+嶰	gha2
+𨼬	gha2
 買	ma2
 嘪	ma2
 蕒	ma2
@@ -12341,9 +12340,9 @@ M̌	mu2{實爲m2}
 #躷	o2
 擺	pa2
 捭	pa2
-解	ka2
-薢	ko2
-檞	ko2
+解	ka2{解放}
+薢	ka2
+檞	ka2
 灑	sa2
 𩌦	sa2
 躧	sa2
@@ -12537,7 +12536,7 @@ M̌	mu2{實爲m2}
 䑂	yi2
 𦚪	yi2
 倍	bei2
-菩	bei2
+#菩	bei2
 蓓	bei2
 軫	cing2
 縝	cing2
@@ -14948,7 +14947,7 @@ M̌	mu2{實爲m2}
 𩣸	veu2
 䧞	veu2
 㷆	veu2
-菩	veu2
+#菩	veu2
 𧌈	veu2
 缶	feu2
 缹	feu2
@@ -16411,7 +16410,7 @@ M̌	mu2{實爲m2}
 茡	zy3
 芓	zy3
 孖	zy3
-眙	tshy3
+眙	tshy3{直視也}
 佁	tshy3
 䰡	tshy3
 𦥊	tshy3
@@ -17184,7 +17183,7 @@ M̌	mu2{實爲m2}
 盻	yi3
 䦏	yi3
 稧	yi3
-契	khi3
+契	khi3{契約，契合}
 栔	khi3
 罊	khi3
 䏿	khi3
@@ -17727,10 +17726,10 @@ M̌	mu2{實爲m2}
 𡐠	kuo3
 罣	kuo3
 懈	ka3
-解	ka3
-繲	ko3
-廨	ko3
-薢	ko3
+解	ka3{解元，解送}
+繲	ka3
+廨	ka3
+薢	ka3
 㾏	ko3
 #隘	o3
 𨽴	o3
@@ -17739,7 +17738,7 @@ M̌	mu2{實爲m2}
 䅬	o3
 賹	o3
 邂	gha3
-解	gha3
+#解	gha3
 賣	ma3
 畫	wo3
 詿	wo3
@@ -18597,7 +18596,7 @@ M̌	mu2{實爲m2}
 𣴞	beng3
 顐	ngueng3
 諢	ngueng3
-論	leng3
+論	leng3{討論}
 溣	leng3
 碖	leng3
 #奔	peng3
@@ -20136,7 +20135,7 @@ M̌	mu2{實爲m2}
 儾	nong3
 灢	nong3
 㚂	nong3
-喪	song3
+喪	song3{喪失}
 𠸶	song3
 攩	wong3
 #擴	wong3
@@ -20996,7 +20995,7 @@ M̌	mu2{實爲m2}
 顑	ngae3
 鑑	kae3
 鑒	kae3
-監	kae3
+監	kae3{太監}
 𥌈	kae3
 㔋	kae3
 懺	tshae3
@@ -22553,7 +22552,7 @@ M̌	mu2{實爲m2}
 𢇓	gik
 乞	khik
 䒗	khik
-契	khik
+契	khik{契丹}
 月	ngioeh
 刖	ngioeh
 跀	ngioeh
@@ -23589,7 +23588,7 @@ M̌	mu2{實爲m2}
 挈	khiaeh
 㼤	khiaeh
 𡔢	khiaeh
-契	khiaeh
+契	khiaeh{契闊}
 栔	khiaeh
 鍥	khiaeh
 蛪	khiaeh
@@ -25496,7 +25495,7 @@ M̌	mu2{實爲m2}
 𠣵	bek
 踣	bek
 仆	bek
-菩	bek
+#菩	bek
 垘	bek
 䞳	bek
 䵗	bek
@@ -26714,7 +26713,7 @@ M̌	mu2{實爲m2}
 湗	fung3
 葡	bu1
 礡	bok
-咐	pu3
+#咐	pu3
 袝	bu3
 埠	bu3
 匄	ka3
@@ -27115,16 +27114,16 @@ M̌	mu2{實爲m2}
 #蕩	dang2
 𢫭	niok
 塲	dang2
-場	dak
+#場	dak
 帉	feng3
 峧	gau3
 絞	gau2
 靠	gau3
-也	gha2
+#也	gha2
 畸	gi2
-勁	gieng3
+#勁	gieng3
 躿	gong3
-㽘	gong3
+#㽘	gong3
 擱	kok
 跍	gu1
 聵	guei3
@@ -27159,8 +27158,8 @@ M̌	mu2{實爲m2}
 五	ngu2{慣用音：ňg}
 伍	ngu2{慣用音：ňg}
 午	ngu2{慣用音：ňg}
-閻	ngie1
-閆	ngie3
+#閻	ngie1
+閆	ye1
 娛	ngiu1{慣用音：n̄g}
 #褐	oeh
 跛	pa2

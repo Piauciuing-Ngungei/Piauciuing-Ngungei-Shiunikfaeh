@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.29
+# 版本號：24.3.30
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.3.29"
+version:	"2024.3.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2199,332 +2199,332 @@ use_preset_vocabulary: true
 
 ###M 婚喪社俗
 
-過年
-過節
-守夜
-分歲
-拜年
-掃墓
-上墳
-做節
-迎燈
-求雨
-降童
-降靈姑
-神童
-靈姑童
-皇天
-頭上
-鑊竈佛
-土地爺
-觀世音菩薩
-觀音佛
-天妃宮娘娘
-娘娘宮
-佛殿
-寺院寮
-庵堂
-道觀
-木主
-神櫥
-香案
-蠟燭臺ㄦ
-燒香
-跪落拜
-相喚
-九十
-拔簽詩
-解簽詩
-佈舍
-佈施
-拜佛珠珠
-木螺
-木螺𢽚
-土地殿
-關老爺殿
-海龍王殿
-閻羅王
-䰡佬
-畀䰡佬跟牢
-陰界
-陰司
-算命
-眙相
-運氣
-運道
-許願
-還願
-化緣
-迎佛
-打卦
-打珓杯
-教友
-耶穌堂
-禮拜堂
-天主堂
-信佛
-信天主
-信耶穌
-信教門
-信道理
-親事
-娶親
+過年	kou3 niae1
+過節	kou3 tsiaeh
+守夜	shieu2 ya3
+分歲	feng1 siu3
+拜年	pa3 niae1
+掃墓	sau2 mu3
+上墳	zhiang2 veng1
+做節	tsou3 tsiaeh
+迎燈	ngieng1 teng1
+求雨	gieu1 yu2
+降童	kong3 dung1
+降靈姑	kong3 lieng1 ku1
+神童	zhing1 dung2
+靈姑童	lieng1 ku1 dung2
+皇天	wong1 thiae1
+頭上	deu1 zhiang3
+頭上	deu1 long3
+鑊竈佛	wok tsau3 vek
+土地爺	thu2 di3 ya1
+觀世音菩薩	kuoe1 shi3 ing1 bu1 saeh
+觀音佛	kuoe1 ing1 vek
+天妃宮娘娘	thiae1 fi1 kiung1 niang1 niang1
+娘娘宮	niang1 niang1 kiung1
+佛殿	vek diae3
+寺院寮	zy3 yoe3 liau1
+庵堂	e1 dong1
+道觀	dau2 kuoe3
+木主	muk ciu2
+神櫥	zhing1 jiu1
+香案	hiang1 oe3
+蠟燭臺ㄦ	laeh ciuk dai1 ngi1
+燒香	shiau1 hiang1
+跪落拜	giu2 lok pa3
+相喚	siang1 huoe3
+九十	kieu2 zhik
+拔簽詩	baeh tshie1 sy1
+解簽詩	ga2 tshie1 sy1
+佈舍	pu3 shio3
+佈施	pu3 sy1
+拜佛珠珠	pa3 vek ciu1 ciu1
+木螺	muk lou1
+木螺𢽚	muk lou1 tuk
+土地殿	thu2 di3 diae3
+關老爺殿	kuae1 lau2 ya1 diae3
+海龍王殿	hai2 lung1 yong1 diae3
+閻羅王	ye1 lou1 yong1
+䰡佬	chik lau2
+畀䰡佬跟牢	pek chik lau2 keng1 lau1
+陰界	ing1 ka3
+陰司	ing1 sy1
+算命	soe3 mieng3
+眙相	tshy3 siang3
+運氣	yuing3 khi3
+運道	yuing3 dau2
+許願	hei2 ngioe3
+還願	wae1 ngioe3
+化緣	huo3 yoe1
+迎佛	ngieng1 vek
+打卦	tang2 kuo3
+打珓杯	tang2 kau3 pei1
+教友	kau3 yeu2
+耶穌堂	ya1 su1 dong1
+禮拜堂	li2 pa3 dong1
+天主堂	thiae1 ciu2 dong1
+信佛	sing3 vek
+信天主	sing3 thiae1 ciu2
+信耶穌	sing3 ya1 su1
+信教門	sing3 X meng1
+信道理	sing3 dau2 li2
+親事	tshing1 zy3
+娶親	tshiu3 tshing1
 搝	khieu2
-搝親
-#
-匄人
-匄出
-做媒
-媒人
-踏親
-生肖
-肖虎
-肖鼠
-肖牛
-肖兔
-肖籠
-肖蛇
-肖馬
-肖羊
-肖猴
-肖雞
-肖狗
-肖豬
-揀日
-起帖
-訂婚
-定親
-財禮
-做喜事
-鋪陳
-打鋪陳
-吹班
-吹打班
-拜堂
-花轎
-新郎官
-新孺人
-洞房間
-鬧洞房
-阿婆ㄦ
-陪郎
-回花
-進舍
-轉匄
-嫁人
-後匄
-拖身體
-拖大肚
-拖大肚人
-娒遁爻
-做小月裏
-洗生婆
-接生
-當坐月
-做月裏
-生娒
-頭生
-雙生
-喫奶
-豢奶
-賣奶
-領娒
-香人
-聽講
-怕打生
-認人
-𢳀周
-摹周
-對周
-對對
-生日日
-做十
-做壽
-拜壽
-冇爻
-走過爻
-歲大爻
-亡故
-過世
-過輩
-吩咐死
-棺材
-壽枋
-老壽
-百歲
-做孝
-做素
-功子巾ㄦ
-孝頭㔶
-出喪
-發喪
-做墳
-眙風水
-生壽墳
-墳山
-銘志
-封龍門
-召魂
-超度
+搝親	khieu2 tshing1
+匄人	ka3 ning1
+匄出	ka3 chiuik
+做媒	tsou3 mei1
+媒人	mei1 ning1
+踏親	deh tshing1
+生肖	sang1 siau3
+肖虎	siau3 hu2
+肖鼠	siau3 tshy2
+肖牛	siau3 ngieu1
+肖兔	siau3 thu3
+肖龍	siau3 lung1
+肖蛇	siau3 zhio1
+肖馬	siau3 mo2
+肖羊	siau3 yang1
+肖猴	siau3 gheu1
+肖雞	siau3 ki1
+肖狗	siau3 keu2
+肖豬	siau3 tsy1
+揀日	kae2 nik
+起帖	khi2 thiaeh
+訂婚	tieng3 hueng1
+定親	dieng3 tshing1
+財禮	zai1 li2
+做喜事	tsou3 hi2 zy3
+鋪陳	phu1 jing1
+打鋪陳	tang2 phu1 jing1
+吹班	chiu1 pae1
+吹打班	chiu1 tang2 pae1
+拜堂	pa3 dong1
+花轎	huo1 giau3
+新郎官	sing1 long1 kuoe1
+新孺人	sing1 niu3 ning1
+洞房間	dung3 bong1 kae1
+鬧洞房	nau3 dung3 bong1
+阿婆ㄦ	ak bou1 ngi1
+陪郎	bei1 long1
+回花	wei1 huo1
+進舍	tsing3 shio3
+轉匄	cioe2 ka3
+嫁人	ko3 ning1
+後匄	gheu2 ka3
+拖身體	tha1 shing1 thi2
+拖大肚	tha1 dou3 du2
+拖大肚人	tha1 dou3 du2 ning1
+娒遁爻	mei1 doeng3 ghau1
+做小月裏	tsou3 siau2 ngioeh li2
+洗生婆	si2 sang1 bou1
+接生	tsieh sang1
+當坐月	tong1 zou2 ngioeh
+做月裏	tsou3 ngioeh li2
+生娒	sang1 mei1
+頭生	deu1 sang1
+雙生	siong1 sang1
+喫奶	khiek na2
+豢奶	wae3 na2
+賣奶	ma3 na2
+領娒	lieng2 mei1
+香人	hiang1 ning1
+聽講	thieng1 kong2
+怕打生	pho3 tang2 sang1
+認人	ning3 ning1
+𢳀周	mo1 cieu1
+摹周	mu1 cieu1
+對周	tei3 cieu1
+對對	tei3 tei3
+生日日	sang1 nik nik
+做十	tsou3 zhik
+做壽	tsou3 zhieu3
+拜壽	pa3 zhieu3
+冇爻	meu2 ghau1
+走過爻	tseu2 kou3 ghau1
+歲大爻	siu3 dou3 ghau1
+亡故	mong1 ku3
+過世	kou3 shi3
+過輩	kou3 pei3
+吩咐死	feng1 fu3 sy2
+棺材	kuoe1 zai1
+壽枋	zhieu3 fong1
+老壽	lau2 zhieu3
+百歲	pak siu3
+做孝	tsou3 hau3
+做素	tsou3 su3
+功子巾ㄦ	kung1 tsy2 king1 ngi1
+孝頭㔶	hau3 deu1 ke2
+出喪	chiuik song1
+發喪	faeh song1
+做墳	tsou3 veng1
+眙風水	tshy3 fung1 shiu2
+生壽墳	sang1 zhieu3 veng1
+墳山	veng1 sae1
+銘志	mieng1 tsy3
+封龍門	fung1 lung1 meng1
+召魂	jiau3 weng1
+超度	chiau1 du3
 毒爻	deu3 ghau1
-𩑦爻
+𩑦爻	uek ghau1
 
-#N 交際訴訟
+###N 交際訴訟
 
-事幹
-來往
-來去
-上落
-走來嬉
-商量
-講閑談
+事幹	zy3 koe3
+來往	lai1 yong2
+來去	lai1 khei3
+上落	zhiang2 lok
+走來嬉	tseu2 lai1 hi1
+商量	shiang1 liang1
+講閑談	kong2 ghae1 dae1
 唸	niae3
-講話
-打電話
-應酬
-相喚
-請客
-招待
-待客
-伴手
-人情
-送人情
-做人客
-走親眷
-客氣
-泡茶
-名片
-片子ㄦ
-請酒
-走去喫酒
-茶點
-茶食
-發請帖
-擺酒
-擺酒水
-篩酒
-酒干
-配夾別人飯碗頭
-揩油
-吩咐
-碰著
-撞著
-接應
-叫句渠
-開頑笑
-開𠆩笑
-講笑
-難爲你
-麻煩唄
-生受
-謝謝
-得罪
-對弗起
-對弗住
-冇關繫
-弗來緊
-弗用客氣
-回爻
-慢慢走
-慢慢踏
-#踏好厘
-踏好仂
-幫忙
-相幫忙
-做隊
-合伙
-搭股份
-搭一股
-答應
-弗答應
-討好
-眙弗起
-尋亂
-扳岔頭
-爭起
-亂起
-論起
-相亂
-相論
-頂嘴
-應嘴
-相打
-打後枕㽘
-打巴掌
-哄小人
-謴馬頹
-碓你妳
-團圈讖來
-讖願
+講話	kong2 wo3
+打電話	tang2 diae3 wo3
+應酬	ieng3 zhieu1
+相喚	siang1 huoe3
+請客	tshieng2 khak
+招待	ciau1 dai2
+待客	dai2 khak
+伴手	boe2 shieu2
+人情	ning1 zieng1
+送人情	sung3 ning1 zieng1
+做人客	tsou3 ning1 khak
+走親眷	tseu2 tshing1 kioe3
+客氣	khak khi3
+泡茶	phau3 dzo1
+名片	mieng1 phiae3
+片子ㄦ	phiae3 tsy2 ngi1
+請酒	tshieng2 tsieu2
+走去喫酒	tseu2 khei3 khiek tsieu2
+茶點	dzo1 tiae2
+茶食	dzo1 zhiek
+發請帖	faeh tshieng2 thiaeh
+擺酒	pa2 tsieu2
+擺酒水	pa2 tsieu2 shiu2
+篩酒	sa1 tsieu2
+酒干	tsieu2 koe1
+配夾別人飯碗頭	phei3 kaeh bieh ning1 vae3 uoe2 deu1
+揩油	kha1 yeu1
+吩咐	feng1 fu3
+碰著	bang3 jiak
+撞著	dziong3 jiak
+接應	tsieh ieng3
+叫句渠	kiau3 kiu3 gei1
+開頑笑	khai1 nguae1 siau3
+開𠆩笑	khai1 vae1 siau3
+講笑	kong2 siau3
+難爲你	nae1 yu1 ni2
+麻煩唄	mo1 vae1 ba3
+生受	sang1 zhieu2
+謝謝	zia3 zia3
+得罪	tek zei2
+對弗起	tei3 fek khi2
+對弗住	tei3 fek jiu3
+冇關系	meu2 kuae1 yi3
+弗來緊	fek lai1 king2
+弗用客氣	fek yung3 khak khi3
+回爻	wei1 ghau1
+慢慢走	mae3 mae3 tseu2
+慢慢踏	mae3 mae3 deh
+踏好仂	deh hau2 lek
+幫忙	pong1 mong1
+相幫忙	siang1 pong1 mong1
+做隊	tsou3 dei3
+合伙	keh hou2
+合伙	gheh hou2
+搭股份	teh ku2 veng3
+搭一股	teh ik ku2
+答應	teh ieng3
+弗答應	fek teh ieng3
+討好	thau2 hau2
+眙弗起	tshy3 fek khi2
+尋亂	zing1 loe3
+扳岔頭	pae1 tsho3 deu1
+爭起	tsang1 khi2
+亂起	loe3 khi2
+論起	leng3 khi2
+相亂	siang1 loe3
+相論	siang1 leng3
+頂嘴	tieng2 tsy2
+應嘴	ieng3 tsy2
+相打	siang1 tang2
+打後枕㽘	tang2 gheu2 cing2 ghong2
+打巴掌	tang2 po1 ciang2
+哄小人	hung3 siau2 ning1
+謴馬頹	kueng3 mo2 dei1
+碓你㚷	tei3 ni2 na2
+團圈讖來	doe1 khioe1 tshae3 lai1
+讖願	tshae3 ngioe3
 𧬤	ciung3
 𧬤	jiung3
-學嘴
-有關繫
-軋姘頭
-共親家
+學嘴	ghok tsy2
+有關系	yeu2 kuae1 yi3
+軋姘頭	gaeh phieng1 deu1
+共親家	giung3 tshing1 ko1
 打弸	tang2 peng1
 弸	peng1
-講弗來
-冇講話
-弗講個
-弄鬆
-裝打
-裝狡
-冤家
-死對頭
-罪頭
-頓罪頭
-插嘴
-欺侮
-做作
-做起
-擺架子
-擺架落子
-假病
-假懵
-講瞎話
-講譀話
-吹牛屄
-拍馬匹
-打圓場
-趕出爻
-打官司
-告狀
-告起
-承認
-口供
-得賄
-行賄
-罰款
-殺頭
-槍斃
-手銬
-腳鏈
-腳鐐
-捆起
-牢監
-班房
-犯人
-解出
-通行證
-公印
-私章
-蓋圖章
-及印
-掘印
-繳稅銀
-房租
-屋租錢
-田租銀
-租穀
-田契
-高利貸
-寫契墨
-字眼寫爻
-圈花押
-捺指頭印
+講弗來	kong2 fek lai1
+冇講話	meu2 kong2 wo3
+弗講個	fek kong2 keh
+弄鬆	lung3 siung1
+裝打	tsong1 tang2
+裝狡	tsong1 kau2
+冤家	ioe1 ko1
+死對頭	sy2 tei3 deu1
+罪頭	zei2 deu1
+頓罪頭	toeng3 zei2 deu1
+插嘴	tshaeh tsy2
+欺侮	khi1 mu2
+做作	tsou3 tsok
+做起	tsou3 khi2
+擺架子	pa2 ko3 tsy2
+擺架落子	pa2 ko3 lok tsy2
+假病	ko2 bieng3
+假懵	ko2 mung2
+講瞎話	kong2 haeh wo3
+講譀話	kong2 haeh wo3
+吹牛屄	chiu1 ngieu1 pi1
+拍馬匹	phak mo2 phik
+打圓場	tang2 yoe1 jiang1
+趕出爻	koe2 chiuik ghau1
+打官司	tang2 kuoe1 sy1
+告狀	kau3 zong3
+告起	kau3 khi2
+承認	zhieng1 ning3
+口供	kheu2 kiung3
+得賄	tek huei3
+行賄	ghang1 huei3
+罰款	vaeh khuoe2
+殺頭	saeh deu1
+槍斃	tshiang1 bi3
+手銬	shieu2 khau3
+腳鏈	kiak lie1
+腳鐐	kiak liau1
+捆起	khueng2 khi2
+牢監	lau1 kae1
+班房	pae1 bong1
+犯人	vae2 ning1
+解出	ka3 chiuik
+通行證	thung1 ghang1 cieng3
+公印	kung1 ing3
+私章	sy1 ciang1
+蓋圖章	ka3 du1 ciang1
+及印	gik ing3
+掘印	gioeh ing3
+繳稅銀	kiau2 shiu3 nging1
+房租	bong1 tsu1
+屋租錢	uk tsu1 zie1
+田租銀	diae1 tsu1 nging1
+租穀	tsu1 kuk
+田契	diae1 khi3
+高利貸	kau1 li3 thai3
+寫契墨	sia2 khi3 mek
+字眼寫爻	zy3 ngae2 sia2 ghau1
+圈花押	khioe1 huo1 aeh
+捺指頭印	naeh tsy2 deu1 ing3
 
-#O 商貿行業
+###O 商貿行業
 
 會市
 市日
