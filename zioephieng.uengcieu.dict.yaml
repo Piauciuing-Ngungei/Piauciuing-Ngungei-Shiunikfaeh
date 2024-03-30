@@ -2214,7 +2214,7 @@ use_preset_vocabulary: true
 信佛	sing3 vek
 信天主	sing3 thiae1 ciu2
 信耶穌	sing3 ya1 su1
-信教門	sing3 X meng1
+信教門	sing3 kau3 meng1
 信道理	sing3 dau2 li2
 親事	tshing1 zy3
 娶親	tshiu3 tshing1
@@ -2673,7 +2673,7 @@ use_preset_vocabulary: true
 大考	da3 khau2
 改考卷	kai2 khau2 kioe3
 頭名	deu1 mieng1
-塌拉名	thaeh X mieng1
+塌拉名	thaeh leh mieng1
 單百分	tae1 pak feng1
 簿ㄦ	bu2 ngi1
 信紙	sing3 tsy2
@@ -2729,217 +2729,222 @@ use_preset_vocabulary: true
 
 ###R 娛樂
 
-狡調
-放鷂
-瞞樁ㄦ
-擺擺盆ㄦ
-翻筋倒
-㧒臺勁
-甩臺勁
-打火輪
-頂水鰭
-打撲克
-照相
-人ㄦ
-狡調個物事
-打不倒ㄦ
-賤螺陀
-旋盤ㄦ
-吹簫ㄦ
-礌銅錢ㄦ
-踢毽子
-踢仔ㄦ
-𢳀仔ㄦ
-摹仔ㄦ
-打彈子
-跳繩
-做寓猜
-猜寓
-豁拳
-騰丁炮
-著棋
-車馬炮
-卒ㄦ拱過
-士岔起
-相飛上
-炮耨去
-炮㧸去
-王坐出
-將一軍
-喫小卒
-馬踏爻
-馬蹋爻
-划龍船
-划龍燈
-滾獅子
-踏高蹺
-蹋高蹺
-㧒千秋
-甩千秋
-打籃球
-打蠟球
-踢足球
-打拳
-搩擂跤
-泅水ㄦ
-泅河ㄦ
-拱水ㄦ
-埋水ㄦ
-仰攤ㄦ
-打水漂漂
-賽跑
+狡調	kau2 diau3
+放鷂	fong3 yau3
+瞞樁ㄦ	moe1 ciong1 ngi1
+擺擺盆ㄦ	pa2 pa2 beng1 ngi1
+翻筋倒	fae1 king1 tau2
+㧒臺勁	yuik dai1 kieng3
+甩臺勁	huaeh dai1 kieng3
+甩臺勁	huae2 dai1 kieng3
+打火輪	tang2 hou2 liuing1
+頂水鰭	tieng2 shiu2 gi1
+打撲克	tang2 phuk khek
+照相	ciau3 siang3
+照相	ciau3 siang3
+人ㄦ	ning1 ngi1
+狡調個物事	kau2 diau3 keh mek zy3
+打不倒ㄦ	tang2 fek tau2 ngi1
+賤螺陀	zie3 lou1 dou1
+旋盤ㄦ	zioe3 boe1 ngi1
+吹簫ㄦ	chiu1 siau1 ngi1
+礌銅錢ㄦ	lei3 dung1 zie1 ngi1
+踢毽子	thiek kie3 tsy2
+踢仔ㄦ	thiek tsy1 ngi1
+𢳀仔ㄦ	mo1 tsy1 ngi1
+摹仔ㄦ	mu1 tsy1 ngi1
+打彈子	tang2 dae3 tsy2
+跳繩	diau1 zhieng1
+做寓猜	tsou3 ngiu3 tshai1
+猜寓	tshai1 ngiu3
+豁拳	huoeh gioe1
+騰丁炮	deng1 tieng1 phau3
+著棋	ciak gi1
+車馬炮	kei1 mo2 phau3
+卒ㄦ拱過	tsoek ngi1 kiung2 kou3
+士岔起	zy2 tsho3 khi2
+相飛上	siang3 fi1 zhiang2
+炮耨去	phau3 neu3 khi2
+炮㧸去	phau3 phang1 khei3
+王坐出	yong1 zou2 chiuik
+將一軍	tsiang1 ik kiuing1
+喫小卒	khiek siau2 tsoek
+馬踏爻	mo2 deh ghau1
+馬蹋爻	mo2 daeh ghau1
+划龍船	wo1 lung1 zhioe1
+划龍燈	wo1 lung1 teng1
+滾獅子	kueng2 sy1 tsy2
+踏高蹺	deh kau1 khiau1
+蹋高蹺	daeh kau1 khiau1
+㧒千秋	yuik tshiae1 tshieu1
+甩千秋	huaeh tshiae1 tshieu1
+甩千秋	huae tshiae1 tshieu1
+打籃球	tang2 lae1 gieu1
+打蠟球	tang2 laeh gieu1
+踢足球	thiek tsiuk gieu1
+打拳	tang2 gioe1
+搩擂跤	gieh lei3 khau1
+泅水ㄦ	zieu1 shiu2 ngi1
+泅河ㄦ	zieu1 ghou1 ngi1
+拱水ㄦ	kiung2 shiu2 ngi1
+埋水ㄦ	ma1 shiu2 ngi1
+仰攤ㄦ	ngiang2 thae1 ngi1
+打水漂漂	tang2 shiu2 phiau1 phiau1
+賽跑	sai3 bau1
 射跑	zhiak bau1
-變把戲
-㧒流星
-甩流星
-講書ㄦ
-講故事
-講古人
-講古話
-講笑話
-唱詞
-唱蓮花落
-唱道情
-順口溜
-做戲
-京戲
-紹興戲
-越劇
-亂彈班
-木頭戲
-戲班
-帶班
-戲臺人ㄦ
-大花臉
-老生
-武生
-武旦
-老旦
-小旦
-小生
-青衣
-當家旦
-悲旦
-花旦
-小花臉
-行唱
-戲出
-後臺
-鼓板
-行頭
-戲臺
-布棚
-開鑼
-鑼鼓響
-打頭通唄
-戲團圓
-影戲
-電影
-留聲機
-拉二胡
-挨胡琴
-吹簫
-打炮仗
-百子炮
-焰火
-打賭
-骨牌九
-骨牌九牌ㄦ
-打五關
-麻將
-搓麻將
-做樁
-捺寶
-擲骰子
+變把戲	pie3 po2 hi3
+㧒流星	yuik lieu1 sieng1
+甩流星	huaeh lieu1 sieng1
+甩流星	huae lieu1 sieng1
+講書ㄦ	kong2 shy1 ngi1
+講故事	kong2 ku3 zy3
+講古人	kong2 ku2 ning1
+講古話	kong2 ku2 wo3
+講笑話	kong2 siau3 wo3
+唱詞	chiang3 zy1
+唱蓮花落	chiang3 liae1 huo1 lok
+唱道情	chiang3 dau2 zieng1
+順口溜	zhiuing3 kheu2 lieu3
+做戲	tsou3 hi3
+京戲	kieng1 hi3
+紹興戲	zhiau2 hieng1 hi3
+越劇	yoeh giek
+亂彈班	loe3 dae1 pae1
+木頭戲	muk deu1 hi3
+戲班	hi3 pae1
+帶班	ta3 pae1
+戲臺人ㄦ	hi3 dai1 ning1 ngi1
+大花臉	dou3 huo1 lae2
+老生	lau2 sang1
+武生	mu2 sang1
+武旦	mu2 tae3
+老旦	lau2 tae3
+小旦	siau2 tae3
+小生	siau2 sang1
+青衣	tshieng1 i1
+當家旦	tong1 ko1 tae3
+悲旦	pi1 tae3
+花旦	huo1 tae3
+小花臉	siau2 huo1 lae2
+行唱	ghong1 chiang3
+戲出	hi3 chiuik
+後臺	gheu2 dai1
+鼓板	ku2 pae2
+行頭	ghang1 deu1
+戲臺	hi3 dai1
+布棚	pu3 bang1
+開鑼	khai1 lou1
+鑼鼓響	lou1 ku2 hiang2
+打頭通唄	tang2 deu1 thung1 ba3
+戲團圓	hi3 doe1 yoe1
+影戲	ieng2 hi3
+電影	diae3 ieng2
+留聲機	lieu1 shieng1 ki1
+拉二胡	leh ni3 wu1
+挨胡琴	a2 wu1 ging1
+吹簫	chiu1 siau1
+打炮仗	tang2 phau3 jiang3
+百子炮	pak tsy2 phau3
+焰火	ye3 hou2
+打賭	tang2 tu2
+骨牌九	kuek ba1 kieu2
+骨牌九牌ㄦ	kuek ba1 kieu2 ba1 ngi1
+打五關	tang2 ngu2 kuae1
+麻將	mo1 tsiang3
+搓麻將	tshou1 mo1 tsiang3
+做樁	tsou3 ciong1
+捺寶	naeh pau2
+擲骰子	jiek deu1 tsy2
+擲骰子	dzak deu1 tsy2
 
-#S 日常生活
+###S 日常生活
 
-餓爻
-煮飯
-兜飯
-爭起喫
-噎牢
-嚼弗動
-打飽嗝
-打噯
-夾配
-呷茶
-呷酒
-喫煙
-水煙筒
-煙筒
-洗面
-刷牙
-嗀口
-爬爬癢
-爬起
-捱牀
-著衣裳
-帶帽子
-戴帽子
-脫衣服
-脫衣裳
-衫袖捋起
-洗浴
-繳身體
-衝把
-衝身體
-梳頭
-杚頭
-剃頭
-燙頭髮
-打辮ㄦ
-鐯指甲
-剾鬍鬚
-𠞭耳朵
-剅耳朵
-瀨涴
-瀨尿
-抯尿
-抯涴
-扴屁股
-扴臀
-乘涼
-曬暖暖
-烘烘暖
-燂燂暖
-㶣㶣暖
-燈捺爻
-燈打過爻
-嬉下ㄦ
-蕩一蕩
-蕩街
-翻落
-㔶被
-睏落寣
-睏底深
-睏沉險
-睏弗著
-鼾起
-挻懶腰
-打困喟
-愛睏起
-睉著
-咄起
-做夢
-睏講
-熬夜
-開夜車
-夾夜趕
-透夜衝
-上班
-落班
-出門
-走歸
-走轉
-做生活
-洗衣
-汏衣裳
-掃地下
-罨糞掃
-㪑糞掃
+餓爻	ngou3 ghau1
+煮飯	cy2 vae3
+兜飯	teu1 vae3
+爭起喫	tsang1 khi2 khiek
+噎牢	iaeh lau1
+嚼弗動	ziak fek dung2
+打飽嗝	tang2 pau2 goeh 
+打噯	tang2 a3
+夾配	kaeh phei3
+呷茶	haeh dzo1
+呷酒	haeh tsieu2
+喫煙	khiek iae1
+水煙筒	shiu2 iae1 dung1
+煙筒	iae1 dung1
+洗面	si2 mie3
+刷牙	saeh ngo1
+嗀口	huk kheu2
+爬爬癢	bo1 bo1 yang2
+爬起	bo1 khi2
+捱牀	nga1 zhiong1
+著衣裳	ciak i1 zhiang1
+帶帽子	ta3 mau3 tsy2
+戴帽子	tai3 mau3 tsy2
+脫衣裳	thoeh i1 zhiang1
+衫袖捋起	sae1 zieu3 loeh khi2
+洗浴	si2 yuk
+繳身體	kiau2 shing1 thi2
+衝把	chiung3 po2
+衝身體	chiung3 shing1 thi2
+梳頭	sy1 deu1
+杚頭	kuek deu1
+剃頭	thi3 deu1
+燙頭髮	thong3 deu1 faeh
+打辮ㄦ	tang2 biae2 ngi1
+鐯指甲	jiak tsy2 kaeh
+剾鬍鬚	geu1 wu1 siu1
+𠞭耳朵	leu1 ni2 tou2
+剅耳朵	leu1 ni2 tou2
+瀨涴	la3 ou3
+瀨尿	la3 shiu1
+抯尿	tso1 shiu1
+抯涴	tso1 ou3
+扴屁股	kae3 phi3 ku2
+扴臀	kae3 doeng1
+乘涼	zhieng1 liang1
+曬暖暖	sa3 noe2 noe2
+烘烘暖	hung1 hung1 noe2
+燂燂暖	de1 de1 noe2
+㶣㶣暖	dae1 dae1 noe2
+燈捺爻	teng1 naeh ghau1
+燈打過爻	teng1 tang2 kou3 ghau1
+嬉下ㄦ	hi1 gho3 ngi1
+蕩一蕩	dong3 ik dong3
+蕩街	dong3 ka1
+翻落	fae1 lok
+㔶被	ke2 bi2
+睏落寣	khueng3 lok huek
+睏底深	khueng3 ti2 shing1
+睏沉險	khueng3 jing1 hie2
+睏弗著	khueng3 fek jiak
+鼾起	hoe1 khi2
+挻懶腰	chie1 lae2 iau1
+打困喟	tang2 khueng3 khua3
+愛睏起	ai3 khueng3 khi2
+睉著	zou1 jiak
+咄起	toeh khi2
+做夢	tsou3 mung3
+做夢	tsou3 mong3
+睏講	khueng3 kong2
+熬夜	ngau1 ya3
+開夜車	khai1 ya3 chio1
+夾夜趕	kaeh ya3 koe2
+透夜衝	theu3 ya3 chiung1
+上班	zhiang2 pae1
+落班	lok pae1
+出門	chiuik meng1
+走歸	tseu2 kiu1
+走轉	tseu2 cioe2
+做生活	tsou3 sang1 woeh
+洗衣	si2 i1
+汏衣裳	da3 i1 zhiang1
+掃地下	sau2 di3 gho2
+罨糞掃	ieh feng3 sau3
+㪑糞掃	ieh feng3 sau3
 
-#T 动作感觉
+###T 动作感觉
 
 聽著
 眙著
