@@ -2946,39 +2946,40 @@ use_preset_vocabulary: true
 
 ###T 动作感觉
 
-聽著
-眙著
-綻開
-合攏
-眼珠密密著
-著眼睛
-眼瞪起
-眉頭皺攏
-流眼淚
-㪗氣
-嘴繃開
-喫飯
-喫茶
-喫煙
-喫酒
-含一口水
-啜一口湯
-㰵一口湯
+聽著	thieng1 jiak
+眙著	tshy3 jiak
+綻開	diae3 khai1
+綻開	dzae3 khai1
+合攏	keh lung2
+眼珠密密著	ngae2 ciu1 mik mik jiak
+著眼睛	jiak ngae2 tsieng1
+眼瞪起	ngae2 jieng3 khi2
+眉頭皺攏	mi1 deu1 tseu3 lung2
+流眼淚	lieu1 ngae2 liu3
+㪗氣	theu2 khi3
+嘴繃開	tsy2 pang1 khai1
+喫飯	khiek vae3
+喫茶	khiek dzo1
+喫煙	khiek iae1
+喫酒	khiek tsieu2
+含一口水	ghe1 ik kheu2 shiu2
+啜一口湯	chioeh ik kheu2 thong1
+㰵一口湯	tsiuik ik kheu2 thong1
 吮奶頭
 舔舐
 吹氣
 𧮙人
-頭𩔝𩔝
-頭咄咄
-頭玍起
-頭㑚起
-頭礌轉
-手揹起
-手敫敫
-手放爻
-手敒出
-動手
-拍手
+頭𩔝𩔝	deu1 khing3 khing3
+頭咄咄	deu1 toeh toeh
+頭玍起	deu1 nang1 khi2
+頭㑚起	deu1 na3 khi2
+頭礌轉	deu1 lei3 cioe2
+手揹起	shieu2 pei1 khi2
+手敫敫	shieu2 yak yak
+手放爻	shieu2 fong3 ghau1
+手敒出	shieu2 shing1 chiuik
+動手	dung2 shieu2
+拍手	phak shieu2
 盲眼睛
 盲碗口
 盲耳朵
@@ -2987,15 +2988,15 @@ use_preset_vocabulary: true
 拶柴火
 摜石頭
 摜炸彈
-夾在肋肢胛下
-夾在肋扎下
+夾在肋肢胛下	gaeh lai2 lek tsy1 kaeh gho2
+夾在肋扎下	gaeh lai2 lek tsaeh gho2
 遞過去
 拉手
 𠡒緊
 拔車
-㨄車
-㨄人
-搽粉
+㨄車	diau2 chio1
+㨄人	diau2 ning1
+搽粉	dzo1 feng2
 研成粉
 研粉
 𠞭根
@@ -3016,8 +3017,8 @@ use_preset_vocabulary: true
 掐蝨子
 掐老白蝨
 捧大卵脬
-摸著
-摸丸
+摸著	mok jiak
+摸丸	mok woe1
 攂皮膚
 飭緊繩
 飭繩
@@ -3039,13 +3040,13 @@ use_preset_vocabulary: true
 擎起
 揹起
 托牢
-接牢
-連起
-接起
+接牢	tsieh lau1
+連起	lie1 khi2
+接起	tsieh khi2
 擡起
 壓牢
 揹在肩胛上
-掇碗
+掇碗	toeh uoe2
 搦筷子
 搦箸
 搬物事
@@ -3066,12 +3067,13 @@ use_preset_vocabulary: true
 削生梨
 削菠蘿
 削皮
-切開
+切開	tshiaeh khai1
 𠞭鼻頭涴
-甩乾
-㧒乾
-枵開
-掀開
+甩乾	huae2 koe1
+甩乾	huaeh koe1
+㧒乾	yuik koe1
+掀開	hie1 khai1
+枵開	hiau1 khai1
 開鑊㔶
 開㔶
 撬開
@@ -3107,8 +3109,8 @@ use_preset_vocabulary: true
 𠞭牆角
 折衣裳
 拗斷
-重起
-集起
+重起	jiung3 khi2
+集起	zik khi2
 鋪磚頭
 鋪席子
 鋪席
@@ -3118,10 +3120,10 @@ use_preset_vocabulary: true
 敲門
 敲鑼
 踩到蟲
-𨀤倒
-打𨀤栽
-仰翻天
-爬過去
+𨀤倒	lei3 tau2
+打𨀤栽	tang2 lei3 tsai1
+仰翻天	ngiang2 fae1 thiae1
+爬過去	bo1 kou3 khei3
 爬上樹
 頓腳
 踮腳
@@ -3132,11 +3134,11 @@ use_preset_vocabulary: true
 趕走
 𧼱上
 趕上
-撲在
-拱底
+撲在	phuk lai2
+拱底	kiung2 ti2
 步水
 絆腳
-軋上車
+軋上車	gaeh zhiang2 chio1
 稹險
 擔擔
 跟牢
@@ -3163,22 +3165,22 @@ use_preset_vocabulary: true
 澆水
 䣼花
 點火
-過爻
+過爻	kou3 ghau1
 火過爻
 拌水泥
-鼓藥水
+鼓藥水	ku2 yak shiu2
 匄渠鈔票
 匄渠銅錢
 挨畀
 掗畀
 揹包
-佝落
-磕落
-矻落
-槌背
+佝落	heu1 lok
+磕落	kheh lok
+矻落	khuek lok
+槌背	jiu1 pei3
 囥臺子上向
-摻酒
-攙酒
+摻酒	sae1 tsieu2
+攙酒	tshae1 tsieu2
 掉鈔票
 掉銅錢
 收拾
@@ -3188,9 +3190,9 @@ use_preset_vocabulary: true
 揀豬涴
 塸在地下頭
 入袋
-打圓圈
-裝裝爽
-捉牢
+打圓圈	tang2 yoe1 khioe1
+裝裝爽	tsong1 tsong1 song2
+捉牢	ciok lau1
 劃自來火
 遁爻
 銅錢遁爻
@@ -3198,17 +3200,17 @@ use_preset_vocabulary: true
 囥物事
 囥事幹
 躲起來
-尋著
+尋著	zing1 jiak
 尋物事
 尋事幹
-遁落
-攔牢
-長落
+遁落	doeng3 lok
+攔牢	laeh lau1
+長落	dzang3 lok
 褪地方
 糟糧食
 糟爻
-擠皁
-滿出
+擠皁	tsi2 zau2
+滿出	moe2 chiuik
 漏水
 衣裳縮爻
 衣裳縮脫
@@ -3218,8 +3220,8 @@ use_preset_vocabulary: true
 堵人
 堵水
 遮牢
-搖動
-擺動
+搖動	yau1 dung2
+擺動	pa2 dung2
 妯杯
 妯瓶
 𩔝頭
@@ -3232,88 +3234,88 @@ use_preset_vocabulary: true
 迫牢
 迫脂
 迫紙簿
-打算
-打碼
+打算	tang2 soe3
+打碼	tang2 mo2
 想辦法
 想去
-曉得
-懂罷
-認著
-弗識
-喜歡
-作興
-高興
-快活
-生氣
-發脾氣
-討厭
+曉得	hiau2 tek
+懂罷	tung2 ba2
+認著	ning3 jiak
+弗識	fek shiek
+喜歡	hi2 huoe1
+作興	tsok hieng1
+高興	kau1 hieng3
+快活	khua3 woeh
+生氣	sang1 khi3
+發脾氣	faeh bi1 khi3
+討厭	thau2 ie3
 說䛚	shiu3 liak
 數䛚	su3 liak
 護牢
-樂事
-眼黃
-得人憎
-可憐
-苦極
-慌起
-流起
-懰起
-眙妒
-詈世
-夾活詈
-夾活戾
-嫌憎
-取笑
-好過
-寫意
-舒服
-痛快
-值錢
+樂事	lok zy3
+眼黃	ngae2 wong1
+得人憎	tek ning1 tseng1
+可憐	khou2 liae1
+苦極	khu2 giek
+慌起	huong2 khi2
+流起	lieu1 khi2
+懰起	lieu2 khi2
+眙妒	tshy3 tu3
+詈世	li3 shi3
+夾活詈	kaeh woeh li3
+夾活戾	kaeh woeh li3
+嫌憎	yae1 tseng1
+取笑	tshiu2 siau3
+好過	hau2 kou3
+寫意	sia2 i3
+舒服	shy1 vuk
+痛快	thung3 khua3
+值錢	jiek zie1
 值錢渠
-心痛
-愛惜
+心痛	sing1 thung3
+愛惜	ai3 siek
 怪渠
 怪汝
 怪我
 怪你
-埋怨
-口渴
-打悔心
-留心
-驚一驚
-擔心架
-勞心
-玍得
-巴弗得
-弗捨得
-喫弗落
-疑心
-記掛心
-弔戀
-想念
-記牢
-悗記爻
-覺得
-覺著
-猜想
-相信
-只怕
+埋怨	ma1 ioe3
+口渴	kheu2 khoeh
+打悔心	tang2 huei3 sing1
+留心	lieu1 sing1
+驚一驚	kieng1 ik kieng1
+擔心架	tae1 sing1 ko3
+勞心	lau1 sing1
+玍得	nang1 tek
+巴弗得	po1 fek tek
+弗捨得	fek shio2 tek
+喫弗落	khiek fek lok
+疑心	ngi1 sing1
+記掛心	ki3 kuo3 sing1
+弔戀	tiau3 lioe3
+想念	siang2 niae3
+記牢	ki3 lau1
+悗記爻	meng2 ki3 ghau1
+覺得	kok tek
+覺著	kok jiak
+猜想	tshai1 siang2
+相信	siang1 sing3
+只怕	tsy2 pho3
 只怕渠弗來
-糟糕
-獃爻
-拉倒
-賴爻
-賴都爻
-好罷
-裝好罷
-用著罷
-弗興
-用弗著
-弗啻
-趕逮
-趕弗逮
+糟糕	tsau1 kau1
+獃爻	ngai1 ghau1
+拉倒	la1 tau2
+賴爻	la3 ghau1
+賴都爻	la3 taeh ghau1
+好罷	hau2 ba2
+裝好罷	tsong1 hau2 ba2
+用著罷	yung3 jiak ba2
+弗興	fek hieng1
+用弗著	yung3 fek jiak
+弗啻	fek sy3
+趕逮	koe2 dai3
+趕弗逮	koe2 fek dai3
 
-#U 形容性狀
+###U 形容性狀
 
 好險
 弗蟊
