@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.30
+# 版本號：24.4.2
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.3.30"
+version:	"2024.4.2"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3317,19 +3317,19 @@ use_preset_vocabulary: true
 
 ###U 形容性狀
 
-好險
-弗蟊
-用弗著
-噋扳
+好險	hau2 hie2
+弗蟊	fek meu1
+用弗著	yung3 fek jiak
+噋扳	thoeng2 pae1
 噋頭勢
-褪寬
+褪寬	thoeng3 khuoe1
 衣裳褪寬
 衣裳緊
 路闊
 路狹
-了得
-了弗得
-懵過過
+了得	liau2 tek
+了弗得	liau2 fek tek
+懵過過	mung2 kou3 kou3
 曬黑
 青布
 天暗
@@ -3337,7 +3337,7 @@ use_preset_vocabulary: true
 綁得緊
 坡峻
 飯熟爻
-腥臭
+腥臭	sieng1 chieu3
 曬乾
 地上濕
 衣裳濕
@@ -3345,53 +3345,53 @@ use_preset_vocabulary: true
 地上濫
 水渾
 水清
-割切
-生好
-漂亮
-難眙
-靈清
+割切	koeh tshiaeh
+生好	sang1 hau2
+漂亮	phiau3 liang3
+難眙	nae1 tshy3
+靈清	lieng1 tshieng1
 望得靈清
-打蟹醬
-倚丁倒
-端正
+打蟹醬	tang2 ha2 tsiang3
+倚丁倒	i2 tieng1 tau3
+端正	toe1 cieng3
 拌得勻
-打生
-愛緊
-鬧熱
-冷清
+打生	tang2 sang1
+愛緊	ai3 king2
+鬧熱	nau3 nieh
+冷清	lang2 tshieng1
 喑靜	ing1 zieng2
-門市
+門市	meng1 zy2
 門市貨
-村行
+村行	tshoeng1 ghong1
 村行貨
-鏖糟
-腌糟
-了滯
-光生
-清水
+鏖糟	au1 tsau1
+腌糟	ie1 tsau1
+了滯	liau2 ji3
+光生	kuong1 sang1
+清水	tshieng1 shiu2
 衣裳破
 菜老
 人老
-歲大
-後生
-嫩遜
+歲大	siu3 dou3
+後生	gheu2 sang1
+嫩遜	noeng3 soeng3
 菜嫩
-迫脂膠黏
-滑池池
+迫脂膠黏	pak tsy1 kau1 nie1
+滑池池	waeh dzy1 dzy1
 刀快
 木頭爛爻
 木頭爛脫
 木頭朽爻
 木頭朽脫
 味道鮮
-儊牢
-陀起
+儊牢	tshu3 lau1
+陀起	dou1 khi2
 味道酸
 酸溜溜
-淡水味
+淡水味	dae2 shiu2 mi3
 粥薄
 粥饘
-坍濫方
+坍濫方	thae1 lae3 fong1
 側身睏
 山矮
 山高
@@ -3402,96 +3402,98 @@ use_preset_vocabulary: true
 人㾹
 精肉
 弄賺
-快活
-暢快
-順徑
-難過
-便當
-驚得人憎
-怕得人憎
-踔躍
-靜定
-善份
-糊塗
-勤力
-巴給
-有空
-靈泛
-活動
-老實
-憨氣
-滑頭
-體格好
-體格蟊
+快活	khua3 woeh
+暢快	chiang3 khua3
+順徑	zhiuing3 kieng3
+難過	nae1 kou3
+便當	bie3 tong1
+驚得人憎	kieng1 tek ning1 tseng1
+怕得人憎	pho3 tek ning1 tseng1
+踔躍	chiok yak
+靜定	zieng2 dieng3
+善份	zhie2 veng3
+糊塗	wu1 du1
+勤力	ging1 liek
+巴給	po1 kik
+有空	yeu2 khung3
+靈泛	lieng1 fae3
+活動	woeh dung2
+老實	lau2 zhik
+憨氣	he1 khi3
+滑頭	waeh deu1
+滑頭	guaeh deu1
+體格好	thi2 kak hau2
+體格蟊	thi2 kak meu1
 人懀
-軟場
-倒黴
-各樣
-各經
-死板
-死執
-全無用個
-頹灰
-貓屄
-小氣
-皮臭
-臀ㄦ夾
-苦極
-省徑
-用大
-大局
-舍割
-舍力大
-大方
-全身
-統身
-弸出
-㠮出
-杠起
-吸底
-相像
-相似
-共樣
-一色
-扁底
-麻煩
-生受
-用著
-用著險
-有坯
-有坯險
-冇用
-用弗著
-冇坯
-鏖糟裝
-罪過黴
-乾脆
-條直
-豪𢜶
-爽快
-嚕嗦
-獃板
-活潑
-難爲情
-詈世
-倒黴
-頭皮脹
-有趣相
-香人
-皮蚩
-賣娘
+軟場	nioe2 jiang1
+倒黴	tau2 mei3
+各樣	kok yang3
+各經	kok kieng1
+死板	sy2 pae2
+死執	sy2 cik
+全無用個	zioe1 mu1 yung3 keh
+頹灰	dei1 huei1
+貓屄	mau1 pi1
+小氣	siau2 khi3
+皮臭	bi1 chieu3
+臀ㄦ夾	doeng1 ngi1 kaeh
+苦極	khu2 giek
+省徑	sang2 kieng3
+用大	yung3 dou3
+大局	dou3 giuk
+舍割	shio2 koeh
+舍力大	shio2 liek da3
+大方	da3 fong1
+全身	zioe1 shing1
+統身	thung2 shing1
+弸出	phung1 chiuik
+㠮出	phung1 chiuik
+杠起	kong1 khi2
+吸底	hik ti2
+相像	siang1 ziang2
+相似	siang1 zy2
+共樣	giung3 yang3
+一色	ik sek
+扁底	piae2 ti2
+麻煩	mo1 vae1
+生受	sang1 zhieu2
+用著	yung3 jiak
+用著險	yung3 jiak hie2
+有坯	yeu2 phei1
+有坯險	yeu2 phei1 hie2
+冇用	meu2 yung3
+用弗著	yung3 fek jiak
+無坯	mu1 phei1
+冇坯	meu2 phei1
+鏖糟裝	au1 tsau1 tsong1
+罪過黴	zei2 kou3 mei3
+乾脆	koe1 tshiu3
+條直	diau1 jiek
+豪𢜶	ghau1 sau3
+爽快	song2 khua3
+嚕嗦	lu2 sok
+獃板	ngai1 pae2
+活潑	woeh phoeh
+難爲情	nae1 yu1 zieng1
+詈世	li3 shi3
+倒黴	tau2 mei3
+頭皮脹	deu1 bi1 ciang3
+有趣相	yeu2 tshiu3 siang3
+香人	hiang1 ning1
+皮蚩	bi1 tshy1
+賣娘	ma3 niang1
 拗彆	au2 piaeh
-拗孽
-刁鑽
-奇怪
-道地
-實在
-溫暾
+拗孽	au2 ngieh
+刁鑽	tiau1 tsoe1
+奇怪	gi1 kua3
+道地	dau2 di3
+實在	zhik zai2
+溫暾	ueng1 thoeng1
 
-#V 虛詞
+###V 虛詞
 
 新才
-駕ㄦ
+駕ㄦ	ko3 ngi1
 箇下ㄦ
 個下ㄦ
 新駕ㄦ
@@ -3500,31 +3502,31 @@ use_preset_vocabulary: true
 頭前
 新跑
 新走
-正好
-扣門ㄦ
-恰兩恰ㄦ
-恰恰ㄦ
-正想
-起先
-頭先
-起頭先
-後半來
-本來
-本柢
-一向
-一出
-出來
-向來
-事先
-先弗先
-清清
-刻刻
+正好	cieng3 hau2
+扣門ㄦ	kheu3 meng1 ngi1
+恰兩恰ㄦ	khaeh liang2 khaeh ngi1
+恰恰ㄦ	khaeh khaeh ngi1
+正想	cieng3 siang2
+起先	khi2 siae1
+頭先	deu1 siae1
+起頭先	khi2 deu1 siae1
+後半來	gheu2 poe3 lai1
+本來	peng2 lai1
+本柢	peng2 ti2
+一向	ik hiang3
+一出	ik chiuik
+出來	chiuik lai1
+向來	hiang3 lai1
+事先	zy3 siae1
+先弗先	siae1 fek siae1
+清清	tshieng1 tshieng1
+刻刻	khek khek
 走罷
 跑罷
 做罷
 裝罷
 喫罷
-馬上
+馬上	mo2 zhiang3
 走道
 跑道
 做道
@@ -3535,19 +3537,19 @@ use_preset_vocabulary: true
 做肇	tsou3 dau2
 裝肇	tsong1 dau2
 喫肇	khiek dau2
-白得
-白實
+白得	bak tek
+白實	bak zhik
 好險
 冷險
 好甚
 冷甚
 摸瞊好
 摸瞊冷
-短命
-鏖糟
-死人
-老人
-棺材
+短命	toe2 mieng3
+鏖糟	au1 tsau1
+死人	sy2 ning1
+老人	lau2 ning1
+棺材	kuoe1 zai1
 蠻冷
 蠻好
 忒小
@@ -3557,437 +3559,431 @@ use_preset_vocabulary: true
 忒熱
 冷到
 冷死
-稍微
-稍須
+稍微	sau3 mi1
+稍須	sau3 siu1
 沃來
 沃弗曉得
 沃弗
-統統
-共攏
-做下
-做隊
-做陣
-一色
+統統	thung2 thung2
+共攏	giung3 lung2
+做下	tsou3 gho3
+做隊	tsou3 dei3
+做陣	tsou3 jing3
 蟹醬一色
 貤來
 貤跑
 喫添
 講添
-單清
-單門
-#有厘ㄦ
-有仂ㄦ
-有眼ㄦ
-天快光
-恐怕
-到老
-原舊
+單清	tae1 tshieng1
+單門	tae1 meng1
+有仂ㄦ	yeu2 lek ngi1
+有眼ㄦ	yeu2 ngae2 ngi1
+天快光	thiae1 khua3 kuong1
+恐怕	khiung2 pho3
+到老	tau3 lau2
+原舊	ngioe1 gieu3
 到老沃一色
 到老統一色
-到煞
-橫直
-大概
-大致
-一定
-一準
-準定
-決著
-特特ㄦ
-只特ㄦ然
+到煞	tau3 saeh
+橫直	wang1 jiek
+大概	da3 kai3
+大致	da3 tsy3
+一定	ik dieng3
+一準	ik ciuing2
+準定	ciuing2 dieng3
+決著	kioeh jiak
+特特ㄦ	dek dek ngi1
+只特ㄦ然	tsy2 dek ngi1 neng1
 #只特ㄦ能
-用弗著
-非走弗興
-應當
-只當
-白白
-弗用
-懵裝
-胡亂講
-懵講
+用弗著	yung3 fek jiak
+非走弗興	fi1 tseu2 fek hieng1
+應當	ieng1 tong1
+只當	tsy2 tong1
+白白	bak bak
+弗用	fek yung3
+懵裝	mung2 tsong1
+胡亂講	wu1 loe3 kong2
+懵講	mung2 kong2
 走先
 正在居
 正在上
 正在許
-偏偏
-清清
-乾脆
-或許
-算弗牢
-岔見岔
-恰兩恰ㄦ
-做下
-單下
-兩下ㄦ
-份格
+偏偏	phie1 phie1
+清清	tshieng1 tshieng1
+乾脆	koe1 tshiu3
+或許	wek hei2
+算弗牢	soe3 fek lau1
+岔見岔	tsho3 kiae3 tsho3
+恰兩恰ㄦ	khaeh liang2 khaeh ngi1
+做下	tsou3 gho3
+單下	tae1 gho3
+兩下ㄦ	liang2 gho3 ngi1
+份格	veng3 kak
+莽然	mong2 neng1
 份格麻煩
-莽然
-#莽能
-隨便
+隨便	ziu1 bie3
+裝緊	tsong1 king2
 裝緊
 裝緊跑
 裝緊走
-趕緊
-爭眼ㄦ
-#爭厘ㄦ添
-爭仂ㄦ添
-裝下ㄦ添
-根本
-直頭
-實在
-嶄實
-真真
-的確
-一共
-弗用
+趕緊	koe2 king2
+爭眼ㄦ	tsang1 ngae2 ngi1
+爭仂ㄦ添	tsang1 lek ngi1 thiae1
+裝下ㄦ添	tsong1 gho3 ngi1 thiae1
+根本	keng1 peng2
+直頭	jiek deu1
+實在	zhik zai2
+嶄實	tsae2 zhik
+真真	cing1 cing1
+的確	tiek khok
+一共	ik giung3
+弗用	fek yung3
 對渠好
-靠邊埏走
-若是
-爲著
-弗過
-卻情
-好戲
-許物
-或者
-弗物
-弗得
+靠邊埏走	khau3 piae1 shie1 tseu2
+若是	niak zy2
+爲著	yu3 jiak
+弗過	fek kou3
+卻情	khiak zieng1
+好戲	hau2 hi3
+許物	hei2 mek
+或者	wek cio2
+弗物	fek mek
+弗得	fek tek
 快快然
 好好然
-#快快能
-#好好能
-乘瑣ㄦ
-重新
-曾經
-過罷
+乘瑣ㄦ	zhieng1 sou2 ngi1
+重新	jiung1 sing1
+曾經	zeng1 kieng1
 講過罷
 裝過罷
 喫過罷
-落來
-趕弗逮
+落來	lok lai1
+趕弗逮	koe2 fek dai3
 
 #（嘆詞）
 啊唷
 
 #W 方位
 
-當中
-中央
-半中攔腰
-上面
-上轉
-下面
-下轉
-濟手面
-左手面
-順手面
-拉塌
-拉結塌
-門前
-門前頭
-後面
-後半
-背後
-對面
-底面
-底轉
-底角
-牀底角
-外面
-外轉
-外角
-邊埏
-橫旁
-碗臀
-盡臀
-團圈
-地下
-地底
-拉塌尾ㄦ
-開頭
-開頭始時
-後結煞
-別屋宕
-到處
-下轉
-路上
-路裏
-街上
-街裏
-門口頭
-桌上
-桌裏
-心裏
-望東
-望西
-望南
-望北
-望左
-望右
-車上
-車裏
-車外
-角頭
-角落斗裏
-牀下
-樓下
-走上
-走落
+當中	tong1 ciung1
+中央	ciung1 iang1
+半中攔腰	poe3 ciung1 laeh iau1
+上面	zhiang3 mie3
+上轉	zhiang3 cioe2
+下面	gho2 mie3
+下轉	gho2 cioe2
+濟手面	tsi2 shieu2 mie3
+左手面	tsou2 shieu2 mie3
+順手面	zhiuing3 shieu2 mie3
+拉塌	la1 thaeh
+拉結塌	la1 kiaeh thaeh
+門前	meng1 ziae1
+門前	meng1 ziae1
+門前頭	meng1 ziae1 deu1
+後面	gheu2 mie3
+後半	gheu2 poe3
+背後	pei3 gheu2
+對面	tei3 mie3
+底面	ti2 mie3
+底轉	ti2 cioe2
+底角	ti2 kok
+牀底角	zhiong1 ti2 kok
+外面	nga3 mie3
+外轉	nga3 cioe2
+外角	nga3 kok
+邊埏	piae1 shie1
+橫旁	wang1 bong1
+隔壁	kak piek
+脣	zhiuing1
+碗臀	uoe2 doeng1
+盡臀	zing2 doeng1
+團圈	doe1 khioe1
+地下	di3 gho2
+地底	di3 ti2
+拉塌尾ㄦ	la1 thaeh mi2 ngi1
+開頭	khai1 deu1
+開頭始時	khai1 deu1 sy2 zy1
+後結煞	gheu2 kiaeh saeh
+別屋宕	bieh uk dong3
+到處	tau3 chy3
+下轉	gho2 cioe2
+路上	lu3 zhiang3
+路上	lu3 long3
+路裏	lu3 li2
+街上	ka1 zhiang3
+街上	ka1 long3
+街裏	ka1 li2
+門口頭	meng1 kheu2 deu1
+桌上	ciok zhiang3
+桌上	ciok long3
+桌裏	ciok li2
+心裏	sing1 li2
+望東	mong3 tung1
+望西	mong3 si1
+望南	mong3 ne1
+望北	mong3 pek
+望左	mong3 tsou2
+望右	mong3 yeu3
+車上	chio1 zhiang3
+車上	chio1 long3
+車裏	chio1 li2
+車外	chio1 nga3
+角頭	kok deu1
+角落斗裏	kok lok teu2 li2
+牀下	zhiong1 gho2
+樓下	leu1 gho2
+走上	tseu2 zhiang2
+走落	tseu2 lok
 射底	zhiak ti2
-走出
-反轉
-倒退轉
-倒走轉
-望轉走
+走出	tseu2 chiuik
+反轉	fae2 cioe2
+倒退轉	tau2 thei3 cio2
+倒走轉	tau2 tseu2 cioe2
+望轉走	mong3 cioe2 tseu2
 
 #X 指代
 
-別人
-我個
-你個
-渠個
-大家人
-單獨自
-兩個
-別仂
-別厘
-居個
-許個
-各個
-每個
-個加個
-居仂
-居厘
-許仂
-許厘
-居里
-居屋宕
-彀宕
-居柢
-旁都
-旁𡍲
-許屋宕
-犼宕
-旁面
-許柢
-居面
-許面
-居然
-#居能
-居下ㄦ
-#居能屆
-許下ㄦ
-#許能屆
-何物樣
-裝物樣
-許然
-#許能
-幾仂
-幾厘
-幾仂ㄦ
-幾厘ㄦ
-幾厘大
-幾仂大
-幾厘
-幾仂
-幾個
-幾時
-#幾能屆
-幾然介
-幾許
+別人	bieh ning1
+我個	ngou2 keh
+你個	ni2 keh
+渠個	gei1 keh
+渠個	geo1 keh
+我個	ngou2 kou3
+你個	ni2 kou3
+渠個	gei1 kou3
+渠個	geo1 kou3
+大家人	da3 ko1 ning1
+單獨自	tae1 duk zy3
+兩個	liang2 keh
+別仂	bieh lek
+居個	kei1 keh
+許個	hei2 keh
+各個	kok keh
+每個	mei2 keh
+個加個	keh ko1 keh
+居仂	kei1 lek
+許仂	hei2 lek
+居里	kei1 li2
+居屋宕	kei1 uk dong3
+彀宕	keu3 dong3
+居柢	kei1 ti2
+旁都	bong1 taeh
+旁𡍲	bong1 taeh
+許屋宕	hei2 uk dong3
+犼宕	heu2 dong3
+旁面	bong1 mie3
+許柢	hei2 ti2
+居面	kei1 mie3
+許面	hei2 mie3
+居然	kei1 neng1
+居然	kei1 nie1
+居下ㄦ	kei1 gho3 ngi1
+居然介	kei1 neng1 ka3
+許下ㄦ	hei2 gho3 ngi1
+何物樣	ga1 mek yang3
+何物樣	gha1 mek yang3
+裝物樣	tsong1 mek yang3
+許然	hei2 neng1
+幾仂	ki2 lek
+幾仂ㄦ	ki2 lek ngi1
+幾仂大	ki2 lek dou3
+幾仂	ki2 lek
+幾個	ki2 keh
+幾時	ki2 zy1
+幾然介	ki2 neng ka3
+幾許	ki2 hei2
 
 #Y 數量
 
-一個
-一把
-一條
-一條棒頭
-一條棒
-一把刀
-一支
-一支筆
-一坒磚
-一坒磚頭
-一把傘
-一條手巾
-一槰
-一槰草
-一匹
-一匹馬
-一個
-一個雞
-一頭
-一頭牛
-一頭豬玀
-一頭豬
-一條魚
-一梗魚
-一口
-一口水
-一帖
-一帖藥
-一朵
-一朵花
-一廚
-一廚飯
-一條毛巾
-一把車
-一部汽車
-一部
-一隻
-一隻手
-一雙手
-一支手
-一張
-一張桌
-一張臺
-一牀
-一牀被頭
-一條被頭
-一頂
-一領
-一領布帳
-一領席
-一封
-一封信
-一首
-一首歌
-一件
-一件上衣
-一條褲
-一支煙
-一盞燈
-一盞
-一枚
-一枚針
-一條頭髮
-一條線
-一條油條
-一株
-一株樹
-一株白菜
-一粒珠
-一粒紐珠
-一粒
-一粒糖
-一粒米
-一粒石頭
-一粒墨
-一粒肥皂
-一粒玻璃
-一瓶酒
-一瓶
-一套
-一套衣裳
-一串
-一串葡萄
-一段
-一段甘蔗
-一主
-一主人家
-一份
-一份人家
-一爿
-一爿門
-一爿橋
-一隻船
-一㴬尿
-一㴬
-一㴬雨
-一架
-一架飛機
-一𡉑
-一埭
-一𡉑房
-一埭房
-一座
-一座屋宕
-一間
-一間屋
-兩退
-兩退房
-一座山
-一爿山
-一枚旗
-一枚鏡
-一起
-一起事體
-一樣
-一樣物事
-一筆
-一筆生意
-一出
-一出戲
-一個客人
-一個番錢
-一雙鞋
-一對花瓶
-一雙眼鏡
-一窠
-一窠蜂
-一莢
-一莢香蕉
-一散柑
-一柵柑
-一散橘
-一散柑
-一重
-一重書
-一重紙
-一重碗
-一筒
-一筒碗
-一鋪
-一鋪路
-一匝
-大一匝
-一尋
-一尋長
-一盲
-走一𡉑
-走一埭
-一邊
-望一邊
-一回
-勸一回
-一陣雨
-下一陣雨
-一廚
-喫一廚
-一套
-打一套
-一下
-打一下
-聽一下ㄦ
-睏一寣
-一寣
-兩個
-兩三個
-廿一
-廿二
-廿兩
-一千零廿
-個把兩個
-十廿個
-百許個
-萬許個番錢
-里許兩里路
-一兩畝
-一兩畝田
-一兩畝地
-好乎仂個
-好幾個
-幾許個
-一仂ㄦ
-一厘ㄦ
-十幾擔
-十許個
-一大半
-成千
-上萬
-幾仂歲
-幾厘歲
-第一
-頭個
-第二
-第兩個
+一個	ik keh
+一把	ik po2
+一條	ik diau1
+一條棒頭	ik diau1 bong2 deu1
+一條棒	ik diau1 bong2
+一把刀	ik po2 tau1
+一支	ik tsy1
+一支筆	ik tsy1 pik
+一坒磚	ik bi3 cioe1
+一把傘	ik po2 sae2
+一條手巾	ik diau1 shieu2 king1
+一槰	ik bung3
+一槰草	ik bung3 tshau2
+一匹	ik phik
+一匹馬	ik phik mo2
+一個	ik keh
+一個雞	ik keh ki1
+一頭	ik deu1
+一頭牛	ik deu1 ngieu1
+一頭	ik deu1
+一頭豬	ik deu1 tsy1
+一條魚	ik diau1 ngei1
+一頭魚	ik deu1 ngei1
+一口	ik kheu2
+一口水	ik kheu2 shiu2
+一帖	ik thiaeh
+一帖藥	ik thiaeh yak
+一朵	ik tou2
+一朵花	ik tou2 huo1
+一廚	ik jiu1
+一廚飯	ik jiu1 vae3
+一條毛巾	ik diau1 mau1 king1
+一把車	ik po2 chio1
+一部汽車	ik bu2 khi3 chio1
+一部	ik bu2
+一隻	ik tsak
+一隻手	ik tsak shieu2
+一支手	ik tsy1 shieu2
+一張	ik ciang1
+一張桌	ik ciang1 ciok
+一牀	ik zhiong1
+一條	ik diau1
+一頂	ik tieng2
+一領	ik lieng2
+一領布帳	ik lieng2 pu3 ciang3
+一領席	ik lieng2 ziek
+一封	ik fung1
+一封信	ik fung1 sing3
+一首	ik shieu2
+一首歌	ik shieu2 kou1
+一個	ik keh
+一件	ik gie2
+一件上衣	ik gie2 zhiang3 i1
+一條褲	ik diau1 khu3
+一支煙	ik tsy1 iae1
+一盞燈	ik tsae2 teng1
+一盞	ik tsae2
+一枚	ik mei1
+一枚針	ik mei1 cing1
+一條頭髮	ik diau1 deu1 faeh
+一條線	ik diau1 sie3
+一條油條	ik diau1 yeu1 diau1
+一株	ik ciu1
+一株樹	ik ciu1 zhiu3
+一株白菜	ik ciu1 bak tshai3
+一粒珠	ik lik ciu1
+一粒紐珠	ik lik nieu2 ciu1
+一粒	ik lik
+一粒糖	ik lik dong1
+一粒米	ik lik mi2
+一粒石頭	ik lik zhiek deu1
+一粒石頭	ik lik zhiak deu1
+一粒墨	ik lik mek
+一粒肥皂	ik lik bi1 zau2
+一粒玻璃	ik lik phou1 li1
+一瓶酒	ik bieng1 tsieu2
+一瓶	ik bieng1
+一套	ik thau3
+一套衣裳	ik thau3 i1 zhiang1
+一串	ik chioe3
+一串葡萄	ik chioe3 bu1 dau1
+一段	ik doe3
+一段甘蔗	ik doe3 ke1 cio3
+一主	ik ciu2
+一主人家	ik ciu2 ning1 ko1
+一份	ik veng3
+一份人家	ik veng3 ning1 ko1
+一爿	ik bae1
+一爿門	ik bae1 meng1
+一爿橋	ik bae1 giau1
+一隻船	ik tsak zhioe1
+一㴬尿	ik dzia3 shiu1
+一㴬	ik dzia3
+一架	ik ko3
+一架飛機	ik ko3 fi1 ki1
+一𡉑	ik da3
+一埭	ik dai3
+一𡉑房	ik da3 bong1
+一埭房	ik dai3 bong1
+一座	ik zou3
+一座屋宕	ik zou3 uk dong3
+一間	ik kae1
+一間屋	ik kae1 uk
+兩退	liang2 thei3
+兩退房	liang2 thei3 bong1
+一座山	ik zou3 sae1
+一爿山	ik bae1 sae1
+一枚旗	ik mei1 gi1
+一枚鏡	ik mei1 kieng3
+一起	ik khi2
+一起事體	ik khi2 zy3 thi2
+一樣	ik yang3
+一樣物事	ik yang3 mek zy3
+一筆	ik pik
+一筆生意	ik pik sang1 i3
+一齣	ik chiuik
+一齣戲	ik chiuik hi3
+一個	ik keh
+一個客人	ik keh khak ning1
+一個番錢	ik keh fae1 zie1
+一雙鞋	ik siong1 gha1
+一對花瓶	ik tei3 huo1 bieng1
+一雙眼鏡	ik siong1 ngae2 kieng3
+一窠	ik khou1
+一窠蜂	ik khou1 fung1
+一莢	ik kiaeh
+一莢香蕉	ik kiaeh hiang1 tsiau1
+一散柑	ik sae3 ke1
+一柵柑	ik sae3 ke1
+一散橘	ik sae3 kiuik
+一散柑	ik sae3 ke1
+一重	ik jiung3
+一重書	ik jiung3 shy1
+一重紙	ik jiung3 tsy2
+一重碗	ik jiung3 uoe2
+一筒	ik dung1
+一筒碗	ik dung1 uoe2
+一鋪	ik phu3
+一鋪路	ik phu3 lu3
+一匝	ik tseh
+大一匝	dou3 ik tseh
+一尋	ik zing1
+一尋長	ik zing1 jiang1
+庹	thok
+一盲	ik mang1
+走一𡉑	tseu2 ik da3
+走一埭	tseu2 ik dai3
+一邊	ik piae1
+望一邊	mong3 ik piae1
+一回	ik wei1
+勸一回	khioe3 ik wei1
+一陣雨	ik jing3 yu2
+下一陣雨	gho3 ik jing3 yu2
+一廚	ik jiu1
+喫一廚	khiek ik jiu1
+一套	ik thau3
+打一套	tang2 ik thau3
+一下	ik gho3
+打一下	tang2 ik gho3
+一下ㄦ	ik gho3 ngi1
+聽一下ㄦ	thieng1 ik gho3 ngi1
+睏一寣	khueng3 ik huek
+一寣	ik huek
+兩個	liang2 keh
+兩三個	liang2 sae1 keh
+廿一	niae3 ik
+廿兩	niae3 liang2
+一千零廿	ik tshiae1 lieng1 niae3
+個把兩個	keh po2 liang2 keh
+十廿個	zhik niae3 keh
+百許個	pak hei2 keh
+萬許個番錢	mae3 hei2 keh fae1 zie1
+里許兩里路	li2 hei2 liang2 li2 lu3
+一兩畝	ik liang2 meu2
+一兩畝田	ik liang2 meu2 diae1
+一兩畝地	ik liang2 meu2 di3
+好乎仂個	hau2 wu1 lek keh
+好幾個	hau2 ki2 keh
+幾許個	ki2 hei2 keh
+一仂ㄦ	ik lek ngi1
+十幾擔	zhik ki2 tae3
+十許个	zhik hei2 keh
+一大半	ik dou3 poe3
+成千	zhieng1 tshiae1
+上萬	zhiang2 mae3
+幾仂歲	ki2 lek siu3
+第一	di3 ik
+頭个	deu1 keh
+第二	di3 ni3
+第兩個	di3 liang2 keh
 
 #
