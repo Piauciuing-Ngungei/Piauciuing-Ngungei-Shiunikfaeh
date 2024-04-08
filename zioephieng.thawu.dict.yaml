@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.29
+# 版本號：24.4.8
 
 ---
 name: zioephieng.thawu
-version:	"2024.3.29"
+version:	"2024.4.8"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90780,3 +90780,9 @@ use_preset_vocabulary: true
 漂流	phiau1 lieu1
 漂白	phiau2 bak
 漂亮	phiau3 liang3
+
+乾膚起搦
+搦麵
+搦麵皮
+搦粉
+推來搦去
