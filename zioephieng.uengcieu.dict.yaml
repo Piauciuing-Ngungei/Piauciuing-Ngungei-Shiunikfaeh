@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.4.2
+# 版本號：24.4.8
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.4.2"
+version:	"2024.4.8"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -387,7 +387,7 @@ use_preset_vocabulary: true
 早稻熟	tsau2 dau2 zhiuk
 晚稻熟	mae2 dau2 zhiuk
 下種	gho2 ciung2
-播田	tshaeh diae1
+插田	tshaeh diae1
 耘草	yuing1 tshau2
 摜稻	guae3 dau2
 打稻	tang2 dau2
