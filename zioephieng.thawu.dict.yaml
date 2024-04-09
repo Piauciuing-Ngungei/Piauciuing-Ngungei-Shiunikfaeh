@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.4.8
+# 版本號：24.4.9
 
 ---
 name: zioephieng.thawu
-version:	"2024.4.8"
+version:	"2024.4.9"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90786,3 +90786,9 @@ use_preset_vocabulary: true
 搦麵皮
 搦粉
 推來搦去
+端碗盞
+端碗
+端牢
+掇碗盞
+掇碗
+掇牢
