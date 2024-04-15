@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.4.8
+# 版本號：24.4.15
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.4.8"
+version:	"2024.4.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2976,6 +2976,7 @@ use_preset_vocabulary: true
 頭礌轉	deu1 lei3 cioe2
 手揹起	shieu2 pei1 khi2
 手敫敫	shieu2 yak yak
+手撎撎	shieu2 iaeh iaeh
 手放爻	shieu2 fong3 ghau1
 手敒出	shieu2 shing1 chiuik
 動手	dung2 shieu2

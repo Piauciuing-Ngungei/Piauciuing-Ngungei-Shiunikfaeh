@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.4.10
+# 版本號：24.4.15
 
 ---
 name: zioephieng
-version:	"2024.4.10"
+version:	"2024.4.15"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -200,7 +200,7 @@ M̌	mu2{實爲m2}
 圞	loe1
 塱	long2
 塳	bung1
-拾	ngeh
+𢹷	ngak
 擙	au3
 栀	tsy1
 汎	vaeh
@@ -439,7 +439,7 @@ M̌	mu2{實爲m2}
 阪	pae2
 漲	ciang2
 差	tshy1{參差}	1%
-盪	dong3
+盪	dong3{同“蕩”dong3}
 蔢	bou3
 𦽅	hou3
 #荷	ghou3
@@ -960,7 +960,7 @@ M̌	mu2{實爲m2}
 㽘	gong2
 㽘	ghong2
 #徛	gai2
-跔	geu1
+跔	geu1{物屈弗能伸}
 沒	uek
 蟑	ciang1
 螂	long1
@@ -968,19 +968,19 @@ M̌	mu2{實爲m2}
 䐥	ung3
 盦	eng3
 齾	ngaeh
-撎	iaeh
+撎	iaeh{招手}
 㹙	ang2
-佮	keh
+#佮	keh
 扴	kae3
 撬	giau2
 朣	dziong1
 挾	geh
 挾	giaeh
-#穿	chiuing1	0.0001%
+#穿	chiuing1{此音見於溫州}	1%
 繰	tshiau1
 遷	tshie1
 鏨	ze2
-㪌	sung2
+#㪌	sung2
 丵	zok
 㾷	si1
 㾷	sy1
@@ -1197,7 +1197,7 @@ M̌	mu2{實爲m2}
 鈮	ni1
 跍	gu1
 崮	ku3
-佝	geu1
+#佝	geu1
 哽	gang2
 鋯	kau3
 着	ciak
@@ -8701,7 +8701,7 @@ M̌	mu2{實爲m2}
 闛	thong1
 𧼮	thong1
 踼	thong1
-#盪	thong1
+盪	thong1{抵，承；盪弗牢}
 蝪	thong1
 鼞	thong1
 薚	thong1
@@ -14629,7 +14629,7 @@ M̌	mu2{實爲m2}
 #潒	dong2
 𢠽	dong2
 愓	dong2
-璗	dong2
+璗	dong2{盪碗，盪滌}
 盪	dong2
 䑗	dong2
 簜	dong2
@@ -25911,7 +25911,7 @@ M̌	mu2{實爲m2}
 㹺	theh
 𦧟	theh
 䶀	theh
-佮	theh
+#佮	theh
 䵬	theh
 𪘁	theh
 𨌭	theh
