@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.4.15
+# 版本號：24.4.18
 
 ---
 name: zioephieng.thawu
-version:	"2024.4.15"
+version:	"2024.4.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90940,3 +90940,8 @@ use_preset_vocabulary: true
 翹爻死
 翹辮子
 翹老三
+䱀䲉
+䱗鰷魚
+𩽐鰷魚
+𩽐鰷
+䱗鰷
