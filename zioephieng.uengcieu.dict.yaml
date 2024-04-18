@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.4.15
+# 版本號：24.4.18
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.4.15"
+version:	"2024.4.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -817,7 +817,7 @@ use_preset_vocabulary: true
 知了	tsy1 liau2
 蟀蟀	siuik siuik
 蚊蟲	meng1 jiung1
-赤蟲	tshak jiung
+赤蟲	tshak jiung1
 蛆蟲	tshi1 jiung1
 蝨子	sek tsy2
 跳蚤	diau1 tsau2
