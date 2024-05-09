@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.4.18
+# 版本號：24.5.9
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.4.18"
+version:	"2024.5.9"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1447,8 +1447,9 @@ use_preset_vocabulary: true
 縣主ㄦ	yoe3 ciu2 ngi1
 縣主	yoe3 ciu2
 老院主	lau2 yoe3 ciu2
+老縣主	lau2 yoe3 ciu2
 獨自人	duk zy3 ning1
-單獨自人	tae1duk zy3 ning1
+單獨自人	tae1 duk zy3 ning1
 守寡老安人	shieu2 kuo2 lau2 oe1 ning1
 單邊人	tae1 piae1 ning1
 頭媌	deu1 mau1

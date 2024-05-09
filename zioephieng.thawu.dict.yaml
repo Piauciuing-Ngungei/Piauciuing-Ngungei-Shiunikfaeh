@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.4.18
+# 版本號：24.5.9
 
 ---
 name: zioephieng.thawu
-version:	"2024.4.18"
+version:	"2024.5.9"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90945,3 +90945,7 @@ use_preset_vocabulary: true
 𩽐鰷魚
 𩽐鰷
 䱗鰷
+
+搣螺絲
+拈螺絲
+旋螺絲

@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.5.5
+# 版本號：24.5.9
 
 ---
 name: zioephieng
-version:	"2024.5.5"
+version:	"2024.5.9"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -182,6 +182,10 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+䀹	shie2
+䀹	tsaeh
+䀹	kaeh
+䀹	shieh
 獁	mo2
 坋	veng3
 坋	bong2
@@ -271,7 +275,7 @@ M̌	mu2{實爲m2}
 嘴	tsy2
 噯	a3
 嚄	uak
-娒	mei1
+娒	mei1{實爲mhei1}
 庹	thok
 弸	peng1
 彆	piaeh
@@ -756,7 +760,7 @@ M̌	mu2{實爲m2}
 撿	kie2
 妗	ging1
 蚎	yoeh
-蝦	hoe1{蝦仁}
+蝦	hoe1{蝦仁，實爲hoe1}
 罕	hoe2
 鋎	woe1
 喳	tsa1
@@ -7366,7 +7370,7 @@ M̌	mu2{實爲m2}
 𡡏	sau1
 茅	mau1
 蝥	mau1
-貓	mau1
+貓	mau1{實爲mhau1}
 犛	mau1
 罞	mau1
 鶜	mau1
@@ -10161,7 +10165,7 @@ M̌	mu2{實爲m2}
 𨻻	leu1
 𧁾	leu1
 蔞	leu1
-𠞭	leu1
+𠞭	leu1{實爲lheu1}
 䝏	leu1
 𦎹	leu1
 僂	leu1
@@ -10171,7 +10175,7 @@ M̌	mu2{實爲m2}
 膢	leu1
 𤬏	leu1
 廔	leu1
-剅	leu1
+剅	leu1{實爲lheu1}
 摟	leu1
 嘍	leu1
 瞜	leu1
@@ -26616,7 +26620,7 @@ M̌	mu2{實爲m2}
 歪	hua1
 夾	gaeh
 軋	gaeh
-可	ak{一般疑問句虛詞}	10
+#可	ak{一般疑問句虛詞}	10
 阿	ak
 嶴	au3
 扷	au3
@@ -27137,7 +27141,7 @@ M̌	mu2{實爲m2}
 艿	na2
 汝	na2
 那	na3
-擔	nae1
+擔	nae1{實爲nhae1}
 児	ngi1{慣用音：n̄g}
 ㄦ	ngi1{慣用音：n̄g}
 癌	ngae1
@@ -27150,7 +27154,7 @@ M̌	mu2{實爲m2}
 捻	niaeh
 妞	nieu1
 掿	niok
-囡	noe1
+囡	noe1{實爲nhoe1}
 掗	o3
 唩	ou1
 叭	phaeh
@@ -27292,7 +27296,7 @@ M̌	mu2{實爲m2}
 椅	iu2	1%
 擲	dzak
 #個	kek
-#可	kha2{{一般疑問句虛詞}	100
+可	kha2{{一般疑問句虛詞}	100
 #檻	khae3
 窘	khiuing2
 #菌	khiuing2
