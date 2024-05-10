@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.5.3
+# 版本號：24.5.10
 
 ---
 name: zioephieng.chycieu
-version:	"2024.5.3"
+version:	"2024.5.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1833,7 +1833,7 @@ use_preset_vocabulary: true
 𤖼麵包	
 𤖼饅頭	
 擇花	
-#□花	
+討花	
 #□花	
 #□花	
 	
@@ -2042,7 +2042,7 @@ use_preset_vocabulary: true
 #	
 	
 
-#	lieh/liaeh（低可能性）
+#趔	lieh/liaeh（低可能性）
 	
 	
 #27.五官行爲	
