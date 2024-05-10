@@ -762,6 +762,8 @@ use_preset_vocabulary: true
 年三十日	
 三十日	
 三十日夜	
+隔歲
+
 年初一	
 重午	jiung3 ngu2
 八月半	
@@ -852,10 +854,14 @@ use_preset_vocabulary: true
 一尾蛇	
 一根橋	
 #一□橋	
-#一□橋	
+#一□橋
+一蔸橋
+	
 一根路	
 一支路	
 #一□路	
+一㣕路
+
 一部汽車	
 一把汽車	
 一蓬樹	
@@ -865,6 +871,7 @@ use_preset_vocabulary: true
 #一□樹	
 #一□柴	
 #一□樹	
+一株樹
 #一□樹	
 一粒豆ㄦ	
 一廚飯	
@@ -928,12 +935,11 @@ use_preset_vocabulary: true
 鼻頭	
 口鼻	
 鼻頭涕	
-#鼻頭□	
+鼻頭泗
 #口鼻□	
 #□	
-#鼻頭□	
 痰涕	
-#□朵	
+	
 目珠毛	
 眼睛毛	
 眼淚毛	
@@ -1008,7 +1014,7 @@ use_preset_vocabulary: true
 #背脊□	
 	
 	
-#腰□骨	
+#腰脯骨	
 	
 #□痱	
 挖養	
@@ -1071,7 +1077,8 @@ use_preset_vocabulary: true
 蹺腳	
 撇腳	
 跛腳	pa2 kiak
-	
+
+#蝦背	
 #□背	
 殿佬	diae3 lau2
 寺姑娘		
