@@ -35,8 +35,8 @@ use_preset_vocabulary: true
 
 #1.動物	
 街狗	
-荒雞	
-雞荒	
+犬ㄦ	
+雞公	
 雄雞	
 公雞	
 雞娘	
@@ -47,7 +47,7 @@ use_preset_vocabulary: true
 猢猻	
 猴大	
 #□猻	
-大毛	
+大貓	
 貓兒	
 貓貓	
 田雞	
@@ -81,8 +81,7 @@ use_preset_vocabulary: true
 蚊蟲	
 蟑蟲	
 蟑蚻	
-蚤	
-蝨	
+	
 茭蝨	
 屁蟲	
 臭鼻	
@@ -168,6 +167,7 @@ use_preset_vocabulary: true
 #□翼	
 #老鼠□翼	
 皮翼	
+
 白蟻虎	
 壁吸虎	
 吸壁	
@@ -187,7 +187,8 @@ use_preset_vocabulary: true
 #鯰□	
 #鯰□	
 #□魚	
-河魚	
+河魚
+惡魚	
 #鯰□	
 䱀䲉	ong1 sy1
 #黃□□	
@@ -236,7 +237,7 @@ use_preset_vocabulary: true
 雞爪	
 雞腳	
 雞腳爪	
-#雞爪□	
+雞爪耙	
 	
 #2.植物	
 沝稻	
@@ -250,6 +251,9 @@ use_preset_vocabulary: true
 白菜	
 油冬菜	
 油菜	
+香料娘
+#蕨□
+
 包菜	
 球菜	
 菠薐	
@@ -261,6 +265,8 @@ use_preset_vocabulary: true
 苦衣	
 #蕨	gioeh4
 莨萁頂	long1 ki1 tieng2
+莨萁
+龍箕
 #莨萁□	
 #蕨□	
 #蕨□	
@@ -279,7 +285,7 @@ use_preset_vocabulary: true
 菜椒	
 甜飯椒	
 #□辣椒	
-#甜辣□	
+甜辣茄	
 番茄	
 洋茄	
 洋芋	
@@ -454,16 +460,9 @@ use_preset_vocabulary: true
 #□梔花	
 	
 	
-#□子	
-#□栗	
-#□子	
-#□子	
-#□子	
-#□子	
-#□子	
-#□子	
-#□子	
-#□子	
+柞子
+柞栗	
+#□子		
 	
 細茶	
 #茶□	
@@ -472,9 +471,12 @@ use_preset_vocabulary: true
 茶梨	
 茶子桃	
 山茶桃	
-#茶□ㄦ	
-#茶□	
-#茶子□	
+茶㯱ㄦ
+茶泡ㄦ
+茶㯱
+茶泡
+茶子㯱
+茶子泡	
 	
 #3.飲食	
 天光	
