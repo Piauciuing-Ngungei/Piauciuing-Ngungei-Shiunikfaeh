@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.5.9
+# 版本號：24.5.10
 
 ---
 name: zioephieng.thawu
-version:	"2024.5.9"
+version:	"2024.5.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90953,3 +90953,5 @@ use_preset_vocabulary: true
 捩燥
 捩牙膏
 𢯰汁
+抮牙膏
+裇衫
