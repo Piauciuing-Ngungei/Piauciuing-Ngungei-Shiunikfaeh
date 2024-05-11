@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.5.10
+# 版本號：24.5.11
 
 ---
 name: zioephieng.chycieu
-version:	"2024.5.10"
+version:	"2024.5.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -962,12 +962,12 @@ use_preset_vocabulary: true
 心口頭	
 #懷□	
 #懷□	
-窟臀	
-窟臀穿	
+朏臀	khuek doeng1
+朏臀穿	khuek doeng1 chioe1
 屁股穿	
 屁股穿洞	
-窟臀洞	
-窟臀孔	
+朏臀洞	khuek doeng1 dung3
+朏臀孔	khuek doeng1 khung2
 髎子	
 尿奶	
 老八	

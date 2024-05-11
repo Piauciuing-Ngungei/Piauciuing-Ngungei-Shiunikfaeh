@@ -19,11 +19,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.18
+# 版本號：24.5.11
 
 ---
 name: zioephieng.chycieu
-version:	"2024.3.17"
+version:	"2024.5.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2000,3 +2000,37 @@ use_preset_vocabulary: true
 浙江大學
 蘇州大學
 復旦大學
+
+###
+漴缺
+漴闕
+松江	siung1 kong1
+松陽	ziung1 yang1
+淞江	siung1 kong1
+浣紗浜
+費家宅
+東費家宅
+中費家宅
+西費家宅
+毛家宅
+陸丁巷
+陸店ㄦ巷
+田堵宅
+花廳頭
+祝家宅
+隱沙
+洪東
+袁長河
+錢家浜
+中原河
+半沙洪
+穿心浜
+屏風浜
+依仁山
+殷行鎮
+南石洞口
+隨塘河
+清水河
+頭道橋
+二道橋
+三道橋
