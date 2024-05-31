@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.5.9
+# 版本號：24.5.31
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.5.9"
+version:	"2024.5.31"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -849,13 +849,15 @@ use_preset_vocabulary: true
 粥飲	ciuk ing2
 水晶糕	shiu2 tsieng1 kau1
 糖糕	dong1 kau1
-鬆糕	siung1 kau1
+鬆糕	sung1 kau1
 卵糕	leng2 kau1
 飯焦	vae3 tsiau1
 陳飯	jing1 vae3
 卵飯	leng2 vae3
 炒卵飯	tshau2 leng2 vae3
-生硬粒	vae3 sang1
+生硬粒	sang1 ngang3 lik
+飯生	vae3 sang1
+夾生飯	kaeh sang1 vae3
 飛麵	fi1 miae3
 糊ㄦ	wu1 ngi1
 麥雞ㄦ	mak ki1 ngi1
@@ -885,7 +887,7 @@ use_preset_vocabulary: true
 扁ㄦ	piae2 ngi1
 燒餅	shiau1 pieng2
 缸餅	kong1 pieng2
-馬蹄鬆	mo2 di1 siung1
+馬蹄鬆	mo2 di1 sung1
 花卷	huo1 kioe2
 豆腐	deu3 vu2
 豆腐被	deu3 vu2 bi2
@@ -908,7 +910,7 @@ use_preset_vocabulary: true
 肚內	du2 nei3
 豬臟	tsy1 zong3
 豬血	tsy1 hioeh
-肉鬆	niuk siung1
+肉鬆	niuk sung1
 臘腸	laeh jiang1
 卵黃	leng2 wong1
 卵白	leng2 bak
@@ -955,7 +957,7 @@ use_preset_vocabulary: true
 煺雞	thei1 ki1
 煺魚	thei1 ngei1
 熯番茄	hoe3 fae1 gia1
-熯鬆糕	hoe3 siung1 kau1
+熯鬆糕	hoe3 sung1 kau1
 燣田螺	le1 diae1 lou1
 煠雞蛋	zaeh ki1 dae3
 搨餅	thaeh pieng2
@@ -2004,7 +2006,7 @@ use_preset_vocabulary: true
 鐾牙	bi3 ngo1
 痯肚	kuoe2 du2
 瀉肚	sia3 du2
-坑鬆	khang1 siung1
+坑鬆	khang1 sung1
 瀨積	la3 tsiek
 瀨涴ㄦ	la3 ou3 ngi1
 兩頭脫	liang2 deu1 thoeh
@@ -2412,7 +2414,7 @@ use_preset_vocabulary: true
 講弗來	kong2 fek lai1
 冇講話	meu2 kong2 wo3
 弗講個	fek kong2 keh
-弄鬆	lung3 siung1
+弄鬆	lung3 sung1
 裝打	tsong1 tang2
 裝狡	tsong1 kau2
 冤家	ioe1 ko1
