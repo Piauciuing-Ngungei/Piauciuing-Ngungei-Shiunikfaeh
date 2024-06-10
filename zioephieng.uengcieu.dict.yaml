@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.5.31
+# 版本號：24.6.10
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.5.31"
+version:	"2024.6.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1052,7 +1052,7 @@ use_preset_vocabulary: true
 布襴	pu3 lae1
 圍裙	yu1 giuing1
 捎馬袋	sau1 mo2 dai3
-尿布	shiu1 pu3
+尿布	siu1 pu3
 月經帶	ngioeh kieng1 ta3
 草鞋	tshau2 gha1
 鞋拖	gha1 tha1
@@ -1137,7 +1137,7 @@ use_preset_vocabulary: true
 封火牆	fung1 hou2 ziang1
 搗泥牆	tau2 ni1 ziang1
 砌牆	tshi3 ziang1
-尿盆間	shiu1 beng1 kae1
+尿盆間	siu1 beng1 kae1
 茅坑	mau1 khang1
 牛欄	ngieu1 lae1
 豬欄	tsy1 lae1
@@ -1266,14 +1266,14 @@ use_preset_vocabulary: true
 番錢包	fae1 zie1 pau1
 皮夾	bi1 kaeh
 衣架	i1 ko3
-尿布棚	shiu1 pu3 bang1
+尿布棚	siu1 pu3 bang1
 三椏玍	sae1 o1 nang1
 三腳撐ㄦ	sae1 kiak tshang1 ngi1
 笐杈	ghong3 tsho1
 笐竿	ghong3 koe1
 馬子桶	mo2 tsy2 dung2
-尿盆	shiu1 beng1
-尿壺	shiu1 wu1
+尿盆	siu1 beng1
+尿壺	siu1 wu1
 草紙	tshau2 tsy2
 紙蓬	tsy2 bung1
 火盆	hou2 beng1
@@ -2001,8 +2001,8 @@ use_preset_vocabulary: true
 頭暈	deu1 yuing3
 打冷膯ㄦ	tang2 lang2 teng1 ngi1
 放屁	fong3 phi3
-尿瀨出爻	shiu1 la3 chiuik ghau1
-瀨尿伯	la3 shiu1 pak
+尿瀨出爻	siu1 la3 chiuik ghau1
+瀨尿伯	la3 siu1 pak
 鐾牙	bi3 ngo1
 痯肚	kuoe2 du2
 瀉肚	sia3 du2
@@ -2901,8 +2901,8 @@ use_preset_vocabulary: true
 𠞭耳朵	leu1 ni2 tou2
 剅耳朵	leu1 ni2 tou2
 瀨涴	la3 ou3
-瀨尿	la3 shiu1
-抯尿	tso1 shiu1
+瀨尿	la3 siu1
+抯尿	tso1 siu1
 抯涴	tso1 ou3
 扴屁股	kae3 phi3 ku2
 扴臀	kae3 doeng1
@@ -3890,7 +3890,7 @@ use_preset_vocabulary: true
 一爿門	ik bae1 meng1
 一爿橋	ik bae1 giau1
 一隻船	ik tsak zhioe1
-一㴬尿	ik dzia3 shiu1
+一㴬尿	ik dzia3 siu1
 一㴬	ik dzia3
 一架	ik ko3
 一架飛機	ik ko3 fi1 ki1

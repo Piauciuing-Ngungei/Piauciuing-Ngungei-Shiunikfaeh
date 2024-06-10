@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.5.31
+# 版本號：24.6.10
 
 ---
 name: zioephieng
-version:	"2024.5.31"
+version:	"2024.6.10"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -27180,7 +27180,7 @@ M̌	mu2{實爲m2}
 圾	seh
 恜	shy3
 侙	shy3
-尿	shiu1
+尿	siu1
 㕐	sia2
 鏾	sie3
 鏥	sieu3
