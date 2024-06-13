@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.6.10
+# 版本號：24.6.13
 
 ---
 name: zioephieng
-version:	"2024.6.10"
+version:	"2024.6.13"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -54,7 +54,6 @@ import_tables:
 
 #附加字表
 
-、	toeng3
 ·	kak
 #'	siau2	0.001%
 #	ni2
@@ -182,6 +181,9 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+峇	kheh
+鮁	baeh
+荸	bek
 糨	giang3
 朏	khuek{屁股}
 蔸	teu1
