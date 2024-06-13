@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.5.10
+# 版本號：24.6.13
 
 ---
 name: zioephieng.thawu
-version:	"2024.5.10"
+version:	"2024.6.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90959,3 +90959,9 @@ use_preset_vocabulary: true
 㩵住
 㩵牢
 𣃍骨頭
+
+渳一口
+渳渳
+老酒渳渳
+醪酒渳渳
+渳口
