@@ -22,17 +22,18 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.19
+# 版本號：24.6.14
 
 ---
 name: zioephieng.thaicieu
-version:	"2024.3.19"
+version:	"2024.6.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
 #附加詞彙
 
+竹薒
 箇昶
 許昶
 居昶
