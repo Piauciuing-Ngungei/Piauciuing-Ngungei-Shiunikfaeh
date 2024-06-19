@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.6.15
+# 版本號：24.6.19
 
 ---
 name: zioephieng.thawu
-version:	"2024.6.15"
+version:	"2024.6.19"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90965,3 +90965,13 @@ use_preset_vocabulary: true
 老酒渳渳
 醪酒渳渳
 渳口
+
+冰冰瀴
+瀴凊
+忒瀴
+瀴險瀴
+瀴猛
+
+捭開
+擘開
+𤖼開
