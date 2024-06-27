@@ -32,9 +32,6 @@ use_preset_vocabulary: true
 
 #縮寫
 
-ﷺ	ngioe3 ciu2 fuk oe1 tsy1	0.1%
-﷽	tha3 sy1 mi2	0.1%
-ﷲ	cing1 ciu2
 	 
 盡管	zing2 kuoe2	80%	   
 抗議	   
@@ -80,7 +77,6 @@ use_preset_vocabulary: true
 三審	sae1 shing2
 屏蔽	bieng1 pi3	80%
 掱手	bo1 shieu2
-水彈槍	shiu2 dae3 tshiang1
 怎麼	ciek mek
 垃圾	leh seh
 軍事行動	   
@@ -114,15 +110,9 @@ use_preset_vocabulary: true
 盡管	zing2 kuoe2
 盡用	tsing2 yung3
 盡打	tsing2 tang2   
-媒體	 
 刊文	khoe1 meng1	1000
 活動	woeh dung2
 已回	yi2 wei1
-供參考	kiung1 sae1 khao2
-供參考	  
-再看看	  
-標題	piau1 di1
-標題	 
 外加	 
 比方講	  
 弗物	 
@@ -167,18 +157,9 @@ use_preset_vocabulary: true
 如何	 
 如然	 
 已經	 
-已二審	  
-已吹風	  
-已提交	  
-已配圖	  
-請配圖	  
-待吹風	  
-校對修改	     
-已修改	  
 傻逼	 
 傻屄	 
 腦癱	 
-換快訊圖	   
 笑飛	 
 你們	 
 他們	 
@@ -189,9 +170,7 @@ use_preset_vocabulary: true
 好的	 
 來了	 
 啥地方	  
-大家	 
-報題了	  
-選題	 
+大家	  
 人民共和國	    
 共和國	  
 社會主義	   
@@ -201,7 +180,6 @@ use_preset_vocabulary: true
 資本主義	   
 時事	 
 首頁	 
-熱新聞	  
 集團	 
 軍隊	 
 軍事	 
@@ -259,26 +237,11 @@ ChatGPT	chatgpt
 
 #新聞詞彙
 
-國際	 
-部門	 
-記者	 
-編輯	 
-提問	 
-開會	 
-假使	 
-因此	 
-因爲	 
-所以	 
-雖然	 
-但是	 
-盡管	 
-無論	 
+
 地區	 
 水壩	 
-搬到
 半島
-新聞網	  
-我弄個	  
+新聞網	  	  
 廣播公司	   
 塔斯社	  
 美國有線電視新聞網	        
@@ -427,7 +390,6 @@ ChatGPT	chatgpt
 比較	 	50%
 包括	pau1 kuoeh 	80%
 北京
-核平	ghak bieng1	60%
 華盛頓
 市長	zy2 ciang2	50%
 財政收入	   
@@ -443,7 +405,6 @@ ChatGPT	chatgpt
 阿拉伯國家聯盟	      
 聯盟	 
 盟友	 
-吳越	 
 日本	 
 韓國	 
 朝鮮	 	 
@@ -706,37 +667,21 @@ ChatGPT	chatgpt
 特區	 
 行政長官	   
 特別行政區	    
-城市
-已發稿	  
+城市 
 搞啥	 
 啥計劃	  
-換圖	 
-原創	 
-請配圖	  
-放一起	  
 綜述	 
-綜合	 
-選題單	  
-我寫下	  
-弄啥	 
-老師	 
+綜合	   
+弄啥	  
 軍事行動	   
 活動	 
 音系	 
-信源	 
-報題	 
-報道稱	  
 美媒	 
 英媒	 
 俄媒	 
 共和黨	  
 民主黨	  
-中期選舉	   
-媒體	 
-已回	 
-供參考	  
-再看看	  
-標題	
+中期選舉	   	
 消息	siau1 siek
 沒看	mek khoe1
 
@@ -796,12 +741,9 @@ ChatGPT	chatgpt
 第三軌供電
 縮線
 延伸
-四審
-時事
-首頁
+
 羅平
 羅平鳥
-熱新聞
 熱榜
 轉發
 轉載
