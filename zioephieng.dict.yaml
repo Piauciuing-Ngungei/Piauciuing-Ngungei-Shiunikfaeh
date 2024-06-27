@@ -49,6 +49,7 @@ import_tables:
   - zioephieng.chycieu #處州詞彙
   - zioephieng.singgiuchy1 #信州-衢州-處州詞彙
   - zioephieng.singgiuchy2 #信州-衢州-處州詞彙
+  - zioephieng.mucieu #婺州詞彙
   - zioephieng.yoehne #越南文
   - zioephieng.phrases #俗語
   - zioephieng.map #吳越地名
@@ -183,6 +184,7 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+疍	dae2
 嘣	pang1
 𢈈	kheh
 攎	lou2
