@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.6.27
+# 版本號：24.7.1
 
 ---
 name: zioephieng
-version:	"2024.6.27"
+version:	"2024.7.1"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -50,6 +50,7 @@ import_tables:
   - zioephieng.singgiuchy1 #信州-衢州-處州詞彙
   - zioephieng.singgiuchy2 #信州-衢州-處州詞彙
   - zioephieng.mucieu #婺州詞彙
+  - zioephieng.mukcieu #睦州詞彙
   - zioephieng.yoehne #越南文
   - zioephieng.phrases #俗語
   - zioephieng.map #吳越地名
@@ -184,6 +185,7 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+硍	kheng3
 疍	dae2
 嘣	pang1
 𢈈	kheh
