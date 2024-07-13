@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.1.30
+# 版本號：24.7.13
 
 ---
 name: zioephieng.miengcieu
-version:	"2024.1.30"
+version:	"2024.7.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -7184,3 +7184,7 @@ use_preset_vocabulary: true
 龔家河
 龔家潭路
 龔馮村
+
+###
+
+鹹齏
