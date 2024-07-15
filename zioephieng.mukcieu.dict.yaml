@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.1
+# 版本號：24.7.15
 
 ---
 name: zioephieng.mucieu
-version:	"2024.7.1"
+version:	"2024.7.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1257,3 +1257,11 @@ use_preset_vocabulary: true
 	
 上下	
 左右	
+
+鼻糊子
+缺子
+長子
+銷子
+火煙蟲蟲
+夜夜蟲
+蝴蜻蜻
