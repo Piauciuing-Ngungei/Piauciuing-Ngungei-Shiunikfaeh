@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.6.27
+# 版本號：24.7.15
 
 ---
 name: zioephieng.mucieu
-version:	"2024.6.27"
+version:	"2024.7.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1809,7 +1809,8 @@ use_preset_vocabulary: true
 	
 	
 弗用	
-#覅要	
+#覅要
+#𫸻要	
 弗樂	
 #	
 	

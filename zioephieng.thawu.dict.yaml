@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.4
+# 版本號：24.7.15
 
 ---
 name: zioephieng.thawu
-version:	"2024.7.4"
+version:	"2024.7.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -236,9 +236,11 @@ use_preset_vocabulary: true
 弗被
 覅去
 𧟰去
+𫸻去
 莫去
 覅問
 𧟰問
+𫸻問
 莫問
 莫忘記
 弗見天日
@@ -64441,7 +64443,12 @@ use_preset_vocabulary: true
 覅渠
 覅多
 覅拿
-覅緊
+𫸻緊
+𫸻用
+𫸻渠
+𫸻多
+𫸻拿
+𫸻緊
 解山河
 解手
 解他
@@ -82797,6 +82804,10 @@ use_preset_vocabulary: true
 覅客氣
 覅做客
 覅忘記
+𫸻得
+𫸻客氣
+𫸻做客
+𫸻忘記
 鼓掌
 逼出窮性命
 逼到烏江口
@@ -88653,6 +88664,7 @@ use_preset_vocabulary: true
 天庭
 太陽堂
 覅面孔
+𫸻面孔
 面頭子
 面架子
 肉嘴肉面
