@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.15
+# 版本號：24.7.17
 
 ---
 name: zioephieng.thawu
-version:	"2024.7.15"
+version:	"2024.7.17"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90498,7 +90498,7 @@ use_preset_vocabulary: true
 頭髮鬈	deu1 faeh gioe1
 負擔	veu2 tae1
 重擔	jiung2 tae3
-負荷	veu2 ghou2
+負荷	veu3 ghou2
 巡邏	ziuing1 lou1
 覆蓋	feu3 ka3
 反覆	fae2 fuk
@@ -91020,3 +91020,34 @@ use_preset_vocabulary: true
 膯牢
 坑位
 鑊焦
+
+陰平	ing1 bieng1
+陽平	yang1 bieng1
+陰上	ing1 zhiang2
+陽上	yang1 zhiang2
+陰去	ing1 khei3
+陽去	yang1 khei3
+陰入	ing1 nik
+陽入	yang1 nik
+小稱調	siau2 chieng1 diau3
+兒化	ni1 huo3
+平聲	bieng1 shieng1
+上聲	zhiang2 shieng1
+去聲	khei3 shieng1
+入聲	nik shieng1
+陰調	ing1 diau3
+陽調	yang1 diau3
+輕聲	khieng1 shieng1
+
+朝鮮	ciau1 sie1
+新鮮	sing1 sie1
+鮮少	sie2 shiau2
+鮮有	sie2 yeu2
+鮮明	sie1 mieng1
+
+期年	ki1 niae1
+奇偶	ki1 ngeu2
+奇數	ki1 su3
+偶數	ngeu2 su3
+單數	tae1 su3
+雙數	siong1 su3
