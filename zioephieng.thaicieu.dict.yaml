@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.6.14
+# 版本號：24.7.18
 
 ---
 name: zioephieng.thaicieu
-version:	"2024.6.14"
+version:	"2024.7.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -40,6 +40,7 @@ use_preset_vocabulary: true
 解昶
 過昶
 過脫昶
+塢進去
 
 #台州土白詞彙
 

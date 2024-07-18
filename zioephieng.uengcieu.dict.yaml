@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.16
+# 版本號：24.7.18
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.7.16"
+version:	"2024.7.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -9743,6 +9743,7 @@ use_preset_vocabulary: true
 
 炄朽	
 跔攏	geu1 lung2
+𧺤攏	gieu1 lung2
 
 鱟帆	
 
