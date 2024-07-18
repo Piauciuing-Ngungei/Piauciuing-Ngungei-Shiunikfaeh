@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.17
+# 版本號：24.7.18
 
 ---
 name: zioephieng.thawu
-version:	"2024.7.17"
+version:	"2024.7.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -25591,7 +25591,7 @@ use_preset_vocabulary: true
 牙買加胡椒
 牛人
 牛僧孺
-牛圈	ngieu1 gioe3
+牛圈	ngieu1 gioe2
 牛家
 牛家莊
 牛李黨爭
@@ -47411,7 +47411,7 @@ use_preset_vocabulary: true
 羊肉麵
 羊舍
 羊氣瘋
-羊圈	yang1 gioe3
+羊圈	yang1 gioe2
 羊群
 羊腿
 羊臊氣
@@ -57431,7 +57431,7 @@ use_preset_vocabulary: true
 馬約
 馬虻
 馬倌
-馬圈	mo2 gioe3
+馬圈	mo2 gioe2
 馬國
 馬婁
 馬桶
@@ -57711,7 +57711,7 @@ use_preset_vocabulary: true
 兜來兜去
 兜底翻
 兜兜盤盤
-兜圈	teu1 khioe3
+兜圈	teu1 khioe1
 兜得轉
 兜率
 兜裏
@@ -67394,7 +67394,7 @@ use_preset_vocabulary: true
 豬油筋
 豬肥
 豬舍
-豬圈	tsy1 gioe3
+豬圈	tsy1 gioe2
 豬場
 豬棚
 豬塮
@@ -85936,7 +85936,7 @@ use_preset_vocabulary: true
 雞頭
 雞頭米
 雞豆
-雞圈	ki1 gioe3
+雞圈	ki1 gioe2
 雞窠
 雞棚門
 雞欄柵
@@ -87575,9 +87575,9 @@ use_preset_vocabulary: true
 豆餅
 菜餅
 豬窠灰
-豬圈灰	tsy1 gioe3 huei1
+豬圈灰	tsy1 gioe2 huei1
 羊窠灰
-羊圈灰	yang1 gioe3 huei1
+羊圈灰	yang1 gioe2 huei1
 拾雞糞
 捉狗屎
 掘井
@@ -91038,6 +91038,9 @@ use_preset_vocabulary: true
 陰調	ing1 diau3
 陽調	yang1 diau3
 輕聲	khieng1 shieng1
+廣韻	kuong2 yuing3
+集韻	zik yuing3
+切韻	tshiaeh yuing3
 
 朝鮮	ciau1 sie1
 新鮮	sing1 sie1
