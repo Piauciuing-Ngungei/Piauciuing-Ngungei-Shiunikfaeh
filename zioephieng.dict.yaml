@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.18
+# 版本號：24.7.21
 
 ---
 name: zioephieng
-version:	"2024.7.18"
+version:	"2024.7.21"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -187,6 +187,13 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
 
+𠼢	giang2
+咁	ke3
+嘦	tsiau3
+𪥸	vau2
+畚	beng2	0.1%
+髐	hau1
+撬	khiau1
 箷	sy1
 耥	thong2
 紨	vu3
@@ -12779,7 +12786,7 @@ M̌	mu2{實爲m2}
 宰	tsai2
 縡	tsai2
 䏁	tsai2
-載	tsai2
+載	tsai2{三年五載}
 駘	dai2
 殆	dai2
 待	dai2
@@ -13487,7 +13494,7 @@ M̌	mu2{實爲m2}
 𠊩	zae2
 輚	zae2
 虥	zae2
-眼	ngae2
+眼	ngae2{表示量少時可作nghae2}
 醆	tsae2
 琖	tsae2
 盞	tsae2
@@ -18365,7 +18372,7 @@ M̌	mu2{實爲m2}
 酨	dai3
 瑇	dai3
 靆	dai3
-載	tsai3
+載	tsai3{怨聲載道，記載}
 再	tsai3
 縡	tsai3
 𨚵	tsai3
@@ -18434,7 +18441,7 @@ M̌	mu2{實爲m2}
 棌	tshai3
 䰂	tshai3
 䐆	tshai3
-載	zai3
+載	zai3{裝載；他動}
 裁	zai3
 #纔	zai3
 #在	zai3
