@@ -53,6 +53,7 @@ import_tables:
   - zioephieng.mukcieu #睦州詞彙
   - zioephieng.shiehcieu #歙州詞彙
   - zioephieng.sioecieu #宣州詞彙
+  - zioephieng.zhianghai #上海詞彙
   - zioephieng.yoehne #越南文
   - zioephieng.phrases #俗語
   - zioephieng.map #吳越地名

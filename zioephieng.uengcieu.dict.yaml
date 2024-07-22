@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.18
+# 版本號：24.7.22
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.7.18"
+version:	"2024.7.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3373,6 +3373,8 @@ use_preset_vocabulary: true
 了滯	liau2 ji3
 光生	kuong1 sang1
 清水	tshieng1 shiu2
+𩝨肉	huo1 niuk
+𩝨爛	huo lae3
 衣裳破
 菜老
 人老
