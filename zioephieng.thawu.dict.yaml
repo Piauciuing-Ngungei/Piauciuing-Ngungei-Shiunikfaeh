@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.18
+# 版本號：24.7.22
 
 ---
 name: zioephieng.thawu
-version:	"2024.7.18"
+version:	"2024.7.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -90725,9 +90725,69 @@ use_preset_vocabulary: true
 姑蘇
 盱眙	hiu1 yi1
 
+朱方	ciu1 fong1
+曲阿	khiuk ou1
+婁縣	leu1 yoe3
+由拳	yeu1 gioe1
+烏程	u1 jieng1
+餘暨	yi1 ki3
+烏傷	u1 shiang1
+富春	fu3 chiuing1
+陽羨	yang1 zie3
+錢唐	zie1 dong1
+秣陵	moeh lieng1
+湖熟	wu1 zhiuk
+胡孰	wu1 zhiuk
+故鄣	ku3 ciang1
+宛陵	ioe1 lieng1
+陵陽	lieng1 yang1
+於潛	i1 zie1
+於越	i1 yoeh
+臨城	ling1 zhieng1
+石城
+原鄉	ngioe1 hiang1
+黝縣
+於朁	i1 zie1
+江乘
+始新	sy2 sing1
+賀城	ghou3 zhieng1
+新定	sing1 dieng3
+黎陽	li1 yang1
+海陽	hai2 yang1
+休陽	hieu1 yang1
+北野	pek ya2
+毘陵	bi1 lieng1
+安縣	oe1 yoe3
+暨陽	ki3 yang1
+晉陵	tsing3 lieng1
+延陵	ye1 lieng1
+臨水	ling1 shiu2
+長城	jiang1 zhieng1
+東遷	tung1 tshie1
+義興	ngi3 hieng1
+吳興	ngu1 hieng1
+剡縣	zhie2 yoe3
+鄮縣	meu3 yoe3
+回浦	wei1 phu2
+章安	ciang1 oe1
+太末	tha3 moeh
+山陰	sae1 ing1
+新安	sing1 oe1
+長山	jiang1 sae1
+豐安	fung1 oe1
+吳寧	ngu1 nieng1
+平昌	bieng1 chiang1
+永寧	yoeng2 nieng1
+羅陽	lou1 yang1
+羅江	lou1 kong1
+龍淵	lung1 ioe1
+建安	kie3 oe1
+東甌	tung1 eu1
+
 羅平	lou1 bieng1
 大越	da3 yoeh
 大越羅平	da3 yoeh lou1 bieng1
+
 吳越國	ngu1 yoeh kuek
 吳越太祖	ngu1 yoeh tha3 tsu2
 錢鏐	zie1 lieu1
@@ -90737,6 +90797,7 @@ use_preset_vocabulary: true
 錢弘佐	zie1 weng1 tsou3
 錢弘倧	zie1 weng1 tsung1
 錢弘俶	zie1 weng1 chiuk
+
 杭州	ghong1 cieu1
 越州	yoeh cieu1
 湖州	wu1 cieu1
@@ -90752,6 +90813,7 @@ use_preset_vocabulary: true
 明州	mieng1 cieu1
 處州	chy3 cieu1
 衢州	giu1 cieu1
+括州	kuaeh cieu1
 婺州	mu3 cieu1
 睦州	muk cieu1
 嚴州	ngie1 cieu1
