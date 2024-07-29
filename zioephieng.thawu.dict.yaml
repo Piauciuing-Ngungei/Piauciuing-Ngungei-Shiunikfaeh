@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.22
+# 版本號：24.7.29
 
 ---
 name: zioephieng.thawu
-version:	"2024.7.22"
+version:	"2024.7.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -91121,3 +91121,37 @@ use_preset_vocabulary: true
 偶數	ngeu2 su3
 單數	tae1 su3
 雙數	siong1 su3
+
+醉車
+醉船
+醉飛機
+醉機
+
+摘肉刺
+皵進去
+皵進肉
+皵起
+皵進
+
+蜜蜂皵
+刺毛蟲皵
+木皵
+肉皵
+
+㔆進去
+㔆進肉
+㔆進
+
+擱電話
+掭機油
+望頭
+
+老人銅鈿
+老人銅錢
+老儂銅鈿
+老儂銅錢
+
+小戶銅鈿
+小戶灘頭
+
+拐棒
