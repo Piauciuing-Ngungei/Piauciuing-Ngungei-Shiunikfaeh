@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.29
+# 版本號：24.7.30
 
 ---
 name: zioephieng.thawu
-version:	"2024.7.29"
+version:	"2024.7.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -91155,3 +91155,6 @@ use_preset_vocabulary: true
 小戶灘頭
 
 拐棒
+
+打吃愣	tang2 kik leng3
+吃愣	kik leng3
