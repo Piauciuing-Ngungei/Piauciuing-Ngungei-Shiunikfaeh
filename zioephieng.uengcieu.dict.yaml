@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.22
+# 版本號：24.8.2
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.7.22"
+version:	"2024.8.2"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -45,12 +45,12 @@ use_preset_vocabulary: true
 橫河	wang1 ghou1
 星過渡	sieng1 kou3 du3
 掃帚星	sau3 cieu2 sieng1
-天光曉	thiae1 kuong1 hiau2
+天光曉	thiae1 kuong1 hiao2
 地藏王轉肩	di3 zong3 yong1 cioe2 kiae1
-太陽佛畀天狗喫爻	tha3 yang1 vek pek thiae1 keu2 khiek ghau1
-太陽佛乞天狗喫爻	tha3 yang1 vek khik thiae1 keu2 khiek ghau1
-月光佛畀天狗喫爻	ngioeh kuong1 vek pek thiae1 keu2 khiek ghau1
-月光佛乞天狗喫爻	ngioeh kuong1 vek pek thiae1 keu2 khiek ghau1
+太陽佛畀天狗喫爻	tha3 yang1 vek pek thiae1 keu2 khiek ghao1
+太陽佛乞天狗喫爻	tha3 yang1 vek khik thiae1 keu2 khiek ghao1
+月光佛畀天狗喫爻	ngioeh kuong1 vek pek thiae1 keu2 khiek ghao1
+月光佛乞天狗喫爻	ngioeh kuong1 vek pek thiae1 keu2 khiek ghao1
 烏雲	u1 yuing1
 打風	tang2 fung1
 頂頭風	tieng2 deu1 fung1
@@ -60,7 +60,7 @@ use_preset_vocabulary: true
 鬼頭風	kiu2 deu1 fung1
 風颸	fung1 tshy1
 暴頭	pau3 deu1
-風靜爻	fung1 zieng2 ghau1
+風靜爻	fung1 zieng2 ghao1
 風靜落	fung1 zieng2 lok
 響雷	hiang2 lei1
 響佛	hiang2 vek
@@ -76,19 +76,19 @@ use_preset_vocabulary: true
 汏浪	da3 long3
 汏浪天	da3 long3 thiae1
 落落晴晴	lok lok zieng1 zieng1
-雨靜爻	yu2 zieng2 ghau1
+雨靜爻	yu2 zieng2 ghao1
 雨落歇罷	yu2 lok hieh ba2
-乞雨淋爻	khik yu2 ling1 ghau1
-畀雨淋爻	pek yu2 ling1 ghau
+乞雨淋爻	khik yu2 ling1 ghao1
+畀雨淋爻	pek yu2 ling1 ghao
 雨水	yu2 shiu2
 落雪	lok sioeh
 雪落起	sioeh lok khi2
-雪煬爻	sioeh yang1 ghau1
+雪煬爻	sioeh yang1 ghao1
 降霜	kong3 shiong1
 霜降起	shiong1 kong3 khi2
 冰結起	pieng1 kiaeh khi2
 霜冰結起	shiong1 pieng1 kiaeh khi2
-冰煬爻	pieng1 yang1 ghau1
+冰煬爻	pieng1 yang1 ghao1
 銀綰ㄦ	nging1 uae2 ngi1
 掛銀綰ㄦ	kuo3 nging1 uae2 ngi1
 龍雹	lung1 bok
@@ -153,7 +153,7 @@ use_preset_vocabulary: true
 潮平去	jiau1 bieng1 khei3
 潮落去	jiau1 lok khei3
 山水	sae1 shiu2
-水泡鈴	shiu2 phau3 lieng1
+水泡鈴	shiu2 phao3 lieng1
 石頭	zhiek deu1
 石頭子ㄦ	zhiek deu tsy2 ngi1
 石板卵	zhiek pae2 leng2
@@ -183,7 +183,7 @@ use_preset_vocabulary: true
 土墩	thu2 toeng1
 半山腰	poe3 sae1 iau1
 山腳	sae1 kiak
-山坳	sae1 au1
+山坳	sae1 ao1
 山彎	sae1 uae1
 山丼	sae1 te2
 山澸	sae1 te2
@@ -202,7 +202,7 @@ use_preset_vocabulary: true
 生火	sang1 hou2
 火種星	hou2 ciung2 sieng1
 火燭	hou2 ciuk
-火燭燒起	hou2 ciuk shiau1 khi2
+火燭燒起	hou2 ciuk shiao1 khi2
 馬鋼鐵	mo2 kong1 thiaeh
 生鏽	sang1 sieu3
 吸鐵石	hik thiaeh zhiek
@@ -222,7 +222,7 @@ use_preset_vocabulary: true
 地方	di3 fong1
 地宕	di3 dong3
 陰溝	ing1 keu1
-地窖	di3 kau3
+地窖	di3 kao3
 
 ###B 時令時間
 
@@ -396,7 +396,7 @@ use_preset_vocabulary: true
 昧火泥	mei3 hou2 ni1
 壅田	iung3 diae1
 壅壅	iung3 iung3
-茅坑	mau1 khang1
+茅坑	mao1 khang1
 壅桶	iung3 dung2
 壅勺	iung3 zhiak
 沓壅	deh iung3
@@ -476,7 +476,7 @@ use_preset_vocabulary: true
 絡麻	lok mo1
 苧麻	dzy2 mo1
 粟麥	siuk mak
-包羅粟	pau1 lou1 siuk
+包羅粟	pao1 lou1 siuk
 攀粟	phae1 siuk
 粟米	siuk mi2
 高粱粟	kau1 liang1 siuk
@@ -535,9 +535,9 @@ use_preset_vocabulary: true
 盆菜	beng1 tshai3
 菜頭	tshai3 deu1
 菜頭纓	tshai3 deu1 ieng1
-菜頭條ㄦ	tshai3 deu1 diau1 ngi1
+菜頭條ㄦ	tshai3 deu1 diao1 ngi1
 紅菜	wung1 tshai3
-茭筍	kau1 siuing2
+茭筍	kao1 siuing2
 狼萁	long1 ki1
 #狼
 香菇	hiang1 ku1
@@ -550,7 +550,7 @@ use_preset_vocabulary: true
 甘蔗	ke1 cio3
 葫蘆	wu1 lu1
 蒲瓜	bu1 kuo1
-匏瓜	bau1 kuo1
+匏瓜	bao1 kuo1
 紅瓤	wung1 niang1
 天羅瓜	thiae1 lou1 kuo1
 金瓜	king1 kuo1
@@ -651,36 +651,36 @@ use_preset_vocabulary: true
 發惶狗	faeh wong1 keu2
 羊ㄦ	yang1 ngi1
 羊兒	yang1 ngi1
-貓ㄦ	mau1 ngi1
-雄貓	yung1 mau1
-草貓	tshau2 mau1
-貓娘	mau1 niang1
+貓ㄦ	mao1 ngi1
+雄貓	yung1 mao1
+草貓	tshau2 mao1
+貓娘	mao1 niang1
 野獸	ya2 shieu3
 老虎	lau2 hu2
-大貓	dou3 mau1
+大貓	dou3 mao1
 獅子	sy1 tsy2
-豹ㄦ	pau3 ngi1
+豹ㄦ	pao3 ngi1
 狼狗	long1 keu2
 猴大	gheu1 dou3
 兔ㄦ	thu3 ngi1
 老鼠	lau2 tshy2
 野熊	ya2 yung1
 狐狸	wu1 li1
-貓狸	mau1 li1
+貓狸	mao1 li1
 老鼠黃	lau2 tshy2 wong1
 老鼠皮翼	lau2 tshy2 bi1 yek
 皮翼	bi1 yek
-鳥ㄦ	tiau2 ngi1
+鳥ㄦ	tiao2 ngi1
 嘴嘴	tsy2 tsy2
-叫嘴夾	kiau3 tsy2 kaeh
-腳爪	kiak tsau2
+叫嘴夾	kiao3 tsy2 kaeh
+腳爪	kiak tsao2
 尾巴	mi2 po1
 腳蹄	kiak di1
-鳥ㄦ窠	tiau2 ngi1 khou1
+鳥ㄦ窠	tiao2 ngi1 khou1
 燕ㄦ	iae3 ngi1
 斑鳩	pae1 kieu1
 白鴿	bak keh
-雕鷹	tiau1 ieng1
+雕鷹	tiao1 ieng1
 鸕鶿	lu1 zy1
 鸚鵡	ang1 mu2
 鸚哥	ang1 kou1
@@ -727,7 +727,7 @@ use_preset_vocabulary: true
 蛇魚	zhio1 ngei1
 鮎魚	niae1 ngei1
 白小鬼	bak siau2 kiu2
-包頭魚	pau1 deu1 ngei1
+包頭魚	pao1 deu1 ngei1
 金魚	king1 ngei1
 章魚	ciang1 ngei1
 望潮ㄦ	mong3 jiau1 ngi1
@@ -736,19 +736,19 @@ use_preset_vocabulary: true
 章舉	ciang1 kei2
 墨魚脯	mek ngei1 fu2
 螟脯	mieng1 fu2
-膯膠	teng1 kau1
-魚膠	ngei1 kau1
+膯膠	teng1 kao1
+魚膠	ngei1 kao1
 魚苗	ngei1 miau1
 魚子	ngei1 tsy2
 打魚	tang2 ngei1
-釣魚	tiau3 ngei1
-釣魚鉤	tiau3 ngei1 keu1
-釣魚竿ㄦ	tiau3 ngei1 koe1 ngi1
+釣魚	tiao3 ngei1
+釣魚鉤	tiao3 ngei1 keu1
+釣魚竿ㄦ	tiao3 ngei1 koe1 ngi1
 漁簍	ngei1 leu2
 駭蛇	gha2 zhio1
 蛇蛐	zhio1 khiuk
 蛇蛐ㄦ	zhio1 khiuk ngi1
-五爪龍	ngu2 tsau2 lung1
+五爪龍	ngu2 tsao2 lung1
 白蟻龍	bak ngi2 lung1
 白蟻龍	bak nga2 lung1
 烏龜	u1 kiu1
@@ -773,7 +773,7 @@ use_preset_vocabulary: true
 河蠡蚌	ghou1 li1 bang2
 田螺	diae1 lou1
 螺螄	lou1 sy1
-咬螄	ngau1 sy1
+咬螄	ngao1 sy1
 蜒蚰螺	ye1 yeu1 lou1
 蝦蟆	ho1 mo1
 田雞	diae1 ki1
@@ -789,8 +789,8 @@ use_preset_vocabulary: true
 土狗	thu2 keu2
 毛蛓蝲	mau1 tshy3 laeh
 飯竈雞ㄦ	vae3 tsau3 ki1 ngi1
-膠蚻	kau1 zaeh
-膠蠽	kau1 zaeh
+膠蚻	kao1 zaeh
+膠蠽	kao1 zaeh
 蟑蜢	ciang1 mang2
 頭毛公公	deu1 mau1 kung1 kung1
 剪絹娘	tsie2 kioe3 niang1
@@ -814,21 +814,21 @@ use_preset_vocabulary: true
 火螢光光	hou2 yung1 kuong1 kuong1
 蜻蜓	tshieng1 dieng1
 蛵蜓	hieng1 dieng1
-知了	tsy1 liau2
+知了	tsy1 liao2
 蟀蟀	siuik siuik
 蚊蟲	meng1 jiung1
 赤蟲	tshak jiung1
 蛆蟲	tshi1 jiung1
 蝨子	sek tsy2
-跳蚤	diau1 tsau2
-茭蝨	kau1 sek
+跳蚤	diao1 tsau2
+茭蝨	kao1 sek
 蒼蠅	tshong1 yeng1
 污蒼	u1 tshong1
 蒼蠅螫	tshong1 yeng1 shio3
 涴坑蟲	ou3 khang1 jiung1
 污坑蟲	u1 khang1 jiung1
 牛虻	ngieu1 mang1
-蒼蠅大貓ㄦ	tshong1 yeng1 dou3 mau1 ngi1
+蒼蠅大貓ㄦ	tshong1 yeng1 dou3 mao1 ngi1
 蟲卵	jiung1 leng2
 蟲子	jiung1 tsy2
 
@@ -854,7 +854,7 @@ use_preset_vocabulary: true
 飯焦	vae3 tsiau1
 陳飯	jing1 vae3
 卵飯	leng2 vae3
-炒卵飯	tshau2 leng2 vae3
+炒卵飯	tshao2 leng2 vae3
 生硬粒	sang1 ngang3 lik
 飯生	vae3 sang1
 夾生飯	kaeh sang1 vae3
@@ -866,18 +866,18 @@ use_preset_vocabulary: true
 索麵	sok miae3
 索麵湯	sok miae3 thong1
 卵湯	leng2 thong1
-窖配	kau3 phei3
+窖配	kao3 phei3
 葷個	hiuing1 keh
 素個	su3 keh
 暖鍋	noe2 kou1
 餡心	ghae2 sing1
 餡心	gae2 sing1
-實心包	zhik sing1 pau1
-獃大包	ngai1 dou3 pau1
+實心包	zhik sing1 pao1
+獃大包	ngai1 dou3 pao1
 饅頭	moe1 deu1
-麵包	miae3 pau1
+麵包	miae3 pao1
 餛飩	weng1 doeng1
-餃ㄦ	kau2 ngi1
+餃ㄦ	kao2 ngi1
 湯圓	thong1 yoe1
 麻糍	mo1 zy1
 麻餈	mo1 zy1
@@ -885,7 +885,7 @@ use_preset_vocabulary: true
 油炸餜	yeu1 tso3 kuei2
 餅ㄦ	pieng2 ngi1
 扁ㄦ	piae2 ngi1
-燒餅	shiau1 pieng2
+燒餅	shiao1 pieng2
 缸餅	kong1 pieng2
 馬蹄鬆	mo2 di1 sung1
 花卷	huo1 kioe2
@@ -899,7 +899,7 @@ use_preset_vocabulary: true
 洋粉	yang1 feng2
 粉乾	feng2 koe1
 山粉	sae1 feng2
-炮稃	phau3 veu1
+炮稃	phao3 veu1
 肥肉	bi1 niuk
 精肉	tsieng1 niuk
 腳蹄	kiak di1
@@ -927,9 +927,9 @@ use_preset_vocabulary: true
 菜乾	tshai3 koe1
 芝麻醬	tsy1 mo1 tsiang3
 脂麻醬	tsy1 mo1 tsiang3
-藠蒜	giau2 soe3
-香料	hiang1 liau3
-澆頭	kiau1 deu1
+藠蒜	giao2 soe3
+香料	hiang1 liao3
+澆頭	kiao1 deu1
 豬油	tsy1 yeu1
 麻油	mo1 yeu1
 落角生油	lok kok sang1 yeu1
@@ -942,7 +942,7 @@ use_preset_vocabulary: true
 味精	mi3 tsieng1
 陰豆豉	ing1 deu3 zy3
 老酒	lau2 tsieu2
-燒酒	shiau1 tsieu2
+燒酒	shiao1 tsieu2
 蜜林檎	mik ling1 ging1
 茶葉	dzo1 yeh
 茶葉渣	dzo1 yeh tso1
@@ -953,7 +953,7 @@ use_preset_vocabulary: true
 涌湯	yung2 thong1
 白滾湯	bak kueng2 thong1
 開水	khai1 shiu2
-冰條	pieng1 diau1
+冰條	pieng1 diao1
 煺雞	thei1 ki1
 煺魚	thei1 ngei1
 熯番茄	hoe3 fae1 gia1
@@ -963,7 +963,7 @@ use_preset_vocabulary: true
 搨餅	thaeh pieng2
 燘肉	huei2 niuk
 茶濃	dzo1 niung1
-燒火	shiau1 hou2
+燒火	shiao1 hou2
 洗米	si2 mi2
 煮飯	cy2 vae3
 挼麵	nei1 miae3
@@ -998,8 +998,8 @@ use_preset_vocabulary: true
 背心	pei1 sing1
 馬褂	mo2 kuo3
 緄身ㄦ	kueng2 shing1 ngi1
-皮袍	bi1 bau1
-棉袍	mie1 bau1
+皮袍	bi1 bao1
+棉袍	mie1 bao1
 短打	toe2 tang2
 本裝	peng2 tsong1
 衣裳襟	i1 zhiang1 king1
@@ -1051,7 +1051,7 @@ use_preset_vocabulary: true
 圍身布	yu1 shing1 pu3
 布襴	pu3 lae1
 圍裙	yu1 giuing1
-捎馬袋	sau1 mo2 dai3
+捎馬袋	sao1 mo2 dai3
 尿布	siu1 pu3
 月經帶	ngioeh kieng1 ta3
 草鞋	tshau2 gha1
@@ -1085,8 +1085,8 @@ use_preset_vocabulary: true
 絨巾	niung1 king1
 手巾	shieu2 king1
 燕支	iae1 tsy1
-手鐐ㄦ	shieu2 liau1 ngi1
-手鉸	shieu2 kau3
+手鐐ㄦ	shieu2 liao1 ngi1
+手鉸	shieu2 kao3
 綰ㄦ	uae2 ngi1
 簪ㄦ	tse1 ngi1
 戒指	ka3 tsy2
@@ -1117,7 +1117,7 @@ use_preset_vocabulary: true
 平屋	bieng1 uk
 矮屋ㄦ	a2 uk ngi1
 洋房	yang1 bong1
-茅蓬廠	mau1 bung1 chiang2
+茅蓬廠	mao1 bung1 chiang2
 廠ㄦ	chiang2 ngi1
 上間	zhiang3 kae1
 正間	cieng3 kae1
@@ -1138,7 +1138,7 @@ use_preset_vocabulary: true
 搗泥牆	tau2 ni1 ziang1
 砌牆	tshi3 ziang1
 尿盆間	siu1 beng1 kae1
-茅坑	mau1 khang1
+茅坑	mao1 khang1
 牛欄	ngieu1 lae1
 豬欄	tsy1 lae1
 豬欄間	tsy1 lae1 kae1
@@ -1158,7 +1158,7 @@ use_preset_vocabulary: true
 瓦檐頭	nguo2 ye1 deu1
 屋檐頭	uk ye1 deu1
 掛漏	kuo3 leu3
-桁條	ghang1 diau1
+桁條	ghang1 diao1
 水㮰	shiu2 bi1
 瓦椽	nguo2 jioe1
 棟柱	tung3 jiu2
@@ -1224,7 +1224,7 @@ use_preset_vocabulary: true
 圓桌	yoe1 ciok
 方桌	fong1 ciok
 八仙桌	paeh sie1 ciok
-長條桌	jiang1 diau1 ciok
+長條桌	jiang1 diao1 ciok
 公事桌	kung1 zy3 ciok
 喫飯桌	khiek vae3 ciok
 櫃格	giu3 kak
@@ -1263,7 +1263,7 @@ use_preset_vocabulary: true
 手袋	shieu2 dai3
 手挈袋	shieu2 khiaeh dai3
 網袋	mong2 dai3
-番錢包	fae1 zie1 pau1
+番錢包	fae1 zie1 pao1
 皮夾	bi1 kaeh
 衣架	i1 ko3
 尿布棚	siu1 pu3 bang1
@@ -1290,7 +1290,7 @@ use_preset_vocabulary: true
 腳盂	kiak yu1
 洗浴個腳盂	si2 yuk keh kiak yu1
 鶴兜	ngok teu1
-繳腳布	kiau2 kiak pu3
+繳腳布	kiao2 kiak pu3
 衣櫥	i1 jiu1
 箱鏆	siang1 guoe1
 窗簾	tshiong1 lie1
@@ -1304,7 +1304,7 @@ use_preset_vocabulary: true
 稻稈	dau2 koe2
 麥稈	mak ko2
 鋸末	kei3 moeh
-刨花	bau1 huo1
+刨花	bao1 huo1
 木柿	muk zy2
 柴爿	za1 bae1
 柴刀	za1 tau1
@@ -1318,7 +1318,7 @@ use_preset_vocabulary: true
 鑊龍	wok lung1
 蒸籠	cieng1 lung1
 蒸籠屜	cieng1 lung1 thi3
-飯挑ㄦ	vae3 thiau1 ngi1
+飯挑ㄦ	vae3 thiao1 ngi1
 飯槳	vae3 tsiang2
 飯兜	vae3 teu1
 銅勺	dung1 zhiak
@@ -1327,10 +1327,10 @@ use_preset_vocabulary: true
 水勺	shiu2 zhiak
 水綽	shiu2 chiak
 瓜瓢	kuo1 biau1
-拗兜	au2 teu1
+拗兜	ao2 teu1
 庎櫥	ka3 jiu1
 箸籠	dzy3 lung1
-調羹	diau1 kang1
+調羹	diao1 kang1
 茶壺	dzo1 wu1
 蓋碗	ka3 uoe2
 鉛碗	khae1 uoe2
@@ -1343,7 +1343,7 @@ use_preset_vocabulary: true
 酒㽀	tsieu2 jieng3
 酒挈	tsieu2 khiaeh
 酒漏	tsieu2 leu3
-笊籬	tsau2 li1
+笊籬	tsao2 li1
 水缸	shiu2 kong1
 饙泔	feng1 ke1
 饙泔缸	feng1 ke1 kong1
@@ -1359,10 +1359,10 @@ use_preset_vocabulary: true
 水桶	shiu2 dung2
 挈梁	khiaeh liang1
 板砧	pae2 cing1
-窖配刀	kau3 phei3 tau1
-筲箕	sau1 ki1
+窖配刀	kao3 phei3 tau1
+筲箕	sao1 ki1
 地拖	di3 thou3
-繳桌布	kiau2 ciok pu3
+繳桌布	kiao2 ciok pu3
 掃帚	sau3 cieu2
 搽掃	dzo1 sau2
 𦿏帚	mung3 cieu2
@@ -1375,7 +1375,7 @@ use_preset_vocabulary: true
 蠟燭	laeh ciuk
 洋燭	yang1 ciuk
 燈心	teng1 sing1
-燈罩	teng1 tsau3
+燈罩	teng1 tsao3
 燈盞	teng1 tsae2
 燈釭	teng1 kong1
 手電筒	shieu2 diae3 dung1
@@ -1412,7 +1412,7 @@ use_preset_vocabulary: true
 鐾刀布	bi3 tau1 pu3
 蕩刀布	dong3 tau1 pu3
 耳朵耙ㄦ	ni2 tou2 bo1 ngi1
-鉸剪	kau2 tsie2
+鉸剪	kao2 tsie2
 鞋錘ㄦ	gha1 jiu1 ngi1
 打鐵錘ㄦ	tang2 thiaeh jiu1 ngi1
 榔頭	long1 deu1
@@ -1454,9 +1454,9 @@ use_preset_vocabulary: true
 單獨自人	tae1 duk zy3 ning1
 守寡老安人	shieu2 kuo2 lau2 oe1 ning1
 單邊人	tae1 piae1 ning1
-頭媌	deu1 mau1
+頭媌	deu1 mao1
 頭髦	deu1 mau1
-頭媌宕	deu1 mau1 dong3
+頭媌宕	deu1 mao1 dong3
 頭髦宕	deu1 mau1 dong3
 姘頭	phieng1 deu1
 細ㄦ	si3 ngi1
@@ -1522,7 +1522,7 @@ use_preset_vocabulary: true
 醫師	i1 sy1
 先生	siae1 sang1
 醫藥先生	i1 yak siae1 sang1
-教書先生	kau1 shy1 siae1 sang1
+教書先生	kao1 shy1 siae1 sang1
 先生母	siae1 sang1
 先生姥	siae1 sang1 mu2
 同學	dung1 ghok
@@ -1551,7 +1551,7 @@ use_preset_vocabulary: true
 做衣裳老師	tsou3 i1 zhiang1 lau2 sy1
 剃面毛	thi3 mie3 mau1
 改額	kai2 ngak
-繞額	niau3 ngak
+繞額	niao3 ngak
 剃頭老師	thi3 deu1 lau2 sy1
 打鐵老師	tang2 thiaeh lau2 sy1
 煺豬老師	thei1 tsy1 lau2 sy1
@@ -1576,7 +1576,7 @@ use_preset_vocabulary: true
 殿居ㄦ	diae3 kei1 ngi1
 極人	giek ning1
 財主	zai1 ciu2
-貓屄客	mau1 pi1 khak
+貓屄客	mao1 pi1 khak
 走江湖個	tseu2 kong1 wu1
 丐ㄦ	ka3 ngi1
 討飯丐ㄦ	thau2 vae3 ka3 ngi1
@@ -1799,7 +1799,7 @@ use_preset_vocabulary: true
 眼烏珠	ngae2 u1 ciu1
 眼烏	ngae2 u1
 眼白	ngae2 bak
-繳眼淚	kiau2 ngae2 liu3
+繳眼淚	kiao2 ngae2 liu3
 眼皮	ngae2 bi1
 眼幬	ngae2 dau3
 眼袋	ngae2 dai3
@@ -1826,7 +1826,7 @@ use_preset_vocabulary: true
 耳朵	ni2 tou2
 耳朵涴	ni2 tou2 ou3
 耳朵孔	ni2 tou2 khung2
-叫嘴	kiau3 tsy2
+叫嘴	kiao3 tsy2
 嘴脣	tsy2 zhiuing1
 痰唾灠	dae1 thou3 lae2
 白瀑灠	bak buk lae2
@@ -1934,11 +1934,11 @@ use_preset_vocabulary: true
 臀卵孔	doeng1 loe2 khung2
 臀卵屁頭ㄦ	doeng1 loe2 phi3 deu1 ngi1
 尾巴𩪘骨	mi2 po1 dziong1 kuek
-脬脬ㄦ	phau1 phau1 ngi1
-奶哥鳥ㄦ	na2 kou1 tiau2 ngi1
-八哥鳥ㄦ	paeh kou1 tiau2 ngi1
+脬脬ㄦ	phao1 phao1 ngi1
+奶哥鳥ㄦ	na2 kou1 tiao2 ngi1
+八哥鳥ㄦ	paeh kou1 tiao2 ngi1
 荔枝袋ㄦ	li3 tsy1 dai3 ngi1
-臀卵脬	doeng1 loe2 phau1
+臀卵脬	doeng1 loe2 phao1
 臀卵峽	doeng1 loe2 ghaeh
 臀卵峽	doeng1 loe2 gaeh
 卵袋	loe2 dai3
@@ -1961,14 +1961,14 @@ use_preset_vocabulary: true
 高矮	kau1 a2
 個子ㄦ	kou3 tsy2 ngi1
 塊頭	khuei3 deu1
-梢架	sau1 ko3
+梢架	sao1 ko3
 長人	jiang1 ning1
 長甏	jiang1 bang1
 大人	dou3 ning1
 大䏵	dou3 mung2
 矮人ㄦ	a2 ning1 ngi1
 矮頹哥	a2 dei1 kou1
-相貌	siang3 mau3
+相貌	siang3 mao3
 相道	siang3 dau2
 念頭	niae3 deu1
 記駁	ki3 pok
@@ -1991,7 +1991,7 @@ use_preset_vocabulary: true
 人裝弗動	ning1 tsong1 fek dung2
 人弗好過	ning1 fek hau2 kou3
 人弗暢快	ning1 fek chiang3 khua3
-人裝懀爻	ning1 tsong1 ua3 ghau1
+人裝懀爻	ning1 tsong1 ua3 ghao1
 傷風	shiang1 fung1
 破傷冷	pha3 shiang1 lang2
 破傷冷熱	pha3 shiang1 lang2 nieh
@@ -2001,7 +2001,7 @@ use_preset_vocabulary: true
 頭暈	deu1 yuing3
 打冷膯ㄦ	tang2 lang2 teng1 ngi1
 放屁	fong3 phi3
-尿瀨出爻	siu1 la3 chiuik ghau1
+尿瀨出爻	siu1 la3 chiuik ghao1
 瀨尿伯	la3 siu1 pak
 鐾牙	bi3 ngo1
 痯肚	kuoe2 du2
@@ -2082,7 +2082,7 @@ use_preset_vocabulary: true
 熱頭氣逼底	nieh deu1 khi3 piek ti2
 痧氣	so1 khi3
 熱起	nieh khi2
-喫傷爻	khiek shiang1 ghau1
+喫傷爻	khiek shiang1 ghao1
 食傷底	zhiek shiang1 ti2
 打酸噆	tang2 soe1 tseh
 惡心	ok sing1
@@ -2091,7 +2091,7 @@ use_preset_vocabulary: true
 塌臟	thaeh zong3
 兒窠塌落	ni1 khou1 thaeh lok
 黃腫	uong1 ciung2
-皮擦破爻	bi1 tshaeh pha3 ghau1
+皮擦破爻	bi1 tshaeh pha3 ghao1
 搗破	tau2 pha3
 割破	koeh pha3
 血流出	hioeh lieu1 chiuik
@@ -2104,7 +2104,7 @@ use_preset_vocabulary: true
 大頜	dou3 ge2
 邪症	zia1 cieng3
 癆病	lau3 bieng3
-哮咕	hau1 ku1
+哮咕	hao1 ku1
 中風	ciung3 fung1
 癱瘋	thae1 fung1
 獃痴	ngai1 tshy1
@@ -2174,14 +2174,14 @@ use_preset_vocabulary: true
 天妃宮娘娘	thiae1 fi1 kiung1 niang1 niang1
 娘娘宮	niang1 niang1 kiung1
 佛殿	vek diae3
-寺院寮	zy3 yoe3 liau1
+寺院寮	zy3 yoe3 liao1
 庵堂	e1 dong1
 道觀	dau2 kuoe3
 木主	muk ciu2
 神櫥	zhing1 jiu1
 香案	hiang1 oe3
 蠟燭臺ㄦ	laeh ciuk dai1 ngi1
-燒香	shiau1 hiang1
+燒香	shiao1 hiang1
 跪落拜	giu2 lok pa3
 相喚	siang1 huoe3
 九十	kieu2 zhik
@@ -2209,15 +2209,15 @@ use_preset_vocabulary: true
 化緣	huo3 yoe1
 迎佛	ngieng1 vek
 打卦	tang2 kuo3
-打珓杯	tang2 kau3 pei1
-教友	kau3 yeu2
+打珓杯	tang2 kao3 pei1
+教友	kao3 yeu2
 耶穌堂	ya1 su1 dong1
 禮拜堂	li2 pa3 dong1
 天主堂	thiae1 ciu2 dong1
 信佛	sing3 vek
 信天主	sing3 thiae1 ciu2
 信耶穌	sing3 ya1 su1
-信教門	sing3 kau3 meng1
+信教門	sing3 kao3 meng1
 信道理	sing3 dau2 li2
 親事	tshing1 zy3
 娶親	tshiu3 tshing1
@@ -2256,7 +2256,7 @@ use_preset_vocabulary: true
 新郎官	sing1 long1 kuoe1
 新孺人	sing1 niu3 ning1
 洞房間	dung3 bong1 kae1
-鬧洞房	nau3 dung3 bong1
+鬧洞房	nao3 dung3 bong1
 阿婆ㄦ	ak bou1 ngi1
 陪郎	bei1 long1
 回花	wei1 huo1
@@ -2267,7 +2267,7 @@ use_preset_vocabulary: true
 拖身體	tha1 shing1 thi2
 拖大肚	tha1 dou3 du2
 拖大肚人	tha1 dou3 du2 ning1
-娒遁爻	mei1 doeng3 ghau1
+娒遁爻	mei1 doeng3 ghao1
 做小月裏	tsou3 siau2 ngioeh li2
 洗生婆	si2 sang1 bou1
 接生	tsieh sang1
@@ -2292,9 +2292,9 @@ use_preset_vocabulary: true
 做十	tsou3 zhik
 做壽	tsou3 zhieu3
 拜壽	pa3 zhieu3
-冇爻	meu2 ghau1
-走過爻	tseu2 kou3 ghau1
-歲大爻	siu3 dou3 ghau1
+冇爻	meu2 ghao1
+走過爻	tseu2 kou3 ghao1
+歲大爻	siu3 dou3 ghao1
 亡故	mong1 ku3
 過世	kou3 shi3
 過輩	kou3 pei3
@@ -2303,10 +2303,10 @@ use_preset_vocabulary: true
 壽枋	zhieu3 fong1
 老壽	lau2 zhieu3
 百歲	pak siu3
-做孝	tsou3 hau3
+做孝	tsou3 hao3
 做素	tsou3 su3
 功子巾ㄦ	kung1 tsy2 king1 ngi1
-孝頭㔶	hau3 deu1 ke2
+孝頭㔶	hao3 deu1 ke2
 出喪	chiuik song1
 發喪	faeh song1
 做墳	tsou3 veng1
@@ -2317,8 +2317,8 @@ use_preset_vocabulary: true
 封龍門	fung1 lung1 meng1
 召魂	jiau3 weng1
 超度	chiau1 du3
-毒爻	deu3 ghau1
-𩑦爻	uek ghau1
+毒爻	deu3 ghao1
+𩑦爻	uek ghao1
 
 ###N 交際訴訟
 
@@ -2342,7 +2342,7 @@ use_preset_vocabulary: true
 做人客	tsou3 ning1 khak
 走親眷	tseu2 tshing1 kioe3
 客氣	khak khi3
-泡茶	phau3 dzo1
+泡茶	phao3 dzo1
 名片	mieng1 phiae3
 片子ㄦ	phiae3 tsy2 ngi1
 請酒	tshieng2 tsieu2
@@ -2360,7 +2360,7 @@ use_preset_vocabulary: true
 碰著	bang3 jiak
 撞著	dziong3 jiak
 接應	tsieh ieng3
-叫句渠	kiau3 kiu3 gei1
+叫句渠	kiao3 kiu3 gei1
 開頑笑	khai1 nguae1 siau3
 開𠆩笑	khai1 vae1 siau3
 講笑	kong2 siau3
@@ -2374,7 +2374,7 @@ use_preset_vocabulary: true
 冇關系	meu2 kuae1 yi3
 弗來緊	fek lai1 king2
 弗用客氣	fek yung3 khak khi3
-回爻	wei1 ghau1
+回爻	wei1 ghao1
 慢慢走	mae3 mae3 tseu2
 慢慢踏	mae3 mae3 deh
 踏好仂	deh hau2 lek
@@ -2416,7 +2416,7 @@ use_preset_vocabulary: true
 弗講個	fek kong2 keh
 弄鬆	lung3 sung1
 裝打	tsong1 tang2
-裝狡	tsong1 kau2
+裝狡	tsong1 kao2
 冤家	ioe1 ko1
 死對頭	sy2 tei3 deu1
 罪頭	zei2 deu1
@@ -2434,7 +2434,7 @@ use_preset_vocabulary: true
 吹牛屄	chiu1 ngieu1 pi1
 拍馬匹	phak mo2 phik
 打圓場	tang2 yoe1 jiang1
-趕出爻	koe2 chiuik ghau1
+趕出爻	koe2 chiuik ghao1
 打官司	tang2 kuoe1 sy1
 告狀	kau3 zong3
 告起	kau3 khi2
@@ -2447,7 +2447,7 @@ use_preset_vocabulary: true
 槍斃	tshiang1 bi3
 手銬	shieu2 khau3
 腳鏈	kiak lie1
-腳鐐	kiak liau1
+腳鐐	kiak liao1
 捆起	khueng2 khi2
 牢監	lau1 kae1
 班房	pae1 bong1
@@ -2459,7 +2459,7 @@ use_preset_vocabulary: true
 蓋圖章	ka3 du1 ciang1
 及印	gik ing3
 掘印	gioeh ing3
-繳稅銀	kiau2 shiu3 nging1
+繳稅銀	kiao2 shiu3 nging1
 房租	bong1 tsu1
 屋租錢	uk tsu1 zie1
 田租銀	diae1 tsu1 nging1
@@ -2467,7 +2467,7 @@ use_preset_vocabulary: true
 田契	diae1 khi3
 高利貸	kau1 li3 thai3
 寫契墨	sia2 khi3 mek
-字眼寫爻	zy3 ngae2 sia2 ghau1
+字眼寫爻	zy3 ngae2 sia2 ghao1
 圈花押	khioe1 huo1 aeh
 捺指頭印	naeh tsy2 deu1 ing3
 
@@ -2484,19 +2484,19 @@ use_preset_vocabulary: true
 行販	ghong1 fae3
 攤ㄦ	thae1 ngi1
 擺攤ㄦ	pa2 thae1 ngi1
-賣嘯客	ma3 siau3 khak
+賣嘯客	ma3 siao3 khak
 賣小客	ma3 siau2 khak
 貨色	hou3 sek
 開店	khai1 tiae3
 做生意	tsou3 sang1 i3
-跑單幫	bau1 tae1 pong1
-撍鈔票	tse1 tshau1 phiau3
+跑單幫	bao1 tae1 pong1
+撍鈔票	tse1 tshao1 phiau3
 走菜館喫	tseu2 tshai3 kuoe2 khiek
 堂倌	dong1 kuoe1
 行俏	ghong1 tshiau3
 開起	khai1 khi2
 發興	faeh hieng3
-關爻	kuae1 ghau1
+關爻	kuae1 ghao1
 倒場	tau2 jiang1
 盤貨	boe1 hou3
 盤存	boe1 zoeng1
@@ -2513,7 +2513,7 @@ use_preset_vocabulary: true
 賬房間	ciang3 bong1 kae1
 開銷	khai1 siau1
 行用	ghang1 yung3
-繳用	kiau2 yung3
+繳用	kiao2 yung3
 欠賬	khie3 ciang3
 欠債	khie3 tsa3
 欠場面	khie3 jiang1 mie3
@@ -2528,7 +2528,7 @@ use_preset_vocabulary: true
 還價	wae1 ko3
 實碼	zhik mo2
 漲起	ciang2 khi2
-塌爻	thaeh ghau1
+塌爻	thaeh ghao1
 摶堆	doe1 tei1
 倒來	tau2 lai1
 算盤	soe3 boe1
@@ -2561,12 +2561,12 @@ use_preset_vocabulary: true
 折本	zhieh peng2
 錄銅錢	luk dung1 zie1
 錄番錢	luk fae1 zie1
-錄鈔票	luk tshau1 phiau3
+錄鈔票	luk tshao1 phiau3
 銅錢	dung1 zie1
 銅板	dung1 pae2
 鉛角子	khae1 kok tsy2
 零碎	lieng1 sei3
-鈔票	tshau1 phiau3
+鈔票	tshao1 phiau3
 番錢	fae1 zie1
 銀番錢	nging1 fae1 zie1
 單個	tae1 kou3
@@ -2598,7 +2598,7 @@ use_preset_vocabulary: true
 剪布	tsie2 pu3
 打肉	tang2 niuk
 舀油	yau2 yeu1
-粜米	thiau3 mi2
+粜米	thiao3 mi2
 撮藥	tshoeh yak
 買藥	ma2 yak
 
@@ -2622,8 +2622,8 @@ use_preset_vocabulary: true
 車站	chio1 dzae3
 汽車	khi3 chio1
 開車	khai1 chio1
-黃包車	wong1 pau1 chio1
-料車	liau3 chio1
+黃包車	wong1 pao1 chio1
+料車	liao3 chio1
 三輪車	sae1 liuing1 chio1
 板車	pae2 chio1
 馬達卡	mo2 daeh kha2
@@ -2641,7 +2641,7 @@ use_preset_vocabulary: true
 道士頭	dau2 zy2 deu1
 船艙	zhioe1 tshong1
 撐篙	tshang1 kau1
-跳板	diau1 pae2
+跳板	diao1 pae2
 舢板	sae1 pae2
 打魚船	tang2 ngei1 zhioe1
 渡船ㄦ	du3 zhioe1 ngi1
@@ -2664,7 +2664,7 @@ use_preset_vocabulary: true
 識字眼個	shiek zy3 ngae2 keh
 弗識字眼個	fek shiek zy3 ngae2 keh
 學堂	ghok dong1
-教室	kau3 shik
+教室	kao3 shik
 課堂	khou3 dong1
 上學堂	zhiang2 ghok dong1
 上學	zhiang2 ghok
@@ -2717,22 +2717,22 @@ use_preset_vocabulary: true
 耳朵排邊	ni2 tou2 ba1 piae1
 反文	fae2 meng1
 反犬	fae2 khioe2
-挑土	thiau1 thu2
-挑王	thiau1 yong1
+挑土	thiao1 thu2
+挑王	thiao1 yong1
 病殼	bieng3 khok
 走之	tseu2 tsy1
-挑手	thiau1 shieu2
+挑手	thiao1 shieu2
 草頭	tshau2 deu1
-涂爻	du1 ghau1
-迵爻	dung3 ghau1
+涂爻	du1 ghao1
+迵爻	dung3 ghao1
 寫白字	sia2 bak zy3
-字眼寫拉爻	zy3 ngae2 sia2 leh ghau1
+字眼寫拉爻	zy3 ngae2 sia2 leh ghao1
 字眼拙	zy3 ngae2 cioeh
 讀書	duk shy1
 
 ###R 娛樂
 
-狡調	kau2 diau3
+狡調	kao2 diao3
 放鷂	fong3 yau3
 瞞樁ㄦ	moe1 ciong1 ngi1
 擺擺盆ㄦ	pa2 pa2 beng1 ngi1
@@ -2746,34 +2746,34 @@ use_preset_vocabulary: true
 照相	ciau3 siang3
 照相	ciau3 siang3
 人ㄦ	ning1 ngi1
-狡調個物事	kau2 diau3 keh mek zy3
+狡調個物事	kao2 diao3 keh mek zy3
 打弗倒ㄦ	tang2 fek tau2 ngi1
 賤螺陀	zie3 lou1 dou1
 旋盤ㄦ	zioe3 boe1 ngi1
-吹簫ㄦ	chiu1 siau1 ngi1
+吹簫ㄦ	chiu1 siao1 ngi1
 礌銅錢ㄦ	lei3 dung1 zie1 ngi1
 踢毽子	thiek kie3 tsy2
 踢仔ㄦ	thiek tsy1 ngi1
 𢳀仔ㄦ	mo1 tsy1 ngi1
 摹仔ㄦ	mu1 tsy1 ngi1
 打彈子	tang2 dae3 tsy2
-跳繩	diau1 zhieng1
+跳繩	diao1 zhieng1
 做寓猜	tsou3 ngiu3 tshai1
 猜寓	tshai1 ngiu3
 豁拳	huoeh gioe1
-騰丁炮	deng1 tieng1 phau3
+騰丁炮	deng1 tieng1 phao3
 著棋	ciak gi1
-車馬炮	kei1 mo2 phau3
+車馬炮	kei1 mo2 phao3
 卒ㄦ拱過	tsoek ngi1 kiung2 kou3
 士岔起	zy2 tsho3 khi2
 相飛上	siang3 fi1 zhiang2
-炮耨去	phau3 neu3 khi2
-炮㧸去	phau3 phang1 khei3
+炮耨去	phao3 neu3 khi2
+炮㧸去	phao3 phang1 khei3
 王坐出	yong1 zou2 chiuik
 將一軍	tsiang1 ik kiuing1
 喫小卒	khiek siau2 tsoek
-馬踏爻	mo2 deh ghau1
-馬蹋爻	mo2 daeh ghau1
+馬踏爻	mo2 deh ghao1
+馬蹋爻	mo2 daeh ghao1
 划龍船	wo1 lung1 zhioe1
 划龍燈	wo1 lung1 teng1
 滾獅子	kueng2 sy1 tsy2
@@ -2786,15 +2786,15 @@ use_preset_vocabulary: true
 打蠟球	tang2 laeh gieu1
 踢足球	thiek tsiuk gieu1
 打拳	tang2 gioe1
-搩擂跤	gieh lei3 khau1
+搩擂跤	gieh lei3 khao1
 泅水ㄦ	zieu1 shiu2 ngi1
 泅河ㄦ	zieu1 ghou1 ngi1
 拱水ㄦ	kiung2 shiu2 ngi1
 埋水ㄦ	ma1 shiu2 ngi1
 仰攤ㄦ	ngiang2 thae1 ngi1
 打水漂漂	tang2 shiu2 phiau1 phiau1
-賽跑	sai3 bau1
-射跑	zhiak bau1
+賽跑	sai3 bao1
+射跑	zhiak bao1
 變把戲	pie3 po2 hi3
 㧒流星	yuik lieu1 sieng1
 甩流星	huaeh lieu1 sieng1
@@ -2845,9 +2845,9 @@ use_preset_vocabulary: true
 留聲機	lieu1 shieng1 ki1
 拉二胡	leh ni3 wu1
 挨胡琴	a2 wu1 ging1
-吹簫	chiu1 siau1
-打炮仗	tang2 phau3 jiang3
-百子炮	pak tsy2 phau3
+吹簫	chiu1 siao1
+打炮仗	tang2 phao3 jiang3
+百子炮	pak tsy2 phao3
 焰火	ye3 hou2
 打賭	tang2 tu2
 骨牌九	kuek ba1 kieu2
@@ -2862,13 +2862,13 @@ use_preset_vocabulary: true
 
 ###S 日常生活
 
-餓爻	ngou3 ghau1
+餓爻	ngou3 ghao1
 煮飯	cy2 vae3
 兜飯	teu1 vae3
 爭起喫	tsang1 khi2 khiek
 噎牢	iaeh lau1
 嚼弗動	ziak fek dung2
-打飽嗝	tang2 pau2 goeh 
+打飽嗝	tang2 pao2 goeh 
 打噯	tang2 a3
 夾配	kaeh phei3
 呷茶	haeh dzo1
@@ -2888,7 +2888,7 @@ use_preset_vocabulary: true
 脫衣裳	thoeh i1 zhiang1
 衫袖捋起	sae1 zieu3 loeh khi2
 洗浴	si2 yuk
-繳身體	kiau2 shing1 thi2
+繳身體	kiao2 shing1 thi2
 衝把	chiung3 po2
 衝身體	chiung3 shing1 thi2
 梳頭	sy1 deu1
@@ -2911,8 +2911,8 @@ use_preset_vocabulary: true
 烘烘暖	hung1 hung1 noe2
 燂燂暖	de1 de1 noe2
 㶣㶣暖	dae1 dae1 noe2
-燈捺爻	teng1 naeh ghau1
-燈打過爻	teng1 tang2 kou3 ghau1
+燈捺爻	teng1 naeh ghao1
+燈打過爻	teng1 tang2 kou3 ghao1
 嬉下ㄦ	hi1 gho3 ngi1
 蕩一蕩	dong3 ik dong3
 蕩街	dong3 ka1
@@ -2980,7 +2980,7 @@ use_preset_vocabulary: true
 手揹起	shieu2 pei1 khi2
 手敫敫	shieu2 yak yak
 手撎撎	shieu2 iaeh iaeh
-手放爻	shieu2 fong3 ghau1
+手放爻	shieu2 fong3 ghao1
 手敒出	shieu2 shing1 chiuik
 動手	dung2 shieu2
 拍手	phak shieu2
@@ -2998,8 +2998,8 @@ use_preset_vocabulary: true
 拉手
 𠡒緊
 拔車
-㨄車	diau2 chio1
-㨄人	diau2 ning1
+㨄車	diao2 chio1
+㨄人	diao2 ning1
 搽粉	dzo1 feng2
 研成粉
 研粉
@@ -3169,7 +3169,7 @@ use_preset_vocabulary: true
 澆水
 䣼花
 點火
-過爻	kou3 ghau1
+過爻	kou3 ghao1
 火過爻
 拌水泥
 鼓藥水	ku2 yak shiu2
@@ -3242,7 +3242,7 @@ use_preset_vocabulary: true
 打碼	tang2 mo2
 想辦法
 想去
-曉得	hiau2 tek
+曉得	hiao2 tek
 懂罷	tung2 ba2
 認著	ning3 jiak
 弗識	fek shiek
@@ -3295,10 +3295,10 @@ use_preset_vocabulary: true
 喫弗落	khiek fek lok
 疑心	ngi1 sing1
 記掛心	ki3 kuo3 sing1
-弔戀	tiau3 lioe3
+弔戀	tiao3 lioe3
 想念	siang2 niae3
 記牢	ki3 lau1
-悗記爻	meng2 ki3 ghau1
+悗記爻	meng2 ki3 ghao1
 覺得	kok tek
 覺著	kok jiak
 猜想	tshai1 siang2
@@ -3306,10 +3306,10 @@ use_preset_vocabulary: true
 只怕	tsy2 pho3
 只怕渠弗來
 糟糕	tsau1 kau1
-獃爻	ngai1 ghau1
+獃爻	ngai1 ghao1
 拉倒	la1 tau2
-賴爻	la3 ghau1
-賴都爻	la3 taeh ghau1
+賴爻	la3 ghao1
+賴都爻	la3 taeh ghao1
 好罷	hau2 ba2
 裝好罷	tsong1 hau2 ba2
 用著罷	yung3 jiak ba2
@@ -3331,8 +3331,8 @@ use_preset_vocabulary: true
 衣裳緊
 路闊
 路狹
-了得	liau2 tek
-了弗得	liau2 fek tek
+了得	liao2 tek
+了弗得	liao2 fek tek
 懵過過	mung2 kou3 kou3
 曬黑
 青布
@@ -3361,7 +3361,7 @@ use_preset_vocabulary: true
 拌得勻
 打生	tang2 sang1
 愛緊	ai3 king2
-鬧熱	nau3 nieh
+鬧熱	nao3 nieh
 冷清	lang2 tshieng1
 喑靜	ing1 zieng2
 門市	meng1 zy2
@@ -3370,7 +3370,7 @@ use_preset_vocabulary: true
 村行貨
 鏖糟	au1 tsau1
 腌糟	ie1 tsau1
-了滯	liau2 ji3
+了滯	liao2 ji3
 光生	kuong1 sang1
 清水	tshieng1 shiu2
 𩝨肉	huo1 niuk
@@ -3382,7 +3382,7 @@ use_preset_vocabulary: true
 後生	gheu2 sang1
 嫩遜	noeng3 soeng3
 菜嫩
-迫脂膠黏	pak tsy1 kau1 nie1
+迫脂膠黏	pak tsy1 kao1 nie1
 滑池池	waeh dzy1 dzy1
 刀快
 木頭爛爻
@@ -3439,7 +3439,7 @@ use_preset_vocabulary: true
 死執	sy2 cik
 全無用個	zioe1 mu1 yung3 keh
 頹灰	dei1 huei1
-貓屄	mau1 pi1
+貓屄	mao1 pi1
 小氣	siau2 khi3
 皮臭	bi1 chieu3
 臀ㄦ夾	doeng1 ngi1 kaeh
@@ -3474,7 +3474,7 @@ use_preset_vocabulary: true
 鏖糟裝	au1 tsau1 tsong1
 罪過黴	zei2 kou3 mei3
 乾脆	koe1 tshiu3
-條直	diau1 jiek
+條直	diao1 jiek
 豪𢜶	ghau1 sau3
 爽快	song2 khua3
 嚕嗦	lu2 sok
@@ -3488,9 +3488,9 @@ use_preset_vocabulary: true
 香人	hiang1 ning1
 皮蚩	bi1 tshy1
 賣娘	ma3 niang1
-拗彆	au2 piaeh
-拗孽	au2 ngieh
-刁鑽	tiau1 tsoe1
+拗彆	ao2 piaeh
+拗孽	ao2 ngieh
+刁鑽	tiao1 tsoe1
 奇怪	gi1 kua3
 道地	dau2 di3
 實在	zhik zai2
@@ -3565,8 +3565,8 @@ use_preset_vocabulary: true
 忒熱
 冷到
 冷死
-稍微	sau3 mi1
-稍須	sau3 siu1
+稍微	sao3 mi1
+稍須	sao3 siu1
 沃來
 沃弗曉得
 沃弗
@@ -3803,15 +3803,15 @@ use_preset_vocabulary: true
 
 一個	ik keh
 一把	ik po2
-一條	ik diau1
-一條棒頭	ik diau1 bong2 deu1
-一條棒	ik diau1 bong2
+一條	ik diao1
+一條棒頭	ik diao1 bong2 deu1
+一條棒	ik diao1 bong2
 一把刀	ik po2 tau1
 一支	ik tsy1
 一支筆	ik tsy1 pik
 一坒磚	ik bi3 cioe1
 一把傘	ik po2 sae2
-一條手巾	ik diau1 shieu2 king1
+一條手巾	ik diao1 shieu2 king1
 一槰	ik bung3
 一槰草	ik bung3 tshau2
 一匹	ik phik
@@ -3822,7 +3822,7 @@ use_preset_vocabulary: true
 一頭牛	ik deu1 ngieu1
 一頭	ik deu1
 一頭豬	ik deu1 tsy1
-一條魚	ik diau1 ngei1
+一條魚	ik diao1 ngei1
 一頭魚	ik deu1 ngei1
 一口	ik kheu2
 一口水	ik kheu2 shiu2
@@ -3832,7 +3832,7 @@ use_preset_vocabulary: true
 一朵花	ik tou2 huo1
 一廚	ik jiu1
 一廚飯	ik jiu1 vae3
-一條毛巾	ik diau1 mau1 king1
+一條毛巾	ik diao1 mau1 king1
 一把車	ik po2 chio1
 一部汽車	ik bu2 khi3 chio1
 一部	ik bu2
@@ -3842,7 +3842,7 @@ use_preset_vocabulary: true
 一張	ik ciang1
 一張桌	ik ciang1 ciok
 一牀	ik zhiong1
-一條	ik diau1
+一條	ik diao1
 一頂	ik tieng2
 一領	ik lieng2
 一領布帳	ik lieng2 pu3 ciang3
@@ -3854,15 +3854,15 @@ use_preset_vocabulary: true
 一個	ik keh
 一件	ik gie2
 一件上衣	ik gie2 zhiang3 i1
-一條褲	ik diau1 khu3
+一條褲	ik diao1 khu3
 一支煙	ik tsy1 iae1
 一盞燈	ik tsae2 teng1
 一盞	ik tsae2
 一枚	ik mei1
 一枚針	ik mei1 cing1
-一條頭髮	ik diau1 deu1 faeh
-一條線	ik diau1 sie3
-一條油條	ik diau1 yeu1 diau1
+一條頭髮	ik diao1 deu1 faeh
+一條線	ik diao1 sie3
+一條油條	ik diao1 yeu1 diao1
 一株	ik ciu1
 一株樹	ik ciu1 zhiu3
 一株白菜	ik ciu1 bak tshai3
@@ -4245,7 +4245,7 @@ use_preset_vocabulary: true
 眼睛黃熱	
 眼泡袋水	
 各挑教教	
-各挑	kok diau2
+各挑	kok diao2
 爛眼糟糟	
 光眼盯盯	
 烏焦巴弓	
@@ -9658,9 +9658,9 @@ use_preset_vocabulary: true
 謍謍聲	
 水𤁽清	
 天奣明	
-掉紗	diau2 so1
-掉頭	diau2 deu1
-掉來掉去	diau2 lai1 diau2 khei3
+掉紗	diao2 so1
+掉頭	diao2 deu1
+掉來掉去	diao2 lai1 diao2 khei3
 頭髮燎著	
 
 掙轉	
@@ -9677,7 +9677,7 @@ use_preset_vocabulary: true
 涌湯	
 狀師	
 
-弔膀子	tiau3 pong2 tsy2
+弔膀子	tiao3 pong2 tsy2
 膀翼	pong2 yek
 斑蟊	
 貓狸	

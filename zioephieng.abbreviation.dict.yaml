@@ -22,10 +22,10 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.6.27
+# 版本號：24.8.2
 ---
 name: zioephieng.abbreviation
-version:	"2024.6.27"
+version:	"2024.8.2"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -55,10 +55,10 @@ use_preset_vocabulary: true
 通過	thung1 kou3
 占領	cie3 lieng2
 控制	khung3 ci3	   
-跑道	bau1 dau2   
+跑道	bao1 dau2   
 組織	tsu2 ciek
 極端	giek toe1	      
-包括	pau1 kuaeh
+包括	pao1 kuaeh
 財政收入	zai1 cieng3 shieu1 nik
 財政支出	zai1 cieng3 tsy1 chiuik  
 突厥語	doek kioeh ngei2
@@ -425,7 +425,7 @@ ChatGPT	chatgpt
 財政大臣
 白宮	 	60%
 比較	 	50%
-包括	pau1 kuoeh 	80%
+包括	pao1 kuoeh 	80%
 北京
 核平	ghak bieng1	60%
 華盛頓
@@ -754,7 +754,7 @@ ChatGPT	chatgpt
 攜程
 小紅書
 酈食其	li1 yi3 ki1
-訤罷	gau1 ba2
+訤罷	gao1 ba2
 電動卵	diae3 dung2 loe2
 童卵	dung1 loe2
 松陽	ziung1 yang1
@@ -1116,7 +1116,6 @@ ChatGPT	chatgpt
 
 #其他
 
-高德地圖	kau1 tek di3 du1
 滴滴打車
 美團
 打車
@@ -1189,7 +1188,7 @@ ChatGPT	chatgpt
 選座
 在線選座
 
-#地名
+#香港地名
 
 一鳴路
 丁香徑
@@ -2746,8 +2745,8 @@ ChatGPT	chatgpt
 恆貴街
 恆輝街
 恆錦街
-恒德街
-恒柏道
+恆德街
+恆柏道
 恩平道
 悅海街
 悠安街
@@ -2867,7 +2866,7 @@ ChatGPT	chatgpt
 擎天徑
 擴業街
 擺花街
-攀岩牆碎石徑
+攀巖牆碎石徑
 攸壆路
 攸田東路
 攸田西路
@@ -3863,7 +3862,7 @@ ChatGPT	chatgpt
 烏蛟騰路
 烏蛟騰郊遊徑
 煙囪路
-煙囱路
+煙囪路
 煙廠街
 煤場道
 照潭徑
@@ -4162,7 +4161,7 @@ ChatGPT	chatgpt
 福寧道
 福康街
 福德街
-福恒街
+福恆街
 福日徑
 福榮街
 福樂徑
@@ -4772,10 +4771,10 @@ ChatGPT	chatgpt
 衛理徑
 衛理道
 衛環里
-衞奕信徑第九段
-衞奕信徑第八段
-衞奕信徑第十段
-衞奕迅徑第八段
+衛奕信徑第九段
+衛奕信徑第八段
+衛奕信徑第十段
+衛奕迅徑第八段
 衡州道
 裕景坊
 裕東路
@@ -5100,11 +5099,11 @@ ChatGPT	chatgpt
 錦田繞道
 錦石橋
 錦石路
-錦綉大道北
-錦綉大道南
-錦綉大道東
-錦綉大道西
-錦綉花園大道
+錦繡大道北
+錦繡大道南
+錦繡大道東
+錦繡大道西
+錦繡花園大道
 錦繡交匯處
 錦英路
 錦莆路
@@ -5165,9 +5164,9 @@ ChatGPT	chatgpt
 閩街
 關門口街
 阜財街
-阿公岩村道
-阿公岩村里
-阿公岩道
+阿公巖村道
+阿公巖村里
+阿公巖道
 除塵器道
 除鹽系統道
 除鹽設備路
@@ -5614,7 +5613,7 @@ ChatGPT	chatgpt
 龍耀街
 龍脊
 龍華街
-龍虎山徤身徑
+龍虎山健身徑
 龍蝦灣路
 龍蝦灣郊遊徑
 龍蟠街

@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.7.18
+# 版本號：24.8.2
 
 ---
 name: zioephieng.thaicieu
-version:	"2024.7.18"
+version:	"2024.8.2"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -40,7 +40,6 @@ use_preset_vocabulary: true
 解昶
 過昶
 過脫昶
-塢進去
 
 #台州土白詞彙
 
@@ -7775,10 +7774,10 @@ use_preset_vocabulary: true
 口灠水	kheu2 lae2 shiu2
 攔扎下	laeh tsaeh gho2
 攔胳肢	laeh kok tsy1
-鉸剪	kau1 tsie2
+鉸剪	kao1 tsie2
 㵾水	tsheng3 shiu2
-蟹骹	ha2 khau1
-眼鏡骹	ngae2 kieng3 khau1
+蟹骹	ha2 khao1
+眼鏡骹	ngae2 kieng3 khao1
 蛟蚻	
 風颱	
 瑲朞	

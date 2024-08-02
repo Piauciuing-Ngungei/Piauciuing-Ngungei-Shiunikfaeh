@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.5.11
+# 版本號：24.8.2
 
 ---
 name: zioephieng.chycieu
-version:	"2024.5.11"
+version:	"2024.8.2"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -217,7 +217,7 @@ use_preset_vocabulary: true
 蝦ㄦ	ho1 ngi1
 蝦弓	ho1 kiung1
 鉗蝦	gie1 ho1
-巧蝦	khau2 ho1
+巧蝦	khao2 ho1
 蚌蚌殼	
 河蚶	
 蚶殼ㄦ	
@@ -2303,7 +2303,7 @@ use_preset_vocabulary: true
 壞瞅	
 壞相	
 難相	
-難瞭	nae1 liau1
+難瞭	nae1 liao1
 #㽺	hik/hiek
 	
 	
