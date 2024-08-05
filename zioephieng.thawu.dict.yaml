@@ -22,11 +22,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.3
+# 版本號：24.8.5
 
 ---
 name: zioephieng.thawu
-version:	"2024.8.3"
+version:	"2024.8.5"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -91198,3 +91198,10 @@ use_preset_vocabulary: true
 貤無
 貤無沒
 貤沒
+貤弗是
+貤在
+
+車Cam	chio1 khae1 mu1
+卡拉OK	kha2 la1 eu1 khei1
+Uni	yeu1 ni1
+Canteen	khae1 thieng1

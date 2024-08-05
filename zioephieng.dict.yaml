@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.3-auao
+# 版本號：24.8.5-auao
 
 ---
 name: zioephieng
-version:	"2024.8.3"
+version:	"2024.8.5"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -188,6 +188,8 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
   
+𨒃	boe3
+啋	tshai1
 芉	koe1
 𦶓	hung3
 𥡢	siuik
@@ -1423,7 +1425,7 @@ M̌	mu2{實爲m2}
 氖	nai2
 氟	fek
 氮	dae2
-弗	vek
+弗	vek	90%
 硼	beng1
 朋	bang1
 鈹	bi1
@@ -16282,7 +16284,7 @@ M̌	mu2{實爲m2}
 䛋	tshy3
 易	yi3{容易}
 㑥	yi3
-貤	yi3	0%
+貤	yi3	80%
 伿	yi3
 㒾	yi3
 敡	yi3
@@ -22788,7 +22790,7 @@ M̌	mu2{實爲m2}
 𨑥	mek
 昒	mek
 沕	mek
-弗	fek
+弗	fek	900
 紱	fek
 黻	fek
 綍	fek
@@ -22796,7 +22798,7 @@ M̌	mu2{實爲m2}
 芾	fek
 巿	fek
 韍	fek
-不	fek
+不	fek	50%
 𨚓	fek
 翇	fek
 柫	fek
