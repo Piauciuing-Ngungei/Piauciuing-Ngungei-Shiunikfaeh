@@ -32,11 +32,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.5-auao
+# 版本號：24.8.7-auao
 
 ---
 name: zioephieng
-version:	"2024.8.5"
+version:	"2024.8.7"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -188,6 +188,16 @@ M̌	mu2{實爲m2}
 
 □	khung3	0.01%
   
+𨄇	deng2
+㘗	giu1
+哶	mia2
+嘭	bang1
+呯	bieng1
+噷	hing1
+𡂿	eu1
+𡂿	gheu1
+唻	lai1
+呎	tshak
 𨒃	boe3
 啋	tshai1
 芉	koe1
