@@ -95,8 +95,8 @@ use_preset_vocabulary: true
 龍雹	lung1 bok
 雪𩂨子	sioeh saeh tsy2
 露水	lu3 shiu2
-霧露	mu3 lu3
-霧露發起	mu3 lu3 faeh khi2
+霧露
+霧露發起
 發幔	faeh moe3
 幔重	moe3 jiung2
 掛鱟	kuo3 heu3
@@ -252,12 +252,15 @@ use_preset_vocabulary: true
 季節	kiu3 tsiaeh
 正月初一	cieng1 ngioeh tshu1 ik
 正月十五	cieng1 ngioeh zhik ngu2
+正月十五	cieng1 ngioeh zhik ng2
 元宵節	ngioe1 siau1 tsiaeh
 清明日	tshieng1 mieng1 nik
 重五日	jiung1 ngu2 nik
+重五日	jiung1 ng2 nik
 七月七	tshik ngioeh tshik
 七月半	tshik ngioeh poe3
 八月十五	paeh ngioeh zhik ngu2
+八月十五	paeh ngioeh zhik ng2
 九月九	kieu2 ngioeh kieu2
 冬節	tung1 tsiaeh
 冬節日	tung1 tsiaeh nik
@@ -307,6 +310,7 @@ use_preset_vocabulary: true
 半日	poe3 nik
 一日	ik nik
 三日五日	sae1 nik ngu2 nik
+三日五日	sae1 nik ng2 nik
 日子	nik tsy2
 過日	kou3 nik
 時節	zy1 tsiaeh
@@ -643,7 +647,7 @@ use_preset_vocabulary: true
 驢ㄦ	li1 ng1
 豬牯	tsy1 ku2
 豬娘	tsy1 niang1
-豬母娘	tsy1 meu2 niang1
+豬母娘
 豬ㄦ	tsy1 ng1
 雄狗	yung1 keu2
 草狗娘ㄦ	tshau2 keu2 niang1 ng1
@@ -712,54 +716,54 @@ use_preset_vocabulary: true
 野鴨	ya2 aeh
 野水雞ㄦ	ya2 shiu2 ki1 ng1
 雁鵝	ngae3 ngou1
-鯽魚	tsiek ngei1
-黃魚	wong1 ngei1
+鯽魚
+黃魚
 鱄ㄦ	cioe2 ng1
 朱䱕	ciu1 mei1
-帶魚	ta3 ngei1
+帶魚
 烏鱧	u1 li2
 烏狼	u1 long1
 烏莨	u1 long1
-鯉魚	li2 ngei1
+鯉魚
 鰨鰻	thaeh moe1
-鰻魚	moe1 ngei1
+鰻魚
 河鰻	ghou1 moe1
 鱸甲	lu1 kaeh
-蛇魚	zhio1 ngei1
-鮎魚	niae1 ngei1
+蛇魚
+鮎魚
 白小鬼	bak siau2 kiu2
-包頭魚	pao1 deu1 ngei1
-金魚	king1 ngei1
-章魚	ciang1 ngei1
+包頭魚
+金魚
+章魚
 望潮ㄦ	mong3 jiau1 ng1
-魷魚	yeu1 ngei1
+魷魚
 烏賊	u1 zek
 章舉	ciang1 kei2
-墨魚脯	mek ngei1 fu2
+墨魚脯
 螟脯	mieng1 fu2
 膯膠	teng1 kao1
-魚膠	ngei1 kao1
-魚苗	ngei1 miau1
-魚子	ngei1 tsy2
-打魚	tang2 ngei1
-釣魚	tiao3 ngei1
-釣魚鉤	tiao3 ngei1 keu1
-釣魚竿ㄦ	tiao3 ngei1 koe1 ng1
-漁簍	ngei1 leu2
+魚膠
+魚苗
+魚子
+打魚
+釣魚
+釣魚鉤
+釣魚竿ㄦ
+漁簍
 駭蛇	gha2 zhio1
 蛇蛐	zhio1 khiuk
 蛇蛐ㄦ	zhio1 khiuk ng1
-五爪龍	ngu2 tsao2 lung1
+五爪龍
 白蟻龍	bak ngi2 lung1
 白蟻龍	bak nga2 lung1
 烏龜	u1 kiu1
-團魚	doe1 ngei1
+團魚
 蟶子	chieng1 tsy2
 蜆蜆ㄦ	hiae2 hiae2 ng1
 花蚶	huo1 he1
 蚶ㄦ	he1 ng1
 蠣膏	li3 kau1
-䖳魚	dzo3 ngei1
+䖳魚
 蝦ㄦ	ho1 ng1
 炊蝦	chiu1 ho1
 蝦皮	ho1 bi1
@@ -803,7 +807,7 @@ use_preset_vocabulary: true
 扁蟹	piae2 ha2
 康䘆	khong1 hie2
 蜈蚣	ngu1 kung1
-魚蚣	ngei1 kung1
+魚蚣
 絲網	sy1 mong2
 飛絲	fi1 sy1
 長腳蜂	jiang1 kiak fung1
@@ -920,9 +924,9 @@ use_preset_vocabulary: true
 雞肫	ki1 ciuing1
 鹹卵	ghae1 leng2
 皮蛋	bi1 dae3
-魚鯗	ngei1 siang2
-魚薧	ngei1 khau2
-魚鮳	ngei1 khau3
+魚鯗
+魚薧
+魚鮳
 菜鹹	tshai3 ghae1
 鹹菜	ghae1 tshai3
 菜乾	tshai3 koe1
@@ -956,7 +960,7 @@ use_preset_vocabulary: true
 開水	khai1 shiu2
 冰條	pieng1 diao1
 煺雞	thei1 ki1
-煺魚	thei1 ngei1
+煺魚
 熯番茄	hoe3 fae1 gia1
 熯鬆糕	hoe3 sung1 kau1
 燣田螺	le1 diae1 lou1
@@ -1503,7 +1507,7 @@ use_preset_vocabulary: true
 做夜息	tsou3 ya3 siek
 做工人	tsou3 kung1 ning1
 種田人	ciung3 diae1 ning1
-打魚人	tang2 ngei1 ning1
+打魚人
 看牛細ㄦ	khoe3 ngieu1 si3 ng1
 打船客	tang2 zhioe1 khak
 船老大	zhioe1 lau2 da3
@@ -1524,7 +1528,7 @@ use_preset_vocabulary: true
 先生	siae1 sang1
 醫藥先生	i1 yak siae1 sang1
 教書先生	kao1 shy1 siae1 sang1
-先生母	siae1 sang1
+先生母
 先生姥	siae1 sang1 mu2
 同學	dung1 ghok
 學生	ghok sang1
@@ -1562,7 +1566,7 @@ use_preset_vocabulary: true
 皂隸	zau2 li3
 傭人	yung1 ning1
 奶嫂	na2 sau2
-保姆	pau2 meu3
+保姆
 阿嬤	ak mou2
 阿嫂	ak sau2
 丫環	o1 guae1
@@ -1594,7 +1598,7 @@ use_preset_vocabulary: true
 唐三	dong1 sae1
 唐頭三	dong1 deu1
 獃大	ngai1 dou3
-兩百五	liang2 pak ngu2
+兩百五
 十三點	zhik sae1 tiae2
 流氓	lieu1 mang1
 爛粒	lae3 lik
@@ -1655,7 +1659,7 @@ use_preset_vocabulary: true
 妗娘ㄦ	ging1 niang1 ng1
 丈人	jiang2 ning1
 丈人老	jiang2 ning1 lau2
-丈母娘	jiang2 meu2 niang1
+丈母娘
 地家爺	di3 ko1 ya1
 地家娘	di3 ko1 niang1
 老公	lau2 kung1
@@ -1704,13 +1708,16 @@ use_preset_vocabulary: true
 瑣叔ㄦ	sou2 shiuk ng1
 姑娘	ku1 niang1
 姑娘ㄦ	ku1 niang1 ng1
-叔伯母	shiuk pak meu2
+叔伯母
 兩姨夫	liang2 yi1 fu1
 兩親家	liang2 tshing3 ko1
 親家	tshing3 ko1
 兩親家母	liang2 tshing3 ko1 meu2
+兩親家母	liang2 tshing3 ko1 m2
 親家母	tshing3 ko1 meu2
+親家母	tshing3 ko1 m2
 兩親家母娘	liang2 tshing3 ko1 meu2 niang1
+兩親家母娘	liang2 tshing3 ko1 m2 niang1
 當大ㄦ	tong1 dou3 ng1
 單個ㄦ	tae1 keh ng1
 瑣ㄦ	sou2 ng1
@@ -1897,7 +1904,7 @@ use_preset_vocabulary: true
 指天指	tsy2 thiae1 tsy2
 中央指	ciung1 iang1 tsy2
 當中指頭ㄦ	tong1 ciung1 tsy2 deu1 ng1
-無名指	mu1 mieng1 tsy2
+無名指
 手指頭椏	shieu2 tsy2 deu1 o1
 指甲	tsy2 kaeh
 指頭印	tsy2 deu1 ing3
@@ -2644,7 +2651,7 @@ use_preset_vocabulary: true
 撐篙	tshang1 kau1
 跳板	diao1 pae2
 舢板	sae1 pae2
-打魚船	tang2 ngei1 zhioe1
+打魚船
 渡船ㄦ	du3 zhioe1 ng1
 輪船	liuing1 zhioe1
 汽艇	khi3 dieng2
@@ -2853,7 +2860,7 @@ use_preset_vocabulary: true
 打賭	tang2 tu2
 骨牌九	kuek ba1 kieu2
 骨牌九牌ㄦ	kuek ba1 kieu2 ba1 ng1
-打五關	tang2 ngu2 kuae1
+打五關
 麻將	mo1 tsiang3
 搓麻將	tshou1 mo1 tsiang3
 做樁	tsou3 ciong1
@@ -3438,7 +3445,7 @@ use_preset_vocabulary: true
 各經	kok kieng1
 死板	sy2 pae2
 死執	sy2 cik
-全無用個	zioe1 mu1 yung3 keh
+全無用個
 頹灰	dei1 huei1
 貓屄	mao1 pi1
 小氣	siau2 khi3
@@ -3470,7 +3477,7 @@ use_preset_vocabulary: true
 有坯險	yeu2 phei1 hie2
 冇用	meu2 yung3
 用弗著	yung3 fek jiak
-無坯	mu1 phei1
+無坯
 冇坯	meu2 phei1
 鏖糟裝	au1 tsau1 tsong1
 罪過黴	zei2 kou3 mei3
@@ -3823,8 +3830,8 @@ use_preset_vocabulary: true
 一頭牛	ik deu1 ngieu1
 一頭	ik deu1
 一頭豬	ik deu1 tsy1
-一條魚	ik diao1 ngei1
-一頭魚	ik deu1 ngei1
+一條魚
+一頭魚
 一口	ik kheu2
 一口水	ik kheu2 shiu2
 一帖	ik thiaeh
@@ -3975,9 +3982,9 @@ use_preset_vocabulary: true
 百許個	pak hei2 keh
 萬許個番錢	mae3 hei2 keh fae1 zie1
 里許兩里路	li2 hei2 liang2 li2 lu3
-一兩畝	ik liang2 meu2
-一兩畝田	ik liang2 meu2 diae1
-一兩畝地	ik liang2 meu2 di3
+一兩畝
+一兩畝田
+一兩畝地
 好乎仂個	hau2 wu1 lek keh
 好幾個	hau2 ki2 keh
 幾許個	ki2 hei2 keh
@@ -9537,6 +9544,7 @@ use_preset_vocabulary: true
 去爻	
 
 魚翿	ngei1 dau3
+魚翿	ng1 dau3
 鴨嘈	
 唱詞搬半邊	
 背脊後𤳖	
@@ -9638,7 +9646,7 @@ use_preset_vocabulary: true
 嗚咽	u1 iaeh
 疵ㄦ	
 伹胥	
-無法處	mu1 faeh chy2
+無法處
 苦極	
 刀剚開	
 	
