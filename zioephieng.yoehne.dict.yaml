@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.3.22
+# 版本號：24.8.8
 
 ---
 name: zioephieng.yoehne
-version:	"202.3.22"
+version:	"2024.8.8"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -176,3 +176,6 @@ use_preset_vocabulary: true
 截然定分在天書	ziaeh nie1 dieng3 veng3 lai2 thiae1 shy1
 如何逆虜來侵犯	na1 gha1 ngiek lu2 lai1 tshing1 vae2
 汝等行看取敗虛	neo2 teng2 ghang1 khoe3 tshiu2 ba3 hei1
+
+昇龍
+柴棍

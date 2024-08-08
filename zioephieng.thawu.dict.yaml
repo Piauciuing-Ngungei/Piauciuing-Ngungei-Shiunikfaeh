@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.5
+# 版本號：24.8.8
 
 ---
 name: zioephieng.thawu
-version:	"2024.8.5"
+version:	"2024.8.8"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -91215,3 +91215,8 @@ Canteen	khae1 thieng1
 搞事體	gao2 zy3 thi2
 在做啥
 來做啥
+二刷
+三刷
+存盤
+讀檔
+回檔
