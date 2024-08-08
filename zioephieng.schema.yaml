@@ -102,7 +102,8 @@ speller:
     - derive/\b(tsh)\w*.+$/$1/
     - derive/\b(ts)[^\Wh]*$/$1/
     - derive/^(dz|ng).+$/$1/
-    - derive/^([a-z]).+$/$1/
+    - abbrev/^(?![mn])([a-z]).+$/$1/
+    - derive/^([mn]).+$/$1/
 
     #- derive/^w/ghu/ #dict.yaml #字開頭個ghu/w弗分 
     #- derive/wu$/ghu/ #dict.yaml #字開頭個ghu/w弗分
@@ -136,7 +137,7 @@ speller:
     #- derive/ng$/n/ #容錯 ng/n弗分 疑、泥弗分
     #- derive/k$/h/ #容錯 入聲尾-k/-h弗分 揭、擊弗分
     
-    #- derive/ao$/au/ #容錯 ao/au弗分 學習甌江片用
+    #- derive/ao$/au/ #容錯 ao/au弗分
     #- derive/uong$/ung/ #容錯 uong/ung弗分 學習甌江片用
     #- derive/uok$/ok/ #容錯 uok/ok弗分 學習甌江片用
     
