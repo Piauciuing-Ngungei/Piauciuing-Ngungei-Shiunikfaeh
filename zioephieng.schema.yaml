@@ -148,7 +148,7 @@ speller:
     #- derive/^ei/iu/ #容錯 ei魚/iu虞弗分
     #- derive/ghei$/ghiu/ #容錯 ei魚/iu虞弗分
     #- derive/^gh/g/ #容錯 gh/g弗分 匣母替羣母相混
-    #- derive/au$/ao/ #容錯 ao/au弗分 學習甌江片用
+    #- derive/au$/ao/ #容錯 ao/au弗分 
     #- derive/ai$/ei/ #容錯 ai/ei弗分 來、雷弗分
     #- derive/ei$/ai/ #容錯 ai/ei弗分 雷、來弗分
     #- derive/ai$/ae/ #容錯 ai/ae弗分 來、藍弗分
@@ -171,7 +171,7 @@ speller:
     #- derive/^ze/zoe/ #容錯 e/oe弗分 蠶、撰弗分
     #- derive/^ke/koe/ #容錯 e/oe弗分 甘、干弗分
     #- derive/^khe/khoe/ #容錯 e/oe弗分 坎、看弗分
-    #- derive/^ge/goe/ #容錯 e/oe弗分 暫時嘸讀goe個字
+    #- derive/^ge/goe/ #容錯 e/oe弗分 暫時無讀goe個字
     #- derive/^ghe/ghoe/ #容錯 e/oe弗分 含、汗弗分
     #- derive/^he/hoe/ #容錯 e/oe弗分 喊、漢弗分
     #- derive/^e/oe/ #容錯 e/oe弗分 暗、安弗分

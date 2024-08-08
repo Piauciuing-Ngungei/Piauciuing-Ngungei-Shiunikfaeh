@@ -34,103 +34,13 @@ use_preset_vocabulary: true
 
 #越南文
 
-𠬠	mek{một}
-𠄩	hai1{hai}
-𠀧	po1{ba}
-𦊚	peng3{bốn}
-𠄼	ne1{năm}
-𦒹	sau3{sáu}
-𦉱	ba2{bảy}
-𠔭	seng3{tám}
-𠃩	cing3{chín}
-𨒒	ma3{mười}	
-𤾓	cie1{trăm}
-𠦳	nging3{nghìn}
-𢆥	ne1{năm}
-𣎃	thong3{tháng}
-𣈜	ngai3{ngày}
-𨷈	mae1{muôn}
-𧘇	i3{ấy}
-𪅴	ok{ác}
-㗂	sang2{tiếng}
-𡨸	zy3{chữ}
-𠁀	dai3{đời}
-𡽫	noeng1{non}
-渃	niak{nước}
-𡶀	nei3{núi}
-𠳒	li3{lời}
-𤼸	deng1{dâng}
-𩩫	chiang1{xương}
-𧖱	mau2{máu}
-滝	song1{sông}
-𫴞	thou3{thà}
-𣩂	cieh{chết}
-𡥵	kueng1{con}
-腛	uk{óc}
-𣳔	yung1{giòng}
-𣗓	cy1{chưa}
-𫴯	tsek{tấc}
-𣘃	kai1{cây}
-𦹵	ku2{cỏ}
-𤅶	pie2{biển}
-𡀳	giuing1{còn}
-㘇	yoeng1{vang}
-㳥	sung3{sóng}
-墫	tsoeng1{chôn}
-㐌	da2{đã}
-𤳆	tsa1{trai}
-覩	tu2{đổ}
-囌	su1{tô}
-𣾺	khai1{khơi}
-𤀖	ngua3{ngòi}
-鎌	kie1{gươm}
-𤍌	shieng1{thiêng}
-𤏬	tshong1{sáng}
-𨁮	ling3{lần}
-唎	li3{lời}
-𠊛	ngai1{người}
-𠊚	ngai1{người}
-𠸗	tshu1{xưa}
-𠴍	ning3{nhắn}
-𤽶	mi3{vía}
-𨑜	tai3{dưới}
-𪖫	mei2{mũi}
-𡥙	ciau3{cháu}
-𤤰	yong1{vua}
-𠫾	ta1{đi}
-𪜀	lou1{là}
-𩅹	mi1{mưa}
-𩙍	zu3{gió}
-𨃴	zuk{gót}
-蹎	cing1{chân}
-𣋾	khou3{thủa}
-𪟂	cie3{chém}
-𦖑	ngi1{nghe}
-𪔠	ciung2{trống}
-𨀈	pek{bước}
-𪯗	sae1{tan}
-𫗒	oe1{ăn}
-𫂮	ki1{ghi}
-𨁪	teu3{dấu}
-𧺃	tu2{đỏ}
-𨖲	liae1{lên}
-𫃚	puk{vóc}
-𢚸	lung3{lòng}
-𡨹	tsy2{giữ}
-𣅅	nai1{nẫy}
-𡐙	teh{đất}
-
-𨷈𢆥	mae1 ne1
-𡨸喃	zy3 ne1
-㗂越	sang2 yoeh
 雄王	yung1 yong1
 鴻龐氏	wung1 bong1 zy2
 鴻龐	wung1 bong1
 甌駱	eu1 lok
 甌雒	eu1 lok
 雒鴻	lok wung1
-𠄩婆	hai1 bou1
-𠄩婆徵	hai1 bou1 cieng1
+
 二徵夫人	ni3 cieng1 fu1 ning1
 徵側	cieng1 tsek
 徵貳	cieng1 ni3
@@ -167,10 +77,7 @@ use_preset_vocabulary: true
 萬劫	mae3 kieh
 庯坊	pu1 fong1
 圭鄉	kui1 hiang1
-𡽫滝	noeng3 song1
-𡽫𡶀	noeng3 nei3
-𡽫渃	noeng3 niak
-𡽫渃南民南傳𠁀	noeng3 niak ne1 ming1 ne1 jioe1 dai3
+
 南國山河	ne1 kuek sae1 ghou1
 南國山河南帝居	ne1 kuek sae1 ghou1 ne1 ti3 kei1
 截然定分在天書	ziaeh nie1 dieng3 veng3 lai2 thiae1 shy1

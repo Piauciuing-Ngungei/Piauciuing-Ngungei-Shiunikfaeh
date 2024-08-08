@@ -33,11 +33,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.7-auao
+# 版本號：24.8.8-auao
 
 ---
 name: zioephieng
-version:	"2024.8.7"
+version:	"2024.8.8"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -189,6 +189,7 @@ M̌	m2
 
 □	khung3	0.01%
   
+㐻	nei3
 嘸	m1{慣用音：m̄}
 磨	ma1{實爲mha1；磨發磨發}
 𨄇	deng2
@@ -1025,7 +1026,7 @@ M̌	m2
 啦	la1
 嗎	ma1
 嘛	ma1
-麼	mek
+#麼	mek
 #吧	pa1
 啥	sa1
 啥	shio1
@@ -7515,7 +7516,7 @@ M̌	m2
 轇	kao1
 㶀	kao1
 䢒	kao1
-教	kao1
+教	kao1{教書}
 䉰	kao1
 𥹜	kao1
 摎	kao1
@@ -14072,7 +14073,7 @@ M̌	m2
 芺	iau2
 仸	iau2
 巐	chiau2
-少	shiau2
+少	shiau2{多少}
 䒚	shiau2
 𨙹	shiau2
 擾	niau2
@@ -19032,7 +19033,7 @@ M̌	m2
 涆	koe3
 𢁗	koe3
 矸	koe3
-岸	ngoe3
+岸	ngoe3	900
 犴	ngoe3
 豻	ngoe3
 頇	ngoe3
@@ -19802,7 +19803,7 @@ M̌	m2
 廟	miau3
 庿	miau3
 驃	biau3
-少	shiau3
+少	shiau3{少年}
 燒	shiau3{野燒；名詞。野火也}	1%
 脁	chiau3
 裱	piau3
@@ -19819,7 +19820,7 @@ M̌	m2
 傚	ghao3
 𣱓	ghao3
 詨	ghao3
-教	kao3
+教	kao3{宗教，教育}
 𢼂	kao3
 窖	kao3
 校	kao3{校對}
@@ -25824,8 +25825,8 @@ M̌	m2
 黑	hek
 潶	hek
 㱄	hek
-墨	mek
-默	mek
+墨	mek	500
+默	mek	400
 #冒	mek
 䘃	mek
 纆	mek
@@ -27427,7 +27428,7 @@ M̌	m2
 啦	la1
 嗎	mo3
 嘛	ma1
-麼	mek
+麼	mek	10%
 吧	va1
 #啥	sa3
 #啥	shio3
