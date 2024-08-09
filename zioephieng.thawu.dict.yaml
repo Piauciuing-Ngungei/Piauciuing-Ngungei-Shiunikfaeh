@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.8
+# 版本號：24.8.9
 
 ---
 name: zioephieng.thawu
-version:	"2024.8.8"
+version:	"2024.8.9"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -66400,9 +66400,9 @@ use_preset_vocabulary: true
 鳴聲
 鳴蟬
 麼子
-麼她
-麼兩日
-麼喝
+
+沒兩日
+
 鼻山
 鼻甲
 鼻污
@@ -79259,7 +79259,7 @@ use_preset_vocabulary: true
 迸㿭
 送貨汽車
 送人情
-送麼市
+送物事
 送終
 送葬
 送行衣
