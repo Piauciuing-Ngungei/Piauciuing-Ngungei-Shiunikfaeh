@@ -108,7 +108,7 @@ speller:
     - abbrev/\b(tsh)\w*.+$/$1/ #確保在許鍵入tsh個辰光，優先匹配tsh開頭個單字而非詞組
     - abbrev/\b(ts)[^\Wh]*$/$1/ #確保在許鍵入ts個辰光，優先匹配ts開頭個單字而非詞組
     
-    - derive/^(dz|ng).+$/$1/
+    - derive/^(dz).+$/$1/
     - derive/\b(dz\w*)\b(?!\s+\w*)/$1/
     - derive/\b(ng\w*)\b(?!\s+\w*)/$1/
     - abbrev/\b(dz)\w*.+$/$1/ #確保在許鍵入dz個辰光，優先匹配dz開頭個單字而非詞組
