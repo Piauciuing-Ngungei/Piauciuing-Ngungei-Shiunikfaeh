@@ -273,7 +273,7 @@ M̌	m2
 閡	ghai2
 閡	gai2
 累	lei3{疲累}
-烄	ngau3
+烄	ngau3	1000
 杠	kong3
 骾	gang2
 期	ki1{期年}	0.01%
@@ -367,7 +367,7 @@ M̌	m2
 鮁	baeh
 荸	bek
 糨	giang3
-朏	khuek{屁股}
+朏	khuek{屁股}	1000
 蔸	teu1
 餣	ie1
 趔	lieh
@@ -398,7 +398,7 @@ M̌	m2
 掛	guo3
 抬	dai1
 齕	wek
-䀹	ngaeh
+䀹	ngaeh	1000
 㖠	na1
 㦜	hiok
 㨃	tei2
@@ -415,7 +415,7 @@ M̌	m2
 圞	loe1
 塱	long2
 塳	bung1
-𢹷	ngak
+𢹷	ngak	1000
 擙	au3
 栀	tsy1
 汎	vaeh
@@ -434,7 +434,7 @@ M̌	m2
 鳢	li2
 𠏾	dza3
 𠡒	tei2
-𢚘	ngie3
+𢚘	ngie3	1000
 𢞕	huok
 𢴬	pae3
 𣓒	tshae3
@@ -594,7 +594,7 @@ M̌	m2
 屙	ou1
 鬎	laeh
 糾	kieu1
-捱	nga1
+捱	nga1	1000
 卨	sieh
 卵	leng2{禽魚蟲卵}
 嶄	tsae2
@@ -721,7 +721,7 @@ M̌	m2
 鰙	nok
 塝	bong1
 瑉	ming1
-廒	ngau1
+廒	ngau1	1000
 掯	kheng2
 喏	nok
 鈽	pu3
@@ -730,7 +730,7 @@ M̌	m2
 嗶	pik
 埼	gi1
 瞈	ung2
-哎	nga3
+哎	nga3	1000
 㭾	gioeh
 鰟	bong1
 鐾	bi3
@@ -770,7 +770,7 @@ M̌	m2
 綳	pang1
 撂	lok
 蠑	yoeng1
-螈	ngioe1
+螈	ngioe1	1000
 猞	shio3
 猁	li3
 墒	shiang1
@@ -778,7 +778,7 @@ M̌	m2
 脒	mi1
 蝽	chiuing1
 蚜	ho3
-嚙	ngieh
+嚙	ngieh	1000
 舭	pi2
 舾	si1
 舯	ciung1
@@ -896,7 +896,7 @@ M̌	m2
 韃	thaeh
 螅	siek
 蛐	khiuk
-佤	nguo2
+佤	nguo2	1000
 摁	eng3
 氹	tong2
 氹	dong1
@@ -905,9 +905,9 @@ M̌	m2
 唷	yuk
 珜	yang1
 垟	yang1
-鈺	ngiuk
+鈺	ngiuk	1000
 孿	lioe1
-朊	ngioe1
+朊	ngioe1	1000
 圈	khioe1{圆圈}
 獗	kioeh
 噘	kioeh
@@ -969,7 +969,7 @@ M̌	m2
 茈	zi1
 黍	tshy2
 #蠅	sieng1
-蟻	nga2
+蟻	nga2	1000
 餜	kuei2
 𥭢	phieng1
 𥵪	phieng1
@@ -1121,10 +1121,10 @@ M̌	m2
 剎	tshaeh
 何	hang1
 籼	sie1
-唔	ng3
+唔	ng3	1000
 晌	shiang2
 傚	ghao3
-焐	ngu3
+焐	ngu3	1000
 掽	phang3
 掽	bang3
 搨	thaeh
@@ -1149,7 +1149,7 @@ M̌	m2
 犟	giang3
 囫	hueh
 圇	liuing1
-伢	ngo1
+伢	ngo1	1000
 炖	toeng3
 𠛪	tiao1
 蹗	luk
@@ -1180,7 +1180,7 @@ M̌	m2
 絎	ghong1
 䐥	ung3
 盦	eng3
-齾	ngaeh
+齾	ngaeh	1000
 撎	iaeh{招手}
 㹙	ang2
 #佮	keh
@@ -1239,7 +1239,7 @@ M̌	m2
 都	taeh
 拉	la1
 㑚	na3
-外	nga3
+外	nga3	1000
 上	long3
 是	zek
 蝤	yeu1
@@ -1353,7 +1353,7 @@ M̌	m2
 氡	tung1
 咚	tung1
 砈	ak
-砹	nga3
+砹	nga3	1000
 鎄	ai1
 鑀	ai3
 釙	puk
@@ -1365,7 +1365,7 @@ M̌	m2
 汞	kung2
 鉑	bok
 啵	pou1
-鋨	ngou2
+鋨	ngou2	1000
 錸	lai1
 鉭	thae2
 鉿	ha1
@@ -1827,7 +1827,7 @@ M̌	m2
 谾	hung1
 𩐠	hung1
 𩗄	hung1
-㟅	ngung1
+㟅	ngung1	1000
 𣞷	sung1
 𢤄	sung1
 㬝	sung1
@@ -1995,10 +1995,10 @@ M̌	m2
 兇	hiung1
 訩	hiung1
 匈	hiung1
-顒	ngiung1
-𩤛	ngiung1
-鰅	ngiung1
-喁	ngiung1
+顒	ngiung1	1000
+𩤛	ngiung1	1000
+鰅	ngiung1	1000
+喁	ngiung1	1000
 邕	iung1
 雍	iung1
 噰	iung1
@@ -2234,7 +2234,7 @@ M̌	m2
 𧜧	chiong1
 樁	ciong1
 𣻛	ciong1
-㟅	ngong1
+㟅	ngong1	1000
 淙	ziong1
 鬃	ziong1
 㼻	ziong1
@@ -2454,15 +2454,15 @@ M̌	m2
 㥓	khi1
 䗁	khi1
 攲	khi1
-宜	ngi1
-宐	ngi1
-𠣨	ngi1
-㝖	ngi1
-儀	ngi1
-𥫃	ngi1
-䣡	ngi1
-䴊	ngi1
-轙	ngi1
+宜	ngi1	1000
+宐	ngi1	1000
+𠣨	ngi1	1000
+㝖	ngi1	1000
+儀	ngi1	1000
+𥫃	ngi1	1000
+䣡	ngi1	1000
+䴊	ngi1	1000
+轙	ngi1	1000
 #涯	ngi1
 #崖	ngi1
 皮	bi1
@@ -2687,10 +2687,10 @@ M̌	m2
 傂	dzy1
 䞾	dzy1
 眭	siu1
-危	ngiu1
-㕒	ngiu1
-洈	ngiu1
-峗	ngiu1
+危	ngiu1	1000
+㕒	ngiu1	1000
+洈	ngiu1	1000
+峗	ngiu1	1000
 詑	hi1
 焁	hi1
 釃	sai1
@@ -3126,9 +3126,9 @@ M̌	m2
 榯	zy1
 蒔	zy1
 鰣	zy1
-疑	ngi1
-嶷	ngi1
-觺	ngi1
+疑	ngi1	1000
+嶷	ngi1	1000
+觺	ngi1	1000
 思	sy1
 恖	sy1
 司	sy1
@@ -3456,24 +3456,24 @@ M̌	m2
 㐆	i1
 䧇	i1
 㥋	i1
-沂	ngi1
-凒	ngi1
-巍	ngiu1
-犩	ngiu1
+沂	ngi1	1000
+凒	ngi1	1000
+巍	ngiu1	1000
+犩	ngiu1	1000
 歸	kiu1
 㱕	kiu1
 騩	kiu1
 蘬	khiu1
 𧢦	khiu1
-魚	ngei1
-𩺰	ngei1
-漁	ngei1
-𩼪	ngei1
-䰻	ngei1
-䱷	ngei1
-齬	ngei1
-鋙	ngei1
-䁩	ngei1
+魚	ngei1	1000
+𩺰	ngei1	1000
+漁	ngei1	1000
+𩼪	ngei1	1000
+䰻	ngei1	1000
+䱷	ngei1	1000
+齬	ngei1	1000
+鋙	ngei1	1000
+䁩	ngei1	1000
 #衙	ngei1
 初	tshu1
 𠿝	tshu1
@@ -3696,26 +3696,26 @@ M̌	m2
 蒘	ni1
 𣖹	ni1
 挐	ni1
-虞	ngiu1
-𩦢	ngiu1
-愚	ngiu1
-娛	ngiu1
-湡	ngiu1
-堣	ngiu1
-𪃍	ngiu1
-嵎	ngiu1
-髃	ngiu1
-禺	ngiu1
-隅	ngiu1
-䴁	ngiu1
-鰅	ngiu1
-鍝	ngiu1
-澞	ngiu1
-𧍪	ngiu1
-㷒	ngiu1
-齵	ngiu1
-鸆	ngiu1
-𨜖	ngiu1
+虞	ngiu1	1000
+𩦢	ngiu1	1000
+愚	ngiu1	1000
+娛	ngiu1	1000
+湡	ngiu1	1000
+堣	ngiu1	1000
+𪃍	ngiu1	1000
+嵎	ngiu1	1000
+髃	ngiu1	1000
+禺	ngiu1	1000
+隅	ngiu1	1000
+䴁	ngiu1	1000
+鰅	ngiu1	1000
+鍝	ngiu1	1000
+澞	ngiu1	1000
+𧍪	ngiu1	1000
+㷒	ngiu1	1000
+齵	ngiu1	1000
+鸆	ngiu1	1000
+𨜖	ngiu1	1000
 芻	tshu1
 犓	tshu1
 無	mu1
@@ -4227,27 +4227,27 @@ M̌	m2
 雐	hu1
 䰧	hu1
 滹	hu1
-吾	ngu1
-鼯	ngu1
-𪁙	ngu1
-𧋋	ngu1
-吳	ngu1
-浯	ngu1
-䓊	ngu1
-㹳	ngu1
-㻍	ngu1
-珸	ngu1
-蜈	ngu1
-郚	ngu1
-齬	ngu1
-鯃	ngu1
-娪	ngu1
-鋘	ngu1
-梧	ngu1
-峿	ngu1
-麌	ngu1
-𦨼	ngu1
-祦	ngu1
+吾	ngu1	1000
+鼯	ngu1	1000
+𪁙	ngu1	1000
+𧋋	ngu1	1000
+吳	ngu1	1000
+浯	ngu1	1000
+䓊	ngu1	1000
+㹳	ngu1	1000
+㻍	ngu1	1000
+珸	ngu1	1000
+蜈	ngu1	1000
+郚	ngu1	1000
+齬	ngu1	1000
+鯃	ngu1	1000
+娪	ngu1	1000
+鋘	ngu1	1000
+梧	ngu1	1000
+峿	ngu1	1000
+麌	ngu1	1000
+𦨼	ngu1	1000
+祦	ngu1	1000
 租	tsu1
 蒩	tsu1
 盧	lu1
@@ -4553,24 +4553,24 @@ M̌	m2
 繄	i1
 䚷	i1
 𣕁	i1
-倪	ngi1
-蜺	ngi1
-霓	ngi1
-郳	ngi1
-齯	ngi1
-婗	ngi1
-輗	ngi1
-棿	ngi1
-猊	ngi1
-麑	ngi1
-貎	ngi1
-鯢	ngi1
-兒	ngi1
-䘽	ngi1
-𠆵	ngi1
-觬	ngi1
-𣕁	ngi1
-㪒	ngi1
+倪	ngi1	1000
+蜺	ngi1	1000
+霓	ngi1	1000
+郳	ngi1	1000
+齯	ngi1	1000
+婗	ngi1	1000
+輗	ngi1	1000
+棿	ngi1	1000
+猊	ngi1	1000
+麑	ngi1	1000
+貎	ngi1	1000
+鯢	ngi1	1000
+兒	ngi1	1000
+䘽	ngi1	1000
+𠆵	ngi1	1000
+觬	ngi1	1000
+𣕁	ngi1	1000
+㪒	ngi1	1000
 醯	hi1
 䒊	hi1
 𦫬	hi1
@@ -4764,13 +4764,13 @@ M̌	m2
 䍲	na1
 掜	na1
 誽	na1
-崖	nga1
-涯	nga1
-啀	nga1
-𪘲	nga1
-猚	nga1
-厓	nga1
-𩂢	nga1
+崖	nga1	1000
+涯	nga1	1000
+啀	nga1	1000
+𪘲	nga1	1000
+猚	nga1	1000
+厓	nga1	1000
+𩂢	nga1	1000
 娃	o1
 洼	o1
 哇	o1
@@ -4867,8 +4867,8 @@ M̌	m2
 搱	na1
 崽	sa1
 𥳧	sa1
-𩂢	nga1
-娾	nga1
+𩂢	nga1	1000
+娾	nga1	1000
 搋	tsha1
 俙	ha1
 䐯	la1
@@ -5018,11 +5018,11 @@ M̌	m2
 𩵣	phei1
 𤬃	phei1
 抔	phei1
-鮠	nguei1
-桅	nguei1
-嵬	nguei1
-磑	nguei1
-峞	nguei1
+鮠	nguei1	1000
+桅	nguei1	1000
+嵬	nguei1	1000
+磑	nguei1	1000
+峞	nguei1	1000
 𨌴	thei1
 𨋱	thei1
 㷟	thei1
@@ -5161,13 +5161,13 @@ M̌	m2
 愢	sai1
 𪃄	sai1
 毢	sai1
-皚	ngai1
-嵦	ngai1
-敳	ngai1
-㱯	ngai1
-#隑	ngai1
-剴	ngai1
-獃	ngai1
+皚	ngai1	1000
+嵦	ngai1	1000
+敳	ngai1	1000
+㱯	ngai1	1000
+#隑	ngai1	1000
+剴	ngai1	1000
+獃	ngai1	1000
 #能	nai1
 㾍	nai1
 𪒴	tai1
@@ -5345,22 +5345,22 @@ M̌	m2
 𩴱	bing1
 𦇖	bing1
 𡤉	bing1
-銀	nging1
-㹞	nging1
-狺	nging1
-䖜	nging1
-檭	nging1
-鄞	nging1
-圁	nging1
-誾	nging1
-訔	nging1
-嚚	nging1
-䓄	nging1
-珢	nging1
-䴦	nging1
-垠	nging1
-𪛊	nging1
-泿	nging1
+銀	nging1	1000
+㹞	nging1	1000
+狺	nging1	1000
+䖜	nging1	1000
+檭	nging1	1000
+鄞	nging1	1000
+圁	nging1	1000
+誾	nging1	1000
+訔	nging1	1000
+嚚	nging1	1000
+䓄	nging1	1000
+珢	nging1	1000
+䴦	nging1	1000
+垠	nging1	1000
+𪛊	nging1	1000
+泿	nging1	1000
 巾	king1
 麏	kiuing1
 麇	kiuing1
@@ -5723,40 +5723,40 @@ M̌	m2
 筋	king1
 䈥	king1
 釿	king1
-䖐	nging1
-㹜	nging1
-圻	nging1
-垠	nging1
-齗	nging1
-齦	nging1
-䴦	nging1
-斦	nging1
-𪛊	nging1
-䓄	nging1
-狺	nging1
-鄞	nging1
-元	ngioe1
-原	ngioe1
-𨙅	ngioe1
-源	ngioe1
-厵	ngioe1
-杬	ngioe1
-嫄	ngioe1
-沅	ngioe1
-騵	ngioe1
-黿	ngioe1
-羱	ngioe1
-蚖	ngioe1
-𧔞	ngioe1
-芫	ngioe1
-邧	ngioe1
-榞	ngioe1
-謜	ngioe1
-㹉	ngioe1
-䬧	ngioe1
-獂	ngioe1
-#阮	ngioe1
-蒝	ngioe1
+䖐	nging1	1000
+㹜	nging1	1000
+圻	nging1	1000
+垠	nging1	1000
+齗	nging1	1000
+齦	nging1	1000
+䴦	nging1	1000
+斦	nging1	1000
+𪛊	nging1	1000
+䓄	nging1	1000
+狺	nging1	1000
+鄞	nging1	1000
+元	ngioe1	1000
+原	ngioe1	1000
+𨙅	ngioe1	1000
+源	ngioe1	1000
+厵	ngioe1	1000
+杬	ngioe1	1000
+嫄	ngioe1	1000
+沅	ngioe1	1000
+騵	ngioe1	1000
+黿	ngioe1	1000
+羱	ngioe1	1000
+蚖	ngioe1	1000
+𧔞	ngioe1	1000
+芫	ngioe1	1000
+邧	ngioe1	1000
+榞	ngioe1	1000
+謜	ngioe1	1000
+㹉	ngioe1	1000
+䬧	ngioe1	1000
+獂	ngioe1	1000
+#阮	ngioe1	1000
+蒝	ngioe1	1000
 袁	yoe1
 爰	yoe1
 垣	yoe1
@@ -5858,11 +5858,11 @@ M̌	m2
 䩩	ioe1
 裷	ioe1
 眢	ioe1
-言	ngie1
-琂	ngie1
-甗	ngie1
-䇾	ngie1
-䓂	ngie1
+言	ngie1	1000
+琂	ngie1	1000
+甗	ngie1	1000
+䇾	ngie1	1000
+䓂	ngie1	1000
 攑	khie1
 䞿	khie1
 軒	hie1
@@ -6017,10 +6017,10 @@ M̌	m2
 𪎶	doeng1
 𤫭	doeng1
 村	tshoeng1
-㑮	ngueng1
-瘒	ngueng1
-顐	ngueng1
-梱	ngueng1
+㑮	ngueng1	1000
+瘒	ngueng1	1000
+顐	ngueng1	1000
+梱	ngueng1	1000
 盆	beng1
 葐	beng1
 𪂽	beng1
@@ -6064,8 +6064,8 @@ M̌	m2
 煾	eng1
 吞	theng1
 #垠	ngeng1
-圻	ngeng1
-泿	ngeng1
+圻	ngeng1	1000
+泿	ngeng1	1000
 寒	ghoe1
 𩏑	ghoe1
 韓	ghoe1
@@ -6078,10 +6078,10 @@ M̌	m2
 #汗	ghoe1
 𧃙	ghoe1
 䮧	ghoe1
-豻	ngoe1
-犴	ngoe1
-雃	ngoe1
-𡽜	ngoe1
+豻	ngoe1	1000
+犴	ngoe1	1000
+雃	ngoe1	1000
+𡽜	ngoe1	1000
 單	tae1{單獨，孤單}
 襌	tae1
 鄲	tae1
@@ -6208,16 +6208,16 @@ M̌	m2
 寏	woe1
 #院	woe1
 捖	woe1
-岏	nguoe1
-刓	nguoe1
-园	nguoe1
-忨	nguoe1
-蚖	nguoe1
-䯈	nguoe1
-羱	nguoe1
-黿	nguoe1
-抏	nguoe1
-𠒢	nguoe1
+岏	nguoe1	1000
+刓	nguoe1	1000
+园	nguoe1	1000
+忨	nguoe1	1000
+蚖	nguoe1	1000
+䯈	nguoe1	1000
+羱	nguoe1	1000
+黿	nguoe1	1000
+抏	nguoe1	1000
+𠒢	nguoe1	1000
 端	toe1
 褍	toe1
 剬	toe1
@@ -6425,8 +6425,8 @@ M̌	m2
 謾	mae1
 䅼	mae1
 𪑪	mae1
-顏	ngae1
-楌	ngae1
+顏	ngae1	1000
+楌	ngae1	1000
 姦	kae1
 菅	kae1
 葌	kae1
@@ -6435,8 +6435,8 @@ M̌	m2
 #扳	phae1
 眅	phae1
 奻	nae1
-𤸷	nguae1
-頑	nguae1
+𤸷	nguae1	1000
+頑	nguae1	1000
 馯	khae1
 豻	khae1
 鬜	khae1
@@ -6478,10 +6478,10 @@ M̌	m2
 𨬖	zae1
 𡎻	zae1
 羴	hae1
-訮	ngae1
-𤡥	ngae1
-㗴	ngae1
-虤	ngae1
+訮	ngae1	1000
+𤡥	ngae1	1000
+㗴	ngae1	1000
+虤	ngae1	1000
 黰	ae1
 𦎣	ae1
 殷	ae1
@@ -6646,14 +6646,14 @@ M̌	m2
 掔	khiae1
 岍	khiae1
 雃	khiae1
-妍	ngiae1
-鳽	ngiae1
-研	ngiae1
-𥓋	ngiae1
-揅	ngiae1
-㿼	ngiae1
-趼	ngiae1
-俓	ngiae1
+妍	ngiae1	1000
+鳽	ngiae1	1000
+研	ngiae1	1000
+𥓋	ngiae1	1000
+揅	ngiae1	1000
+㿼	ngiae1	1000
+趼	ngiae1	1000
+俓	ngiae1	1000
 眠	miae1
 瞑	miae1
 䏃	miae1
@@ -7199,11 +7199,11 @@ M̌	m2
 敹	liao1
 嘹	liao1
 熮	liao1
-堯	ngiao1
-嶢	ngiao1
-僥	ngiao1
-垚	ngiao1
-顤	ngiao1
+堯	ngiao1	1000
+嶢	ngiao1	1000
+僥	ngiao1	1000
+垚	ngiao1	1000
+顤	ngiao1	1000
 膮	hiao1
 嘵	hiao1
 憢	hiao1
@@ -7610,10 +7610,10 @@ M̌	m2
 鄗	khao1
 墝	khao1
 頝	khao1
-聱	ngao1
-謷	ngao1
-磝	ngao1
-𢿣	ngao1
+聱	ngao1	1000
+謷	ngao1	1000
+磝	ngao1	1000
+𢿣	ngao1	1000
 𦗔	tsao1
 罺	tsao1
 抓	tsao1
@@ -7653,7 +7653,7 @@ M̌	m2
 窅	ao1
 軪	ao1
 眑	ao1
-咬	ngao1
+咬	ngao1	1000
 梎	ao1
 𠣑	ao1
 䫸	tshao1
@@ -7826,31 +7826,31 @@ M̌	m2
 傮	tsau1
 𣩒	tsau1
 㡟	tsau1
-敖	ngau1
-遨	ngau1
-翱	ngau1
-聱	ngau1
-驁	ngau1
-熬	ngau1
-嶅	ngau1
-獒	ngau1
-滶	ngau1
-蔜	ngau1
-鷔	ngau1
-鼇	ngau1
-螯	ngau1
-謷	ngau1
-嗸	ngau1
-嗷	ngau1
-䫨	ngau1
-𢧴	ngau1
-摮	ngau1
-嫯	ngau1
-䦋	ngau1
-𣘢	ngau1
-𦪈	ngau1
-𩪋	ngau1
-鰲	ngau1
+敖	ngau1	1000
+遨	ngau1	1000
+翱	ngau1	1000
+聱	ngau1	1000
+驁	ngau1	1000
+熬	ngau1	1000
+嶅	ngau1	1000
+獒	ngau1	1000
+滶	ngau1	1000
+蔜	ngau1	1000
+鷔	ngau1	1000
+鼇	ngau1	1000
+螯	ngau1	1000
+謷	ngau1	1000
+嗸	ngau1	1000
+嗷	ngau1	1000
+䫨	ngau1	1000
+𢧴	ngau1	1000
+摮	ngau1	1000
+嫯	ngau1	1000
+䦋	ngau1	1000
+𣘢	ngau1	1000
+𦪈	ngau1	1000
+𩪋	ngau1	1000
+鰲	ngau1	1000
 曹	zau1
 𣍘	zau1
 槽	zau1
@@ -7960,19 +7960,19 @@ M̌	m2
 𪘓	zou1
 齹	zou1
 䰈	zou1
-莪	ngou1
-哦	ngou1
-娥	ngou1
-䄉	ngou1
-峨	ngou1
-鵝	ngou1
-俄	ngou1
-𩒰	ngou1
-蛾	ngou1
-睋	ngou1
-涐	ngou1
-誐	ngou1
-硪	ngou1
+莪	ngou1	1000
+哦	ngou1	1000
+娥	ngou1	1000
+䄉	ngou1	1000
+峨	ngou1	1000
+鵝	ngou1	1000
+俄	ngou1	1000
+𩒰	ngou1	1000
+蛾	ngou1	1000
+睋	ngou1	1000
+涐	ngou1	1000
+誐	ngou1	1000
+硪	ngou1	1000
 佗	thou1
 他	thou1
 拕	thou1
@@ -8080,13 +8080,13 @@ M̌	m2
 銼	zou1
 㭫	zou1
 睉	zou1
-訛	ngou1
-譌	ngou1
-吪	ngou1
-鈋	ngou1
-囮	ngou1
-魤	ngou1
-𠂬	ngou1
+訛	ngou1	1000
+譌	ngou1	1000
+吪	ngou1	1000
+鈋	ngou1	1000
+囮	ngou1	1000
+魤	ngou1	1000
+𠂬	ngou1	1000
 詑	thou1
 𧦭	thou1
 涶	thou1
@@ -8338,13 +8338,13 @@ M̌	m2
 髿	so1
 𩊮	so1
 硰	so1
-牙	ngo1
-衙	ngo1
-芽	ngo1
-齖	ngo1
-呀	ngo1
-枒	ngo1
-#吾	ngo1
+牙	ngo1	1000
+衙	ngo1	1000
+芽	ngo1	1000
+齖	ngo1	1000
+呀	ngo1	1000
+枒	ngo1	1000
+#吾	ngo1	1000
 樝	tso1
 柤	tso1
 𦳏	tso1
@@ -8427,8 +8427,8 @@ M̌	m2
 婼	nio1
 些	sia1
 #爹	cio1
-𣢉	nguo1
-𩨾	nguo1
+𣢉	nguo1	1000
+𩨾	nguo1	1000
 𣘟	kho1
 陽	yang1
 暘	yang1
@@ -8997,13 +8997,13 @@ M̌	m2
 螃	bong1
 䅭	bong1
 騯	bong1
-卬	ngong1
-䭹	ngong1
-枊	ngong1
-昂	ngong1
-䒢	ngong1
-㭿	ngong1
-䩕	ngong1
+卬	ngong1	1000
+䭹	ngong1	1000
+枊	ngong1	1000
+昂	ngong1	1000
+䒢	ngong1	1000
+㭿	ngong1	1000
+䩕	ngong1	1000
 藏	zong1{收藏}
 䯑	khuong1
 幫	pong1
@@ -9177,7 +9177,7 @@ M̌	m2
 樈	gieng1
 葝	gieng1
 䫆	gieng1
-迎	ngieng1
+迎	ngieng1	1000
 行	ghang1{行路，發行}
 衡	ghang1
 䯒	ghang1
@@ -9328,8 +9328,8 @@ M̌	m2
 弸	bang1
 㥊	bang1
 庄	bang1
-娙	ngang1
-俓	ngang1
+娙	ngang1	1000
+俓	ngang1	1000
 爭	tsang1
 箏	tsang1
 埩	tsang1
@@ -9788,7 +9788,7 @@ M̌	m2
 橧	zieng1
 竲	zieng1
 嶒	zieng1
-凝	ngieng1
+凝	ngieng1	1000
 興	hieng1{興旺}
 𨞾	hieng1
 稱	chieng1{稱呼，稱號}
@@ -10013,7 +10013,7 @@ M̌	m2
 𣔴	yeu1
 𧡹	yeu1
 𦵵	yeu1
-牛	ngieu1	900
+牛	ngieu1	1000
 遒	tsieu1
 鮂	tsieu1
 䎿	tsieu1
@@ -10424,7 +10424,7 @@ M̌	m2
 緰	deu1
 歈	deu1
 𪁞	deu1
-齵	ngeu1
+齵	ngeu1	1000
 鉤	keu1
 𠛎	keu1
 溝	keu1
@@ -10495,7 +10495,7 @@ M̌	m2
 𩖛	bieu1
 稵	tsieu1
 犙	seu1
-聱	ngieu1
+聱	ngieu1	1000
 飍	hieu1
 烋	hieu1
 繆	meu1
@@ -10648,16 +10648,16 @@ M̌	m2
 衾	khing1
 嶔	khing1
 顉	khing1
-吟	nging1
-訡	nging1
-䪩	nging1
-唫	nging1
-崟	nging1
-荶	nging1
-碞	nging1
-𩂢	nging1
-乑	nging1
-𠪚	nging1
+吟	nging1	1000
+訡	nging1	1000
+䪩	nging1	1000
+唫	nging1	1000
+崟	nging1	1000
+荶	nging1	1000
+碞	nging1	1000
+𩂢	nging1	1000
+乑	nging1	1000
+𠪚	nging1	1000
 歆	hing1
 廞	hing1
 嬜	hing1
@@ -10830,9 +10830,9 @@ M̌	m2
 淦	ke1
 䌠	ke1
 蜬	ke1
-䜙	nge1
-𡪁	nge1
-嵁	nge1
+䜙	nge1	1000
+𡪁	nge1	1000
+嵁	nge1	1000
 談	dae1
 郯	dae1
 惔	dae1
@@ -11014,7 +11014,7 @@ M̌	m2
 閹	ie1
 𢜩	khie1
 𨦄	khie1
-𪙊	ngie1
+𪙊	ngie1	1000
 尖	tsie1
 殲	tsie1
 瀸	tsie1
@@ -11146,16 +11146,16 @@ M̌	m2
 𤟟	ae1
 淊	ae1
 黯	ae1
-嵒	ngae1
-䫡	ngae1
-黬	ngae1
-羬	ngae1
-𧇱	ngae1
-麙	ngae1
-𪙊	ngae1
-碞	ngae1
-㺂	ngae1
-𧬌	ngae1
+嵒	ngae1	1000
+䫡	ngae1	1000
+黬	ngae1	1000
+羬	ngae1	1000
+𧇱	ngae1	1000
+麙	ngae1	1000
+𪙊	ngae1	1000
+碞	ngae1	1000
+㺂	ngae1	1000
+𧬌	ngae1	1000
 㰹	hae1
 𧍧	hae1
 妗	hae1
@@ -11195,9 +11195,9 @@ M̌	m2
 獑	zae1
 毚	zae1
 嚵	zae1
-巖	ngae1
-礹	ngae1
-𡆑	ngae1
+巖	ngae1	1000
+礹	ngae1	1000
+𡆑	ngae1	1000
 攙	tshae1
 衫	sae1
 纔	sae1{淺也}	1%
@@ -11214,8 +11214,8 @@ M̌	m2
 㔋	kae1
 𨂝	bae1
 嵌	khae1
-嚴	ngie1
-䉷	ngie1
+嚴	ngie1	1000
+䉷	ngie1	1000
 𩏩	hie1
 杴	hie1
 㿌	hie1
@@ -11545,18 +11545,18 @@ M̌	m2
 㥓	khi2
 觭	khi2
 㾨	khi2
-螘	ngi2
-蟻	ngi2
-蛾	ngi2
-錡	ngi2
-礒	ngi2
-齮	ngi2
-艤	ngi2
-檥	ngi2
-㠖	ngi2
-轙	ngi2
-羛	ngi2
-䰙	ngi2
+螘	ngi2	1000
+蟻	ngi2	1000
+蛾	ngi2	1000
+錡	ngi2	1000
+礒	ngi2	1000
+齮	ngi2	1000
+艤	ngi2	1000
+檥	ngi2	1000
+㠖	ngi2	1000
+轙	ngi2	1000
+羛	ngi2	1000
+䰙	ngi2	1000
 蔿	yu2
 鄬	yu2
 儰	yu2
@@ -11711,10 +11711,10 @@ M̌	m2
 狔	ni2
 旎	ni2
 柅	ni2
-硊	ngiu2
-頠	ngiu2
-姽	ngiu2
-𪀗	ngiu2
+硊	ngiu2	1000
+頠	ngiu2	1000
+姽	ngiu2	1000
+𪀗	ngiu2	1000
 跪	giu2
 褫	tshy2
 㨖	tsy2
@@ -11975,12 +11975,12 @@ M̌	m2
 杍	tsy2
 矣	yi2
 𦮸	yi2
-擬	ngi2
-儗	ngi2
-薿	ngi2
-孴	ngi2
-譺	ngi2
-𥣖	ngi2
+擬	ngi2	1000
+儗	ngi2	1000
+薿	ngi2	1000
+孴	ngi2	1000
+譺	ngi2	1000
+𥣖	ngi2	1000
 齒	tshy2
 䊼	tshy2
 恥	tshy2
@@ -12052,8 +12052,8 @@ M̌	m2
 𩄁	hiu2
 虫	hiu2
 卉	hiu2
-顗	ngi2
-螘	ngi2
+顗	ngi2	1000
+螘	ngi2	1000
 豨	hi2
 俙	hi2
 𪖥	hi2
@@ -12067,18 +12067,18 @@ M̌	m2
 蟦	vi2
 陫	vi2
 䒈	vi2
-語	ngei2
-篽	ngei2
-籞	ngei2
-圉	ngei2
-敔	ngei2
-圄	ngei2
-#衙	ngei2
-齬	ngei2
-鋙	ngei2
-䥏	ngei2
-禦	ngei2
-蘌	ngei2
+語	ngei2	1000
+篽	ngei2	1000
+籞	ngei2	1000
+圉	ngei2	1000
+敔	ngei2	1000
+圄	ngei2	1000
+#衙	ngei2	1000
+齬	ngei2	1000
+鋙	ngei2	1000
+䥏	ngei2	1000
+禦	ngei2	1000
+蘌	ngei2	1000
 呂	li2
 膂	li2
 旅	li2
@@ -12230,9 +12230,9 @@ M̌	m2
 苴	tsi2
 咀	tsi2
 䃊	tsi2
-麌	ngiu2
-俁	ngiu2
-噳	ngiu2
+麌	ngiu2	1000
+俁	ngiu2	1000
+噳	ngiu2	1000
 羽	yu2
 禹	yu2
 雨	yu2{陰雨}
@@ -12473,11 +12473,11 @@ M̌	m2
 焸	ku2
 𠑹	ku2
 𥂩	ku2
-五	ngu2
-午	ngu2
-旿	ngu2
-伍	ngu2
-仵	ngu2
+五	ngu2	1000
+午	ngu2	1000
+旿	ngu2	1000
+伍	ngu2	1000
+仵	ngu2	1000
 簿	bu2
 部	bu2
 #粗	zu2
@@ -12657,12 +12657,12 @@ M̌	m2
 𠈺	bi2
 𠯋	i2
 䚷	i2
-堄	ngi2
-㪒	ngi2
-掜	ngi2
-觬	ngi2
-䘽	ngi2
-晲	ngi2
+堄	ngi2	1000
+㪒	ngi2	1000
+掜	ngi2	1000
+觬	ngi2	1000
+䘽	ngi2	1000
+晲	ngi2	1000
 㪏	pi2
 𤽊	pi2
 蟹	ha2
@@ -12718,10 +12718,10 @@ M̌	m2
 𠢲	kha2
 𥏪	kha2
 鍇	kha2
-騃	nga2
-𤶗	nga2
-娾	nga2
-𧡋	nga2
+騃	nga2	1000
+𤶗	nga2	1000
+娾	nga2	1000
+𧡋	nga2	1000
 挨	a2
 唉	a2
 #賄	huei2
@@ -12807,13 +12807,13 @@ M̌	m2
 脮	nei2
 㼏	nei2
 𩬳	tei2
-頠	nguei2
-顡	nguei2
-隗	nguei2
-峞	nguei2
-嵬	nguei2
-䫥	nguei2
-䃬	nguei2
+頠	nguei2	1000
+顡	nguei2	1000
+隗	nguei2	1000
+峞	nguei2	1000
+嵬	nguei2	1000
+䫥	nguei2	1000
+䃬	nguei2	1000
 皠	tshei2
 𣿒	tshei2
 𣿓	tshei2
@@ -12954,11 +12954,11 @@ M̌	m2
 髕	bing2
 臏	bing2
 猵	bing2
-釿	nging2
-磭	nging2
-𪙤	nging2
-齗	nging2
-听	nging2
+釿	nging2	1000
+磭	nging2	1000
+𪙤	nging2	1000
+齗	nging2	1000
+听	nging2	1000
 笉	tshing2
 窘	giuing2
 僒	giuing2
@@ -13099,11 +13099,11 @@ M̌	m2
 賱	iuing2
 醞	iuing2
 搵	iuing2
-齳	ngiuing2
-𪘩	ngiuing2
-夽	ngiuing2
-喗	ngiuing2
-𧼐	ngiuing2
+齳	ngiuing2	1000
+𪘩	ngiuing2	1000
+夽	ngiuing2	1000
+喗	ngiuing2	1000
+𧼐	ngiuing2	1000
 抎	yuing2
 䫟	yuing2
 𪏚	yuing2
@@ -13138,11 +13138,11 @@ M̌	m2
 近	ging2
 瘽	ging2
 齔	tsheng2
-听	nging2
+听	nging2	1000
 䘆	hing2
-阮	ngioe2
-𡯱	ngioe2
-邧	ngioe2
+阮	ngioe2	1000
+𡯱	ngioe2	1000
+邧	ngioe2	1000
 遠	yoe2
 𩔃	yoe2
 偃	ie2
@@ -13167,10 +13167,10 @@ M̌	m2
 鍵	gie2
 𠐻	gie2
 𧥛	khie2
-𧥜	ngie2
-巘	ngie2
-𪗛	ngie2
-屵	ngie2
+𧥜	ngie2	1000
+巘	ngie2	1000
+𪗛	ngie2	1000
+屵	ngie2	1000
 幰	hie2
 攇	hie2
 䘆	hie2
@@ -13509,7 +13509,7 @@ M̌	m2
 𦺖	mae2
 𪘪	zae2
 䗃	zae2
-𪗙	ngae2
+𪗙	ngae2	1000
 㹽	tshae2
 眅	phae2
 #撰	zae2
@@ -13551,7 +13551,7 @@ M̌	m2
 𠊩	zae2
 輚	zae2
 虥	zae2
-眼	ngae2{表示量少時可作nghae2}
+眼	ngae2{表示量少時可作nghae2}	1000
 醆	tsae2
 琖	tsae2
 盞	tsae2
@@ -13682,7 +13682,7 @@ M̌	m2
 豤	khiae2
 䵖	khiae2
 蜸	khiae2
-齞	ngiae2
+齞	ngiae2	1000
 獮	sie2
 𤣗	sie2
 𥙮	sie2
@@ -13810,13 +13810,13 @@ M̌	m2
 摙	lie2
 #蓮	lie2
 膦	lie2
-齴	ngie2
-巘	ngie2
-遃	ngie2
-嵃	ngie2
-讞	ngie2
-𤫣	ngie2
-甗	ngie2
+齴	ngie2	1000
+巘	ngie2	1000
+遃	ngie2	1000
+嵃	ngie2	1000
+讞	ngie2	1000
+𤫣	ngie2	1000
+甗	ngie2	1000
 件	gie2
 𡾰	gie2
 鍵	gie2
@@ -14232,7 +14232,7 @@ M̌	m2
 骲	bao2
 𡂟	bao2
 鞄	bao2
-齩	ngao2
+齩	ngao2	1000
 䰫	zao2
 㑿	zao2
 煼	tshao2
@@ -14393,8 +14393,8 @@ M̌	m2
 丂	khau2
 䯪	khau2
 薧	khau2
-𦽀	ngau2
-𩑤	ngau2
+𦽀	ngau2	1000
+𩑤	ngau2	1000
 哿	kou2
 舸	kou2
 笴	kou2
@@ -14419,11 +14419,11 @@ M̌	m2
 沱	dou2
 𣵻	dou2
 詑	dou2
-我	ngou2
-騀	ngou2
-𩒰	ngou2
-㧴	ngou2
-硪	ngou2
+我	ngou2	1000
+騀	ngou2	1000
+𩒰	ngou2	1000
+㧴	ngou2	1000
+硪	ngou2	1000
 袉	thou2
 㰁	lou2
 𨬅	lou2
@@ -14527,8 +14527,8 @@ M̌	m2
 懡	mou2
 坐	zou2
 𡋲	zou2
-㛂	ngou2
-𠂬	ngou2
+㛂	ngou2	1000
+𠂬	ngou2	1000
 裸	lou2
 躶	lou2
 𧝹	lou2
@@ -14582,11 +14582,11 @@ M̌	m2
 也	ya2
 冶	ya2
 虵	ya2
-雅	ngo2
-疋	ngo2
-庌	ngo2
-厊	ngo2
-㿿	ngo2
+雅	ngo2	1000
+疋	ngo2	1000
+庌	ngo2	1000
+厊	ngo2	1000
+㿿	ngo2	1000
 檟	ko2
 榎	ko2
 嘏	ko2
@@ -14653,8 +14653,8 @@ M̌	m2
 𠁥	kuo2
 䈑	kuo2
 𧤐	kuo2
-瓦	nguo2
-邷	nguo2
+瓦	nguo2	1000
+邷	nguo2	1000
 #若	nio2
 #惹	nio2
 𠰒	nio2
@@ -14735,9 +14735,9 @@ M̌	m2
 弜	giang2
 誩	giang2
 滰	giang2
-仰	ngiang2
-䒢	ngiang2
-卬	ngiang2
+仰	ngiang2	1000
+䒢	ngiang2	1000
+卬	ngiang2	1000
 磢	tshong2
 㼽	tshong2
 𠞮	tshong2
@@ -14949,7 +14949,7 @@ M̌	m2
 𨟼	kong2
 㽘	kong2
 䟘	kong2
-䭹	ngong2
+䭹	ngong2	1000
 #奘	zong2
 #蒼	tshong2
 汻	hong2
@@ -15215,8 +15215,8 @@ M̌	m2
 鮩	bieng2
 併	bieng2
 詗	hiung2
-䀴	ngieng2
-矨	ngieng2
+䀴	ngieng2	1000
+矨	ngieng2	1000
 拯	cieng2
 抍	cieng2
 撜	cieng2
@@ -15456,12 +15456,12 @@ M̌	m2
 岣	keu2
 敂	keu2
 豿	keu2
-藕	ngeu2
-蕅	ngeu2
-偶	ngeu2
-耦	ngeu2
-髃	ngeu2
-㼴	ngeu2
+藕	ngeu2	1000
+蕅	ngeu2	1000
+偶	ngeu2	1000
+耦	ngeu2	1000
+髃	ngeu2	1000
+㼴	ngeu2	1000
 㨐	peu2
 掊	peu2
 㝅	neu2
@@ -15625,8 +15625,8 @@ M̌	m2
 唫	ging2
 錦	king2
 蕈	zing2
-僸	nging2
-趛	nging2
+僸	nging2	1000
+趛	nging2	1000
 㾕	seng2
 瘮	seng2
 槮	seng2
@@ -15701,9 +15701,9 @@ M̌	m2
 傪	tshe2
 噆	tshe2
 䫩	tshe2
-顉	nge2
-㜝	nge2
-嵁	nge2
+顉	nge2	1000
+㜝	nge2	1000
+嵁	nge2	1000
 昝	tse2
 寁	tse2
 撍	tse2
@@ -15850,13 +15850,13 @@ M̌	m2
 颭	cie2
 𩑳	khie2
 嵰	khie2
-顩	ngie2
-广	ngie2
-隒	ngie2
-嬐	ngie2
-䲓	ngie2
-嶮	ngie2
-噞	ngie2
+顩	ngie2	1000
+广	ngie2	1000
+隒	ngie2	1000
+嬐	ngie2	1000
+䲓	ngie2	1000
+嶮	ngie2	1000
+噞	ngie2	1000
 儉	gie2
 芡	gie2
 檢	kie2
@@ -15954,13 +15954,13 @@ M̌	m2
 孂	kiae2
 𡕢	miae2
 厸	miae2
-儼	ngie2
-广	ngie2
-𠆲	ngie2
-㢂	ngie2
-礹	ngie2
-𢇘	ngie2
-曮	ngie2
+儼	ngie2	1000
+广	ngie2	1000
+𠆲	ngie2	1000
+㢂	ngie2	1000
+礹	ngie2	1000
+𢇘	ngie2	1000
+曮	ngie2	1000
 欦	khie2
 𩒣	khie2
 䇜	khie2
@@ -16303,12 +16303,12 @@ M̌	m2
 伿	yi3
 㒾	yi3
 敡	yi3
-議	ngi3
-誼	ngi3
-竩	ngi3
-𥫃	ngi3
-𩈭	ngi3
-義	ngi3
+議	ngi3	1000
+誼	ngi3	1000
+竩	ngi3	1000
+𥫃	ngi3	1000
+𩈭	ngi3	1000
+義	ngi3	1000
 譬	phi3
 㵨	phi3
 漬	zy3
@@ -16369,7 +16369,7 @@ M̌	m2
 #萎	iu3
 䍴	iu3
 𣨙	iu3
-僞	ngiu3
+僞	ngiu3	1000
 #毀	hiu3
 恚	iu3
 㜇	iu3
@@ -16554,7 +16554,7 @@ M̌	m2
 䣵	ni3
 屁	phi3
 䊧	phi3
-劓	ngi3
+劓	ngi3	1000
 致	tsy3
 懫	tsy3
 疐	tsy3
@@ -16841,12 +16841,12 @@ M̌	m2
 記	ki3
 憙	hi3
 #嬉	hi3
-䰯	ngi3
-豙	ngi3
-㘈	ngi3
-譺	ngi3
-㽈	ngi3
-儗	ngi3
+䰯	ngi3	1000
+豙	ngi3	1000
+㘈	ngi3	1000
+譺	ngi3	1000
+㽈	ngi3	1000
+儗	ngi3	1000
 亟	khi3
 唭	khi3
 䀈	khi3
@@ -16878,8 +16878,8 @@ M̌	m2
 𦳢	yu3
 䬑	yu3
 #圍	yu3
-魏	ngiu3
-犩	ngiu3
+魏	ngiu3	1000
+犩	ngiu3	1000
 沸	fi3
 疿	fi3
 芾	fi3
@@ -16947,13 +16947,13 @@ M̌	m2
 𣢆	ki3
 旡	ki3
 蔇	ki3
-毅	ngi3
-𢖫	ngi3
-豙	ngi3
-𧅙	ngi3
-藙	ngi3
-顡	ngi3
-䉨	ngi3
+毅	ngi3	1000
+𢖫	ngi3	1000
+豙	ngi3	1000
+𧅙	ngi3	1000
+藙	ngi3	1000
+顡	ngi3	1000
+䉨	ngi3	1000
 氣	khi3
 炁	khi3
 气	khi3
@@ -16980,9 +16980,9 @@ M̌	m2
 䤒	gi3
 #幾	gi3
 #衣	i3
-御	ngei3
-馭	ngei3
-#語	ngei3
+御	ngei3	1000
+馭	ngei3	1000
+#語	ngei3	1000
 慮	li3
 勴	li3
 𥶌	li3
@@ -17100,13 +17100,13 @@ M̌	m2
 悇	tshy3
 㾻	tshy3
 𡱣	zi3
-遇	ngiu3
-寓	ngiu3
-庽	ngiu3
-媀	ngiu3
-𤸒	ngiu3
-禺	ngiu3
-䴁	ngiu3
+遇	ngiu3	1000
+寓	ngiu3	1000
+庽	ngiu3	1000
+媀	ngiu3	1000
+𤸒	ngiu3	1000
+禺	ngiu3	1000
+䴁	ngiu3	1000
 嫗	iu3
 蓲	iu3
 饇	iu3
@@ -17304,20 +17304,20 @@ M̌	m2
 䍛	ku3
 棝	ku3
 凅	ku3
-誤	ngu3
-悞	ngu3
-寤	ngu3
-忤	ngu3
-啎	ngu3
-迕	ngu3
-遻	ngu3
-晤	ngu3
-悟	ngu3
-逜	ngu3
-窹	ngu3
-捂	ngu3
-#娛	ngu3
-䎸	ngu3
+誤	ngu3	1000
+悞	ngu3	1000
+寤	ngu3	1000
+忤	ngu3	1000
+啎	ngu3	1000
+迕	ngu3	1000
+遻	ngu3	1000
+晤	ngu3	1000
+悟	ngu3	1000
+逜	ngu3	1000
+窹	ngu3	1000
+捂	ngu3	1000
+#娛	ngu3	1000
+䎸	ngu3	1000
 護	wu3
 瓠	wu3
 嫭	wu3
@@ -17506,17 +17506,17 @@ M̌	m2
 栖	si3
 壻	si3
 𣳦	si3
-詣	ngi3
-𢏗	ngi3
-羿	ngi3
-𦐧	ngi3
-睨	ngi3
-栺	ngi3
-盻	ngi3
-𧡎	ngi3
-甈	ngi3
-堄	ngi3
-#霓	ngi3
+詣	ngi3	1000
+𢏗	ngi3	1000
+羿	ngi3	1000
+𦐧	ngi3	1000
+睨	ngi3	1000
+栺	ngi3	1000
+盻	ngi3	1000
+𧡎	ngi3	1000
+甈	ngi3	1000
+堄	ngi3	1000
+#霓	ngi3	1000
 計	ki3
 係	ki3
 繼	ki3
@@ -17833,14 +17833,14 @@ M̌	m2
 餲	i3
 𦝲	i3
 䔽	i3
-藝	ngi3
-埶	ngi3
-蓺	ngi3
-寱	ngi3
-㦣	ngi3
-囈	ngi3
-槸	ngi3
-褹	ngi3
+藝	ngi3	1000
+埶	ngi3	1000
+蓺	ngi3	1000
+寱	ngi3	1000
+㦣	ngi3	1000
+囈	ngi3	1000
+槸	ngi3	1000
+褹	ngi3	1000
 滯	ji3
 彘	ji3
 蹛	ji3
@@ -17906,7 +17906,7 @@ M̌	m2
 𨂰	chi3
 𥉻	chi3
 𨧨	jiu3
-㓷	ngi3
+㓷	ngi3	1000
 蕝	tsiu3
 𧑎	tsiu3
 㨹	tsiu3
@@ -17920,9 +17920,9 @@ M̌	m2
 蓋	ka3
 匃	ka3
 丐	ka3
-艾	nga3
-𧰿	nga3
-鴱	nga3
+艾	nga3	1000
+𧰿	nga3	1000
+鴱	nga3	1000
 藹	a3
 壒	a3
 馤	a3
@@ -18019,7 +18019,7 @@ M̌	m2
 㲕	lei3
 䬽	lei3
 㱻	lei3
-#外	ngua3
+#外	ngua3	1000
 祋	tei3
 懀	ua3
 濊	ua3
@@ -18116,7 +18116,7 @@ M̌	m2
 㳗	tsha3
 訍	tsha3
 𧪘	tsha3
-睚	ngo3
+睚	ngo3	1000
 謑	ho3
 𢈕	pa3
 粺	ba3
@@ -18201,10 +18201,10 @@ M̌	m2
 𤡧	gha3
 衸	gha3
 㳦	gha3
-𦗐	nga3
-譺	nga3
-𢟰	nga3
-𧏹	nga3
+𦗐	nga3	1000
+譺	nga3	1000
+𢟰	nga3	1000
+𧏹	nga3	1000
 蒯	khua3
 喟	khua3
 嬇	khua3
@@ -18222,9 +18222,9 @@ M̌	m2
 壞	wa3
 𡎯	wa3
 蘾	wa3
-聵	ngua3
-𦖥	ngua3
-𩔀	ngua3
+聵	ngua3	1000
+𦖥	ngua3	1000
+𩔀	ngua3	1000
 𢞎	ba3
 憊	ba3
 𤸶	ba3
@@ -18418,7 +18418,7 @@ M̌	m2
 背	pei3{背脊，後背，背心；名詞}
 輩	pei3
 誖	pei3
-磑	nguei3
+磑	nguei3	1000
 蚚	wei3
 代	dai3
 岱	dai3
@@ -18461,13 +18461,13 @@ M̌	m2
 鎧	khai3
 闓	khai3
 嘅	khai3
-礙	ngai3
-硋	ngai3
-䙷	ngai3
-閡	ngai3
-儗	ngai3
-懝	ngai3
-𥝌	ngai3
+礙	ngai3	1000
+硋	ngai3	1000
+䙷	ngai3	1000
+閡	ngai3	1000
+儗	ngai3	1000
+懝	ngai3	1000
+𥝌	ngai3	1000
 愛	ai3
 㤅	ai3
 𢟪	ai3
@@ -18540,14 +18540,14 @@ M̌	m2
 餯	hiu3
 顪	hiu3
 𤜂	giu3
-刈	ngi3
-乂	ngi3
-㲼	ngi3
-㣻	ngi3
-𩾘	ngi3
-艾	ngi3
-䖊	ngi3
-䢃	ngi3
+刈	ngi3	1000
+乂	ngi3	1000
+㲼	ngi3	1000
+㣻	ngi3	1000
+𩾘	ngi3	1000
+艾	ngi3	1000
+䖊	ngi3	1000
+䢃	ngi3	1000
 震	cing3
 振	cing3
 賑	cing3
@@ -18647,9 +18647,9 @@ M̌	m2
 藎	zing3
 濜	zing3
 璶	zing3
-憖	nging3
-猌	nging3
-垽	nging3
+憖	nging3	1000
+猌	nging3	1000
+垽	nging3	1000
 晉	tsing3
 㬜	tsing3
 搢	tsing3
@@ -18827,11 +18827,11 @@ M̌	m2
 㥯	ing3
 㶏	ing3
 㡥	ing3
-垽	nging3
-願	ngioe3
-𩕾	ngioe3
-傆	ngioe3
-愿	ngioe3
+垽	nging3	1000
+願	ngioe3	1000
+𩕾	ngioe3	1000
+傆	ngioe3	1000
+愿	ngioe3	1000
 怨	ioe3
 䛄	ioe3
 販	fae3
@@ -18900,8 +18900,8 @@ M̌	m2
 腱	gie3
 𣀔	tshoe3
 遠	yoe3{避而遠之；動詞，古漢語音}	1%
-𤬝	ngie3
-鬳	ngie3
+𤬝	ngie3	1000
+鬳	ngie3	1000
 #圈	gioe3
 卛	kioe3
 絭	kioe3
@@ -18954,8 +18954,8 @@ M̌	m2
 䍎	tshoeng3
 坌	beng3
 𣴞	beng3
-顐	ngueng3
-諢	ngueng3
+顐	ngueng3	1000
+諢	ngueng3	1000
 論	leng3{討論}
 溣	leng3
 碖	leng3
@@ -18969,7 +18969,7 @@ M̌	m2
 茛	keng3
 珢	keng3
 詪	keng3
-䭓	ngeng3
+䭓	ngeng3	1000
 䭡	eng3
 翰	ghoe3
 捍	ghoe3
@@ -19034,15 +19034,15 @@ M̌	m2
 涆	koe3
 𢁗	koe3
 矸	koe3
-岸	ngoe3	900
-犴	ngoe3
-豻	ngoe3
-頇	ngoe3
-䮗	ngoe3
-㷳	ngoe3
-𡹼	ngoe3
-喭	ngoe3
-𨲊	ngoe3
+岸	ngoe3	1000
+犴	ngoe3	1000
+豻	ngoe3	1000
+頇	ngoe3	1000
+䮗	ngoe3	1000
+㷳	ngoe3	1000
+𡹼	ngoe3	1000
+喭	ngoe3	1000
+𨲊	ngoe3	1000
 #侃	khoe3
 偘	khoe3
 靬	khoe3
@@ -19149,11 +19149,11 @@ M̌	m2
 爨	tshoe3
 殩	tshoe3
 䂎	tshoe3
-玩	nguoe3
-貦	nguoe3
-翫	nguoe3
-妧	nguoe3
-忨	nguoe3
+玩	nguoe3	1000
+貦	nguoe3	1000
+翫	nguoe3	1000
+妧	nguoe3	1000
+忨	nguoe3	1000
 段	doe3
 毈	doe3
 椴	doe3
@@ -19223,12 +19223,12 @@ M̌	m2
 諫	kae3
 澗	kae3
 鐧	kae3
-鴈	ngae3
-鳫	ngae3
-雁	ngae3
-贗	ngae3
-偐	ngae3
-𤜵	ngae3
+鴈	ngae3	1000
+鳫	ngae3	1000
+雁	ngae3	1000
+贗	ngae3	1000
+偐	ngae3	1000
+𤜵	ngae3	1000
 晏	ae3
 騴	ae3
 䁙	ae3
@@ -19416,12 +19416,12 @@ M̌	m2
 現	yae3
 涀	yae3
 𨘇	yae3
-硯	ngiae3
-#研	ngiae3
-𨁍	ngiae3
-𤜵	ngiae3
-豜	ngiae3
-趼	ngiae3
+硯	ngiae3	1000
+#研	ngiae3	1000
+𨁍	ngiae3	1000
+𤜵	ngiae3	1000
+豜	ngiae3	1000
+趼	ngiae3	1000
 宴	iae3
 驠	iae3
 燕	iae3{飞燕}
@@ -19481,12 +19481,12 @@ M̌	m2
 𤮜	zhie3
 𦉕	zhie3
 嬗	zhie3
-彥	ngie3
-唁	ngie3
-喭	ngie3
-甗	ngie3
-諺	ngie3
-這	ngie3	0.1%
+彥	ngie3	1000
+唁	ngie3	1000
+喭	ngie3	1000
+甗	ngie3	1000
+諺	ngie3	1000
+這	ngie3	1%
 譴	khie3
 #遣	khie3
 䪈	khie3
@@ -19699,11 +19699,11 @@ M̌	m2
 璙	liao3
 𦌒	liao3
 炓	liao3
-顤	ngiao3
-獟	ngiao3
-#澆	ngiao3
-鼼	ngiao3
-嘄	ngiao3
+顤	ngiao3	1000
+獟	ngiao3	1000
+#澆	ngiao3	1000
+鼼	ngiao3	1000
+嘄	ngiao3	1000
 窔	iao3
 䆞	iao3
 㱇	hiao3
@@ -19789,7 +19789,7 @@ M̌	m2
 㢗	khiau3
 譑	khiau3
 㚁	khiau3
-𧇠	ngiau3
+𧇠	ngiau3	1000
 醮	tsiau3
 𥛲	tsiau3
 釂	tsiau3
@@ -19902,9 +19902,9 @@ M̌	m2
 㑃	ao3
 箹	ao3
 軪	ao3
-樂	ngao3{仁者樂山；以……爲樂，動詞}	0.1%
-磽	ngao3
-𩳔	ngao3
+樂	ngao3{仁者樂山；以……爲樂，動詞}	1%
+磽	ngao3	1000
+𩳔	ngao3	1000
 #巢	zao3
 ###效一
 号	ghau3
@@ -19940,14 +19940,14 @@ M̌	m2
 #膏	kau3
 𣝏	kau3
 烄	kau3
-傲	ngau3
-嫯	ngau3
-䫨	ngau3
-鏊	ngau3
-驁	ngau3
-奡	ngau3
-謷	ngau3
-鷔	ngau3
+傲	ngau3	1000
+嫯	ngau3	1000
+䫨	ngau3	1000
+鏊	ngau3	1000
+驁	ngau3	1000
+奡	ngau3	1000
+謷	ngau3	1000
+鷔	ngau3	1000
 冃	mau3
 帽	mau3
 耄	mau3
@@ -20053,7 +20053,7 @@ M̌	m2
 軻	khou3
 蚵	khou3
 艐	khou3
-餓	ngou3
+餓	ngou3	1000
 #馱	dou3
 大	dou3	1000
 #奈	nou3
@@ -20109,7 +20109,7 @@ M̌	m2
 #頗	phou3
 座	zou3
 #坐	zou3
-臥	ngou3
+臥	ngou3	1000
 諎	tshou3
 𢯽	tshou3
 貨	hou3
@@ -20172,12 +20172,12 @@ M̌	m2
 謑	ho3
 煆	ho3
 㗿	ho3
-迓	ngo3
-訝	ngo3
-犽	ngo3
-齖	ngo3
-枒	ngo3
-砑	ngo3
+迓	ngo3	1000
+訝	ngo3	1000
+犽	ngo3	1000
+齖	ngo3	1000
+枒	ngo3	1000
+砑	ngo3	1000
 詫	tsho3
 侘	tsho3
 𧬮	tsho3
@@ -20293,7 +20293,7 @@ M̌	m2
 𧬮	kuo3
 䖳	dzo3
 䅊	dzo3
-#瓦	nguo3
+#瓦	nguo3	1000
 攨	uo3
 窊	uo3
 䠚	uo3
@@ -20400,8 +20400,8 @@ M̌	m2
 𨡰	tsiang3
 𨟻	tsiang3
 將	tsiang3
-𨋕	ngiang3
-#仰	ngiang3
+𨋕	ngiang3	1000
+#仰	ngiang3	1000
 訪	fong3{訪問}
 #妨	fong3
 邡	fong3
@@ -20454,9 +20454,9 @@ M̌	m2
 笐	ghong3
 盎	ong3
 醠	ong3
-枊	ngong3
-䭹	ngong3
-𡵙	ngong3
+枊	ngong3	1000
+䭹	ngong3	1000
+𡵙	ngong3	1000
 葬	tsong3
 傍	bong3
 徬	bong3
@@ -20575,7 +20575,7 @@ M̌	m2
 #生	sieng3
 鼪	sieng3
 貹	sieng3
-#迎	ngieng3
+#迎	ngieng3	1000
 #膨	bang3
 䛭	hang3
 𥥈	uang3
@@ -20585,8 +20585,8 @@ M̌	m2
 䨻	bang3
 䙬	ang3
 嫈	ang3
-鞕	ngang3
-硬	ngang3
+鞕	ngang3	1000
+硬	ngang3	1000
 #轟	huang3
 輷	huang3
 勁	kieng3
@@ -20727,7 +20727,7 @@ M̌	m2
 靐	bieng3
 稱	chieng3{對稱}
 秤	chieng3
-#凝	ngieng3
+#凝	ngieng3	1000
 #丞	zhieng3
 覴	chieng3
 殑	gieng3
@@ -20929,7 +20929,7 @@ M̌	m2
 煣	nieu3
 #鞣	nieu3
 莓	meu3
-鼼	ngieu3
+鼼	ngieu3	1000
 𪖛	khieu3
 䞭	tshieu3
 候	gheu3
@@ -21184,7 +21184,7 @@ M̌	m2
 𤁡	de3
 瞫	de3
 𧗜	de3
-儑	nge3
+儑	nge3	1000
 馾	te3
 𩈉	te3
 𩾺	te3
@@ -21261,9 +21261,9 @@ M̌	m2
 嬮	ie3
 窆	pie3
 砭	pie3
-驗	ngie3
-噞	ngie3
-𣄝	ngie3
+驗	ngie3	1000
+噞	ngie3	1000
+𣄝	ngie3	1000
 #閃	shie3
 煔	shie3
 苫	shie3
@@ -21325,8 +21325,8 @@ M̌	m2
 䱤	kiae3
 傔	khiae3
 稴	liae3
-釅	ngie3
-𪙊	ngie3
+釅	ngie3	1000
+𪙊	ngie3	1000
 #脅	hie3
 姭	hie3
 㪁	khie3
@@ -21356,7 +21356,7 @@ M̌	m2
 𪉦	kae3
 䫡	kae3
 諵	nae3
-顑	ngae3
+顑	ngae3	1000
 鑑	kae3
 鑒	kae3
 監	kae3{太監}
@@ -21963,7 +21963,7 @@ M̌	m2
 傗	chiuk
 鄐	chiuk
 矗	chiuk
-砡	ngiuk
+砡	ngiuk	1000
 𣤶	ziuk
 沃	uk
 鋈	uk
@@ -22042,7 +22042,7 @@ M̌	m2
 犦	puk
 𪇰	puk
 濼	luk
-𤛹	nguk
+𤛹	nguk	1000
 燭	ciuk
 屬	ciuk{屬文}
 属	ciuk
@@ -22056,10 +22056,10 @@ M̌	m2
 蠾	ciuk
 韣	ciuk
 蠋	ciuk
-玉	ngiuk
-獄	ngiuk
-鳿	ngiuk
-頊	ngiuk
+玉	ngiuk	1000
+獄	ngiuk	1000
+鳿	ngiuk	1000
+頊	ngiuk	1000
 旭	hiuk
 頊	hiuk
 勖	hiuk
@@ -22201,14 +22201,14 @@ M̌	m2
 傕	kok
 䮤	kok
 龣	kok
-嶽	ngok
-岳	ngok
-樂	ngok{音樂，樂器}
-鸑	ngok
-𩓥	ngok
-觷	ngok
-捳	ngok
-㹊	ngok
+嶽	ngok	1000
+岳	ngok	1000
+樂	ngok{音樂，樂器}	1000
+鸑	ngok	1000
+𩓥	ngok	1000
+觷	ngok	1000
+捳	ngok	1000
+㹊	ngok	1000
 浞	ziok
 丵	ziok
 鋜	ziok
@@ -22665,13 +22665,13 @@ M̌	m2
 乙	ik
 鳦	ik
 亄	ik
-耴	ngik
-聉	ngik
-㔎	ngik
-𡿪	ngik
-圪	ngik
-𦨇	ngik
-𠡝	ngik
+耴	ngik	1000
+聉	ngik	1000
+㔎	ngik	1000
+𡿪	ngik	1000
+圪	ngik	1000
+𦨇	ngik	1000
+𠡝	ngik	1000
 筆	pik
 潷	pik
 鉍	pik
@@ -22892,7 +22892,7 @@ M̌	m2
 髴	fek
 彿	fek
 𧿳	fek
-崛	ngiuik
+崛	ngiuik	1000
 迄	hik
 仡	hik
 釳	hik
@@ -22907,27 +22907,27 @@ M̌	m2
 扢	kik
 #暨	kik	0.001%
 䰴	kik
-疙	ngik
-屹	ngik
-圪	ngik
-𧆫	ngik
-仡	ngik
+疙	ngik	1000
+屹	ngik	1000
+圪	ngik	1000
+𧆫	ngik	1000
+仡	ngik	1000
 䞘	gik
 𢇓	gik
 乞	khik
 䒗	khik
 契	khik{契丹}
-月	ngioeh
-刖	ngioeh
-跀	ngioeh
-𧿁	ngioeh
-軏	ngioeh
-抈	ngioeh
-扤	ngioeh
-枂	ngioeh
-鈅	ngioeh
-玥	ngioeh
-𦘹	ngioeh
+月	ngioeh	2000
+刖	ngioeh	1000
+跀	ngioeh	1000
+𧿁	ngioeh	1000
+軏	ngioeh	1000
+抈	ngioeh	1000
+扤	ngioeh	1000
+枂	ngioeh	1000
+鈅	ngioeh	1000
+玥	ngioeh	1000
+𦘹	ngioeh	1000
 伐	vaeh
 筏	vaeh
 栰	vaeh
@@ -23035,7 +23035,7 @@ M̌	m2
 碣	gieh
 楬	gieh
 㤄	faeh
-钀	ngieh
+钀	ngieh	1000
 沒	mek	1000
 歿	mek
 𤣻	mek
@@ -23132,22 +23132,22 @@ M̌	m2
 惚	huek
 䬍	huek
 𤶘	huek
-兀	nguek
-扤	nguek
-杌	nguek
-屼	nguek
-矹	nguek
-䦍	nguek
-鼿	nguek
-𦨉	nguek
-䑢	nguek
-𠨜	nguek
-㽾	nguek
-𤴰	nguek
-軏	nguek
-𧈭	nguek
-刖	nguek
-𦬂	nguek
+兀	nguek	1000
+扤	nguek	1000
+杌	nguek	1000
+屼	nguek	1000
+矹	nguek	1000
+䦍	nguek	1000
+鼿	nguek	1000
+𦨉	nguek	1000
+䑢	nguek	1000
+𠨜	nguek	1000
+㽾	nguek	1000
+𤴰	nguek	1000
+軏	nguek	1000
+𧈭	nguek	1000
+刖	nguek	1000
+𦬂	nguek	1000
 䪬	phek
 昢	phek
 哱	phek
@@ -23158,7 +23158,7 @@ M̌	m2
 𨁸	lek
 𥓎	lek
 㪐	lek
-窟	khuek
+窟	khuek	1000
 顝	khuek
 泏	khuek
 𩑔	khuek
@@ -23172,7 +23172,7 @@ M̌	m2
 䯇	khuek
 𡼿	khuek
 𥌄	khuek
-胐	khuek
+胐	khuek	1000
 訥	noek
 㕯	noek
 肭	noek
@@ -23298,19 +23298,19 @@ M̌	m2
 囋	zaeh
 囐	zaeh
 㩵	zaeh
-嶭	ngoeh
-䡾	ngoeh
-屵	ngoeh
-枿	ngoeh
-𣡌	ngoeh
-櫱	ngoeh
-𣎴	ngoeh
-𠱥	ngoeh
-㩵	ngoeh
-𠲗	ngoeh
-歺	ngoeh
-頇	ngoeh
-齾	ngoeh
+嶭	ngoeh	1000
+䡾	ngoeh	1000
+屵	ngoeh	1000
+枿	ngoeh	1000
+𣡌	ngoeh	1000
+櫱	ngoeh	1000
+𣎴	ngoeh	1000
+𠱥	ngoeh	1000
+㩵	ngoeh	1000
+𠲗	ngoeh	1000
+歺	ngoeh	1000
+頇	ngoeh	1000
+齾	ngoeh	1000
 葛	koeh
 䈓	koeh
 獦	koeh
@@ -23364,7 +23364,7 @@ M̌	m2
 沫	moeh
 𦫕	moeh
 袜	moeh
-枂	nguoeh
+枂	nguoeh	1000
 柮	zoeh
 撥	poeh
 癶	poeh
@@ -23624,9 +23624,9 @@ M̌	m2
 痆	naeh
 𤷈	naeh
 𧞍	naeh
-𦤙	nguaeh
-聉	nguaeh
-𦘍	nguaeh
+𦤙	nguaeh	1000
+聉	nguaeh	1000
+𦘍	nguaeh	1000
 䯇	khuaeh
 汃	phaeh
 𪗔	phaeh
@@ -23653,10 +23653,10 @@ M̌	m2
 𡇼	aeh
 呾	aeh
 劜	aeh
-齾	ngaeh
-聐	ngaeh
-𩮝	ngaeh
-𡿖	ngaeh
+齾	ngaeh	1000
+聐	ngaeh	1000
+𩮝	ngaeh	1000
+𡿖	ngaeh	1000
 刹	tshaeh
 䓭	tshaeh
 𥴭	khaeh
@@ -23686,10 +23686,10 @@ M̌	m2
 窡	tsaeh
 錣	tsaeh
 刷	saeh
-刖	nguaeh
-䎳	nguaeh
-㱚	nguaeh
-䚴	nguaeh
+刖	nguaeh	1000
+䎳	nguaeh	1000
+㱚	nguaeh	1000
+䚴	nguaeh	1000
 䵵	tshaeh
 㔍	tshaeh
 礣	maeh
@@ -23896,19 +23896,19 @@ M̌	m2
 蠞	ziaeh
 䕙	ziaeh
 𩟙	ziaeh
-齧	ngiaeh
-#霓	ngiaeh
-蜺	ngiaeh
-嵲	ngiaeh
-槷	ngiaeh
-臬	ngiaeh
-嶭	ngiaeh
-臲	ngiaeh
-陧	ngiaeh
-䘽	ngiaeh
-𡴎	ngiaeh
-闑	ngiaeh
-𡿖	ngiaeh
+齧	ngiaeh	1000
+#霓	ngiaeh	1000
+蜺	ngiaeh	1000
+嵲	ngiaeh	1000
+槷	ngiaeh	1000
+臬	ngiaeh	1000
+嶭	ngiaeh	1000
+臲	ngiaeh	1000
+陧	ngiaeh	1000
+䘽	ngiaeh	1000
+𡴎	ngiaeh	1000
+闑	ngiaeh	1000
+𡿖	ngiaeh	1000
 蔑	miaeh
 懱	miaeh
 𧂝	miaeh
@@ -24074,18 +24074,18 @@ M̌	m2
 蛥	zhieh
 鞨	zhieh
 折	zhieh{折本}
-孼	ngieh
-糱	ngieh
-讞	ngieh
-𤅊	ngieh
-蠥	ngieh
-㜸	ngieh
-闑	ngieh
-𡴎	ngieh
-钀	ngieh
-櫱	ngieh
-䶬	ngieh
-䡾	ngieh
+孼	ngieh	1000
+糱	ngieh	1000
+讞	ngieh	1000
+𤅊	ngieh	1000
+蠥	ngieh	1000
+㜸	ngieh	1000
+闑	ngieh	1000
+𡴎	ngieh	1000
+钀	ngieh	1000
+櫱	ngieh	1000
+䶬	ngieh	1000
+䡾	ngieh	1000
 滅	mieh
 搣	mieh
 朅	khieh
@@ -24329,9 +24329,9 @@ M̌	m2
 却	khiak
 𨟠	khiak
 𤷽	khiak
-虐	ngiak
-磭	ngiak
-瘧	ngiak
+虐	ngiak	1000
+磭	ngiak	1000
+瘧	ngiak	1000
 妁	zhiak
 勺	zhiak
 汋	zhiak
@@ -24524,31 +24524,31 @@ M̌	m2
 恪	khok
 㤩	khok
 愙	khok
-咢	ngok
-愕	ngok
-鄂	ngok
-諤	ngok
-𠟎	ngok
-𧊜	ngok
-𧍞	ngok
-遌	ngok
-萼	ngok
-鍔	ngok
-𡅡	ngok
-崿	ngok
-鶚	ngok
-鰐	ngok
-噩	ngok
-㗁	ngok
-齶	ngok
-顎	ngok
-𡾙	ngok
-鑩	ngok
-偔	ngok
-堮	ngok
-𡓐	ngok
-㮙	ngok
-湂	ngok
+咢	ngok	1000
+愕	ngok	1000
+鄂	ngok	1000
+諤	ngok	1000
+𠟎	ngok	1000
+𧊜	ngok	1000
+𧍞	ngok	1000
+遌	ngok	1000
+萼	ngok	1000
+鍔	ngok	1000
+𡅡	ngok	1000
+崿	ngok	1000
+鶚	ngok	1000
+鰐	ngok	1000
+噩	ngok	1000
+㗁	ngok	1000
+齶	ngok	1000
+顎	ngok	1000
+𡾙	ngok	1000
+鑩	ngok	1000
+偔	ngok	1000
+堮	ngok	1000
+𡓐	ngok	1000
+㮙	ngok	1000
+湂	ngok	1000
 𩔈	phok
 奤	phok
 濼	phok
@@ -24692,7 +24692,7 @@ M̌	m2
 𠠎	khuok
 籗	khuok
 噋	khuok
-瓁	nguok
+瓁	nguok	1000
 硦	lok
 㘀	tsok
 陌	mak
@@ -24782,18 +24782,18 @@ M̌	m2
 𧯈	khiek
 𡭴	khiek
 𠶸	khiek
-額	ngak
-頟	ngak
-䱮	ngak
-峉	ngak
-詻	ngak
-䩹	ngak
-逆	ngiek
-屰	ngiek
-縌	ngiek
-㘙	ngiek
-𥿬	ngiek
-𠱘	ngiek
+額	ngak	1000
+頟	ngak	1000
+䱮	ngak	1000
+峉	ngak	1000
+詻	ngak	1000
+䩹	ngak	1000
+逆	ngiek	1000
+屰	ngiek	1000
+縌	ngiek	1000
+㘙	ngiek	1000
+𥿬	ngiek	1000
+𠱘	ngiek	1000
 客	khak
 喀	khak
 礊	khak
@@ -25362,11 +25362,11 @@ M̌	m2
 獥	yek
 椺	yek
 䚫	yek
-鷁	ngiek
-鶂	ngiek
-艗	ngiek
-𠩫	ngiek
-虉	ngiek
+鷁	ngiek	1000
+鶂	ngiek	1000
+艗	ngiek	1000
+𠩫	ngiek	1000
+虉	ngiek	1000
 荻	diek
 狄	diek
 敵	diek
@@ -25765,11 +25765,11 @@ M̌	m2
 馥	biek
 踾	biek
 鶝	biek
-嶷	ngiek
-薿	ngiek
-㘈	ngiek
-懝	ngiek
-觺	ngiek
+嶷	ngiek	1000
+薿	ngiek	1000
+㘈	ngiek	1000
+懝	ngiek	1000
+觺	ngiek	1000
 堲	ziek
 垐	ziek
 𢯩	ziek
@@ -25979,8 +25979,8 @@ M̌	m2
 彶	kik
 皀	kik
 𪀐	kik
-岌	ngik
-㱞	ngik
+岌	ngik	1000
+㱞	ngik	1000
 泣	khik
 㬤	khik
 湆	khik
@@ -26203,16 +26203,16 @@ M̌	m2
 㽺	heh
 𣣹	heh
 㾑	heh
-𣊡	ngeh
-礏	ngeh
-#哈	ngeh
-儑	ngeh
-𡀾	ngeh
-砐	ngeh
-礘	ngeh
-㾑	ngeh
-䑥	ngeh
-魥	ngeh
+𣊡	ngeh	1000
+礏	ngeh	1000
+#哈	ngeh	1000
+儑	ngeh	1000
+𡀾	ngeh	1000
+砐	ngeh	1000
+礘	ngeh	1000
+㾑	ngeh	1000
+䑥	ngeh	1000
+魥	ngeh	1000
 䟃	tsheh
 㜗	tsheh
 遪	tsheh
@@ -26295,8 +26295,8 @@ M̌	m2
 𨆂	saeh
 靸	saeh
 𩐅	saeh
-儑	ngeh
-𥋙	ngeh
+儑	ngeh	1000
+𥋙	ngeh	1000
 䪞	zaeh
 𢶍	zaeh
 䫦	keh
@@ -26694,7 +26694,7 @@ M̌	m2
 凹	aeh
 浥	aeh
 圔	aeh
-䀴	ngaeh
+䀴	ngaeh	1000
 𥃐	tshaeh
 狎	ghaeh
 翈	ghaeh
@@ -26741,21 +26741,21 @@ M̌	m2
 譀	haeh
 䛅	haeh
 𣢗	haeh
-業	ngieh
-㸣	ngieh
-鄴	ngieh
-驜	ngieh
-嶪	ngieh
-𠟪	ngieh
-䧨	ngieh
-㗼	ngieh
-𠄅	ngieh
-𩑃	ngieh
-䲜	ngieh
-𢢜	ngieh
-𩼋	ngieh
-鸈	ngieh
-澲	ngieh
+業	ngieh	1000
+㸣	ngieh	1000
+鄴	ngieh	1000
+驜	ngieh	1000
+嶪	ngieh	1000
+𠟪	ngieh	1000
+䧨	ngieh	1000
+㗼	ngieh	1000
+𠄅	ngieh	1000
+𩑃	ngieh	1000
+䲜	ngieh	1000
+𢢜	ngieh	1000
+𩼋	ngieh	1000
+鸈	ngieh	1000
+澲	ngieh	1000
 脅	hieh
 𣣲	hieh
 𣢩	hieh
@@ -26961,7 +26961,7 @@ M̌	m2
 琉	lieu1
 撸	lu1
 濾	li3
-癌	ngae1
+#癌	ngae1	1000
 妞	nieu2
 叭	phaeh
 撇	phiaeh
@@ -27093,7 +27093,7 @@ M̌	m2
 臯	kau1
 橰	kau1
 鷱	kau1
-翺	ngau1
+翺	ngau1	1000
 噑	ghau1
 獋	ghau1
 暭	ghau2
@@ -27191,7 +27191,7 @@ M̌	m2
 硇	nao1
 褦	nai3
 溯	su3
-鱷	ngok
+鱷	ngok	1000
 拆	tshak
 蝷	liek
 搗	tau2
@@ -27254,7 +27254,7 @@ M̌	m2
 #歪	huo1
 謊	huong2
 虻	mang1
-卼	nguek
+卼	nguek	1000
 溦	mi1
 擓	khua1
 瘟	ueng1
@@ -27277,9 +27277,9 @@ M̌	m2
 銹	sieu3
 糯	nou3
 蠕	niu1
-蘖	ngieh
-孽	ngieh
-糵	ngieh
+蘖	ngieh	1000
+孽	ngieh	1000
+糵	ngieh	1000
 勲	hiuing1
 憳	the2
 覀	o3
@@ -27344,10 +27344,10 @@ M̌	m2
 汝	na2
 那	na3
 擔	nae1{實爲nhae1}
-児	ng1
-ㄦ	ng1
-癌	ngae1
-鶴	ngok
+児	ng1	1000
+ㄦ	ng1	1000
+癌	ngae1	1000
+鶴	ngok	1000
 伲	ni1
 妮	ni1
 廿	niae3
@@ -27506,25 +27506,25 @@ M̌	m2
 繪	kuei3	1%
 娟	kioe1
 #會	uei3
-無	m1
+無	m1	1000
 母	m2
 姆	m1
-畝	m2
+畝	m2	500
 某	m1
 霧	m3
 牡	mau2
 謬	miau3
 繆	miau3
-魚	ng1
-漁	ng1
-吾	ng1
-吳	ng1
-五	ng2
-伍	ng2
-午	ng2
-閻	ngie1
+魚	ng1	1000
+漁	ng1	1000
+#吾	ng1	1000
+吳	ng1	1000
+五	ng2	1000
+伍	ng2	1000
+午	ng2	1000
+閻	ngie1	1000
 閆	ye1
-娛	ng1
+#娛	ng1	1000
 #褐	oeh
 跛	pa2
 #褒	peu2

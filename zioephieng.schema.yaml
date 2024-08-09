@@ -99,13 +99,16 @@ speller:
     - "derive/^([A-Za-z]+)([nghk]{0,2})([1-3qxr]{0,2})(\\{.*\\})?$/$1$2/"  
     #- "abbrev/^([YMNymn])([1-3qxr]{0,2})(\\{.*\\})?$/$1/"
     - abbrev/^(?![mn])([a-z]).+$/$1/
-    - derive/^([mn]).+$/$1/ #確保在m弗物n個辰光，好弗單單匹配到自成音節個m替n，也好匹配到以m弗物n開頭個單字
+    - derive/^([mn]).+$/$1/ #確保在許鍵入m弗物n個辰光，好弗單單匹配到自成音節個m替n，也好匹配到以m弗物n開頭個單字
+    
     - derive/^([ptkgszc]h).+$/$1/
+    
     - derive/\b(tsh\w*)\b(?!\s+\w*)/$1/
     - derive/\b(ts\w*)\b(?!\s+\w*)/$1/
     - abbrev/\b(tsh)\w*.+$/$1/ #確保在許鍵入tsh個辰光，優先匹配tsh開頭個單字而非詞組
     - abbrev/\b(ts)[^\Wh]*$/$1/ #確保在許鍵入ts個辰光，優先匹配ts開頭個單字而非詞組
-    #- derive/^(dz|ng).+$/$1/
+    
+    - derive/^(dz|ng).+$/$1/
     - derive/\b(dz\w*)\b(?!\s+\w*)/$1/
     - derive/\b(ng\w*)\b(?!\s+\w*)/$1/
     - abbrev/\b(dz)\w*.+$/$1/ #確保在許鍵入dz個辰光，優先匹配dz開頭個單字而非詞組
