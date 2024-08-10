@@ -9,12 +9,9 @@ schema_list:
   - schema: luna_pinyin_fluency
   - schema: bopomofo
   - schema: bopomofo_tw
-  - schema: cangjie5
+  - schema: zioephieng
   - schema: stroke
   - schema: terra_pinyin
-  - schema: zioephieng
-  - schema: nguphing
-  - schema: nguphin-yaehwei
 
 switcher:
   caption: 〔方案選單〕
@@ -51,6 +48,10 @@ key_binder:
       - key_bindings:/paging_with_minus_equal
       - key_bindings:/paging_with_comma_period
       - key_bindings:/numbered_mode_switch
+    
+    # Tab / Shift+Tab 切換光標到下/上一隻拼音音節
+    - { when: composing, accept: Shift+Tab, send: Shift+Left }
+    - { when: composing, accept: Tab, send: Shift+Right }
 
 recognizer:
   patterns:

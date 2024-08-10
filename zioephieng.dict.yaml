@@ -39,6 +39,11 @@
 name: zioephieng
 version:	"2024.8.8"
 sort: by_weight
+#columns:    #
+  #- code    # 編碼
+  #- weight  # 權重
+  #- stem    # 造詞碼（弗曉得是何物，好像替拼音方案弗搭界）
+  #- text    # 詞彙
 use_preset_vocabulary: true
 import_tables:
   - zioephieng.words #增補詞庫
@@ -189,6 +194,7 @@ M̌	m2
 
 □	khung3	0.01%
   
+佳	ko1
 𥏘	giuik
 㐻	nei3
 嘸	m1
@@ -4709,16 +4715,16 @@ M̌	m2
 𧟼	ui1
 𤮰	ui1
 睳	hui1
-佳	ko1
-#街	ko1
-㥟	gho1
-#鮭	gho1
-膎	gho1
-鞵	gho1
-#鞋	gho1
-㨙	gho1
-䙎	gho1
-榽	gho1
+佳	ka1
+#街	ka1
+㥟	gha1
+鮭	gha1
+膎	gha1
+鞵	gha1
+#鞋	gha1
+㨙	gha1
+䙎	gha1
+榽	gha1
 牌	ba1
 䱝	ba1
 𥱼	ba1

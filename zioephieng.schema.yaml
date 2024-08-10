@@ -53,6 +53,7 @@ switches:
 
 engine:
   processors:
+    - lua_processor@select_character 
     - ascii_composer
     - recognizer
     - key_binder
@@ -74,14 +75,40 @@ engine:
     - script_translator
     - script_translator@luna_pinyin
     - reverse_lookup_translator
+    - lua_translator@date_translator    # 辰光、日腳、禮拜
+    #- lua_translator@lunar              # 陰曆
+    #- lua_translator@number_translator  # 數字、金額大寫
     
   filters:
     - simplifier
     - uniquifier
     - reverse_lookup_filter@zioephieng_reverse_lookup
+    - simplifier@emoji                              # Emoji
+    
+# Lua 配置: 辰光、日腳、禮拜、ISO 8601、時間戳個觸發關鍵詞
+date_translator:
+  date: ng      # 日腳： 2022-11-29
+  time: zhk       # 時間： 18:13
+  week: lp       # 禮拜： 禮拜兩
+  #datetime: datetime   # ISO 8601： 2022-11-29T18:13:11+08:00
+  #timestamp: timestamp  # 時間戳： 1669716794
+
+
+# Lua 配置：农历的触发关键字
+#lunar: nl  # 农历： 二〇二三年冬月二十 癸卯年（兔）冬月二十
+
+
+# Lua 配置：长词优先
+# 提升 count 个词语，插入到第 idx 个位置。
+# 示例：将 2 个词插入到第 4、5 个候选项，输入 jie 得到「1接 2解 3姐 4饥饿 5极恶」
+#long_word_filter:
+  #count: 1
+  #idx: 9
+
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcba"
+  alphabet: "zyxwvutsrqponmlkjihgfedcba/"
+  initials: "zyxwvutsrqponmlkjihgfedcba"
   delimiter: "-';"
   algebra:
     # xform/  - 改寫（替換，弗共存）
