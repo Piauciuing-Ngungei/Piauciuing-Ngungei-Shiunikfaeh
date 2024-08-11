@@ -194,6 +194,11 @@ M̌	m2
 
 □	khung3	0.01%
   
+澥	ga2
+凹	ao1
+𲄨	gia1{身建}
+嘓	guak
+𡚪	fae3
 憕	teng3
 䏧	tou2
 𥀱	kuong2
@@ -476,7 +481,7 @@ M̌	m2
 唸	niae3
 嗐	gha2
 嗝	goeh
-嘴	tsy2
+#嘴	tsy2
 噯	a3
 嚄	uak
 娒	mei1{實爲mhei1}
@@ -616,7 +621,7 @@ M̌	m2
 欬	gai1{打欬；欬，代用字}
 舶	phak{舶來品}
 燥	sau3
-脫	theh{助詞，弱讀音}
+脫	theh{助詞，弱讀音}	1000
 釋	sak
 轍	chieh
 涸	kok
@@ -645,7 +650,7 @@ M̌	m2
 統	thung2
 夠	keu3
 #訪	fong2
-嘴	tsy2
+嘴	tsy2	1000
 膛	dong1
 擋	tong2
 檔	tong3
@@ -943,7 +948,7 @@ M̌	m2
 你	ni2	1000
 甦	su1
 畜	chiuk{畜牲}
-鼠	tshy2
+鼠	tshy2	500
 鼻	bik
 蝻	ne2
 呃	ak
@@ -1157,7 +1162,7 @@ M̌	m2
 乒	phieng1
 乓	phang1
 犟	giang3
-囫	hueh
+囫	huek
 圇	liuing1
 伢	ngo1	1000
 炖	toeng3
@@ -2249,18 +2254,18 @@ M̌	m2
 鬃	ziong1
 㼻	ziong1
 𩞐	ziong1
-支	tsy1
+支	tsy1	1000
 𥾣	tsy1
 #只	tsy1
 汥	tsy1
 㲍	tsy1
 巵	tsy1
 梔	tsy1
-枝	tsy1
+枝	tsy1	300
 衹	tsy1
 㽻	tsy1
 衼	tsy1
-肢	tsy1
+肢	tsy1	300
 胑	tsy1
 𨈛	tsy1
 禔	tsy1
@@ -2278,7 +2283,7 @@ M̌	m2
 眵	tsy1
 䡋	tsy1
 𩍲	tsy1
-移	yi1
+移	yi1	1000
 䄬	yi1
 迻	yi1
 𠩗	yi1
@@ -2304,13 +2309,13 @@ M̌	m2
 拸	yi1
 謻	yi1
 𠗺	yi1
-蛇	yi1	0.001%
+蛇	yi1	1%
 虵	yi1
 螔	yi1
 𠐀	yi1
 𣣢	yi1
 䬁	yi1
-爲	yu1{行為}
+爲	yu1{行為}	1000
 為	yu1
 潙	yu1
 䧦	yu1
@@ -2661,15 +2666,15 @@ M̌	m2
 䥸	mi1
 𥎖	mi1
 瀰	mi1
-雌	tshy1
+雌	tshy1	200
 胔	tshy1
 姕	tshy1
 鈭	tshy1
 𦍧	tshy1
-知	tsy1
+知	tsy1	1000
 䵹	tsy1
 鼅	tsy1
-蜘	tsy1
+蜘	tsy1	200
 䣽	tsy1
 䝷	tsy1
 漪	i1
@@ -2816,7 +2821,7 @@ M̌	m2
 𧑜	bi1
 鵧	bi1
 咨	tsy1
-資	tsy1
+資	tsy1	1000
 粢	tsy1
 𪗉	tsy1
 𪗋	tsy1
@@ -2961,15 +2966,15 @@ M̌	m2
 𤸬	sei1
 惟	yu1
 𣄧	yu1
-維	yu1
-遺	yu1{遺失，遺漏}
+維	yu1	1000
+遺	yu1{遺失，遺漏}	1000
 濰	yu1
 壝	yu1
 𥌰	yu1
 蓶	yu1
 䜅	yu1
 琟	yu1
-唯	yu1{唯獨}
+唯	yu1{唯獨}	1000
 𧔥	yu1
 㶟	liu1
 纍	liu1
@@ -3098,7 +3103,7 @@ M̌	m2
 䐅	hi1
 𣢂	hi1
 #屎	hi1
-之	tsy1
+之	tsy1	800
 臸	tsy1
 芝	tsy1
 㞢	tsy1
@@ -3298,10 +3303,10 @@ M̌	m2
 譩	i1
 㿄	i1
 噫	i1
-癡	tshy1
+癡	tshy1	1000
 齝	tshy1
 笞	tshy1
-痴	tshy1
+痴	tshy1	1000
 #治	dzy1
 持	dzy1
 #莉	dzy1	0.0001%
@@ -3359,7 +3364,7 @@ M̌	m2
 幃	yu1
 韋	yu1
 闈	yu1
-圍	yu1
+圍	yu1	1000
 䙟	yu1
 𩎯	yu1
 違	yu1
@@ -3534,11 +3539,11 @@ M̌	m2
 䆽	gei1
 𧝔	gei1
 懅	gei1
-余	yi1
+余	yi1	1000
 蜍	yi1
 藇	yi1
 㶛	yi1
-餘	yi1
+餘	yi1	1000
 輿	yi1
 旟	yi1
 鵌	yi1
@@ -3627,9 +3632,9 @@ M̌	m2
 箊	ei1
 #淤	ei1
 唹	ei1
-豬	tsy1
+豬	tsy1	1000
 䐗	tsy1
-猪	tsy1
+猪	tsy1	1000
 瀦	tsy1
 櫫	tsy1
 藸	tsy1
@@ -4587,7 +4592,7 @@ M̌	m2
 㡗	hi1
 橀	hi1
 忚	hi1
-西	si1
+西	si1	1000
 卤	si1
 𠧧	si1
 棲	si1
@@ -8224,7 +8229,7 @@ M̌	m2
 怚	tsia1
 𣩈	tsia1
 䦈	tsia1
-蛇	zhio1
+蛇	zhio1	1000
 虵	zhio1
 荼	zhio1
 華	wo1{華夏}
@@ -8244,8 +8249,8 @@ M̌	m2
 蝸	kuo1
 媧	kuo1
 㧓	kuo1
-華	huo1{龍華}	1%
-花	huo1
+華	huo1{龍華；法華鎮}	1%
+花	huo1	1000
 譁	huo1
 𧪮	huo1
 誇	khuo1
@@ -11443,9 +11448,9 @@ M̌	m2
 𦂌	pong2
 傋	hong2
 𢞡	hong2
-紙	tsy2
+紙	tsy2	1000
 帋	tsy2
-只	tsy2
+只	tsy2	1000
 坻	tsy2
 軹	tsy2
 枳	tsy2
@@ -11582,7 +11587,7 @@ M̌	m2
 蕊	niu2
 甤	niu2
 繠	niu2
-此	tshy2
+此	tshy2	1000
 跐	tshy2
 佌	tshy2
 玼	tshy2
@@ -11657,7 +11662,7 @@ M̌	m2
 㥝	mi2
 婢	bi2
 庳	bi2
-侈	tshy2
+侈	tshy2	100
 姼	tshy2
 𡚼	tshy2
 鉹	tshy2
@@ -11735,8 +11740,8 @@ M̌	m2
 菙	zhiu2
 㥨	zhiu2
 枳	ki2
-旨	tsy2
-指	tsy2
+旨	tsy2	300
+指	tsy2	1000
 恉	tsy2
 #祁	tsy2
 䛗	tsy2
@@ -11876,7 +11881,7 @@ M̌	m2
 跽	gi2
 巋	khiu2
 蘬	khiu2
-止	tsy2
+止	tsy2	1000
 畤	tsy2
 沚	tsy2
 洔	tsy2
@@ -11899,9 +11904,9 @@ M̌	m2
 己	ki2
 妀	ki2
 𠮯	ki2
-以	yi2
+以	yi2	1000
 㠯	yi2
-已	yi2
+已	yi2	1000
 苡	yi2
 苢	yi2
 佁	yi2
@@ -11975,9 +11980,9 @@ M̌	m2
 𥾩	zy2
 𥏳	zy2
 𢓪	zy2
-子	tsy2
+子	tsy2	500
 㜽	tsy2
-仔	tsy2
+仔	tsy2	300
 虸	tsy2
 耔	tsy2
 秄	tsy2
@@ -11991,9 +11996,9 @@ M̌	m2
 孴	ngi2	1000
 譺	ngi2	1000
 𥣖	ngi2	1000
-齒	tshy2
+齒	tshy2	1000
 䊼	tshy2
-恥	tshy2
+恥	tshy2	400
 祉	tshy2
 褫	tshy2
 㓼	tshy2
@@ -12111,7 +12116,7 @@ M̌	m2
 羜	dzy2
 宁	dzy2
 眝	dzy2
-與	yi2{與虎謀皮，與人為善；連詞、介詞}
+與	yi2{與虎謀皮，與人為善；連詞、介詞}	1000
 与	yi2
 𢌱	yi2
 歟	yi2
@@ -12245,7 +12250,7 @@ M̌	m2
 噳	ngiu2	1000
 羽	yu2
 禹	yu2
-雨	yu2{陰雨}
+雨	yu2{陰雨}	1000
 宇	yu2
 㝢	yu2
 瑀	yu2
@@ -14062,7 +14067,7 @@ M̌	m2
 㡑	tsiao2
 𧂈	tsiao2
 ###效三
-小	siau2
+小	siau2	1000
 𩵖	siau2
 䒕	siau2
 肈	jiau2
@@ -14578,7 +14583,7 @@ M̌	m2
 䂳	tshou2
 硰	tsou2
 馬	mo2
-碼	mo2
+碼	mo2	1000
 䣕	mo2
 #罵	mo2
 𥧓	mo2
@@ -14589,7 +14594,7 @@ M̌	m2
 #堵	cio2
 野	ya2
 𡐨	ya2
-也	ya2
+也	ya2	500
 冶	ya2
 虵	ya2
 雅	ngo2	1000
@@ -14628,7 +14633,7 @@ M̌	m2
 㗿	ho2
 閜	ho2
 襾	ho2
-社	zhio2
+社	zhio2	1000
 𥁹	zhio2
 𣝒	zhio2
 跒	kho2
@@ -15026,7 +15031,7 @@ M̌	m2
 杏	ghang2
 莕	ghang2
 荇	ghang2
-猛	mang2
+猛	mang2	1000
 𥋝	mang2
 蜢	mang2
 艋	mang2
@@ -15847,7 +15852,7 @@ M̌	m2
 䌞	lie2
 㰈	lie2
 㯬	lie2
-險	hie2
+險	hie2	1000
 獫	hie2
 玁	hie2
 㛍	hie2
@@ -16297,7 +16302,7 @@ M̌	m2
 㧘	gi3
 汥	gi3
 䛋	gi3
-刺	tshy3
+刺	tshy3	1000
 刾	tshy3
 㢀	tshy3
 朿	tshy3
@@ -16307,7 +16312,7 @@ M̌	m2
 庛	tshy3
 蛓	tshy3
 䛋	tshy3
-易	yi3{容易}
+易	yi3{容易}	1000
 㑥	yi3
 貤	yi3	80%
 伿	yi3
@@ -16329,7 +16334,7 @@ M̌	m2
 髊	zy3
 骴	zy3
 胔	zy3
-智	tsy3
+智	tsy3	1000
 𣉻	tsy3
 潪	tsy3
 #倚	i3
@@ -16408,7 +16413,7 @@ M̌	m2
 孈	hiu3
 㞆	khi3
 掎	khi3
-至	tsy3
+至	tsy3	1000
 摯	tsy3
 贄	tsy3
 鷙	tsy3
@@ -16421,7 +16426,7 @@ M̌	m2
 𩊞	tsy3
 𢄢	tsy3
 𡠗	tsy3
-位	yu3
+位	yu3	1000
 郿	mi3
 媚	mi3
 魅	mi3
@@ -16565,7 +16570,7 @@ M̌	m2
 屁	phi3
 䊧	phi3
 劓	ngi3	1000
-致	tsy3
+致	tsy3	1000
 懫	tsy3
 疐	tsy3
 𢷟	tsy3
@@ -16637,7 +16642,7 @@ M̌	m2
 髶	ni3
 恣	tsy3
 𣣌	tsy3
-次	tshy3
+次	tshy3	1000
 䳐	tshy3
 佽	tshy3
 䰍	tshy3
@@ -16780,7 +16785,7 @@ M̌	m2
 茡	zy3
 芓	zy3
 孖	zy3
-眙	tshy3{直視也}
+眙	tshy3{直視也}	700
 佁	tshy3
 䰡	tshy3
 𦥊	tshy3
@@ -16808,9 +16813,9 @@ M̌	m2
 𩰢	sy3
 𨽄	sy3
 𥥥	sy3
-廁	tshy3
-異	yi3
-异	yi3
+廁	tshy3	1000
+異	yi3	1000
+异	yi3	1000
 潩	yi3
 食	yi3	1%
 #已	yi3
@@ -16871,8 +16876,8 @@ M̌	m2
 貴	kiu3
 瞶	kiu3
 𠐽	kiu3
-胃	yu3
-謂	yu3
+胃	yu3	1000
+謂	yu3	500
 㥜	yu3
 媦	yu3
 𦩝	yu3
@@ -17080,8 +17085,8 @@ M̌	m2
 #茹	ni3
 #如	ni3
 豫	yi3
-預	yi3
-譽	yi3
+預	yi3	1000
+譽	yi3	1000
 礜	yi3
 𩦡	yi3
 輿	yi3
@@ -17096,7 +17101,7 @@ M̌	m2
 忬	yi3
 歟	yi3
 悇	yi3
-與	yi3{參與，與會；動詞}
+與	yi3{參與，與會；動詞}	1000
 澦	yi3
 𡒊	yi3
 噓	hei3
@@ -17183,7 +17188,7 @@ M̌	m2
 䘱	yu3
 覦	yu3
 諭	yu3
-喻	yu3
+喻	yu3	500
 籲	yu3
 𠕦	yu3
 孺	niu3
@@ -17222,7 +17227,7 @@ M̌	m2
 埧	giu3
 臞	giu3
 芋	yu3
-雨	yu3{動詞，下雨雪，古漢語音}	0.01%
+雨	yu3{動詞，下雨雪，古漢語音}	1%
 #羽	yu3
 䨒	yu3
 吁	yu3
@@ -17510,7 +17515,7 @@ M̌	m2
 䏅	tshi3
 䀙	tshi3
 𦕀	tshi3
-細	si3
+細	si3	1000
 𥿳	si3
 #些	si3
 栖	si3
@@ -17678,7 +17683,7 @@ M̌	m2
 櫘	siu3
 𦄑	siu3
 繐	siu3
-衛	yu3
+衛	yu3	1000
 軎	yu3
 轊	yu3
 璏	yu3
@@ -20122,7 +20127,7 @@ M̌	m2
 臥	ngou3	1000
 諎	tshou3
 𢯽	tshou3
-貨	hou3
+貨	hou3	1000
 #惰	dou3
 媠	dou3
 𧝍	dou3
@@ -20255,7 +20260,7 @@ M̌	m2
 騇	shio3
 涻	shio3
 厙	shio3
-射	zhio3{射擊}
+射	zhio3{射擊}	1000
 䠶	zhio3
 麝	zhio3
 貰	zhio3
@@ -20275,7 +20280,7 @@ M̌	m2
 樺	wo3
 鱯	wo3
 檴	wo3
-化	huo3
+化	huo3	1000
 𠤎	huo3
 諣	huo3
 𩲏	huo3
@@ -23476,7 +23481,7 @@ M̌	m2
 𠷑	phoeh
 侻	thoeh
 挩	thoeh
-脫	thoeh
+脫	thoeh	1000
 莌	thoeh
 梲	thoeh
 捋	loeh
@@ -25099,7 +25104,7 @@ M̌	m2
 襀	tsiek
 䃊	tsiek
 庴	tsiek
-益	iek
+益	iek	1000
 謚	iek
 嗌	iek
 𨜶	iek
@@ -25109,21 +25114,21 @@ M̌	m2
 𪕶	iek
 繹	yek
 睪	yek
-亦	yek
+亦	yek	1000
 弈	yek
 奕	yek
 帟	yek
-譯	yek
+譯	yek	1000
 懌	yek
 斁	yek
-驛	yek
+驛	yek	1000
 嶧	yek
 醳	yek
-腋	yek
+腋	yek	1000
 掖	yek
 䘸	yek
-易	yek{易經，世易時移；姓氏}
-液	yek
+易	yek{易經，世易時移；姓氏}	1000
+液	yek	1000
 痬	yek
 蜴	yek
 埸	yek
@@ -25813,7 +25818,7 @@ M̌	m2
 㔹	lek
 阞	lek
 竻	lek
-忒	thek
+忒	thek	1000
 㧹	thek
 慝	thek
 貣	thek
@@ -26981,7 +26986,7 @@ M̌	m2
 菠	pou1
 圾	seh
 芯	sing1
-粗	tshu1
+粗	tshu1	1000
 #污	u3
 喂	iu3
 餵	iu3
