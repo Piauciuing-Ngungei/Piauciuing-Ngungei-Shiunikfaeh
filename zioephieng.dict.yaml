@@ -33,11 +33,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.11-auao
+# 版本號：24.8.12-auao
 
 ---
 name: zioephieng
-version:	"2024.8.11"
+version:	"2024.8.12"
 sort: by_weight
 #columns:    #
   #- code    # 編碼
@@ -5110,7 +5110,7 @@ M̌	m2
 溨	zai1
 鼒	zai1
 𦬁	zai1
-來	lai1
+來	lai1	1000
 萊	lai1
 郲	lai1
 騋	lai1
@@ -7172,7 +7172,7 @@ M̌	m2
 #邀	kiao1
 蟂	kiao1
 徼	kiao1
-聊	liao1
+聊	liao1	1000
 𦗖	liao1
 膋	liao1
 膫	liao1
@@ -7715,7 +7715,7 @@ M̌	m2
 䣗	kau1
 勞	lau1
 #澇	lau1
-牢	lau1
+牢	lau1	1000
 窂	lau1
 簩	lau1
 䝁	lau1
@@ -14001,7 +14001,7 @@ M̌	m2
 𧜣	tiao2
 䄪	tiao2
 𠄏	tiao2
-了	liao2
+了	liao2	1000
 蓼	liao2
 瞭	liao2
 镽	liao2
@@ -14278,7 +14278,7 @@ M̌	m2
 𥢑	ghau2
 滈	ghau2
 抱	bau2
-老	lau2
+老	lau2	1000
 䝤	lau2
 #獠	lau2
 轑	lau2
@@ -17024,7 +17024,7 @@ M̌	m2
 䏣	tshi3
 蜡	tshi3
 㰦	khei3
-去	khei3{來去；離也}
+去	khei3{來去；離也}	1000
 麮	khei3
 呿	khei3
 鼁	khei3
@@ -19708,7 +19708,7 @@ M̌	m2
 𩕐	liao3
 尥	liao3
 嫽	liao3
-料	liao3
+料	liao3	1000
 嘹	liao3
 鐐	liao3
 璙	liao3
@@ -26900,14 +26900,14 @@ M̌	m2
 颳	kuaeh
 崑	kueng1
 棍	kueng3
-在	lai2
+在	lai2	1000
 #在	lai3
 攔	laeh
 喇	laeh
 㟹	lau1
 憦	lau3
-佬	lau2
-咾	lau2
+佬	lau2	1000
+咾	lau2	1000
 擂	lei3
 垃	leh
 疁	leu1
