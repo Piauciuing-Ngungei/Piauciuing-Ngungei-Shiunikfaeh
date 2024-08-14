@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.2
+# 版本號：24.8.14
 
 ---
 name: zioephieng.thaicieu
-version:	"2024.8.2"
+version:	"2024.8.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -41,6 +41,11 @@ use_preset_vocabulary: true
 解昶
 過昶
 過脫昶
+
+死卵釘秤
+死釘
+死釘板
+老爺眼
 
 #台州土白詞彙
 
@@ -872,6 +877,12 @@ use_preset_vocabulary: true
 數弗遍
 單只
 真式
+河江
+成人長大
+穢污
+習練
+哀悲
+鮮新
 
 #三門吳語
 
