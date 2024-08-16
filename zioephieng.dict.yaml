@@ -33,11 +33,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.15-auao
+# 版本號：24.8.16-auao
 
 ---
 name: zioephieng
-version:	"2024.8.15"
+version:	"2024.8.16"
 sort: by_weight
 #columns:    #
   #- code    # 編碼
@@ -193,11 +193,15 @@ M̌	m2
 #M̀	m5
 
 □	khung3	0.01%
-  
+
+𨒼	keng2
+㮓	keng3
+哏	keng1
+亘	keng3
 釃	sa1
 釃	sa2
-梯	thai1	20%
-謎	mei3	30%
+梯	thai1	2%
+謎	mei3	5%
 倓	the2
 𤄥	theh
 魆	hiuik
@@ -1262,7 +1266,7 @@ M̌	m2
 拉	la1
 㑚	na3
 外	nga3	1000
-上	long3
+上	long3	900
 是	zek
 蝤	yeu1
 魷	yeu1
@@ -11901,13 +11905,13 @@ M̌	m2
 市	zy2	1000
 恃	zy2
 畤	zy2
-徵	tsy2{宫商角徵羽}	10%
+徵	tsy2{宫商角徵羽}	5%
 𧩼	tsy2
 㨖	tsy2
 喜	hi2	1000
 憙	hi2
 蟢	hi2
-紀	ki2{姓氏}	10%
+紀	ki2{姓氏}	5%
 己	ki2
 妀	ki2
 𠮯	ki2
@@ -12238,7 +12242,7 @@ M̌	m2
 𨣦	zi2
 𥎗	zi2
 𡱣	zi2
-去	khei2{去婦；休妻也。棄也除也}	10%
+去	khei2{去婦；休妻也。棄也除也}	1%
 麮	khei2
 弆	khei2
 𧉧	khei2
@@ -13068,7 +13072,7 @@ M̌	m2
 偆	chiuing2
 僢	chiuing2
 𢾎	chiuing2
-盾	zhiuing2{該讀音見於溫州}	20%
+盾	zhiuing2{該讀音見於溫州}	10%
 揗	zhiuing2
 吮	zhiuing2
 楯	zhiuing2
@@ -13797,7 +13801,7 @@ M̌	m2
 墠	zhie2
 鱓	zhie2
 蟺	zhie2
-單	zhie2{姓氏}	10%
+單	zhie2{姓氏}	5%
 僐	zhie2
 鄯	zhie2
 墡	zhie2
@@ -16733,7 +16737,7 @@ M̌	m2
 墜	jiu3	1000
 懟	jiu3
 #鎚	jiu3
-出	chiu3{非自出而出之則去聲。}	15%
+出	chiu3{非自出而出之則去聲。}	10%
 遺	yu3{饋贈，古漢語音}	1%
 𤀷	yu3
 𢣘	yu3
@@ -20399,7 +20403,7 @@ M̌	m2
 嶂	ciang3
 瘴	ciang3
 尚	zhiang3
-上	zhiang3{天上，上旬，君上；名詞}	1000
+上	zhiang3{天上，上旬，君上；名詞}	800
 丄	zhiang3
 #償	zhiang3
 壯	tsong3	1000
@@ -21263,7 +21267,7 @@ M̌	m2
 鏨	zae3
 擔	tae3{重擔}	1000
 甔	tae3
-三	sae3{再三，三思；副詞} 10%
+三	sae3{再三，三思；副詞}	5%
 豔	ye3
 艷	ye3
 爓	ye3
@@ -26368,7 +26372,7 @@ M̌	m2
 䈉	tsieh
 攝	shieh	1000
 灄	shieh
-葉	shieh{葉縣，葉公好龍}	30%
+葉	shieh{葉縣，葉公好龍}	5%
 歙	shieh	300
 欇	shieh
 𥍉	shieh

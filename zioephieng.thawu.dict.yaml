@@ -2592,8 +2592,8 @@ use_preset_vocabulary: true
 三家村
 三度空間
 三座大山
-三思而後行
-三思而行
+三思而後行	sae3 sy1 ni1 gheu2 ghang1
+三思而行	sae3 sy1 ni1 ghang1
 三教
 三教九流
 三日
@@ -23735,7 +23735,7 @@ use_preset_vocabulary: true
 沒想過
 沒意兒
 沒意志
-沒意思
+沒意思	mek i3 sy3
 沒感覺
 沒慢
 沒戲
@@ -40732,7 +40732,7 @@ use_preset_vocabulary: true
 三金
 三青四綠
 三則
-三思
+三思	sae3 sy1
 三春天
 三春頭
 三院
@@ -40788,7 +40788,6 @@ use_preset_vocabulary: true
 上出
 上北
 上半日
-上去
 上可
 上四
 上本
@@ -57891,7 +57890,7 @@ use_preset_vocabulary: true
 啥所在
 啥戶場
 啥場許
-啥意思
+啥意思	sa1 i3 sy3
 啥歌
 啥網址
 啥體
@@ -62274,7 +62273,7 @@ use_preset_vocabulary: true
 落蘇	lok su1	1000
 落露水
 葉子
-葉公好龍
+葉公好龍	shieh kung1 hau3 lung1
 葉片
 葉多
 葉尖
@@ -62302,7 +62301,7 @@ use_preset_vocabulary: true
 葉蝶
 葉輪
 葉樹
-葉縣
+葉縣	shieh yoe3
 葉縫
 葉鞘
 葉叢
@@ -63322,8 +63321,8 @@ use_preset_vocabulary: true
 意甲
 意見
 意念
-意思
-意思意思
+意思	i3 sy3
+意思意思	i3 sy3 i3 sy3
 意根
 意動
 意爲
@@ -73095,7 +73094,6 @@ use_preset_vocabulary: true
 # 萬俟
 萬衆
 # 落泊
-# 葉公好龍
 葉巖
 葉茂
 葉韻
@@ -86304,7 +86302,6 @@ use_preset_vocabulary: true
 外頭
 邊都
 角落頭
-上去
 落來
 進去
 出來
@@ -91287,3 +91284,7 @@ Canteen	khae1 thieng1
 
 釃茶
 釃酒
+
+上去	zhiang2 khei3
+平上去入	bieng1 zhiang2 khei3 nik
+再三	tsai3 sae3
