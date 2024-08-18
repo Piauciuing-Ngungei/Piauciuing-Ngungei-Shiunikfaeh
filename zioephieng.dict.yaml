@@ -194,6 +194,10 @@ M̌	m2
 
 □	khung3	0.01%
 
+𧛿	liek
+探	te1
+𣀻	zhiuk
+𢷹	jie2
 𨒼	keng2
 㮓	keng3
 哏	keng1
@@ -663,13 +667,13 @@ M̌	m2
 #訪	fong2
 嘴	tsy2	1000
 膛	dong1
-擋	tong2
-檔	tong3
-探	the3
+擋	tong2	1000
+檔	tong3	1000
+探	the3	1000
 若	nia2{般若}
 悳	tek
 杆	koe2
-套	thau3
+套	thau3	1000
 紀	ki3{紀律}
 館	kuoe2
 算	soe3
@@ -10818,9 +10822,9 @@ M̌	m2
 䐶	tse1
 䍼	tse1
 鐕	tse1
-#探	the1
+探	the1	5%
 撢	the1
-貪	the1
+貪	the1	1000
 耽	te1
 #湛	te1
 眈	te1
