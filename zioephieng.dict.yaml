@@ -33,11 +33,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.16-auao
+# 版本號：24.8.19-auao
 
 ---
 name: zioephieng
-version:	"2024.8.16"
+version:	"2024.8.19"
 sort: by_weight
 #columns:    #
   #- code    # 編碼
@@ -63,6 +63,7 @@ import_tables:
   - zioephieng.yoehne #越南文
   - zioephieng.phrases #俗語
   - zioephieng.map #吳越地名
+  - zioephieng.seukeu #搜狗增補詞彙
 ...
 
 #附加字表
@@ -194,6 +195,159 @@ M̌	m2
 
 □	khung3	0.01%
 
+搡	song2
+搡	song3
+噝	sy1
+嗵	thung1
+烺	long2
+鶃	ngiek
+醾	mi1
+夐	hieng3
+垧	hiang3
+隉	ngiaeh
+蘗	pak
+騍	khou3
+瓎	laeh
+帡	bieng1
+恝	kaeh
+恝	ka3
+湦	sang1
+倸	tshai2
+矓	lung1
+溍	tsing3
+敱	ngai1
+狶	sy2
+狶	hi2
+鱨	zhiang1
+爮	bao1
+鶒	chiek
+懞	mung1
+蒈	kha2
+箎	hu2
+茐	tshung1
+曌	ciau3
+鉥	zhiuik
+舺	kaeh
+趓	tou2
+蒍	yu2
+麯	khiuk
+薝	cie1
+壖	nioe1
+懭	khuong2
+懭	khuong3
+沍	wu3
+艓	diaeh
+惓	gioe3
+僴	kae2
+蚾	bi1
+蚾	pou1
+屭	hi3
+砆	fu1
+鷠	ngei1
+蠨	siao1
+鏁	sou2
+䴋	wae1
+䴉	wae1
+鸊	piek
+堿	ghae1
+惝	tshiang2
+惝	thong2
+牾	ngu1
+亓	gi1
+齠	diao1
+嵺	liao1
+冏	kioeng2
+鶗	di1
+衚	wu1
+岊	ziaeh
+岊	tsiaeh
+睃	tsiuing3
+皞	ghau2
+鋣	ya1
+匼	e2
+匼	eh
+梘	kiae2
+獴	mung1
+唼	tseh
+唼	tshieh
+唼	saeh
+佣	yung1
+愫	su3
+噼	phiek
+崁	khe3
+岞	zok
+堎	lieng1
+郄	khiek
+驏	zae2
+党	tong2{党項}
+潨	zung1
+潨	ciung1
+奩	lie1
+嗏	tsho1
+仫	mek
+蚋	nioeh
+蚋	niu3
+緡	ming1
+婨	liuing1
+朘	tsioe1
+稛	khueng2
+暌	khuei1
+觫	suk
+葯	iak
+偢	tshieu1
+塬	ngioe1
+峁	mao2
+脺	tshioeh
+脺	tshiu3
+捵	thiae2
+瘈	ki3
+跩	zhi3
+鍃	huek
+唿	huek
+肐	khik
+旯	lok
+旮	kok
+俥	chio1
+礞	mung1
+哐	khiong1
+佧	kha2
+熳	mae3
+敧	ki2
+敧	ki1
+秖	tsy1
+萷	siao1
+嵂	liuik
+夼	khuong3
+忺	hie1
+猧	ou1
+榿	khi1
+姮	gheng1
+揶	ya1
+腖	tung3
+咲	siau3
+珅	shing1
+磙	kueng2
+搐	chiuk
+齙	bao1
+鷳	ghae1
+醣	dong1
+岜	po1
+卮	tsy1
+絏	sieh
+縲	liu1
+嵴	tsiek
+柺	kua2
+柺	ga2
+簌	suk
+朐	hiu1
+鴃	kioeh
+檑	lei1
+檑	lei3
+阨	ak
+嘢	ya1
+鋮	zhieng1
+腙	tsung1
+壢	liek
 𧛿	liek
 探	te1
 𣀻	zhiuk
