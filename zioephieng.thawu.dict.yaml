@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.15
+# 版本號：24.8.20
 
 ---
 name: zioephieng.thawu
-version:	"2024.8.15"
+version:	"2024.8.20"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2138,7 +2138,8 @@ use_preset_vocabulary: true
 鑲的
 鑽隻
 鑽隻洞
-長弗大
+長弗大	ciang2 vek dou3
+長弗大	ciang2 fek dou3
 門牌號頭
 閃在
 閉在
@@ -2350,7 +2351,7 @@ use_preset_vocabulary: true
 一忽兒
 一意孤行
 一手兒
-一技之長
+一技之長	ik gi2 tsy1 jiang1
 一把死拿兒
 一把辛酸淚
 一拉
@@ -2391,8 +2392,8 @@ use_preset_vocabulary: true
 一汽大衆
 一流人才
 一溜兒
-一無所長
-一無長物
+一無所長	ik mu1 su2 jiang1
+一無長物	ik mu1 jiang1 mek
 一片狼藉
 一物降一物
 一班人
@@ -2457,8 +2458,8 @@ use_preset_vocabulary: true
 一銃子性兒
 一錘子買賣
 一錘定音
-一長
-一長一短
+一長	ik jiang1
+一長一短	ik jiang1 ik toe2
 一間
 一隻貓
 一集
@@ -3456,7 +3457,7 @@ use_preset_vocabulary: true
 中間色
 中間路線
 中間體
-中隊長
+中隊長	ciung1 dei3 ciang2
 中集
 中非國家
 串上去
@@ -5290,7 +5291,7 @@ use_preset_vocabulary: true
 伴姑兒
 伸手不打笑面人
 伸手不見五指
-伸長
+伸長	shing1 jiang1
 似曾
 似曾相識
 似鳥
@@ -6355,7 +6356,7 @@ use_preset_vocabulary: true
 元雜劇
 兄弟二人
 兄弟兩人
-兄長
+兄長	hioeng1 ciang2
 充分
 充分利用
 充分就業
@@ -7992,26 +7993,26 @@ use_preset_vocabulary: true
 副交感神經
 副團長
 副官處長
-副局長
-副州長
-副市長
-副廠長
-副所長
+副局長	feu3 giuk ciang2
+副州長	feu3 cieu2 ciang2
+副市長	feu3 zy2 ciang2
+副廠長	feu3 chiang2 ciang2
+副所長	feu3 su2 ciang2
 副教授
-副會長
-副校長
-副班長
-副理事長
-副省長
-副社長
-副祕書長
-副組長
-副縣長
-副董事長
-副處長
-副議長
-副部長
-副院長
+副會長	feu3 wei3 ciang2
+副校長	feu3 ghao3 ciang2
+副班長	feu3 pae1 ciang2
+副理事長	feu3 li2 zy3 ciang2
+副省長	feu3 sang2 ciang2
+副社長	feu3 zhio2 ciang2
+副祕書長	feu3 pi3 shy1 ciang2
+副組長	feu3 tsu2 ciang2
+副縣長	feu3 yoe3 ciang2
+副董事長	feu3 tung2 zy3 ciang2
+副處長	feu3 chy3 ciang2
+副議長	feu3 ngi3 ciang2
+副部長	feu3 bu2 ciang2
+副院長	feu3 yoe3 ciang2
 割了
 割去
 割席絕交
@@ -13443,7 +13444,7 @@ use_preset_vocabulary: true
 大陸漂移
 大陸話
 大陸貨
-大隊長
+大隊長	da3 dei3 ciang2
 大險
 大隻
 大雁
@@ -15391,7 +15392,7 @@ use_preset_vocabulary: true
 小間
 小阿姨
 小隊人馬
-小隊長
+小隊長	siau2 dei3 ciang2
 小雁
 小集團
 小雛兒
@@ -15568,8 +15569,8 @@ use_preset_vocabulary: true
 局內人
 局副局長
 局外人
-局局長
-局長
+局局長	giuk giuk ciang2
+局長	giuk ciang2
 屁滾尿流
 屁眼兒
 居世界
@@ -15693,7 +15694,7 @@ use_preset_vocabulary: true
 巔峯狀態
 川大
 州立大學
-州長
+州長	cieu1 ciang2
 巡更
 巡行
 巡迴大使
@@ -15955,7 +15956,7 @@ use_preset_vocabulary: true
 市盈率
 市衛生局
 市賈
-市長
+市長	zy2 ciang2
 市長盃
 布什爾
 布什爾省
@@ -16076,7 +16077,7 @@ use_preset_vocabulary: true
 師範學校
 師範教育
 師範生
-師長
+師長	sy1 ciang2
 席哈克
 席間
 帶了
@@ -16320,7 +16321,7 @@ use_preset_vocabulary: true
 底牌
 庖丁解牛
 店小二
-店長
+店長	tiae3 ciang2
 庚日
 府學
 庠生
@@ -16386,8 +16387,8 @@ use_preset_vocabulary: true
 廠家
 廠家直銷
 廠牌
-廠長
-廠長負責制
+廠長	chiang2 ciang2
+廠長負責制	chiang2 ciang2 veu2 tsak ci3
 廢了
 廢人
 廢品率
@@ -16422,11 +16423,11 @@ use_preset_vocabulary: true
 延緩執行
 延邊大學
 延邊朝鮮族自治州
-延長
-延長線
-延長縣
+延長	ye1 jiang1
+延長線	ye1 jiang1 sie3
+延長縣	ye1 jiang1 yoe3
 廷爭面折
-廷長
+廷長	dieng1 ciang2
 建交
 建國中學
 建國大綱
@@ -16687,8 +16688,8 @@ use_preset_vocabulary: true
 很生氣
 很自然
 很貴
-很長
-很長時間
+很長	gheng2 jiang1
+很長時間	gheng2 jiang1 zy1 kae1
 後世
 後人乘涼
 後任
@@ -17449,7 +17450,7 @@ use_preset_vocabulary: true
 成人高考
 成個兒
 成倍增加
-成倍增長
+成倍增長	zhieng1 bei2 tseng1 ciang2
 成兒
 成分
 成副兒
@@ -17766,8 +17767,8 @@ use_preset_vocabulary: true
 打通兒
 打野盤兒
 打錢兒的
-打長工
-打長途
+打長工	tang2 jiang1 kung1
+打長途	tang1 jiang1 du1
 打雙關兒透
 打雜
 打雪仗
@@ -18120,7 +18121,7 @@ use_preset_vocabulary: true
 抽咽
 抽問
 抽時間
-抽長
+抽長	chieu1 jiang1
 抽鼻兒
 拄拐棍兒的孫子
 拆了
@@ -18380,8 +18381,10 @@ use_preset_vocabulary: true
 拉鍊
 拉鍊工程
 拉鎖
-拉長
-拉長臉
+拉長	leh jiang1
+拉長臉	leh jiang1 lae2
+拉長	la1 jiang1
+拉長臉	la1 jiang1 lae2
 拉門
 拉開
 拉閘
@@ -20895,7 +20898,7 @@ use_preset_vocabulary: true
 時至今日
 時行
 時變率
-時長
+時長	zy1 jiang1
 時間
 時間內
 時間區間
@@ -21427,7 +21430,7 @@ use_preset_vocabulary: true
 會計分錄
 會計學
 會過去
-會長
+會長	wei3 ciang2
 會長團
 會集
 月下老人
@@ -26028,7 +26031,7 @@ use_preset_vocabulary: true
 琅邪臺刻石
 理一個髮
 理了
-理事長
+理事長	li2 zy3 ciang2
 理你
 理個
 理個髮
@@ -26947,12 +26950,12 @@ use_preset_vocabulary: true
 痴呆懵懂
 痴呆症
 瘋了
-瘋長
+瘋長	fung1 ciang2
 瘢兒
 瘦了
 瘦小枯乾
 瘦瘦長長
-瘦長
+瘦長	seu3 jiang1
 癟三兒
 癡呆
 癡呆症
@@ -27137,7 +27140,7 @@ use_preset_vocabulary: true
 百口莫辯
 百嗎兒
 百團大戰
-百夫長
+百夫長	pak fu1 ciang2
 百家
 百家姓
 百家樂
@@ -27365,7 +27368,7 @@ use_preset_vocabulary: true
 直了
 直交
 直傳
-直屬長官
+直屬長官	jiek zhiuk jiang1 kuoe1
 直心眼兒
 直情徑行
 直截了當
@@ -27451,7 +27454,7 @@ use_preset_vocabulary: true
 省教育廳
 省衛生廳
 省親
-省長
+省長	sang2 ciang2
 眉來眼去
 眉兒眼兒
 眉分八彩
@@ -27915,7 +27918,7 @@ use_preset_vocabulary: true
 磨時間
 礤牀兒
 礦物學
-礦長
+礦長	kuang2 ciang2
 示人
 示威遊行
 示範學校
@@ -27963,7 +27966,7 @@ use_preset_vocabulary: true
 社會責任
 社會階級
 社運人士
-社長
+社長	zhio2 ciang2
 祈望
 祕傳
 祕書長
@@ -28192,7 +28195,7 @@ use_preset_vocabulary: true
 科莫多龍
 科迪勒拉
 科迪勒拉山系
-科長
+科長	khou1 ciang2
 租了
 租借人
 租出去
@@ -28391,7 +28394,7 @@ use_preset_vocabulary: true
 站個
 站櫃檯
 站牌
-站長
+站長	dzae3 ciang2
 竟日
 竟自
 竟被
@@ -29008,7 +29011,7 @@ use_preset_vocabulary: true
 細菌學
 細行
 細部分解
-細長
+細長	si3 jiang1
 紹莫吉州
 終了
 終伏
@@ -29035,7 +29038,7 @@ use_preset_vocabulary: true
 組織架構
 組織生活
 組織部長
-組長
+組長	tsu2 ciang2
 結了
 結了婚
 結交
@@ -29299,7 +29302,7 @@ use_preset_vocabulary: true
 練個
 縊死
 縣差
-縣長
+縣長	yoe3 ciang2
 縫了
 縫個
 縫兒
@@ -30135,7 +30138,7 @@ use_preset_vocabulary: true
 股權分置
 股票交易
 股票交易所
-股長
+股長	ku2 ciang2
 股集資
 肥了
 肥分
@@ -30393,7 +30396,7 @@ use_preset_vocabulary: true
 腹背
 腹背受敵
 腹部絞痛
-腿長
+腿長	thei2 jiang1
 膀大腰圓
 膀子
 膀胱
@@ -31385,13 +31388,13 @@ use_preset_vocabulary: true
 船政大臣
 船政學堂
 船邊交貨價
-船長
-船長室
+船長	zhioe1 ciang2
+船長室	zhioe1 ciang2 shik
 艇甲板
-艇長
+艇長	dieng2 ciang2
 艦尾
 艦日
-艦長
+艦長	khae2 ciang2
 良家
 良家女子
 良家婦女
@@ -31913,8 +31916,8 @@ use_preset_vocabulary: true
 葡萄乾
 葡萄乾兒
 葡萄牙人
-董事長
-董事長兼
+董事長	tung2 zy3 ciang2
+董事長兼	tung2 zy3 ciang2 kiae1
 葦眉子
 葫蘆兒
 葬埋
@@ -32680,7 +32683,7 @@ use_preset_vocabulary: true
 行銷費用
 行鍼
 行鍼走線
-行長
+行長	ghong1 ciang2
 行間
 行雲
 行雲流水
@@ -33976,19 +33979,19 @@ use_preset_vocabulary: true
 警覺到
 警覺心
 警覺性
-警長
+警長	kieng2 ciang2
 譫妄
 譯傳
 譯自
 議事日程
 議價空間
 議會鬥爭
-議長
-議長論短
+議長	ngi3 ciang2
+議長論短	ngi3 jiang1 leng3 toe2
 護人
 護國戰爭
 護士學校
-護士長
+護士長	wu3 zy2 ciang2
 護法戰爭
 護理學
 護理專科學校
@@ -34031,7 +34034,7 @@ use_preset_vocabulary: true
 變色易容
 變賣家產
 變速傳動
-變長
+變長	pie3 jiang1
 讒間
 讓人
 讓人家去說
@@ -34151,7 +34154,7 @@ use_preset_vocabulary: true
 貞節牌坊
 負分
 負利率
-負增長
+負增長	veu2 tseng1 ciang2
 負心人
 負才任氣
 負有責任
@@ -34594,7 +34597,7 @@ use_preset_vocabulary: true
 超聲診斷
 超自然
 超速行駛
-超長
+超長	chiau1 jiang1
 超階級
 超音速飛行
 超額認
@@ -34605,7 +34608,7 @@ use_preset_vocabulary: true
 越南戰爭
 越大
 越活越回去
-越長
+越長	yoeh ciang2
 趕一會兒
 趕了
 趕任務
@@ -34833,10 +34836,10 @@ use_preset_vocabulary: true
 身材高大
 身板兒
 身無分文
-身無長物
+身無長物	shing1 mu1 jiang1 mek
 身著
 身負重任
-身長
+身長	shing1 jiang1
 身體力行
 身體狀況
 身體部分
@@ -34863,7 +34866,7 @@ use_preset_vocabulary: true
 車號牌
 車行通道
 車行道
-車長
+車長	
 車馬人兒
 軋死
 軌道交通
@@ -36018,13 +36021,13 @@ use_preset_vocabulary: true
 部分地區
 部分組成
 部會首長
-部部長
-部長	bu ciang
-部長會
-部長會議
-部長級
-部長級會議
-部隊長
+部部長	bu2 bu2 ciang2
+部長	bu2 ciang2
+部長會	bu2 ciang2 wei3
+部長會議	bu2 ciang2 wei3 ngi3
+部長級	bu2 ciang2 kik
+部長級會議	bu2 ciang2 kik wei3 ngi3
+部隊長	bu2 dei3 ciang2
 郭子乾
 郵傳部
 郵差
@@ -36077,9 +36080,9 @@ use_preset_vocabulary: true
 鄰長
 酉牌時分
 酉陽土家族苗族自治縣
-酋長
-酋長制度
-酋長國
+酋長	zieu1 ciang2
+酋長制度	zieu1 ciang2 ci3 du3
+酋長國	zieu1 ciang2 kuek
 配了
 配分
 配對兒
@@ -36531,7 +36534,7 @@ use_preset_vocabulary: true
 鎮寧布依族苗族自治縣
 鎮民大會
 鎮江人
-鎮長
+鎮長	cing3 ciang2
 鏈傳動
 鏈鋸
 鏝兒
@@ -36585,404 +36588,409 @@ use_preset_vocabulary: true
 鑽個洞
 鑽兒
 鑽勁兒
-長一智
-長三角
-長三角經濟區
-長上
-長不大
-長世
-長久
-長久之計
-長久以來
+長一智	ciang2 ik tsy3
+長三角	jiang1 sae1 kok
+長三角經濟區	jiang1 sae1 kok kieng1 tsi3 khiu1
+長上	ciang2 zhiang2
+長不大	ciang2 fek dou3
+長世	jiang1 shi3
+長久	jiang1 kieu2
+長久之計	jiang1 kieu2 tsy1 ki3
+長久以來	jiang1 kieu2 yi2 lai1
 長了
-長亭
-長人
-長今
-長他人志氣滅自己威風
-長住
-長信
-長假
-長傳
-長兄
+長亭	jiang1 dieng1
+#長人
+長今	jiang1 kieng1
+長他人志氣滅自己威風	ciang2 thou1 ning1 tsy3 khi3 mieh zy3 ki2 iu1 fung1
+長住	jiang1 jiu3
+長信	jiang1 sing3
+長假	jiang1 ko3
+長傳	jiang1 jioe1
+長兄	jiang1 hioeng1
 長公
-長出
-長出來
-長刀
+長出	ciang2 chiuik
+長出來	ciang2 chiuik lai1
+長刀	jiang1 tau1
 長列
 長別
-長劍
-長勢
-長卷
+長劍	jiang1 kie3
+長勢	ciang2 shi3
+長卷	jiang1 kioe3
 長史
 長吁
 長吁短嘆
 長吏
-長君之惡
-長命
-長命富貴
-長命百歲
-長命鎖
-長嘆
-長嘆一聲
-長嘯
+長君之惡	ciang2 kiuing1 tsy1 ok
+長命	jiang1 mieng3
+長命富貴	jiang1 mieng3 fu3 kiu3
+長命百歲	jiang1 mieng3 pak siu3
+長命鎖	jiang1 mieng3 sou2
+長嘆	jiang1 thae3
+長嘆一聲	jiang1 thae3 ik shieng1
+長嘯	jiang1 siao3
 長圓
 長在
 長坂坡七進七出
 長垣
 長垣縣
-長城
-長城卡
-長城飯店
-長壽
-長壽區
-長壽牌
-長壽菸
-長夏
-長夜
-長夜漫漫
-長夜難明
-長大成人
+長城	jiang1 zhieng1
+長城卡	jiang1 zhieng1 kha2
+長城飯店	jiang1 zhieng1 vae3 tiae3
+長壽	jiang1 zhieu3
+長壽區	jiang1 zhieu3 khiu1
+長壽牌	jiang1 zhieu3 ba1
+長壽菸	jiang1 zhieu3 ei3
+長夏	jiang1 gho3
+長夜	jiang1 ya3
+長夜漫漫	jiang1 ya3 moe3 moe3
+長夜難明	jiang1 ya3 nae1 mieng1
+長大成人	ciang2 dou3 zhieng1 ning1
 長天
 長天老日
-長女
-長姊
-長媳
-長嫂如母
-長子
-長子的名份
+長女	ciang2 ni2
+長姊	ciang2 tsy2
+長媳	ciang2 siek
+長嫂如母	ciang2 sau2 ni1 meu2
+長子	ciang2 tsy2
+長子的名份	ciang2 tsy2 tiek mieng1 veng3
 長子縣
-長存
-長孫
-長孫女
-長孫無忌
-長安
-長安人
-長安區
-長安福特
-長安街
-長官
-長寧
-長寧區
-長寧縣
-長寬
-長射程
-長尾
-長尾巴
-長尾猴
-長尾猿
+長存	jiang1 zoeng1
+長孫	ciang2 soeng1
+長孫女	ciang2 soeng1 ni2
+長孫無忌	ciang2 soeng1 mu1 gi3
+長安	jiang1 oe1
+長安人	jiang1 oe1 ning1
+長安區	jiang1 oe1 khiu1
+長安福特	jiang1 oe1 fuk dek
+長安街	jiang1 oe1 ka1
+長官	jiang1 kuoe1
+長寧	jiang1 nieng1
+長寧區	jiang1 nieng1 khiu1
+長寧縣	jiang1 nieng1 yoe3
+長寬	jiang1 khuoe1
+長射程	jiang1 zhio3 jieng1
+長尾	jiang1 mi2
+長尾巴	jiang1 mi2 po1
+長尾猴	jiang1 mi2 gheu1
+長尾猿	jiang1 mi2 yoe1
 長局
-長山山脈
-長山島
-長島
-長島冰茶
-長島縣
-長崎
-長崎市
-長嶺
-長嶺縣
-長巷
-長干巷
-長干曲
-長平
-長平之戰
-長年累月
-長幼
-長幼有序
+長山山脈	jiang1 sae1 sae1 mak
+長山島	jiang1 sae1 tau2
+長島	jiang1 tau2
+長島冰茶	jiang1 tau2 pieng1 dzo1
+長島縣	jiang1 tau2 yoe3
+長崎	jiang1 gi1
+長崎市	jiang1 gi1 zy2
+長嶺	jiang1 lieng2
+長嶺縣	jiang1 lieng2 yoe3
+長巷	jiang1 ghong3
+長干巷	jiang1 koe1 ghong3
+長干曲	jiang1 koe1 khiuk
+長平	jiang1 bieng1
+長平之戰	jiang1 bieng1 tsy1 cie3
+長年累月	jiang1 niae1 liu2 ngioeh
+長幼	ciang2 ieu3
+長幼有序	ciang2 ieu3 yeu2 zi2
 長庚
 長庚大學
 長庚紀念醫院
 長庚醫院
-長度
-長廊
-長形
-長征
-長徑
-長得
+長度	jiang1 du3
+長廊	jiang1 long1
+長形	jiang1 yeng1
+長征	jiang1 cieng1
+長徑	jiang1 kieng3
+長得	ciang2 tek
 長性
-長恨
-長恨歌
+長恨	jiang1 gheng3
+長恨歌	jiang1 gheng3 kou1
 長惡不悛
-長憂
-長成
+長憂	jiang1 ieu1
+長成	ciang2 zhieng1
 長房
 長才
 長打
-長拳
+長拳	jiang1 gioe1
 長挑
-長排
+長排	jiang1 ba1
 長揖
-長效
-長效機制
-長方
-長方形
-長方體
+長效	jiang1 ghao3
+長效機制	jiang1 ghao3 ki1 ci3
+長方	jiang1 fong1
+長方形	jiang1 fong1 yeng1
+長方體	jiang1 fong1 thi2
 長於
-長明燈
-長春
-長春人
-長春市
-長時期
-長時間
+長明燈	jiang1 mieng1 teng1
+長春	jiang1 chiuing1
+長春人	jiang1 chiuing1 ning1
+長春市	jiang1 chiuing1 zy2
+長時期	jiang1 zy1 gi1
+長時間	jiang1 zy1 kae1
 長曆
-長期
-長期以來
-長期使用
-長期借款
-長期共存
-長期性
-長期投資
-長期抗戰
-長期穩定性
-長期負債
-長期趨勢
-長板
-長板凳
+長期	jiang1 gi1
+長期以來	jiang1 gi1 yi2 lai1
+長期使用	jiang1 gi1 sy2 yung3
+長期借款	jiang1 gi1 tsia3 khuoe2
+長期共存	jiang1 gi1 giung3 zoeng1
+長期性	jiang1 gi1 sieng3
+長期投資	jiang1 gi1 deu1 tsy1
+長期抗戰	jiang1 gi1 khong3 cie3
+長期穩定性	jiang1 gi1 ueng2 dieng3 sieng3
+長期負債	jiang1 gi1 veu2 tsa3
+長期趨勢	jiang1 gi1 tshiu1 shi3
+長板	jiang1 pae2
+長板凳	jiang1 pae2 teng3
 長林
 長林豐草
-長柄
-長柄勺子
-長柄大鐮刀
-長條
-長條兒
-長條圖
-長條形
-長棍
-長椅
-長榮
-長榮海運
-長榮航空
-長槍
-長樂
-長樂公主
-長樂市
-長樂未央
-長機
-長歌當哭
-長此以往
-長武
-長武縣
-長殤
-長毛
-長毛絨
-長毛象
-長汀
-長汀縣
-長江
-長江三峽
-長江三角
-長江三角洲
-長江三角洲經濟區
-長江口
-長江大橋
-長江後浪
-長江後浪推前浪
-長江流域
-長江證券
-長江電力
-長沙
-長沙人
-長沙市
-長沙灣
-長沙縣
-長河
-長治
-長治久安
-長治市
-長治縣
-長治鄉
+長柄	jiang1 pieng3
+長柄勺子	jiang1 pieng3 zhiak tsy2
+長柄大鐮刀	jiang1 pieng3 dou3 lie1 tau1
+長條	jiang1 diao1
+長條兒	jiang1 diao1 ni1
+長條圖	jiang1 diao1 du1
+長條形	jiang1 diao1 yeng1
+長棍	jiang1 kueng3
+長椅	jiang1 i2
+長椅	jiang1 iu2
+長榮	jiang1 yoeng1
+長榮海運	jiang1 yoeng1 hai2 yuing3
+長榮航空	jiang1 yoeng1 ghong1 khung1
+長槍	jiang1 tshiang1
+長樂	jiang1 lok
+長樂公主	jiang1 lok kung1 ciu2
+長樂市	jiang1 lok zy2
+長樂未央	jiang1 lok mi3 iang1
+長機	ciang2 ki1
+長歌當哭	jiang1 kou1 tong1 khuk
+長此以往	jiang1 tshy2 yi2 yong2
+長武	jiang1 mu2
+長武縣	jiang1  mu2 yoe3
+長殤	jiang1 shiang1
+長毛	jiang1 mau1
+長毛	ciang2 mau1
+長毛絨	jiang1 mau1 niung1
+長毛象	jiang1 mau1 ziang2
+長汀	jiang1 thieng1
+長汀縣	jiang1 thieng1 yoe3
+長江	jiang1 kong1
+長江三峽	jiang1 kong1 sae1 ghaeh
+長江三角	jiang1 kong1 sae1 kok
+長江三角洲	jiang1 kong1 sae1 kok cieu1
+長江三角洲經濟區	jiang1 kong1 sae1 kok cieu1 kieng1 tsi3 khiu1
+長江口	jiang1 kong1 kheu2
+長江大橋	jiang1 kong1 da3 giau1
+長江後浪	jiang1 kong1 gheu2 long3
+長江後浪推前浪	jiang1 kong1 gheu2 long3 thei1 ziae1 long3
+長江流域	jiang1 kong1 lieu1 yuk
+長江證券	jiang1 kong1 cieng3 khioe3
+長江電力	jiang1 kong1 diae3 liek
+長沙	jiang1 so1
+長沙人	jiang1 so1 ning1
+長沙市	jiang1 so1 zy2
+長沙灣	jiang1 so1 uae1
+長沙縣	jiang1 so1 yoe3
+長河	jiang1 ghou1
+長治	jiang1 dzy3
+長治久安	jiang1 dzy3 kieu2 oe1
+長治市	jiang1 dzy3 zy2
+長治縣	jiang1 dzy3 yoe3
+長治鄉	jiang1 dzy3 hiang1
 長法
-長波
-長泰
-長泰縣
-長洲區
-長流
-長海
-長海縣
-長清
-長清區
-長滿
+長波	jiang1 pou1
+長泰	jiang1 tha3
+長泰縣	jiang1 tha3 yoe3
+長洲區	jiang1 cieu1 khiu1
+長流	jiang1 lieu1
+長海	jiang1 hai2
+長海縣	jiang1 hai2 yoe3
+長清	jiang1 tshieng1
+長清區	jiang1 tshieng1 khiu1
+長滿	ciang2 moe2 
 長漂
 長濱
 長濱鄉
-長灘
-長焦
-長煙
-長煙一空
-長牙
-長物
-長生
-長生不死
-長生不老
-長生久視
-長生殿
-長生祿位
-長生草
-長生藥
-長男
-長白
-長白山
-長白山地
-長白山天池
-長白朝鮮族自治縣
-長白縣
-長白鎮
-長相
+長灘	jiang1 thae1
+長焦	jiang1 tsiau1
+長煙	jiang1 iae1
+長煙一空	jiang1 iae1 ik khung1
+長牙	jiang1 ngo1
+長物	jiang1 mek
+長生	jiang1 sang1
+長生不死	jiang1 sang1 fek sy2
+長生不老	jiang1 sang1 fek lau2
+長生久視	jiang1 sang1 kieu2 zy3
+長生殿	jiang1 sang1 diae3
+長生祿位	jiang1 sang1 luk yu3
+長生草	jiang1 sang1 tshau2
+長生藥	jiang1 sang1 yak
+長男	ciang2 ne1
+長白	jiang1 bak
+長白山	jiang1 bak sae1
+長白山地	jiang1 bak sae1 di3
+長白山天池	jiang1 bak sae1 thiae1 dzy1
+長白朝鮮族自治縣	jiang1 bak ciau1 sie1 zuk zy3 dzy3 yoe3
+長白縣	jiang1 bak yoe3
+長白鎮	jiang1 bak cing3
+長相	ciang2 siang3
 長相左右
-長相思
-長眠
-長眠不醒
+長相思	jiang1 siang1 sy1
+長眠	jiang1 miae1
+長眠不醒	jiang1 miae1 fek sieng2
 長著
-長矛
+長矛	jiang1 meu1
 長短	jiang1 toe2
-長短不一
-長短不齊
-長短句
-長短詩
+長短不一	jiang1 toe2 fek ik
+長短不齊	jiang1 toe2 fek zi1
+長短句	jiang1 toe2 kiu3
+長短詩	jiang1 toe2 sy1
 長石
-長程
-長程計劃
-長程飛彈
-長空
-長笛
-長筒襪
-長筒襪子
-長筒靴
-長策
-長篇
-長篇大論
-長篇小說
-長篇累牘
-長篇連載
-長約
-長紅
-長統
-長統靴
-長絲
-長線
-長編
-長繩繫日
-長繩繫景
-長纓
-長老
-長老教會
-長老會
-長者
-長肉
-長胖
-長腿
-長膘
-長臂
-長臂猿
-長臉
-長至
-長興
-長興縣
-長舌
-長舌夫
-長舌婦
+長程	jiang1 jieng1
+長程計劃	jiang1 jieng1 ki3 wak
+長程飛彈	jiang1 jieng1 fi1 dae3
+長空	jiang1 khung1
+長笛	jiang1 diek
+長筒襪	jiang1 dung1 maeh
+長筒襪子	jiang1 dung1 maeh tsy2
+長筒靴	jiang1 dung1 hio1
+長策	jiang1 tshak
+長篇	jiang1 phie1
+長篇大論	jiang1 phie1 da3 leng3
+長篇小說	jiang1 phie1 siau2 shioeh
+長篇累牘	jiang1 phie1 liu2 duk
+長篇連載	jiang1 phie1 lie1 tsai3
+長約	jiang1 iak
+長紅	jiang1 wung1
+長統	jiang1 thung2
+長統靴	jiang1 thung2 hio1
+長絲	jiang1 sy1
+長線	jiang1 sie3
+長編	jiang1 piae1
+長繩繫日	jiang1 zhieng1 kiek nik
+長繩繫景	jiang1 zhieng1 kiek kieng2
+長纓	jiang1 ieng1
+長老	ciang2 lau2
+長老教會	ciang2 lau2 kao3 wei3
+長老會	ciang2 lau2 wei3
+長者	ciang2 cio2
+長肉	ciang2 niuk
+長胖	ciang2 phong3
+長腿	jiang1 thei2
+長膘	ciang2 biau2
+長臂	jiang1 pi3
+長臂猿	jiang1 pi3 yoe1
+長臉	jiang1 lae2
+長至	jiang1 tsy3
+長至	ciang2 tsy3
+長興	jiang1 hieng1
+長興縣	jiang1 hieng1 yoe3
+長舌	jiang1 zhieh
+長舌夫	jiang1 zhieh fu1
+長舌婦	jiang1 zhieh veu2
 長草區
 長葛
 長葛市
-長處
-長號
-長虹
-長蛇
-長蛇座
-長蛇陣
+長處	jiang1 chy3
+長號	jiang1 ghau1
+長虹	jiang1 wung1
+長蛇	jiang1 zhio1
+長蛇座	jiang1 zhio1 zou3
+長蛇陣	jiang1 zhio1 jing3
 長蟲
-長衣
-長袍
-長袍馬褂
-長袖
-長袖善舞
-長裙
-長褲
-長見識
+長衣	jiang1 i1
+長袍	jiang1 bau1
+長袍馬褂	jiang1 bau1 mo2 kuo3
+長袖	jiang1 zieu3
+長袖善舞	jiang1 zieu3 zhie2 mu2
+長裙	jiang1 giuing1
+長褲	jiang1 khu3
+長見識	ciang2 kiae3 shiek
 長親
-長角羊
-長計
-長詩
-長話
-長話短說
-長調
-長談
-長谷
-長谷川
-長豐縣
-長起
-長起來
-長足
-長足性
-長足進步
-長跑
-長跑運動員
-長距離
-長距離比賽
-長跪
-長輩
+長角羊	jiang1 kok yang1
+長計	jiang1 ki3
+長詩	jiang1 sy1
+長話	jiang1 wo3
+長話短說	jiang1 wo3 toe2 shioeh
+長調	jiang1 diao3
+長談	jiang1 dae1
+長谷	jiang1 kuk
+長谷川	jiang1 kuk chioe1
+長豐縣	jiang1 fung1 yoe3
+長起	ciang2 khi2
+長起來	ciang2 khi2 lai1
+長足	jiang1 tsiuk
+長足性	jiang1 tsiuk sieng3
+長足進步	jiang1 tsiuk tsing3 bu3
+長跑	jiang1 bao1
+長跑運動員	jiang1 bao1 yuing3 dung2 yoe1
+長距離	jiang1 gei2 li1
+長距離比賽	jiang1 gei2 li1 pi2 sai3
+長跪	jiang1 giu2
+長輩	ciang2 pei3
 長轡遠馭
 長辛店
-長途
-長途旅行
-長途汽車
-長途話費
-長途跋涉
-長途車
-長途電話
-長途飛行
-長逝
-長進
-長過
-長達
-長遠利益
-長遠性
-長野
-長野縣
-長釘
-長針
-長釣
-長長
-長長地
-長長的
-長長短短
-長門
-長陽
-長陽土家族自治縣
-長隊
-長電
-長青
-長青樹
-長靴
-長鞭
-長音
-長音程
-長音階
-長項
+長途	jiang1 du1
+長途旅行	jiang1 du1 li2 ghang1
+長途汽車	jiang1 du1 khi3 chio1
+長途話費	jiang1 du1 wo3 fi3
+長途跋涉	jiang1 du1 boeh zhieh
+長途車	jiang1 du1 chio1
+長途電話	jiang1 du1 diae3 wo3
+長途飛行	jiang1 du1 fi1 ghang1
+長逝	jiang1 zhi3
+長進	ciang2 tsing3
+長過	jiang1 kou3
+長達	jiang1 daeh
+長遠利益	jiang1 yoe2 li3 iek
+長遠性	jiang1 yoe2 sieng3
+長野	jiang1 ya2
+長野縣	jiang1 ya2 yoe3
+長釘	jiang1 tieng1
+長針	jiang1 cing1
+長釣	jiang1 tiao3
+長長	jiang1 jiang1
+長長地	jiang1 jiang1 di3
+長長的	jiang1 jiang1 kek
+長長的	jiang1 jiang1 tiek
+長長短短	jiang1 jiang1 toe2 toe2
+長門	jiang1 meng1
+長陽	jiang1 yang1
+長陽土家族自治縣	jiang1 yang1 thu2 ko1 zuk zy3 dzy3 yoe3
+長隊	jiang1 dei3
+長電	jiang1 diae3
+長青	jiang1 tshieng1
+長青樹	jiang1 tshieng1 zhiu3
+長靴	jiang1 hio1
+長鞭	jiang1 pie1
+長音	jiang1 ing1
+長音程	jiang1 ing1 jieng1
+長音階	jiang1 ing1 ka1
+長項	jiang1 ghong2
 長順
 長順縣
 長頭髮
-長頸瓶
-長頸鹿
-長頸龍
-長風
-長風破浪
-長風萬里
-長駐
-長驅
-長驅直入
+長頸瓶	jiang1 kieng2 bieng1
+長頸鹿	jiang1 kieng2 luk
+長頸龍	jiang1 kieng2 lung1
+長風	jiang1 fung1
+長風破浪	jiang1 fung1 phou3 long3
+長風萬里	jiang1 fung1 mae3 li2
+長駐	jiang1 ciu3
+長驅	jiang1 khiu1
+長驅直入	jiang1 khiu1 jiek nik
 長骨
-長高
-長髮
-長鬍
-長鬚
-長鬚鯨
-長鳴
-長黑
-長點心眼
-長鼓
-長鼻目
-長齋
-長龍
+長高	ciang2 kau1
+長髮	jiang1 faeh
+長鬍	jiang1 wu1
+長鬚	jiang1 siu1
+長鬚鯨	jiang1 siu1 gieng1
+長鳴	jiang1 mieng1
+長黑	ciang2 hek
+長點心眼	ciang2 tiae2 sing1 ngae2
+長鼓	jiang1 ku2
+長鼻目	jiang1 bik muk
+長鼻目	jiang1 bek muk
+長齋	jiang1 tsa1
+長龍	jiang1 lung1
 門兒
 門兒都沒有
 門弔兒
@@ -37758,7 +37766,7 @@ use_preset_vocabulary: true
 隆重舉行
 隆鼻
 隊尾
-隊長
+隊長	dei3 ciang2
 隋代人
 隋朝
 隋朝人
@@ -38883,7 +38891,7 @@ use_preset_vocabulary: true
 餡兒
 餡兒餅
 館兒
-館長
+館長	kuoe2 ciang2
 餵了
 餵鴨
 餾分
@@ -38919,8 +38927,8 @@ use_preset_vocabulary: true
 首都師範大學
 首都經濟貿易大學
 首都經貿大學
-首長
-首長制
+首長	shieu2 ciang2
+首長制	shieu2 ciang2 ci3
 首集
 香味
 香味噴鼻
@@ -39147,7 +39155,7 @@ use_preset_vocabulary: true
 體認
 體認出
 體認到
-體長
+體長	thi2 jiang1
 體魄
 高中同學
 高中學生
@@ -39173,7 +39181,7 @@ use_preset_vocabulary: true
 高加索區
 高加索山
 高參
-高增長
+高增長	kau1 tseng1 ciang2
 高大
 高學歷
 高家
@@ -39234,7 +39242,7 @@ use_preset_vocabulary: true
 高行健
 高貴
 高貴不貴
-高速增長
+高速增長	kau1 suk tseng1 ciang2
 高速率
 高速行駛
 高長虹
@@ -43438,8 +43446,8 @@ use_preset_vocabulary: true
 日夜
 日或
 日長
-日長世久
-日長夜大
+日長世久	nik jiang1 shi3 kieu2
+日長夜大	nik ciang2 ya3 dou3
 日思夜想
 日星
 日陣裏
@@ -52122,7 +52130,7 @@ use_preset_vocabulary: true
 金糰
 金屬
 長三春
-長大
+#長大
 長川
 長工
 長弓
@@ -56258,7 +56266,7 @@ use_preset_vocabulary: true
 班車
 班制
 班委
-班長
+班長	pae1 ciang2
 班科
 班風
 班務
@@ -86268,7 +86276,7 @@ use_preset_vocabulary: true
 昨日
 前日
 大前日
-整長日
+整長日	cieng2 jiang1 nik
 日加日
 日都
 夜都
@@ -86418,7 +86426,7 @@ use_preset_vocabulary: true
 被絮
 棉褥
 鋪帳
-長條桌
+長條桌	jiang1 diao1 ciok
 椅子
 凳頭
 肥桶
@@ -86917,7 +86925,7 @@ use_preset_vocabulary: true
 米米
 葵花
 寒豆
-長生果
+長生果	jiang1 sang1 kou2
 白菜
 包菜
 菠菜
@@ -87518,8 +87526,8 @@ use_preset_vocabulary: true
 一歇
 一大歇
 個把鐘頭
-長遠
-日長世久
+長遠	jiang1 yoe2
+日長世久	nik jiang1 shi3 kieu2
 起初
 先起頭
 初起頭
@@ -87683,7 +87691,7 @@ use_preset_vocabulary: true
 紅赤豆
 豌豆
 豌豆葉
-長豆
+長豆	jiang1 deu3
 扁豆
 四季豆
 青蠶豆
@@ -87952,7 +87960,7 @@ use_preset_vocabulary: true
 狐狸
 黃鼠狼
 兔子
-長毛兔
+長毛兔	jiang1 mau1 thu3
 野兔子
 松鼠
 水老蟲
@@ -88239,7 +88247,7 @@ use_preset_vocabulary: true
 紙板箱
 喫飯檯子
 方台
-長台
+長台	jiang1 dai1
 圓臺
 杌子
 折疊桌
@@ -88255,7 +88263,7 @@ use_preset_vocabulary: true
 靠背凳
 靠背椅
 靠背
-長凳
+長凳	jiang1 teng3
 骨牌凳
 竹椅
 沙發
@@ -88431,7 +88439,7 @@ use_preset_vocabulary: true
 洋機
 作馬
 牽錐
-長刨
+長刨	jiang1 bao1
 推刨
 短刨
 鑿子
@@ -88555,7 +88563,7 @@ use_preset_vocabulary: true
 師父
 師母
 幫工
-長工
+長工	jiang1 kung1
 短工
 生意人
 老闆
@@ -88597,7 +88605,7 @@ use_preset_vocabulary: true
 熟手
 老手
 監工
-值班長
+值班長	jiek pae1 ciang2
 頭頭
 大亨
 老師
@@ -88634,7 +88642,7 @@ use_preset_vocabulary: true
 身體
 身胚
 渾身
-長發頭
+長發頭	ciang2 faeh deu1
 原生頭
 力氣
 氣力
@@ -88873,7 +88881,7 @@ use_preset_vocabulary: true
 汗衫背心
 短裝
 短打
-長裙
+長裙	jiang1 giuing1
 短裙
 超短裙
 喇叭裙
@@ -88950,7 +88958,7 @@ use_preset_vocabulary: true
 鞋衣帶
 鞋楦頭
 鞋拔子
-長筒襪
+長筒襪	jiang1 dung1 maeh
 短筒襪
 襪筒管
 寬緊帶
@@ -89380,7 +89388,7 @@ use_preset_vocabulary: true
 大生日
 小生日
 壽燭
-長壽麵
+長壽麵	jiang1 zhieu3 miae3
 壽麵
 生日面
 壽桃
@@ -89422,7 +89430,7 @@ use_preset_vocabulary: true
 齋灶
 觸祭
 喫素
-喫長素
+喫長素	khiek jiang1 su3
 素飯
 齋飯
 和尚廟
@@ -89496,7 +89504,7 @@ use_preset_vocabulary: true
 出門出路
 上班
 下班
-長日班
+長日班	jiang1 nik pae1
 歇班
 汏手
 汏腳
@@ -89971,7 +89979,7 @@ use_preset_vocabulary: true
 做作業
 掘田螺
 心相
-長心
+長心	ciang2 sing1
 測試
 期中考試
 期末考試
@@ -90078,7 +90086,7 @@ use_preset_vocabulary: true
 叫叫
 吹叫叫
 搭積木
-跳長繩
+跳長繩	diao1 jiang1 zhieng1
 跳雙蹦蹦
 跳油搞搞
 打籃球
@@ -90936,9 +90944,11 @@ use_preset_vocabulary: true
 俏行貨	tshiau3 ghong1 hou3
 行俏	ghong1 tshiau3
 弗死弗健
-長子
-長大
-長人
+長子	ciang2 tsy2
+長大	ciang2 dou3
+長子	jiang1 tsy2
+長大	jiang1 dou3
+長人	jiang1 ning1
 長腳鷺鷥
 長遠
 長遠客
@@ -91256,7 +91266,7 @@ Canteen	khae1 thieng1
 忒少
 忒老
 忒嫩
-忒長
+忒長	thek jiang1
 忒短
 忒緊
 忒鬆
@@ -91289,3 +91299,9 @@ Canteen	khae1 thieng1
 平上去入	bieng1 zhiang2 khei3 nik
 再三	tsai3 sae3
 癟凼
+
+長落來	dzang3 lok lai1
+長下來	dzang3 gho3 lai1
+多謝
+𡃤㗑	la3 pa3
+𪸙香煙
