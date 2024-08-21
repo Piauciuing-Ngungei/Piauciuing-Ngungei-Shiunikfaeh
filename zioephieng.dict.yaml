@@ -1552,8 +1552,8 @@ M̌	m2
 鏨	ze2
 #㪌	sung2
 丵	zok
-䂻	dzang3	5%
-長	dzang3	5%
+䂻	dzang3
+長	dzang3{長落：剩下}	5%
 㪪	saeh
 㪪	zaeh
 楔	ziaeh
@@ -8916,7 +8916,7 @@ M̌	m2
 姜	kiang1	1000
 䗵	kiang1
 僵	kiang1	1000
-長	jiang1	1000
+長	jiang1{長短}	1000
 萇	jiang1
 腸	jiang1	1000
 場	jiang1	1000
@@ -15187,7 +15187,7 @@ M̌	m2
 𧧢	hiong2
 搶	tshiang2	1000
 摤	tshiang2
-長	ciang2	300
+長	ciang2{長官，校長}	300
 上	zhiang2{上進，上書，上山；動詞}	1000
 丄	long2
 俇	giong2
@@ -18076,8 +18076,8 @@ M̌	m2
 錣	ciu3
 卂	ciu3
 #輟	ciu3
-稅	shiu3
-說	shiu3
+稅	shiu3	1000
+說	shiu3{遊說}	2%
 裞	shiu3
 #蛻	shiu3
 帨	shiu3
@@ -24467,7 +24467,7 @@ M̌	m2
 㨹	sioeh
 𤿫	chioeh
 悅	yoeh	1000
-說	yoeh	100
+說	yoeh	2%
 閱	yoeh	1000
 #蛻	yoeh
 娧	yoeh
@@ -24481,7 +24481,7 @@ M̌	m2
 蜹	nioeh
 㨎	nioeh
 㕯	nioeh
-說	shioeh	1000
+說	shioeh{小說}	1000
 拙	cioeh	1000
 炪	cioeh
 䂐	cioeh
@@ -27837,8 +27837,8 @@ M̌	m2
 塲	dang2
 #場	dak
 帉	feng3
-峧	gau3
-絞	gau2
+峧	gao3
+#絞	gao2
 靠	gau3
 #也	gha2
 畸	gi2

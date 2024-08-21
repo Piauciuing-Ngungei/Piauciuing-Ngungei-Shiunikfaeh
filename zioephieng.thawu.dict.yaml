@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.20
+# 版本號：24.8.21
 
 ---
 name: zioephieng.thawu
-version:	"2024.8.20"
+version:	"2024.8.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4555,7 +4555,7 @@ use_preset_vocabulary: true
 人仰馬翻
 人來
 人來人往
-人來說
+人來說	ning1 lai1 shioeh
 人保
 人們
 人做
@@ -4639,7 +4639,7 @@ use_preset_vocabulary: true
 人孤勢單
 人定
 人定勝天
-人家說
+人家說	ning1 ko1 shioeh
 人對
 人小鬼大
 人少
@@ -4883,8 +4883,8 @@ use_preset_vocabulary: true
 人要衣裝
 人話
 人語馬嘶
-人說
-人說話
+人說	ning1 shioeh
+人說話	ning1 shioeh wo3
 人謀不臧
 人證物證
 人販子
@@ -5785,100 +5785,104 @@ use_preset_vocabulary: true
 值日表
 值星班長
 值班人
-假以時日
-假使
-假使在
-假使會
-假使有
-假使能
-假使說
-假公濟私
-假分數
-假力於人
-假名假姓
-假吏
-假唱
-假善人
-假單
-假嗓子
-假執行
-假報
-假報告
-假如
-假如是
-假如會
-假如有
-假如能
-假如說
-假定
-假定性
-假定是
-假定有
-假定說
-假山
-假幣
+假以時日	ko2 yi2 zy1 nik
+假使	ko2 sy2
+假使在	ko2 sy2 lai2
+假使在	ko2 sy2 zai2
+假使會	ko2 sy2 wei3
+假使有	ko2 sy2 yeu2
+假使能	ko2 sy2 neng1
+假使說	ko2 sy2 shioeh
+假公濟私	ko2 kung1 tsi3 sy1
+假分數	ko2 feng1 su3
+假力於人	ko2 ko2 liek i1 ning1
+假名假姓	ko2 mieng1 ko2 sieng3
+假吏	ko2 li3
+假唱	ko2 chiang3
+假善人	ko2 zhie2 ning1
+假單	ko2 tae1
+假嗓子	ko2 song1 tsy2
+假執行	ko2 cik ghang1
+假報	ko2 pau3
+假報告	ko2 pau3 kau3
+假如	ko2 ni1
+假如是	ko2 ni1 zy2
+假如會	ko2 ni1 wei3
+假如有	ko2 ni1 yeu2
+假如能	ko2 ni1 neng1
+假如說	ko2 ni1 shioeh
+假定	ko2 dieng3
+假定性	ko2 dieng3 sieng3
+假定是	ko2 dieng3 zy2
+假定有	ko2 dieng3 yeu2
+假定說	ko2 dieng3 shioeh
+假山	ko2 sae1
+假幣	ko2 bi3
 假廝兒
-假得
-假性
-假性近視
-假情假意
-假想
-假想敵
-假慈悲
-假手他人
-假扣押
-假新聞
-假期
-假根
-假案
-假條
-假植
-假正經
-假死
-假牌
-假牙
-假牙齒
-假用
-假畫
-假的
-假睡
-假聲
-假肢
-假腿
-假若
-假若在
-假若是
-假若會
-假若有
-假若能
-假葉
-假藥
-假裝
-假裝在
-假裝是
-假裝會
-假裝有
-假裝能
+假得	ko2 tek
+假性	ko2 sieng3
+假性近視	ko2 sieng3 ging2 zy3
+假情假意	ko2 zieng1 ko2 i3
+假想	ko2 siang2
+假想敵	ko2 siang2 diek
+假慈悲	ko2 zy1 pi1
+假手他人	ko2 shieu2 thou1 ning1
+假扣押	ko2 kheu3 aeh
+假新聞	ko2 sing1 meng1
+假期	ko3 gi1
+假根	ko2 keng1
+假案	ko2 oe3
+假條	ko3 diao1
+假植	ko2 zhiek
+假正經	ko2 cieng3 kieng1
+假死	ko2 sy2
+假牌	ko2 ba1
+假牙	ko2 ngo1
+假牙齒	ko2 ngo1 tshy2
+假用	ko2 yung3
+假畫	ko2 wo3
+假的	ko2 tiek
+假的	ko2 kek
+假睡假	ko2 zhiu3
+假聲	ko2 shieng1
+假肢	ko2 tsy1
+假腿	ko2 thei2
+假若	ko2 niak
+假若在	ko2 niak lai2
+假若在	ko2 niak zai2
+假若是	ko2 niak zy2
+假若會	ko2 niak wei3
+假若有	ko2 niak yeu2
+假若能	ko2 niak neng1
+假葉	ko2 yeh
+假藥	ko2 yak
+假裝	ko2 tsong1
+假裝在	ko2 tsong1 lai2
+假裝在	ko2 tsong1 zai2
+假裝是	ko2 tsong1 zy2
+假裝會	ko2 tsong1 wei3
+假裝有	ko2 tsong1 yeu2
+假裝能	ko2 tsong1 neng1
 假言判斷
-假託
-假話
-假說
-假證
-假證件
-假貨
-假貸
-假賬
-假途滅虢
-假造
-假造文件
-假道
-假道伐虢
-假道學
-假釋期間
-假鈔
-假錢
-假鎖
-假門
+假託	ko2 thok
+假話	ko2 wo3
+假說	ko2 shioeh
+假證	ko2 cieng3
+假證件	ko2 cieng3 gie2
+假貨	ko2 hou3
+假貸	ko2 thai3
+假賬	ko2 ciang3
+假途滅虢	ko2 du1 mieh kuak
+假造	ko2 zau2
+假造文件	ko2 zau2 meng1 gie2
+假道	ko2 dau2
+假道伐虢	ko2 dau2 vaeh kuak
+假道學	ko2 dau2 ghok
+假釋期間	ko2 shiek gi1 kae1
+假鈔	ko2 tshao1
+假錢	ko2 zie1
+假鎖	ko2 sou2
+假門	ko2 meng1
 偉人
 偉士牌
 偉士牌機車
@@ -6185,8 +6189,8 @@ use_preset_vocabulary: true
 傳誦
 傳誦一時
 傳說	jioe1 shioeh
-傳說中
-傳說人物
+傳說中	jioe1 shioeh ciung1
+傳說人物	jioe1 shioeh ning1 mek
 傳諭
 傳講
 傳謠
@@ -7647,7 +7651,7 @@ use_preset_vocabulary: true
 分設
 分詞
 分詞構句
-分說
+分說	feng1 shioeh
 分課
 分貝
 分賬
@@ -7989,16 +7993,16 @@ use_preset_vocabulary: true
 剪去
 剪斷
 剪牡丹喂牛
-副主教
-副交感神經
-副團長
-副官處長
+副主教	feu3 ciu2 kao3
+副交感神經	feu3 kao1 ke2 zhing1 kieng1
+副團長	feu3 doe1 ciang2
+副官處長	feu3 kuoe1 chy3 ciang2
 副局長	feu3 giuk ciang2
 副州長	feu3 cieu2 ciang2
 副市長	feu3 zy2 ciang2
 副廠長	feu3 chiang2 ciang2
 副所長	feu3 su2 ciang2
-副教授
+副教授	feu3 kao3 zhieu3
 副會長	feu3 wei3 ciang2
 副校長	feu3 ghao3 ciang2
 副班長	feu3 pae1 ciang2
@@ -11183,8 +11187,8 @@ use_preset_vocabulary: true
 國內生產總值
 國內貿易
 國分
-國務部長
-國務長官
+國務部長	kuek mu3 bu2 ciang2
+國務長官	kuek mu3 ciang2 kuoe1
 國勢日衰
 國史大綱
 國外貿易
@@ -12590,7 +12594,7 @@ use_preset_vocabulary: true
 大學時代
 大學本科
 大學校園
-大學校長
+大學校長	da3 ghok ghao3 ciang2
 大學校院
 大學生
 大學生活
@@ -14428,8 +14432,8 @@ use_preset_vocabulary: true
 學術網路
 學術自由
 學術論文
-學說
-學說話
+學說	ghok shioeh
+學說話	ghok shioeh wo3
 學起
 學起來
 學車
@@ -14592,7 +14596,8 @@ use_preset_vocabulary: true
 官家
 官差
 官座兒
-官房長官
+官房長官	kuoe1 bong1 ciang2 kuoe1
+官房長官	kuoe1 vong1 ciang2 kuoe1
 官斷
 官斷十條路
 官方人士
@@ -15378,8 +15383,8 @@ use_preset_vocabulary: true
 小行星
 小行星帶
 小行板
-小說家
-小說集
+小說家	siau2 shioeh ko1
+小說集	siau2 shioeh zik
 小豆兒
 小貓
 小資產階級
@@ -15431,7 +15436,7 @@ use_preset_vocabulary: true
 就乾一杯
 就任
 就任典禮
-就任演說
+就任演說	zieu3 ning3 ye2 shioeh
 就地解決
 就夠了
 就學
@@ -17381,7 +17386,7 @@ use_preset_vocabulary: true
 應用程式介面
 應考生
 應試教育
-應該
+應該	ieng1 kai1
 應該做
 應該可以
 應該在
@@ -17394,7 +17399,7 @@ use_preset_vocabulary: true
 應該注意
 應該用
 應該能
-應該說
+應該說	ieng1 kai1 shioeh
 應運而生
 應選人
 應采兒
@@ -19195,7 +19200,7 @@ use_preset_vocabulary: true
 擔架隊
 擘畫
 據傳
-據傳說
+據傳說	kei3 jioe1 shioeh
 擠了
 擠人
 擠咕
@@ -21465,7 +21470,7 @@ use_preset_vocabulary: true
 有人用
 有人緣兒
 有人認爲
-有人說
+有人說	yeu2 ning1 shioeh
 有何指教
 有佛出世
 有信兒
@@ -22248,8 +22253,8 @@ use_preset_vocabulary: true
 校勘學
 校對
 校讎學
-校長
-校長室
+校長	ghao3 ciang2
+校長室	ghao3 ciang2 shik
 栩栩如生
 栲膠
 核二廠
@@ -23885,9 +23890,10 @@ use_preset_vocabulary: true
 沒話
 沒話說
 沒說	mek shioeh
-沒說出
-沒說到
-沒說的
+沒說出	mek shioeh chiuik
+沒說到	mek shioeh tau3
+沒說的	mek shioeh tiek
+沒說的	mek shioeh kek
 沒請
 沒譜
 沒譜兒
@@ -27368,7 +27374,7 @@ use_preset_vocabulary: true
 直了
 直交
 直傳
-直屬長官	jiek zhiuk jiang1 kuoe1
+直屬長官	jiek zhiuk ciang2 kuoe1
 直心眼兒
 直情徑行
 直截了當
@@ -32482,14 +32488,14 @@ use_preset_vocabulary: true
 行成於思
 行房
 行搶
-行政
+行政	ghang1 cieng3
 行政主管
 行政事業
 行政公署
-行政區
-行政區劃
-行政區劃圖
-行政區域
+行政區	ghang1 cieng3 khiu1
+行政區劃	ghang1 cieng3 khiu1 wak
+行政區劃圖	ghang1 cieng3 khiu1 wak du1
+行政區域	ghang1 cieng3 khiu1 yuk
 行政區畫
 行政命令
 行政員
@@ -32523,7 +32529,7 @@ use_preset_vocabulary: true
 行政部
 行政部長
 行政部門
-行政長官
+行政長官	ghang1 cieng3 ciang2 kuoe1
 行政開除
 行政院
 行政院長
@@ -33759,41 +33765,41 @@ use_preset_vocabulary: true
 誤認
 誤認爲
 誨人不倦
-說不了
-說了
-說了又說
-說了就算了
-說了算
-說來話長
-說個
-說假話
+說不了	shioeh fek liao2
+說了	shioeh liao2
+說了又說	shioeh liao2 yeu3 shioeh
+說了就算了	shioeh liao2 zieu3 soe3 liao2
+說了算	shioeh liao2 soe3
+說來話長	shioeh lai1 wo3 jiang1
+說個	shioeh keh
+說假話	shioeh ko2 wo3
 說參請
 說合了蓋兒了
-說吧
-說唱文學
-說士
-說大話
-說太平話兒
-說好了
-說定了
+說吧	shioeh po1
+說唱文學	shioeh chiang3 meng1 ghok
+說士	shiu3 zy2
+說大話	shioeh da3 wo3
+說太平話兒	shioeh tha3 bieng1 wo3 ni1
+說好了	shioeh hau2 liao2
+說定了	shioeh dieng3 liao2
 說客	shiu3 khak
-說岳全傳
-說教
-說教術
-說書人
-說溜了嘴
-說白了
-說著玩兒
-說短論長
-說穿了
-說章兒
-說罷
-說話兒
-說話答禮兒
-說鐵騎兒
-說長道短
-說閑話兒
-說頭兒
+說岳全傳	shioeh ngok zioe1 jioe3
+說教	shioeh kao3
+說教術	shioeh kao3 zhiuik
+說書人	shioeh shy1 ning1
+說溜了嘴	shioeh lieu3 liao2 tsy2
+說白了	shioeh bak liao2
+說著玩兒	shioeh jiak nguoe3 ni1
+說短論長	shioeh toe2 leng3 jiang1
+說穿了	shioeh chioe1 liao2
+說章兒	shioeh ciang1 ni1
+說罷	shioeh ba2
+說話兒	shioeh wo3 ni1
+說話答禮兒	shioeh wo3 teh li2 ni1
+說鐵騎兒	shioeh thiaeh gi3 ni1
+說長道短	shioeh jiang1 dau2 toe2
+說閑話兒	shioeh ghae1 wo3 ni1
+說頭兒	shioeh deu1 ni1
 誰也
 誰也不
 誰乾淨
@@ -35447,9 +35453,9 @@ use_preset_vocabulary: true
 遊行示威
 遊行示衆
 遊說	yeu1 shiu3
-遊說團
-遊說團體
-遊說集團
+遊說團	yeu1 shiu3 doe1
+遊說團體	yeu1 shiu3 doe1 thi2
+遊說集團	yeu1 shiu3 zik doe1
 遊遊磨磨兒
 運動學
 運動家
@@ -35850,7 +35856,7 @@ use_preset_vocabulary: true
 還用
 還用在
 還用於
-還用說
+還用說	wae1 yung3 shioeh
 還由
 還痛
 還發
@@ -35896,9 +35902,10 @@ use_preset_vocabulary: true
 還記得我
 還設
 還說	wae1 shioeh
-還說在
-還說是
-還說有
+還說在	wae1 shioeh lai2
+還說在	wae1 shioeh zai2
+還說是	wae1 shioeh zy2
+還說有	wae1 shioeh yeu2
 還調
 還談
 還請
@@ -36663,7 +36670,7 @@ use_preset_vocabulary: true
 長安區	jiang1 oe1 khiu1
 長安福特	jiang1 oe1 fuk dek
 長安街	jiang1 oe1 ka1
-長官	jiang1 kuoe1
+長官	ciang2 kuoe1
 長寧	jiang1 nieng1
 長寧區	jiang1 nieng1 khiu1
 長寧縣	jiang1 nieng1 yoe3
@@ -61228,7 +61235,7 @@ use_preset_vocabulary: true
 游開
 游資
 游魂
-游說
+#游說
 游樂
 游標
 游蕩
@@ -83720,7 +83727,8 @@ use_preset_vocabulary: true
 說騙
 說嘴郎中
 說𡰪嘴
-說弗定
+說弗定	shioeh fek dieng3
+說弗定	shioeh vek dieng3
 說松香
 說死話
 說嘴郎中無好藥
@@ -90109,7 +90117,7 @@ use_preset_vocabulary: true
 河界
 和棋
 將煞
-將
+#將
 老蔣
 蔣光榔頭
 挺兵
@@ -90197,7 +90205,7 @@ use_preset_vocabulary: true
 京劇
 大戲
 黃梅戲
-說書
+說書	shioeh shy1
 評彈
 單檔
 說大書
@@ -91305,3 +91313,8 @@ Canteen	khae1 thieng1
 多謝
 𡃤㗑	la3 pa3
 𪸙香煙
+
+直插
+直擊
+
+懺人
