@@ -6,7 +6,15 @@
 schema:
   schema_id: zioephieng
   name: 標準吳語
-  version: "2024.8"
+  version: "2024.8" 
+  description: |
+    標準吳語輸入灋（2024.8）
+    拼法替用字參考標準吳語方案
+    反查功能依賴“朙月拼音”替“五筆畫”。
+    "q"：漢語普通話拼音反查 
+    "X"：hspnz五筆畫反查
+    "/"：輸入相應詞彙個吳語拼音首字母縮寫可得符號
+    
   author:
     - 吳韻
     - 重光
@@ -14,13 +22,6 @@ schema:
     - Te
     - Labieng
     
-  description: |
-    標準吳語輸入灋（2024.8）
-    拼法替用字參考標準吳語與月絕書方案
-    反查功能依賴“朙月拼音”替“五筆畫”。
-    "q"：漢語普通話拼音反查 
-    "X"：hspnz五筆畫反查
-    "/"：輸入相應詞彙個吳語拼音首字母縮寫可得符號
   dependencies:
     - luna_pinyin #反查
     - stroke
