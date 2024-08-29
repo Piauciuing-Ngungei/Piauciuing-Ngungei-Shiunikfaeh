@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.21
+# 版本號：24.8.29
 
 ---
 name: zioephieng.thawu
-version:	"2024.8.21"
+version:	"2024.8.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -91318,3 +91318,6 @@ Canteen	khae1 thieng1
 直擊
 
 懺人
+傳統異能
+藝能
+傳統藝能

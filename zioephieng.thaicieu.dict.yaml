@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.14
+# 版本號：24.8.29
 
 ---
 name: zioephieng.thaicieu
-version:	"2024.8.14"
+version:	"2024.8.9"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -46,6 +46,8 @@ use_preset_vocabulary: true
 死釘
 死釘板
 老爺眼
+
+矴步
 
 #台州土白詞彙
 

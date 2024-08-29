@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.8
+# 版本號：24.8.29
 
 ---
 name: zioephieng.yoehne
-version:	"2024.8.8"
+version:	"2024.8.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -86,3 +86,74 @@ use_preset_vocabulary: true
 
 昇龍
 柴棍
+沱灢
+
+圭茹
+莊寨
+旬禮
+現面
+解智
+少寸
+倖面
+真方
+貴位
+古傳
+玄話
+妥滿
+歷事
+關重	kuae1 jiung2
+兆富
+秭富
+熱計
+魔陣
+生學
+門學
+中平	ciung1 bieng1
+美品
+剖術
+異應	yi3 ieng3
+欠聽
+微蟲
+及日
+與料
+演壇
+生素
+武堂
+義地
+口裝
+傳形
+發聲
+活形
+附題
+翻音
+視實
+醫佐
+藝士
+歌士
+樂士	ngok zy2
+詩士
+牙士
+畫士
+議士
+寨監	za3 kae1
+難人	nae3 ning1
+特攻
+病院
+外例
+員職
+經月
+海分	hai2 veng3
+管教	kuoe2 kao3
+審美院
+翻音
+關係情慾
+濫用情慾
+多方便
+方便交通
+
+眾居
+閻王星
+
+衣坡儒
+弗朗沙
+富浪沙
