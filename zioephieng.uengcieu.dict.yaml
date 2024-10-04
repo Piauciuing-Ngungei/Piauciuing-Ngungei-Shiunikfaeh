@@ -23,11 +23,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.8.2
+# 版本號：24.10.4
 
 ---
 name: zioephieng.uengcieu
-version:	"2024.8.2"
+version:	"2024.10.4"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -93,7 +93,7 @@ use_preset_vocabulary: true
 銀綰ㄦ	nging1 uae2 ng1
 掛銀綰ㄦ	kuo3 nging1 uae2 ng1
 龍雹	lung1 bok
-雪𩂨子	sioeh saeh tsy2
+雪𩂨子	sioeh sak tsy2
 露水	lu3 shiu2
 霧露
 霧露發起
