@@ -33,11 +33,11 @@
 #	* opencc - 開放中文轉換
 #		 http://code.google.com/p/opencc/
 #
-# 版本號：24.10.8-auao
+# 版本號：24.10.11-auao
 
 ---
 name: zioephieng
-version:	"2024.10.8"
+version:	"2024.10.11"
 sort: by_weight
 #columns:    #
   #- code    # 編碼
@@ -195,6 +195,15 @@ M̌	m2
 
 □	khung3	0.01%
 
+𠢍	gie1
+㩭	ghao2
+𨵤	hi1
+𣶐	phao3
+㕐	sia3
+䢚	gang1
+涿	tuk
+訬	tshiau3
+𢺈	loe1
 𦂋	tshy3
 𠹥	teh
 𥇔	ciang1
@@ -12599,7 +12608,7 @@ M̌	m2
 𨣦	zi2
 𥎗	zi2
 𡱣	zi2
-去	khei2{去婦；休妻也。棄也除也}	1%
+去	khei2{去婦；休妻也。棄也除也}	0.5%
 麮	khei2
 弆	khei2
 𧉧	khei2
